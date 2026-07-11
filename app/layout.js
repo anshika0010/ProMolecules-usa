@@ -7,6 +7,7 @@ import Script from "next/script";
 import PreloaderWrapper from "@/components/PreloaderWrapper";
 import localFont from "next/font/local";
 import CountryPopup from "@/components/CountryPopup";
+import SupportChatBot from "@/components/SupportChatBot";
 
 
 const geistSans = Geist({
@@ -70,7 +71,8 @@ export default function RootLayout({ children }) {
           <div className="pt-[50px] bg-black">
             <Navbar />
             <main id="main-content">{children}</main>
-            <WhatsAppButton />
+            <SupportChatBot/>
+            {/* <WhatsAppButton /> */}
             <Footer />
           </div>
         </PreloaderWrapper>

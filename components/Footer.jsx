@@ -91,12 +91,12 @@ suggested dosage.
               CONTACT
             </h3>
             <div className="space-y-2 text-sm">
-              <div>
+              {/* <div>
                 <span className="text-white/60 text-xs uppercase tracking-widest">
                   Phone
                 </span>
                 <p className="mt-0.5">+1 (786) 789-2121</p>
-              </div>
+              </div> */}
               <div>
                 <span className="text-white/60 text-xs uppercase tracking-widest">
                   Email
