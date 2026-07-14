@@ -1,4 +1,5 @@
 'use client';
+import Link from "next/link";
 import { useState } from "react";
 
 const CERTS = [
@@ -196,12 +197,12 @@ export default function PromoleculesSection() {
             just to pad a label.
           </p>
           <div className="mt-10 flex flex-wrap gap-4">
+            <Link href={"/product"}>
             <button className="bg-[#E4141A] text-white font-bold uppercase text-sm tracking-wide px-8 py-4 hover:bg-white hover:text-black transition-colors">
               Shop the Range
             </button>
-            <button className="border border-white/30 text-white font-bold uppercase text-sm tracking-wide px-8 py-4 hover:border-white transition-colors">
-              Our Standards
-            </button>
+            </Link>
+
           </div>
         </div>
       </div>
@@ -328,9 +329,11 @@ export default function PromoleculesSection() {
           <h3 className="font-black uppercase tracking-tighter text-3xl sm:text-4xl max-w-md leading-[0.95]">
             Train with purpose. Fuel the same way.
           </h3>
+          <Link href={"/shop"}>
           <button className="bg-black text-white font-bold uppercase text-sm tracking-wide px-8 py-4 hover:bg-white hover:text-black transition-colors shrink-0">
             Shop Promolecules™
           </button>
+          </Link>
         </div>
       </div>
     </section>

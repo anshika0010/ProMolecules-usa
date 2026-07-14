@@ -105,6 +105,43 @@ suggested dosage.
                   info@promolecules.com
                 </p>
               </div>
+            <div>
+  <span className="text-white/60 text-xs uppercase tracking-widest">
+    Social Links
+  </span>
+
+  <Link
+    href="https://www.instagram.com/promolecules/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <p className="mt-0.5 break-all uppercase">INSTAGRAM</p>
+  </Link>
+
+  <Link
+    href="https://www.facebook.com/promolecules.official"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <p className="mt-0.5 break-all uppercase">FACEBOOK</p>
+  </Link>
+
+  <Link
+    href="https://www.youtube.com/@Promolecules"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <p className="mt-0.5 break-all uppercase">YOUTUBE</p>
+  </Link>
+
+  <Link
+    href="https://in.pinterest.com/promolecules/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <p className="mt-0.5 break-all uppercase">PINTEREST</p>
+  </Link>
+</div>
             </div>
           </div>
         </div>
