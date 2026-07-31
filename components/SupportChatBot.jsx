@@ -1,11 +1,12 @@
 "use client";
 
 import { useState, useRef, useEffect } from "react";
+import { isValidName, isValidMobile, normalizeMobile } from "@/lib/chatValidation";
 
 // Order ID format: ORD- followed by 8 alphanumeric characters (e.g. ORD-93455CA2)
 const ORDER_ID_REGEX = /^ORD-[A-Z0-9]{8}$/i;
-// Indian mobile number: 10 digits starting 6-9, optional +91 prefix
-const MOBILE_REGEX = /^(?:\+91[\-\s]?)?[6-9]\d{9}$/;
+
+const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:5000";
 
 // Common keyboard-mashing sequences people type when not being genuine
 const KEYBOARD_PATTERNS = [
@@ -82,12 +83,19 @@ export default function SupportChatBot() {
     });
   };
 
-  // Saves a ticket to the DB via /api/support (matches SupportTicket schema)
+  // Saves a ticket via the backend's POST /api/chat (guest or logged-in,
+  // identified server-side via cookies — hence credentials: "include").
   const saveTicket = async ({ name = "", mobile = "", orderId = "", issue = "" }) => {
-    const res = await fetch("/api/support", {
+    const res = await fetch(`${BACKEND_URL}/api/chat`, {
       method: "POST",
+      credentials: "include",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ name, mobile, orderId, issue }),
+    body: JSON.stringify({
+  name: name.trim(),
+  mobile: normalizeMobile(mobile),
+  orderId: orderId?.trim() || null,
+  issue: issue.trim(),
+}),
     });
     const data = await res.json();
     if (!res.ok || !data.success) {
@@ -123,8 +131,10 @@ export default function SupportChatBot() {
       }
 
       setDraft((prev) => ({ ...prev, orderId: trimmed }));
-      setStep("name");
-      await pushBotMessage("Got it ✅ Could you share your name?");
+-     setStep("name");
+-     await pushBotMessage("Got it ✅ Could you share your name?");
++     setStep("issue");
++     await pushBotMessage("Got it ✅ Could you briefly describe your issue?");
       return;
     }
 
@@ -144,8 +154,10 @@ export default function SupportChatBot() {
 
     // Step: waiting for name
     if (step === "name") {
-      if (trimmed.length < 2 || !isMeaningfulText(trimmed, { minLength: 2 })) {
-        await pushBotMessage("Could you share your real full name, please?");
+      if (!isValidName(trimmed)) {
+        await pushBotMessage(
+          "Could you share your real full name, please? (letters only, at least 2 characters)"
+        );
         return;
       }
       setDraft((prev) => ({ ...prev, name: trimmed }));
@@ -156,14 +168,14 @@ export default function SupportChatBot() {
 
     // Step: waiting for mobile number, then save everything
     if (step === "mobile") {
-      if (!MOBILE_REGEX.test(trimmed)) {
+      if (!isValidMobile(trimmed)) {
         await pushBotMessage(
           "That doesn't look like a valid mobile number. Please enter a 10-digit number (e.g. 9876543210)."
         );
         return;
       }
 
-      const finalTicket = { ...draft, mobile: trimmed };
+      const finalTicket = { ...draft, mobile: normalizeMobile(trimmed) };
       setDraft(finalTicket);
       setStep(null);
       setIsSending(true);
@@ -546,8 +558,25 @@ export default function SupportChatBot() {
           >
             <input
               value={input}
-              onChange={(e) => setInput(e.target.value)}
+              onChange={(e) => {
+                const value = e.target.value;
+                // Mobile step: only allow digits, capped at 10 characters
+                // (a pasted +91 country code is stripped first so it
+                // doesn't eat into the actual number).
+                if (step === "mobile") {
+                  const digits = value.replace(/\D/g, "");
+                  const withoutCountryCode =
+                    digits.length > 10 && digits.startsWith("91")
+                      ? digits.slice(2)
+                      : digits;
+                  setInput(withoutCountryCode.slice(0, 10));
+                } else {
+                  setInput(value);
+                }
+              }}
               onKeyDown={(e) => e.key === "Enter" && sendMessage()}
+              inputMode={step === "mobile" ? "numeric" : "text"}
+              maxLength={step === "mobile" ? 10 : undefined}
               placeholder={
                 step === "orderId"
                   ? "e.g. ORD-93455CA2 or type 'skip'"

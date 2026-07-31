@@ -9,7 +9,7 @@ export default function Page() {
     <>
 
 
-       {jsonld && (
+    {jsonld && (
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: jsonld }}

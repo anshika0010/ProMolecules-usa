@@ -19,12 +19,16 @@ export default function Home() {
   return (
     <>
       {/* ✅ JSON-LD Structured Data (Google ke liye) */}
-      {jsonld && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: jsonld }}
-        />
-      )}
+     
+           {jsonld && (
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(jsonld),
+        }}
+      />
+    )}
+
 
       <HeroSlider />
       <WhoWeAreSection />
