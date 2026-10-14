@@ -404,7 +404,7 @@ export default function ProductDetail({ product }) {
               </div>
 
               {/* Quantity */}
-              <div className="pt-3 border-t border-[#2a2a2a]">
+              {/* <div className="pt-3 border-t border-[#2a2a2a]">
                 <p className="text-red-600 font-bold text-xs uppercase tracking-[2px] mb-3">
                   QUANTITY
                 </p>
@@ -427,7 +427,7 @@ export default function ProductDetail({ product }) {
                     </button>
                   </div>
                 </div>
-              </div>
+              </div> */}
 
               {/* CTA Buttons */}
               {/* <div className="flex flex-row gap-3 pt-1">

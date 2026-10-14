@@ -99,7 +99,7 @@ export default function ProductClient({ jsonld }) {
                   {activeProduct?.link && (
                     <Link href={activeProduct.link}>
                       <button className="bg-red-600 mt-4 cursor-pointer hover:bg-red-700 active:scale-95 transition-all px-4 py-2.5 sm:px-6 sm:py-3 rounded-2xl text-[10px] sm:text-xs uppercase tracking-wider font-semibold w-full sm:w-auto">
-                        Buy Now →
+                        View Details →
                       </button>
                     </Link>
                   )}
@@ -224,7 +224,7 @@ export default function ProductClient({ jsonld }) {
                 {activeProduct?.link && (
                   <Link href={activeProduct.link}>
                     <button className="bg-red-600 mt-2 hover:bg-red-700 transition px-6 py-3 rounded-2xl text-xs uppercase tracking-wider font-semibold">
-                      Buy Now →
+                      View Details →
                     </button>
                   </Link>
                 )}

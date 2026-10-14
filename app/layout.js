@@ -71,7 +71,7 @@ export default function RootLayout({ children }) {
           <div className="pt-[50px] bg-black">
             <Navbar />
             <main id="main-content">{children}</main>
-            <SupportChatBot/>
+            {/* <SupportChatBot/> */}
             {/* <WhatsAppButton /> */}
             <Footer />
           </div>

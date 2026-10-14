@@ -157,7 +157,7 @@ const PowerYouCanWear = () => {
         </div>
       </section>
 
-     <section className="relative w-full bg-black text-white py-20 overflow-hidden">
+     {/* <section className="relative w-full bg-black text-white py-20 overflow-hidden">
   <div
     className="absolute inset-0 bg-cover bg-center opacity-20"
     style={{ backgroundImage: "url('/candle.webp')" }}
@@ -166,8 +166,7 @@ const PowerYouCanWear = () => {
     <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
       {products.map((product) => (
         <div key={product.id} className="group text-center transition duration-500">
-          
-          {/* Image wrapper with overlay */}
+
           <div className="relative flex justify-center mb-6">
             <Image
               src={product.image}
@@ -176,7 +175,6 @@ const PowerYouCanWear = () => {
               className="h-[400px] object-contain group-hover:scale-105 transition duration-500 drop-shadow-[0_20px_40px_rgba(0,0,0,0.8)]"
             />
 
-            {/* Out of Stock overlay — only shown if product.outOfStock is true */}
             {product.outOfStock && (
               <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
                 <div className="bg-black/70 backdrop-blur-sm border border-red-600 px-6 py-3 rounded-xl">
@@ -211,7 +209,7 @@ const PowerYouCanWear = () => {
       ))}
     </div>
   </div>
-</section>
+</section> */}
 
     </>
   );

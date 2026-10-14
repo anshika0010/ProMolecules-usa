@@ -76,8 +76,8 @@ suggested dosage.
               <FooterLink href="/high-stim-pre-workout/" label="PREWORKOUT" />
                <FooterLink href="https://www.fatherofinsane.com/" label="Father of Insane V.2" />
               <FooterLink href="/hydrapump-liquid-glycerol-pre-workout-supplement/" label="HYDRAPUMP" />
-              <FooterLink href="/shop" label="FAT BURNER" />
-              <FooterLink href="/shop" label="ATP BOOSTER" />
+              <FooterLink href="/product?category=FAT%20BURNER" label="FAT BURNER" />
+              <FooterLink href="/product?category=ATP%20BOOSTER" label="ATP BOOSTER" />
               
        
              
