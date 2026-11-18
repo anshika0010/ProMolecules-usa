@@ -3,6 +3,7 @@
 import React, { useState, useRef } from "react";
 import { ChevronRight, ChevronLeft, Quote } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
+import { useT } from "@/lib/i18n/client";
 
 const Testimonials = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -11,43 +12,10 @@ const Testimonials = () => {
   const dragStartX = useRef(null);
   const isDragging = useRef(false);
 
-  const testimonials = [
-    {
-      id: 1,
-      quote:
-        "Clean energy, insane focus, zero crash. Promolecules actually feels engineered, not overhyped like most gym supplements available today.",
-      author: "ROHIT S.",
-      role: "GYM ENTHUSIAST",
-    },
-    {
-      id: 2,
-      quote:
-        "Half scoop was enough for my session. Strong activation without jitters. Definitely not beginner stuff, serious performance formula.",
-      author: "FAUZAN K.",
-      role: "ATHLETE",
-    },
-    {
-      id: 3,
-      quote:
-        "Pump felt dense and controlled, not bloated. Strength stayed consistent till last set. Very impressed with formulation quality.",
-      author: "SARAH M.",
-      role: "POWERLIFTER",
-    },
-    {
-      id: 4,
-      quote:
-        "High stim but surprisingly balanced. No anxiety spike, no harsh crash. Workout intensity stayed sharp and focused throughout.",
-      author: "JAMES T.",
-      role: "CROSSFIT ATHLETE",
-    },
-    {
-      id: 5,
-      quote:
-        "Tried many pre-workouts before, but this feels structured. Energy layered, smooth and powerful. Built for disciplined lifters only.",
-      author: "MIKE R.",
-      role: "BODYBUILDER",
-    },
-  ];
+  const t = useT("home").testimonialsSection || {};
+  const testimonials = t.testimonials || [];
+  const headWords = (t.heading || "").split(" ");
+  const headSplit = Math.ceil(headWords.length / 2);
 
   const nextTestimonial = () => {
     setDirection(1);
@@ -114,9 +82,9 @@ const Testimonials = () => {
       <button
         onClick={prevTestimonial}
         className="bg-red-600 hover:bg-red-700 cursor-pointer active:scale-95 p-3 sm:p-4 rounded-full transition-all duration-200"
-        aria-label="Previous testimonial"
+        aria-label={t.previous}
       >
-        <ChevronLeft size={20} className="text-white" />
+        <ChevronLeft size={20} className="text-white rtl:rotate-180" />
       </button>
 
       <div className="flex gap-2">
@@ -137,9 +105,9 @@ const Testimonials = () => {
       <button
         onClick={nextTestimonial}
         className="bg-red-600 hover:bg-red-700 active:scale-95 cursor-pointer p-3 sm:p-4 rounded-full transition-all duration-200"
-        aria-label="Next testimonial"
+        aria-label={t.next}
       >
-        <ChevronRight size={20} className="text-white" />
+        <ChevronRight size={20} className="text-white rtl:rotate-180" />
       </button>
     </div>
   );
@@ -150,19 +118,18 @@ const Testimonials = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-12 items-center">
 
           {/* Left Side */}
-          <div className="space-y-6 text-center lg:text-left">
+          <div className="space-y-6 text-center lg:text-start">
             <div className="flex flex-col items-center lg:items-start">
               <h2 className="creepster-regular heading leading-none">
-                WHAT OUR
+                {headWords.slice(0, headSplit).join(" ")}
               </h2>
               <h2 className="creepster-regular heading leading-none">
-                CUSTOMERS SAY
+                {headWords.slice(headSplit).join(" ")}
               </h2>
             </div>
 
             <p className="global-text-style max-w-md mx-auto lg:mx-0 text-sm sm:text-sm md:text-lg">
-              PROMOLECULES™ FUELS THE RITUAL – BUILT FOR THOSE WHO TRAIN HARDER,
-              GO FURTHER AND NEVER BACK DOWN.
+              {t.subheading}
             </p>
 
             {/* Arrows — visible on sm and above (tablet + desktop), hidden on mobile */}

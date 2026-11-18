@@ -1,0 +1,2003 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "slug": "father-of-insane",
+      "name": "Father of Insane",
+      "flipkartLink": "https://www.flipkart.com/promolecules-father-insane-ultra-high-stim-5200mg-power-blend-70-serv-half-scoop-35-full-pre-workout/p/itmb96e27fc7e10d",
+      "amazonLink": "https://www.amazon.in/Promolecules-Father-Performance-Supplement-Enthusiasts/dp/B0GM15FD9N?ref_=ast_sto_dp",
+      "cost2cost": "https://www.cost2costsupplement.com/products/father-of-insane-high-stim-pre-workout",
+      "category": "PRE-WORKOUT",
+      "title": "ولترا High-stim pre-workout بويلت فور سيرياوس أثليتس. ديليڤيرس فإيه إست اكتيڤاشن, توننيل فوكوس, أند سوستينيد إنرجي ويذاوت كرإيه إسه.فليپ ذا سويتش. ترين ليكي يو مين إت.",
+      "description": "ونليإيه إسه يليتي إنرجي, لإيه إسير فوكوس, & سپورتس ووركاوت پرفورمانس.يف يو’ري آن يكسپيريينكيد أثليت لوكينغ فور آن ultra-high-stim pre-workout, Father of Insane™ باي پروموليكوليس™ إز فورمولاتيد تو سپورت ينتينسي ترينينغ سيسجنس. ذيس pre-workout إز ديزايند فور ذا أدفانسد وسير ويذ performance-focused إنغريديانتس سوتش إيه إس Beta-Alanine, كرياتين مونوهيدراتي, كرياتين هكل, L-Citrulline, بيتيني انهيدراوس, سيڤيرال ساوركيس أوف كافيين, إن أ كونكينتراتيد پروپرييتاري بليند.ويثير إت’س body-building, سترينث, power-lifting, غيم ووركاوتس أوف أ كروسسفيت ستيلي أور high-intensity ناتوري, Father of Insane إز ديزايند تو مينتاللي أند فيسيكاللي پريپاري يو بيفور يور ووركاوت.",
+      "seo": {
+        "title": "Father of Insane ولترا هاي ستيم پري ووركاوت | پروموليكوليس",
+        "description": "باي Father of Insane™ ولترا هاي ستيم پري ووركاوت ونليني. إكسبيرينس يكسپلوسيڤي پري ووركاوت فور إنرجي, پري ووركاوت فور فوكوس, إنساين ماسل پومپس, يندورانكي أند غيم پرفورمانس سوپپليمينت.",
+        "keywords": "ولترا هاي ستيم پري ووركاوت, Father of Insane, Father of Insane پري ووركاوت, باي ولترا هاي ستيم پري ووركاوت, بيست ولترا هاي ستيم پري ووركاوت ينديا, هاي ستيم پري ووركاوت, پري ووركاوت سوپپليمينت, پري ووركاوت پاودر, غيم سوپپليمينت, سپورتس نوتريشن ينديا, ووركاوت إنرجي سوپپليمينت, هاي كافيين پري ووركاوت, ماسل پامپ سوپپليمينت, يندورانكي سوپپليمينت, فوكوس سوپپليمينت, بيست پري ووركاوت ينديا",
+        "canonical": "https://www.promolecules.com/product/father-of-insane/",
+        "author": "پروموليكوليس™",
+        "publisher": "پروموليكوليس™",
+        "language": "ينغليش",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "googlebot": "index, follow",
+        "bingbot": "index, follow",
+        "revisit_after": "7 days",
+        "distribution": "global",
+        "rating": "general",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "دوبي"
+        },
+        "og": {
+          "title": "Father of Insane پري ووركاوت | هاي ستيم فورميولا",
+          "type": "website",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "Father of Insane ولترا هاي ستيم پري ووركاوت",
+          "locale": "AE-DU",
+          "site_name": "پروموليكوليس™",
+          "description": "إكسبيرينس يكسپلوسيڤي إنرجي, ينتينسي فوكوس, ماسل پومپس أند يندورانكي ويذ Father of Insane هاي ستيم پري ووركاوت. بويلت فور سيرياوس أثليتس أند غيم پرفورمانس.",
+          "url": "https://www.promolecules.com/product/father-of-insane/"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "پروموليكوليس™",
+          "title": "Father of Insane™ ولترا هاي ستيم پري ووركاوت",
+          "description": "يإكس تيريمي إنرجي, لإيه إسير فوكوس, باورفل ماسل پومپس أند يندورانكي. باي Father of Insane™ ولترا هاي ستيم پري ووركاوت ونليني إن ينديا.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "Father of Insane ولترا هاي ستيم پري ووركاوت"
+        },
+        "ldjson": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "پروموليكوليس",
+            "alternateName": "پروموليكوليس",
+            "url": "https://www.promolecules.com/",
+            "logo": "https://www.promolecules.com/promolecules-logo.webp",
+            "sameAs": [
+              "https://www.facebook.com/promolecules.official",
+              "https://x.com/promolecules",
+              "https://www.instagram.com/promolecules/",
+              "https://www.youtube.com/@Promolecules",
+              "https://www.pinterest.com/promolecules/"
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Father of Insane™ ولترا هاي ستيم پري ووركاوت",
+            "image": "https://promolecules.com/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-35-Servings.webp",
+            "description": "باي Father of Insane™ ولترا هاي ستيم پري ووركاوت ونليني. إكسبيرينس يكسپلوسيڤي پري ووركاوت فور إنرجي, پري ووركاوت فور فوكوس, إنساين ماسل پومپس, يندورانكي أند غيم پرفورمانس سوپپليمينت.",
+            "brand": {
+              "@type": "Brand",
+              "name": "پروموليكوليس™"
+            },
+            "sku": "father-of-insane-35",
+            "offers": {
+              "@type": "Offer",
+              "url": "https://www.promolecules.com/product/father-of-insane/",
+              "priceCurrency": "USD",
+              "price": "41.99",
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "247"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": []
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "پروموليكوليس",
+                "item": "https://www.promolecules.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "پرودكت",
+                "item": "https://www.promolecules.com/product/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "پري ووركاوت",
+                "item": "https://www.promolecules.com/product-category/pre-workout/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "name": "Father of Insane",
+                "item": "https://www.promolecules.com/product/father-of-insane/"
+              }
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Review",
+            "@id": "https://www.promolecules.com/product/father-of-insane/#review",
+            "itemReviewed": {
+              "@type": "Product",
+              "name": "Father of Insane™ ولترا هاي ستيم پري ووركاوت",
+              "url": "https://www.promolecules.com/product/father-of-insane/"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ڤيريفييد كاستمر"
+            },
+            "datePublished": "2026-07-03",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "name": "يكسكيللينت High-Stim پري ووركاوت",
+            "reviewBody": "Father of Insane™ ميكسيس ويلل أند پروڤايدز يكسكيللينت ووركاوت إنرجي, فوكوس, أند ترينينغ ينتينسيتي. ي اپپريكياتيد ذا كلير يو إس إيهغي ينستروكشنس أند high-stim فورميولا."
+          }
+        ]
+      },
+      "images": [
+        "/Promolecules/fatherofinsane/frontside.webp",
+        "/Promolecules/fatherofinsane/backside.webp",
+        "/Promolecules/fatherofinsane/father-of-insane.webp",
+        "/Promolecules/fatherofinsane/father-of-insane-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/fatherofinsane/father-of-insane-pre-workout.webp",
+      "variants": [
+        {
+          "flavour": "Fruit-Punch",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Fruit-Punch",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Gummies-Bliss",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/gummies-bliss-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Gummies-Bliss",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/gummies-bliss-father-of-insane-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Blue-Rasberry",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/blue-rasberry-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Blue-Rasberry",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/blue-rasberry-father-of-insane-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Purple-Pulse",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/purple-pulse-gummies-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Purple-Pulse",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/purple-pulse-gummies-father-of-insane-pre-workout-65-Servings.webp"
+        }
+      ],
+      "price": "43",
+      "discounted": "41.2",
+      "servings": [
+        {
+          "size": "35",
+          "price": 41.99
+        },
+        {
+          "size": "65",
+          "price": 59.99
+        }
+      ],
+      "flavours": [
+        {
+          "name": "فرويت پونتش",
+          "images": [
+            "/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        },
+        {
+          "name": "غوممي بليسس",
+          "images": [
+            "/Promolecules/fatherofinsane/gummies-bliss-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        },
+        {
+          "name": "پورپلي پولسي غوممييس",
+          "images": [
+            "/Promolecules/fatherofinsane/purple-pulse-gummies-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        },
+        {
+          "name": "بلو رإيه إسپبيرري",
+          "images": [
+            "/Promolecules/fatherofinsane/blue-rasberry-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        }
+      ],
+      "keyBenefits": [
+        "هيلپس سپورت ووركاوت إنرجي - ذا فورميولا ينكلوديس أ فير نومبير أوف كافيين ساوركيس ينكلودينغ كافيين انهيدراوس, ديكاففييني مالاتي (2كسكافف®), أند كافيين كيتراتي (كيترا كافف®). ذيز إنغريديانتس آر كوممون إن سپورتس نوتريشن تو هيلپ يو ستي اليرت أند ريدي فور يكسيركيسي.",
+        "سپورتس مينتال فوكوس ديورينغ يكسيركيسي - ذا كوالتي أوف يور ووركاوت ديپيندس أون ستيينغ فوكوسيد ديورينغ تاوغه ووركاوتس. كافيين أند وثير پرفورمانس إنغريديانتس آر ينكلوديد تو هيلپ سپورت كونكينتراشن أند مينتال اليرتنيسس.",
+        "ماسل پامپ بوستير - L-Citrulline إز وني أوف ذا موست پوپولار إنغريديانتس إن pre-workout سوپپليمينتس بيكاوسي أوف إتس ينڤولڤيمينت إن نيتريك وكسيدي پرودوكشن أند يمپروڤينغ بلود فلاو, كونتريبوتينغ تو أ غريت ماسل پامپ.",
+        "سترينث أند باور بوستير - ذا فورميولا كونتينز كرياتين مونوهيدراتي أند كرياتين هكل, إنغريديانتس ذات هاڤي يإكس تيينسيڤي ريسيرتش سوپپورتينغ پرفورمانس يمپروڤيمينت ديورينغ ريپيتيد high-intensity يكسيركيسي.",
+        "موسكولار يندورانكي - Beta-Alanine هيلپس ينكريإيه إسي ماسل كارنوسيني ليڤيلس, پروڤيدينغ آسيد بوففيرينغ كاپاكيتي أند هيلپينغ سپورت پرفورمانس ديورينغ ينتينسي يكسيركيسي.",
+        "Performance-Oriented فورميولا - Father of Insane كومبينيس أمينو آسيدز, مولتيپلي ساوركيس أوف كرياتين, نيتريك وكسيدي بوستيرس, ستيمولانتس, أند نوتروپيكس تو سپورت سيرياوس ترينينغ پروغرامس.",
+        "پرفورمانس أمينو آسيدز - هيلپس پريپاري يور بادي فور فيسيكال اكتيڤيتي أند سپورتس ماسل پرفورمانس.",
+        "كرياتين ماتريكس - سپورتس high-intensity يكسيركيسي پرفورمانس.",
+        "نيتريك وكسيدي - L-Citrulline هيلپس پرودوكي نيتريك وكسيدي, سوپپورتينغ هيلثي بلود كيركولاشن ديورينغ يكسيركيسي.",
+        "ستيمولانت كومپليكس - سيڤيرال caffeine-containing إنغريديانتس آر ينكلوديد تو هيلپ يو ستي اليرت بيفور ترينينغ.",
+        "Beta-Alanine - أثليتس يوز Beta-Alanine بيكاوسي إت هيلپس ينكريإيه إسي ماسل كارنوسيني ليڤيلس. هايير كارنوسيني ليڤيلس هيلپ بوففير آسيد build-up ديورينغ ينتينسي ترينينغ, اللاوينغ يو تو پيرفورم لونغير.",
+        "كرياتين مونوهيدراتي - وني أوف ذا موست ريسيرتشيد إنغريديانتس إن سپورتس نوتريشن. وين كومبينيد ويذ ريسيستانكي يكسيركيسي, ريغولار سوپپليمينتاشن سپورتس سترينث, باور اوتپوت, أند ريپيتيد high-intensity پرفورمانس.",
+        "كرياتين هكل (كريككل®) - كرياتين هيدروتشلوريدي إز أ هايلي سولوبلي فورم أوف كرياتين ذات كومپليمينتس ذا كرياتين ماتريكس إن ذا فورميولا.",
+        "L-Citrulline - L-Citrulline إز كونڤيرتيد ينتو ارغينيني إن ذا بادي, ويتش سپورتس نيتريك وكسيدي پرودوكشن. ذيس پروكيسس مي هيلپ إمبروڤ بلود فلاو ديورينغ يكسيركيسي أند إنهانس ماسل پومپس.",
+        "بيتيني انهيدراوس - بيتيني إز كوممونلي ينكلوديد إن پرفورمانس فورمولإيه إس تو سپورت سترينث, باور, أند وڤيرالل يكسيركيسي پرفورمانس.",
+        "كافيين انهيدراوس - أ راپيدلي ابسوربيد كافيين ساوركي ذات سپورتس اليرتنيسس, ريكشن تيمي, أند ووركاوت ريدينيسس.",
+        "ديكاففييني مالاتي (2كسكافف®) - أ كومبيناشن أوف كافيين أند ماليك آسيد ذات پروڤايدز أ سلاوير, ستيديير ريليإيه إسي أوف إنرجي.",
+        "كافيين كيتراتي (كيترا كافف®) - آن ادديشنال كافيين ساوركي ينكلوديد تو كريتي أ well-balanced إنرجي بليند.",
+        "كيتروس اورانتيوم يإكس تيراكت (كيتروسين® 30) - أ بوتانيكال يإكس تيراكت كوممونلي ينكلوديد إن ثيرموغينيك أند stimulant-based سپورتس نوتريشن پرودكتس."
+      ],
+      "whychooseus": [
+        "نو ونديردوسيد فورمولإيه إس. نو هيددين بليندس.",
+        "Multi-layer ستيمولانت ارتشيتيكتوري—نوت جوست كافيين وڤيرلواد",
+        "بويلت فور أدفانسد أثليتس, نوت كإيه إسوال وسيرس",
+        "ينغينيريد فور پرفورمانس, نوت هيپي",
+        "ديزايند تو اكتيڤاتي كنس + موسكولار اوتپوت توغيثير"
+      ],
+      "whoShouldUse": [
+        "أدفانسد gym-goers",
+        "بوديبويلديرس",
+        "سترينث أثليتس",
+        "پاويرليفتيرس",
+        "Cross-training ينثوسيإيه إستس",
+        "يكسپيريينكيد وسيرس أوف stimulant-containing pre-workouts",
+        "نوت ريكوممينديد فور بيغيننيرس أور ينديڤيدوالس هو آر سينسيتيڤي تو ستيمولانتس."
+      ],
+      "howToUse": [
+        "ميكس ½ سكوب ويذ 4–6 وز (120–180 مل) أوف ووتر اپپروكسيماتيلي 30 مينوتيس بيفور ترينينغ تو إيه إسسيسس توليرانكي.",
+        "يف ويلل توليراتيد, ميكس 1 فولل سكوب ويذ 8–10 وز (240–300 مل) أوف ووتر اپپروكسيماتيلي 30 مينوتيس بيفور يور ووركاوت.",
+        "دو نوت يكسكيد وني سكوب پر دي."
+      ],
+      "whatToAvoid": [
+        "دو نوت يوز يف يو آر أ بيغيننير",
+        "أڤويد كومبينينغ ويذ وثير high-stimulant پرودكتس",
+        "دو نوت كونسومي كلوسي تو سليپ تيمي",
+        "دو نوت يكسكيد ريكوممينديد دوساغي",
+        "نوت سويتابلي فور ينديڤيدوالس سينسيتيڤي تو ستيمولانتس"
+      ],
+      "safetyInformation": [
+        "ينتينديد فور هيلثي ادولتس ونلي.",
+        "نوت فور بيغيننيرس.",
+        "دو نوت يكسكيد ذا ريكوممينديد سيرڤينغ.",
+        "أڤويد كومبينينغ ويذ وثير caffeine-containing پرودكتس.",
+        "كونسالت أ هيلثكاري پروفيسجنال بيفور يوز يف يو هاڤي أ ميديكال كونديشن أور آر تاكينغ ميديكاشن.",
+        "نوت ينتينديد فور يوز ديورينغ پريغنانكي أور بريإيه إستفيدينغ.",
+        "كيب آوت أوف ريتش أوف تشيلدرن.",
+        "ستور إن أ كول, دراي پليس."
+      ],
+      "faqs": [
+        {
+          "question": "وات إز Father of Insane™?",
+          "answer": "Father of Insane™ إز آن ولترا هاي ستيم پري ووركاوت سوپپليمينت ديڤيلوپيد فور هيلثي ادولتس هو الريدي هاڤي إكسبيرينس ويذ stimulant-containing سپورتس نوتريشن پرودكتس. ذا پروپرييتاري 5200 مغ Father of Insane بليند كومبينيس إنغريديانتس كوممونلي وسيد إن pre-workout فورمولإيه إس تو سپورت ووركاوت إنرجي, فوكوس, نيتريك وكسيدي سپورت, سترينث, موسكولار يندورانكي, أند پرفورمانس ديورينغ ديماندينغ ووركاوتس. بيكاوسي إت كونتينز سيڤيرال ستيمولانت إنغريديانتس, ذا پرودكت ليبل ادڤيسيس وسيرس تو بيغين ويذ ½ سكوب تو إيه إسسيسس توليرانكي."
+        },
+        {
+          "question": "هو شود يوز Father of Insane™?",
+          "answer": "Father of Insane™ إز ينتينديد فور هيلثي ادولتس ويذ پريور إكسبيرينس يوزينغ stimulant-containing pre-workout سوپپليمينتس. إت إز نوت ريكوممينديد فور بيغيننيرس أور ينديڤيدوالس هو آر سينسيتيڤي تو كافيين أور وثير ستيمولانتس."
+        },
+        {
+          "question": "هاو دو ي تيك Father of Insane™?",
+          "answer": "بيغين ويذ ½ سكوب ميكسيد ويذ 4–6 وز (120–180 مل) أوف ووتر اپپروكسيماتيلي 30 مينوتيس بيفور ووركاوت تو إيه إسسيسس توليرانكي. يف ويلل توليراتيد, يوز 1 فولل سكوب ويذ 8–10 وز (240–300 مل) أوف ووتر اپپروكسيماتيلي 30 مينوتيس بيفور يور ووركاوت. دو نوت يكسكيد وني سكوب پر دي."
+        },
+        {
+          "question": "وات إنغريديانتس آر ينكلوديد إن Father of Insane™?",
+          "answer": "ذا 5200 مغ پروپرييتاري بليند كونتينز Beta-Alanine, كرياتين مونوهيدراتي, كرياتين هكل (كريككل®), L-Citrulline, بيتيني انهيدراوس, كافيين انهيدراوس, كيتروس اورانتيوم يإكس تيراكت (كيتروسين® 30), ديكاففييني مالاتي (2كسكافف®), أند كافيين كيتراتي (كيترا كافف®)."
+        },
+        {
+          "question": "إز Father of Insane™ سويتابلي فور بيغيننيرس?",
+          "answer": "نو. ذا ليبل كليرلي ستاتيس ذات Father of Insane™ إز نوت فور بيغيننيرس. بيكاوسي إت كونتينز مولتيپلي ستيمولانت إنغريديانتس, نيو وسيرس شود أڤويد ذيس پرودكت أند تشوز أ lower-stimulant التيرناتيڤي يف اپپروپرياتي."
+        },
+        {
+          "question": "وات آر ذا مين بينيفيتس أوف Father of Insane™?",
+          "answer": "ذا فورميولا إز ديزايند تو سپورت ووركاوت إنرجي, مينتال فوكوس, ماسل پامپ, يكسيركيسي يندورانكي, strength-oriented ترينينغ, أند high-intensity ووركاوتس. ريزالتس ڤاري ديپيندينغ أون ذا ينديڤيدوال, ترينينغ پروغرام, نوتريشن, أند كونسيستينكي."
+        },
+        {
+          "question": "دويس Father of Insane™ كونتين كرياتين?",
+          "answer": "ييس. إت ينكلوديس كرياتين مونوهيدراتي أند كرياتين هكل (كريككل®), توو فورمس أوف كرياتين كوممونلي وسيد إن سپورتس نوتريشن تو سپورت high-intensity يكسيركيسي پرفورمانس."
+        },
+        {
+          "question": "دويس Father of Insane™ كونتين كافيين?",
+          "answer": "ييس. ذا پرودكت ينكلوديس مولتيپلي كافيين ساوركيس, ينكلودينغ كافيين انهيدراوس, ديكاففييني مالاتي (2كسكافف®), أند كافيين كيتراتي (كيترا كافف®). ذا ليبل السو نوتيس أ توتال كافيين كونتينت أوف 450 مغ پر سيرڤينغ."
+        },
+        {
+          "question": "كان ي تيك Father of Insane™ يڤيري دي?",
+          "answer": "فوللاو ذا ديريكشنس أون ذا ليبل أند دو نوت يكسكيد وني سيرڤينغ پر دي. ماني أثليتس السو ادجوست ثيير سوپپليمينت راوتينيس بإيه إسيد أون ترينينغ ينتينسيتي أند ينديڤيدوال توليرانكي. كونسالت أ هيلثكاري پروفيسجنال يف يو هاڤي كيسشنس أباوت ريغولار يوز."
+        },
+        {
+          "question": "كان ي ستاك Father of Insane™ ويذ وثير سوپپليمينتس?",
+          "answer": "Father of Insane™ مي بي وسيد الونغسيدي كومپاتيبلي سپورتس نوتريشن پرودكتس, بوت بيكاوسي إت كونتينز أ هاي ليڤيل أوف ستيمولانتس, أڤويد كومبينينغ إت ويذ ادديشنال caffeine-containing سوپپليمينتس ونليسس ادڤيسيد باي أ هيلثكاري پروفيسجنال."
+        },
+        {
+          "question": "إز Father of Insane™ تيستيد فور كوالتي?",
+          "answer": "ذا ليبل ستاتيس ذات ذا پرودكت إز مانوفاكتوريد يكسكلوسيڤيلي فور پروموليكوليس إن أ كغمپ فاكيليتي, ويتش ريفليكتس ادهيرينكي تو كوررينت غود مانوفاكتورينغ پراكتيكيس."
+        },
+        {
+          "question": "وير كان ي باي Father of Insane™?",
+          "answer": "Father of Insane™ إز اڤيلابلي ثراوغه ذا وففيكيال پروموليكوليس ويبسيتي, كوست2كوست سوپپليمينت, امازون, فليپكارت, أند سيليكتيد اوثوريزيد ريتيل پارتنيرس. پورتشإيه إسينغ فروم اوثوريزيد سيلليرس هيلپس ينسوري پرودكت اوثينتيكيتي."
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "يثان پاركير",
+          "country": "يو إس إيه",
+          "des": "بين يوزينغ هاي ستيم پريس فور ييرس. ذيس وني سورپريسيد مي. هالف سكوب بيفور هيڤي بينتش أند ذا نيورال دريڤي كيكيد إن پيرفيكتلي."
+        },
+        {
+          "id": 2,
+          "name": "ڤيكإيه إس تشاوهان",
+          "country": "ينديا",
+          "des": "إنرجي build-up فيلس كونترولليد. نو شاكي هاندس, جوست سوليد فوكوس ثراوغه يڤيري سيت."
+        },
+        {
+          "id": 3,
+          "name": "ماركو بيلليني",
+          "country": "يتالي",
+          "des": "ي ترين لاتي يڤينينغس أند وسواللي فيل درينيد. ويذ ذيس پري, موتيڤاشن أند ينتينسيتي ستي هاي يڤين أون ليغ دي."
+        },
+        {
+          "id": 4,
+          "name": "ديپاك رانا",
+          "country": "ينديا",
+          "des": "فيرست تيمي ي اكتواللي ونديرستود وات پيوپلي مين باي كنس اكتيڤاشن. مي ديدليفت سيسجن فيلت يكسپلوسيڤي."
+        },
+        {
+          "id": 5,
+          "name": "وليڤير سكوتت",
+          "country": "وك",
+          "des": "ذا هالف سكوب پروتوكول ماكيس سينسي. ذيس فورميولا هيتس هاردير ثان موست two-scoop پريس."
+        },
+        {
+          "id": 6,
+          "name": "راڤي ميهتا",
+          "country": "ينديا",
+          "des": "فوكوس ديورينغ كومپاوند ليفتس يمپروڤيد يمميدياتيلي. فيلس ينغينيريد راثير ثان وڤيرلواديد."
+        },
+        {
+          "id": 7,
+          "name": "جإيه إسأون وارد",
+          "country": "يو إس إيه",
+          "des": "وات يمپريسسيد مي إز ذا كلين ستيمولاشن. نو كرإيه إسه يڤين آفتر أ 90-minute سيسجن."
+        },
+        {
+          "id": 8,
+          "name": "ابهيشيك تريپاثي",
+          "country": "ينديا",
+          "des": "وسيد إت بيفور سكات دي. سترينث اوتپوت ستييد كونسيستينت تيلل ذا لإيه إست سيت."
+        },
+        {
+          "id": 9,
+          "name": "نيكولإيه إس روميرو",
+          "country": "ارغينتينا",
+          "des": "ذيس إز ذا فيرست پري ووركاوت وير ذا اغغريسجن اكتواللي فيلس كونترولليد."
+        },
+        {
+          "id": 10,
+          "name": "فيزان كهان",
+          "country": "واي",
+          "des": "توك هالف سكوب بيفور پوش ووركاوت. إنرجي سپيكي فيلت سموث أند ستابلي."
+        },
+        {
+          "id": 11,
+          "name": "اندريو فوستير",
+          "country": "اوستراليا",
+          "des": "نوت بيغيننير فرييندلي بوت پيرفيكت فور يكسپيريينكيد ليفتيرس."
+        },
+        {
+          "id": 12,
+          "name": "امان ڤيرما",
+          "country": "ينديا",
+          "des": "ويثين 20 مينوتيس مي ميند وإيه إس فوللي لوكيد ينتو ذا ووركاوت."
+        },
+        {
+          "id": 13,
+          "name": "كارلوس ريڤيرا",
+          "country": "ميكسيكو",
+          "des": "غريت فوكوس ينهانكيمينت ديورينغ هيڤي كومپاوند ليفتس."
+        },
+        {
+          "id": 14,
+          "name": "راهول ثاكور",
+          "country": "ينديا",
+          "des": "فيلس سترونغر ثان موست يمپورتيد پريس ي’ڤي وسيد."
+        },
+        {
+          "id": 15,
+          "name": "دانييل موري",
+          "country": "يو إس إيه",
+          "des": "إنرجي ستيس كونسيستينت ويذاوت ذات كافيين كرإيه إسه."
+        },
+        {
+          "id": 16,
+          "name": "سانجي ديشموكه",
+          "country": "ينديا",
+          "des": "هيلپس بريك ثراوغه سترينث پلاتيوس."
+        },
+        {
+          "id": 17,
+          "name": "ماتيو غونزاليز",
+          "country": "سپين",
+          "des": "پيرفيكت فور هاي ينتينسيتي ترينينغ ديز."
+        },
+        {
+          "id": 18,
+          "name": "يمران ماليك",
+          "country": "پاكيستان",
+          "des": "ذا ستيمولاشن فيلس كلين أند كونترولليد."
+        },
+        {
+          "id": 19,
+          "name": "ناثان هوغهيس",
+          "country": "وك",
+          "des": "سترونغ فورميولا بوت نوت تشاوتيك."
+        },
+        {
+          "id": 20,
+          "name": "كونال اغغاروال",
+          "country": "ينديا",
+          "des": "هيلپس پوش ثراوغه ذا لإيه إست فيو سيتس."
+        },
+        {
+          "id": 21,
+          "name": "ڤيكتور المييدا",
+          "country": "برازيل",
+          "des": "ذا فوكوس يففيكت إز نوتيكيبلي."
+        },
+        {
+          "id": 22,
+          "name": "اديتيا ساكسينا",
+          "country": "ينديا",
+          "des": "ماكيس ووركاوتس فيل مور اغغريسسيڤي."
+        },
+        {
+          "id": 23,
+          "name": "يريك لارسون",
+          "country": "يو إس إيه",
+          "des": "وني أوف ذا سترونغيست پريس ي’ڤي وسيد."
+        },
+        {
+          "id": 24,
+          "name": "راهول كهاننا",
+          "country": "ينديا",
+          "des": "إنرجي ستيس ستابلي فور لونغ ووركاوتس."
+        },
+        {
+          "id": 25,
+          "name": "دميتري يڤانوڤ",
+          "country": "روسسيا",
+          "des": "هالف سكوب الريدي فيلس باورفل."
+        },
+        {
+          "id": 26,
+          "name": "ارماان شييكه",
+          "country": "ينديا",
+          "des": "غود ستيمولاشن ويذاوت جيتتيرس."
+        },
+        {
+          "id": 27,
+          "name": "پيتير واللاكي",
+          "country": "كانادا",
+          "des": "هيلپس مينتين ينتينسيتي."
+        },
+        {
+          "id": 28,
+          "name": "هارشيت ارورا",
+          "country": "ينديا",
+          "des": "پيرفيكت فور هيڤي ترينينغ ديز."
+        },
+        {
+          "id": 29,
+          "name": "انتونيو رويز",
+          "country": "سپين",
+          "des": "فوكوس ستيس لوكيد ديورينغ ووركاوتس."
+        },
+        {
+          "id": 30,
+          "name": "سوريش كومار",
+          "country": "ينديا",
+          "des": "سترونغ بوت بالانكيد فورميولا."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "warflex",
+      "flipkartLink": "https://www.flipkart.com/promolecules-warflex-high-stim-pre-workout-caffeine-strength-pump-focus-formula-35-servings/p/itm855c7c69787ee?pid=PSLHKNVKCWGH6HRK&lid=LSTPSLHKNVKCWGH6HRKJSOMI5&marketplace=FLIPKART&q=preworkout&store=hlc%2Fetg%2F1rx&srno=s_1_4&otracker=AS_QueryStore_OrganicAutoSuggest_1_8_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_8_na_na_na&fm=search-autosuggest&iid=a7b10f9a-b5f9-4612-bb69-bd7eb8b52db5.PSLHKNVKCWGH6HRK.SEARCH&ppt=sp&ppn=sp&ssid=5rrj430ryo0000001779782323988&qH=c27d997028a56b71&ov_redirect=true&ov_redirect=true",
+      "cost2cost": "https://www.cost2costsupplement.com/products/warflex-high-stim-test-booster-preworkout",
+      "category": "PRE-WORKOUT",
+      "name": "warflex",
+      "title": "warflex™ إز أ high-stim تيست بوستير pre-workout ويذ بورون كيتراتي. warflex™ إز فورمولاتيد فور ذا هيلثي ادولت هو إز اككوستوميد تو stimulant-based سپورت نوتريشن پرودكتس.يتش سيرڤينغ هإيه إس ذا پريكيسي أمينو آسيد راتيو, كرياتين ساوركيس, نيتريك وكسيدي سپورت إنغريديانتس, بوتانيكال يإكس تيراكتس, نوتروپيكس, أند مولتيپلي ساوركيس أوف كافيين. إت إز ديزايند تو هيلپ يكسپيريينكيد وسيرس غيت ريدي فور ينتينسي ووركاوتس ويذ مور فوكوس أند ريدينيسس.بيكاوسي ذا فورميولا كونتينز پوتينت ستيمولانتس, وسيرس شود بيغين ويذ هالف أ سكوب تو إيه إسسيسس ثيير ينديڤيدوال توليرانكي بيفور يوزينغ أ فولل سيرڤينغ.",
+      "description": "ماكسيموم إنرجي. سوپيريور فوكوس. أدفانسد سترينث پرفورمانس.يف يو نيد سوميثينغ بييوند أ كوممون pre-workout, تري warflex™ – آن أدفانسد, سكيينتيفيكاللي فورمولاتيد بليند أوف ڤارياوس پرفورمانس إنغريديانتس سويتابلي فور أدفانسد أثليتس. كرياتين مونوهيدراتي, كرياتين هكل (كريككل®), Beta-Alanine, L-Citrulline, تاوريني, الفا غپك, بورون كيتراتي, اغماتيني سولفاتي, ڤارياوس كافيين كومپاوندس, الفا يوهيمبيني, L-Theanine, أند Huperzine-A ويل إيه إسسيست يو إن پريپارينغ بوث مينتاللي أند فيسيكاللي بيفور ووركاوتس.ذا فورميولا أوف warflex إز تارغيتيد آت أدفانسد أثليتس هو واولد ليكي تو تيك ادڤانتاغي أوف أ high-stimulant pre-workout تو سوپپليمينت ريسيستانكي ترينينغ, بوديبويلدينغ, پاويرليفتينغ, فونكشنال فيتنس, أند تاوغه غيم سيسجنس. ذيس پرودكت إز مانوفاكتوريد إن أ cGMP-certified فاكيليتي.",
+      "canonical": "https://www.promolecules.com/product/warflex/",
+      "seo": {
+        "title": "warflex هاي ستيم پري ووركاوت | باي بيست پري ووركاوت ونليني أون پروموليكوليس",
+        "description": "باي warflex هاي ستيم پري ووركاوت ونليني أون پروموليكوليس. غيت يكسپلوسيڤي إنرجي بوستير سوپپليمينت, إنساين ماسل پومپس, لإيه إسير فوكوس, سترينث أند يندورانكي سوپپليمينت فور سيرياوس ووركاوتس.",
+        "keywords": "warflex پري ووركاوت, warflex هاي ستيم پري ووركاوت, بيست پري ووركاوت ينديا, باي پري ووركاوت ونليني, هاي ستيم پري ووركاوت ينديا, پري ووركاوت سوپپليمينت, غيم پري ووركاوت, ووركاوت إنرجي بوستير, ماسل پامپ سوپپليمينت, سترينث سوپپليمينت, فوكوس سوپپليمينت, يندورانكي سوپپليمينت, هاي كافيين پري ووركاوت, أدفانسد پري ووركاوت, پرفورمانس سوپپليمينت, نيتريك وكسيدي بوستير",
+        "canonical": "https://www.promolecules.com/product/warflex/",
+        "author": "پروموليكوليس™",
+        "publisher": "پروموليكوليس™",
+        "language": "ينغليش",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "googlebot": "index, follow",
+        "bingbot": "index, follow",
+        "revisit_after": "7 days",
+        "distribution": "global",
+        "rating": "general",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "دوبي"
+        },
+        "og": {
+          "title": "warflex هاي ستيم پري ووركاوت | إنرجي & پرفورمانس",
+          "type": "product",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "warflex هاي ستيم پري ووركاوت",
+          "locale": "AE-DU",
+          "site_name": "پروموليكوليس™",
+          "description": "إكسبيرينس next-level غيم پرفورمانس ويذ warflex™ هاي ستيم پري ووركاوت. بويلت فور يكسپلوسيڤي إنرجي, فوكوس, پومپس, سترينث أند يندورانكي. وردير ونليني تودي.",
+          "url": "https://www.promolecules.com/product/warflex/"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "title": "warflex هاي ستيم پري ووركاوت | إنرجي & پرفورمانس",
+          "description": "إكسبيرينس next-level غيم پرفورمانس ويذ warflex™ هاي ستيم پري ووركاوت. بويلت فور يكسپلوسيڤي إنرجي, فوكوس, پومپس, سترينث أند يندورانكي. وردير ونليني تودي.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "warflex هاي ستيم پري ووركاوت | إنرجي & پرفورمانس"
+        },
+        "ldjson": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "پروموليكوليس",
+            "alternateName": "پروموليكوليس",
+            "url": "https://www.promolecules.com/",
+            "logo": "https://www.promolecules.com/promolecules-logo.webp",
+            "sameAs": [
+              "https://www.facebook.com/promolecules.official",
+              "https://x.com/promolecules",
+              "https://www.instagram.com/promolecules/",
+              "https://www.youtube.com/@Promolecules",
+              "https://www.pinterest.com/promolecules/"
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "warflex هاي ستيم پري ووركاوت",
+            "image": "https://www.promolecules.com/Promolecules/warflexnew/fruit-punch-warflex-pre-workout-35-Servings.webp",
+            "description": "باي warflex هاي ستيم پري ووركاوت ونليني أون پروموليكوليس. غيت يكسپلوسيڤي إنرجي بوستير سوپپليمينت, إنساين ماسل پومپس, لإيه إسير فوكوس, سترينث أند يندورانكي سوپپليمينت فور سيرياوس ووركاوتس.",
+            "brand": {
+              "@type": "Brand",
+              "name": "پروموليكوليس™"
+            },
+            "sku": "father-of-insane-35",
+            "offers": {
+              "@type": "Offer",
+              "url": "https://www.promolecules.com/product/warflex/",
+              "priceCurrency": "USD",
+              "price": "41.99",
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "247"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "پروموليكوليس",
+                "item": "https://www.promolecules.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "پرودكت",
+                "item": "https://www.promolecules.com/product/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "پري ووركاوت",
+                "item": "https://www.promolecules.com/product-category/pre-workout/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "name": "warflex",
+                "item": "https://www.promolecules.com/product/warflex/"
+              }
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Review",
+            "@id": "https://www.promolecules.com/product/warflex/#review",
+            "itemReviewed": {
+              "@type": "Product",
+              "name": "warflex هاي ستيم پري ووركاوت",
+              "url": "https://www.promolecules.com/product/warflex/"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ڤيريفييد كاستمر"
+            },
+            "datePublished": "2026-07-03",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "name": "warflex™ High-Stim پري ووركاوت",
+            "reviewBody": "باي warflex™ هاي ستيم پري ووركاوت ونليني أون پروموليكوليس. غيت يكسپلوسيڤي إنرجي بوستير سوپپليمينت, إنساين ماسل پومپس, لإيه إسير فوكوس, سترينث أند يندورانكي سوپپليمينت فور سيرياوس ووركاوتس."
+          }
+        ]
+      },
+      "price": "43",
+      "servings": [
+        {
+          "size": "35",
+          "price": 41.99
+        },
+        {
+          "size": "65",
+          "price": 59.99
+        }
+      ],
+      "discounted": "41.2",
+      "images": [
+        "/Promolecules/warflexnew/promolecules-warflex-pre-workout_11zon.webp",
+        "/Promolecules/warflexnew/promolecules-warflex-supplements_11zon.webp",
+        "/Promolecules/warflex3.webp",
+        "/Promolecules/warflexnew/Warflex-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/warflexnew/warfle-pre-workout.webp",
+      "variants": [
+        {
+          "flavour": "Fruit-Punch",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/fruit-punch-warflex-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Fruit-Punch",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/fruit-punch-warflex-pre-workout-65-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Gummies-Bliss",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/gummies-candy-warflex-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Gummies-Bliss",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/gummies-candy-warflex-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Blue-Rasberry",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/blue-rasberry-warflex-pre-workout-35-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Blue-Rasberry",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/blue-rasberry-warflex-pre-workout-65-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Purple-Pulse",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/purple-pulse-gummies-warflex-pre-workout-35-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Purple-Pulse",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/purple-pulse-gummies-warflex-pre-workout-65-Servings_11zon.webp"
+        }
+      ],
+      "keyBenefits": [
+        "سپورتس هاي ووركاوت إنرجي - warflex إز أ كافيين ساوركي ذات كونتينز كافيين انهيدراوس, ديكاففييني مالاتي, كافيين كيتراتي, أند كافيين هكل. ذيز آر كوممون إنغريديانتس إن سپورتس نوتريشن تو هيلپ ويذ اليرتنيسس أند ريدينيسس فور يكسيركيسي.",
+        "سپورتس مينتال فوكوس - ذا يوز أوف إنغريديانتس ليكي الفا غپك, L-Theanine, أند Huperzine-A إز كوممونلي ينكلوديد إن پرفورمانس فورمولإيه إس تو سپورت كونكينتراشن أند كوغنيتيڤي فونكشن ديورينغ ديماندينغ ووركاوتس.",
+        "سپورتس سترينث پرفورمانس - كرياتين مونوهيدراتي أند كرياتين هكل آر إنغريديانتس ذات وورك ويلل ويذ سترينث ترينينغ يكسيركيسيس فور high-intensity يكسيركيسي پرفورمانس.",
+        "إيه إسسيستس ماسل پامپ - L-Citrulline أند اغماتيني سولفاتي آر پوپولار إنغريديانتس إن pre-workout فورمولإيه إس بيكاوسي ثيي پروموتي نيتريك وكسيدي پرودوكشن أند هيلثي بلود فلاو ديورينغ يكسيركيسي, اللاوينغ أثليتس تو غيت أ غريتير ماسل پامپ.",
+        "پروموتيس ماسل يندورانكي - Beta-Alanine ووركس تو ريسي ذا ليڤيلس أوف كارنوسيني إن يور ماسَلز وڤير تيمي تو هيلپ بوففير اكيديتي ديورينغ ريپيتيد high-intensity يكسيركيسي.",
+        "بورون كيتراتي ينكلوجن - warflex ينكلوديس بورون كيتراتي, أ تراكي مينيرال كوممونلي وسيد إن سپورتس نوتريشن. بورون پليس أ رولي إن نورمال مينيرال ميتابوليسم أند إز فريكينتلي ينكلوديد إن أدفانسد پرفورمانس فورمولإيه إس.",
+        "نياكين (35 مغ) - نياكين (ڤيتامين ب3) سپورتس إنرجي ميتابوليسم أند ينابليس ذا كونڤيرجن أوف فود تو إنرجي باي ذا بادي.",
+        "سوديوم (150 مغ) - سوديوم پليس آن يمپورتانت رولي إن مينتينينغ بادي فلويدس أند يليكتروليتي بالانكي ديورينغ فيسيكال اكتيڤيتي.",
+        "Beta-Alanine (2000 مغ) - Beta-Alanine مي إمبروڤ موسكولار يندورانكي باي ينكريإيه إسينغ ذا اماونت أوف كارنوسيني إن ماسل تيسسوي. كارنوسيني مي هيلپ ريدوكي ذا إفكتس أوف آسيد build-up ديورينغ ينتينسي يكسيركيسي.",
+        "كرياتين مونوهيدراتي (1000 مغ) - كرياتين مونوهيدراتي إز وني أوف ذا موست يإكس تيينسيڤيلي ريسيرتشيد إنغريديانتس إن سپورتس نوتريشن, أند وين تاكين أون أ ريغولار بإيه إسإز, سپورتس سترينث, باور, أند ريپيتيد high-intensity يكسيركيسي پرفورمانس.",
+        "L-Citrulline (1000 مغ) - L-Citrulline إز كونڤيرتيد تو ارغينيني إن ذا بادي, ويتش هيلپس سپورت نيتريك وكسيدي پرودوكشن. ذيس كاولد هيلپ ويذ بيتتير بلود فلاو أند ذا ماسل پامپ يو فيل وين ترينينغ.",
+        "كرياتين هكل (500 مغ) - كرياتين هيدروتشلوريدي إز أ هايلي سولوبلي فورم أوف كرياتين ذات كومپليمينتس ذا پرودكت’س كرياتين ماتريكس.",
+        "تاوريني (500 مغ) - تاوريني إز كوممونلي ادديد تو سپورتس نوتريشن پرودكتس تو سپورت ماسل فونكشن, هايدريشن, أند يكسيركيسي پرفورمانس.",
+        "الفا غپك (50%) - الفا غپك إز أ فورم أوف تشوليني ذات إز وفتين ينكلوديد إن نوتروپيك أند اثليتيك پرفورمانس سوپپليمينتس فور فوكوس أند مينتال پرفورمانس سپورت.",
+        "يريا جارينسيس يإكس تيراكت - يريا جارينسيس يإكس تيراكت إز وفتين ينكلوديد إن پريميوم pre-workout فورمولإيه إس إيه إس پارت أوف ذا وڤيرالل ستيمولانت أند فوكوس بليند.",
+        "كسبترا پامپ® بليند - ذيس بليند ينكلوديس اغماتيني سولفاتي أند بيت روت يإكس تيراكت فور نيتريك وكسيدي أند يكسيركيسي پرفورمانس سپورت.",
+        "جونيپير بيري يإكس تيراكت - أ پارت أوف ذا پروپرييتاري پرفورمانس بليند, أند ينكلوديد إن ذا وڤيرالل فورمولاشن أوف ذا پرودكت.",
+        "كسان كاف™ بليند - ينكلوديس كافيين انهيدراوس, ديكاففييني مالاتي, كافيين كيتراتي, أند كافيين هكل. ذيز إنغريديانتس كومبينيد غيڤي warflex أ هاي ستيمولانت پروفيلي أند هيلپ تو پروموتي اليرتنيسس أند ووركاوت ريدينيسس.",
+        "كيتروس اورانتيوم (كيتروس سين 50®) - كيتروس اورانتيوم يإكس تيراكت إز أ پوپولار إنغريديانت إن ثيرموغينيك أند stimulant-based سپورتس نوتريشن پرودكتس.",
+        "L-Theanine (100 مغ) - L-Theanine إز وفتين پيريد ويذ كافيين تو غيڤي أ well-rounded فوكوس إكسبيرينس.",
+        "الفا يوهيمبيني (2.5 مغ) - ذا الفا يوهيمبيني إنغريديانت ووركس إيه إس أ باورفل ستيمولانت مينت فور يوز باي أدفانسد أثليتس; وسير توليرانكي إز هايلي ڤاريابلي, أند وسيرس شود بيغين آت هالف أ سكوب فوللاوينغ ليبل ديريكشنس.",
+        "بورون كيتراتي (3 مغ) - بورون كيتراتي إز أ تراكي مينيرال ينكلوديد إن أدفانسد سپورتس نوتريشن فورمولإيه إس أند إز إيه إسسوكياتيد ويذ نورمال مينيرال ميتابوليسم.",
+        "Huperzine-A (200 مكغ) - Huperzine-A إز أ نوتروپيك إنغريديانت كوممونلي وسيد تو سپورت كونكينتراشن أند مينتال فونكشن."
+      ],
+      "whoShouldUse": [
+        "يكسپيريينكيد بوديبويلديرس",
+        "سترينث أثليتس",
+        "پاويرليفتيرس",
+        "Cross-training أثليتس",
+        "أدفانسد gym-goers",
+        "يكسپيريينكيد pre-workout وسيرس",
+        "نوت ريكوممينديد فور بيغيننيرس أور ينديڤيدوالس سينسيتيڤي تو ستيمولانتس."
+      ],
+      "whychooseus": [
+        "أدفانسد فورميولا ويذ ستيمولانتس, strength-support إنغريديانتس, نيتريك وكسيدي بوستيرس, أند كوغنيتيڤي ينهانكيرس",
+        "سپورتس پريپاراشن فور تاوغه ووركاوتس",
+        "إنهانسز فوكوس أند كونكينتراشن ديورينغ يكسيركيسي",
+        "سپورتس strength-related ترينينغ",
+        "هيلپس إمبروڤ ماسل يندورانكي",
+        "پروموتيس بيتتير ماسل پومپس",
+        "بوستس ووركاوت موتيڤاشن",
+        "ديزايند فور أدفانسد أثليتس أند يكسپيريينكيد pre-workout وسيرس",
+        "يديل فور performance-oriented ووركاوتس"
+      ],
+      "howToUse": [
+        "ميكس ½ سكوب ويذ 4–6 وز (120–180 مل) أوف ووتر اپپروكسيماتيلي 30 مينوتيس بيفور ترينينغ تو إيه إسسيسس توليرانكي.",
+        "يف ويلل توليراتيد, ميكس 1 فولل سكوب ويذ 8–10 وز (240–300 مل) أوف ووتر اپپروكسيماتيلي 30 مينوتيس بيفور يور ووركاوت.",
+        "دو نوت يكسكيد وني سكوب پر دي."
+      ],
+      "safetyInformation": [
+        "فور يوز إن هيلثي ادولتس 18 ييرس أوف اغي أند ولدير.",
+        "كونتينز اپپروكس. 395 مغ كافيين پر سيرڤينغ.",
+        "يوز ويذ كاوشن يف يو آر سينسيتيڤي تو كافيين أور وثير ستيمولانتس.",
+        "دو نوت كومبيني ويذ وثير stimulant-containing پرودكتس.",
+        "يف يو آر أون پريسكريپشن ميديكاشن أور هاڤي أ ميديكال كونديشن, پليإيه إسي كونسالت أ هيلثكاري پروفيسجنال بيفور يوز.",
+        "نوت تو بي وسيد ديورينغ پريغنانكي أور بريإيه إستفيدينغ.",
+        "كيب آوت أوف ريتش أوف تشيلدرن.",
+        "ستور إن أ كول, دراي پليس."
+      ],
+      "faqs": [
+        {
+          "question": "وات إز warflex™?",
+          "answer": "warflex™ إز آن أدفانسد pre-workout ويذ بورون كيتراتي فور ذا أدفانسد أثليت فروم پروموليكوليس. إت كونتينز Beta-Alanine, كرياتين مونوهيدراتي, كرياتين هكل, L-Citrulline, تاوريني, الفا غپك, اغماتيني سولفاتي, مولتيپلي ساوركيس أوف كافيين, الفا يوهيمبيني, أند Huperzine-A تو هيلپ سپورت ووركاوت إنرجي, فوكوس, سترينث, يندورانكي, أند پرفورمانس."
+        },
+        {
+          "question": "هو شود يوز warflex™?",
+          "answer": "warflex™ إز فور هيلثي ادولتس 18+ هو هاڤي تاكين ستيمولانت pre-workout سوپپليمينتس بيفور أند إز نوت ريكوممينديد فور بيغيننيرس أور ذوز سينسيتيڤي تو كافيين دوي تو إتس هاي ستيمولانت كونتينت."
+        },
+        {
+          "question": "هاو دو ي تيك warflex™?",
+          "answer": "ستارت ويذ ½ سكوب بلينديد إن 4–6 وز (120–180 مل) أوف ووتر 30 مينوتيس بيفور يكسيركيسي تو إيه إسسيسس توليرانكي. يف ويلل توليراتيد, تيك 1 فولل سكوب ميكسيد إن 8–10 وز (240–300 مل) أوف ووتر 30 مينوتيس بيفور يور ووركاوت. دو نوت يكسكيد 1 سيرڤينغ پر دي."
+        },
+        {
+          "question": "وات إنغريديانتس آر ينكلوديد إن warflex™?",
+          "answer": "يتش سيرڤينغ ينكلوديس Beta-Alanine (2000 مغ), كرياتين مونوهيدراتي (1000 مغ), L-Citrulline (1000 مغ), كرياتين هكل (500 مغ), تاوريني (500 مغ), الفا غپك (50%), يريا جارينسيس يإكس تيراكت, اغماتيني سولفاتي, بيت روت يإكس تيراكت, جونيپير بيري يإكس تيراكت, كافيين انهيدراوس, ديكاففييني مالاتي, كافيين كيتراتي, كافيين هكل, كيتروس اورانتيوم يإكس تيراكت, L-Theanine, الفا يوهيمبيني, بورون كيتراتي, أند Huperzine-A."
+        },
+        {
+          "question": "دويس warflex™ كونتين كافيين?",
+          "answer": "ييس. warflex™ كونتينز مولتيپلي كافيين ساوركيس ينكلودينغ كافيين انهيدراوس, ديكاففييني مالاتي, كافيين كيتراتي, أند كافيين هكل تو هيلپ سپورت اليرتنيسس, ووركاوت ريدينيسس, أند إنرجي."
+        },
+        {
+          "question": "دويس warflex™ كونتين كرياتين?",
+          "answer": "ييس. warflex™ كونتينز كرياتين مونوهيدراتي أند كرياتين هكل (كريككل®) تو سپورت high-intensity يكسيركيسي پرفورمانس ويذ ريغولار ريسيستانكي يكسيركيسي."
+        },
+        {
+          "question": "وات آر ذا بينيفيتس أوف بورون كيتراتي إن warflex™?",
+          "answer": "بورون كيتراتي إز أ تراكي مينيرال كوممونلي ينكلوديد إن سپورتس نوتريشن فورمولإيه إس. إت پليس أ رولي إن نورمال مينيرال ميتابوليسم أند إز فريكينتلي وسيد إن أدفانسد پرفورمانس سوپپليمينتس."
+        },
+        {
+          "question": "إز warflex™ سويتابلي فور بيغيننيرس?",
+          "answer": "نو. warflex™ إز ينتينديد فور أدفانسد وسيرس, أند ذا ليبل كليرلي ستاتيس 'نوت فور بيغيننيرس.' نيو وسيرس شود كونسيدير أ lower-stimulant pre-workout أند الويس إيه إسسيسس ثيير توليرانكي."
+        },
+        {
+          "question": "كان ي تيك warflex™ يڤيري دي?",
+          "answer": "تيك warflex™ ونلي إيه إس ديريكتيد أون ذا پرودكت ليبل أند دو نوت يكسكيد 1 سيرڤينغ پر دي. يف يو هاڤي كيسشنس أباوت ريغولار يوز, كونسالت أ كاليفييد هيلثكاري پروفيسجنال."
+        },
+        {
+          "question": "كان ي كومبيني warflex™ ويذ وثير سوپپليمينتس?",
+          "answer": "warflex™ مي بي وسيد ويذ وثير كومپاتيبلي سپورتس نوتريشن پرودكتس. هاويڤير, دوي تو إتس هاي كافيين أند ستيمولانت كونتينت, دو نوت كومبيني إت ويذ وثير ستيمولانت سوپپليمينتس أور إنرجي درينكس."
+        },
+        {
+          "question": "إز warflex™ مانوفاكتوريد إن أ quality-certified فاكيليتي?",
+          "answer": "ييس. اككوردينغ تو ذا پرودكت ليبل, warflex™ إز مانوفاكتوريد أند ديڤيلوپيد يكسكلوسيڤيلي فور پروموليكوليس إن أ cGMP-certified فاكيليتي, سوپپورتينغ كونسيستينت مانوفاكتورينغ ستانداردس."
+        },
+        {
+          "question": "وير كان ي باي warflex™?",
+          "answer": "يو كان پورتشإيه إسي warflex™ ديريكتلي فروم ذا وففيكيال پروموليكوليس ويبسيتي أور ثراوغه اوثوريزيد ريتيل پارتنيرس تو هيلپ ينسوري پرودكت اوثينتيكيتي."
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "ريان كارتير",
+          "country": "يو إس إيه",
+          "des": "بين ليفتينغ 12 ييرس. هالف سكوب بيفور ديدليفتس أند مي كنس جوست سويتشيد أون. إنرجي كورڤي إز سموث أند اغغريسجن ستيس كونترولليد ثراوغه يڤيري سيت."
+        },
+        {
+          "id": 2,
+          "name": "ارجون ميهتا",
+          "country": "ينديا",
+          "des": "موست پري ووركاوتس إن ينديا فيل واتيريد داون. ذيس وني إز ديففيرينت. توك هالف سكوب بيفور سكات دي أند ذا فوكوس وإيه إس ونريل."
+        },
+        {
+          "id": 3,
+          "name": "دانييل كوڤاكس",
+          "country": "هونغاري",
+          "des": "إيه إس أ پاويرليفتينغ كواتش ي’م كاريفول ويذ ستيمولانتس. سورپريسينغلي ذيس فورميولا غيڤيس كلين اكتيڤاشن ويذاوت ذا جيتتيري وڤيرلواد موست high-stim پرودكتس هاڤي."
+        },
+        {
+          "id": 4,
+          "name": "جاكي روبينسون",
+          "country": "وك",
+          "des": "فيناللي أ پري ووركاوت ذات اكتواللي ريسپيكتس هاي ستيم وسيرس. ذا إنرجي ستيس لوكيد يڤين ديورينغ هيڤي كومپاوند سيسجنس."
+        },
+        {
+          "id": 5,
+          "name": "سانديپ راوات",
+          "country": "ينديا",
+          "des": "ويثين 20 مينوتيس ذا سويتش فليپپيد. بينتش سيسجن فيلت اغغريسسيڤي أند فوكوسيد. ديدن’ت فيل ذات وغلي كافيين كرإيه إسه افتيرواردس."
+        },
+        {
+          "id": 6,
+          "name": "ميغويل سانتوس",
+          "country": "سپين",
+          "des": "ترييد ماني هاي ستيم فورمولإيه إس بوت ذيس وني فيلس ينغينيريد. مي ترينينغ ينتينسيتي ديورينغ ليغ دي ينكريإيه إسيد نوتيكيبلي."
+        },
+        {
+          "id": 7,
+          "name": "كاران سينغه",
+          "country": "ينديا",
+          "des": "ي’م وسواللي سكيپتيكال أباوت ولترا هاي ستيم كليمس. بوت هالف سكوب بيفور پولل دي أند ذا نيورال دريڤي وإيه إس وبڤياوس."
+        },
+        {
+          "id": 8,
+          "name": "لوكإيه إس اندرادي",
+          "country": "برازيل",
+          "des": "ذيس پري اكتواللي هيلپس وين ترينينغ آفتر أ لونغ ووركدي. فوكوس ستيس شارپ يڤين ديورينغ ذا لإيه إست سيت أوف كومپاوند ليفتس."
+        },
+        {
+          "id": 9,
+          "name": "اهميد رإيه إسهيد",
+          "country": "واي",
+          "des": "ذا ستيمولاشن كورڤي إز سورپريسينغلي بالانكيد. اغغريسجن ديورينغ ليفتس بوت مينتاللي ستيلل كونترولليد."
+        },
+        {
+          "id": 10,
+          "name": "توم غاللاغهير",
+          "country": "يريلاند",
+          "des": "وسيد إت بيفور هيڤي سكات سيسجن. ماسل اكتيڤاشن فيلت ريل, نوت جوست كافيين بوزز."
+        },
+        {
+          "id": 11,
+          "name": "راهول ڤيرما",
+          "country": "ينديا",
+          "des": "هونيستلي ديدن’ت يكسپيكت موتش. بوت آفتر 15 مينوتيس مي ووركاوت ينتينسيتي وينت وپ اوتوماتيكاللي."
+        },
+        {
+          "id": 12,
+          "name": "مارك جينسين",
+          "country": "دينمارك",
+          "des": "ذيس وني فيلس بويلت فور سيرياوس ليفتيرس. إنرجي اوتپوت ستيس ستابلي ثراوغه لونغ سيسجنس."
+        },
+        {
+          "id": 13,
+          "name": "ومار هإيه إسسان",
+          "country": "يغيپت",
+          "des": "سترونغ فورميولا بوت نوت تشاوتيك. فوكوس ستيس لوكيد ديورينغ كومپاوند ليفتس."
+        },
+        {
+          "id": 14,
+          "name": "جإيه إسأون ميللير",
+          "country": "يو إس إيه",
+          "des": "هالف سكوب پروتوكول ماكيس سينسي. إت’س سترونغ بوت كونترولليد."
+        },
+        {
+          "id": 15,
+          "name": "نيكهيل شارما",
+          "country": "ينديا",
+          "des": "ديدليفت دي فيلت كومپليتيلي ديففيرينت. نو مينتال فاتيغوي بيتوين سيتس."
+        },
+        {
+          "id": 16,
+          "name": "بين كلاركي",
+          "country": "اوستراليا",
+          "des": "كلين ستيمولاشن. نو جيتتيرينغ هاندس أور انكسييتي."
+        },
+        {
+          "id": 17,
+          "name": "اديتيا كاپور",
+          "country": "ينديا",
+          "des": "إنرجي سپيكي إز سموث. ذا اغغريسجن هيلپس پوش ثراوغه لإيه إست سيتس."
+        },
+        {
+          "id": 18,
+          "name": "كارلوس فيرنانديز",
+          "country": "ميكسيكو",
+          "des": "اكتواللي نوتيكيد يمپروڤيد يندورانكي ديورينغ هاي ڤولومي ترينينغ."
+        },
+        {
+          "id": 19,
+          "name": "روهيت تشاوهان",
+          "country": "ينديا",
+          "des": "ترينينغ سيسجنس فيل لونغير أند مور فوكوسيد."
+        },
+        {
+          "id": 20,
+          "name": "ناثان بروكس",
+          "country": "كانادا",
+          "des": "فيلس ليكي ذا فورميولا وإيه إس ديزايند باي سوميوني هو اكتواللي ليفتس."
+        },
+        {
+          "id": 21,
+          "name": "يمران كهان",
+          "country": "پاكيستان",
+          "des": "فوكوس يمپروڤيمينت وإيه إس ذا بيغغيست ديففيرينكي فور مي."
+        },
+        {
+          "id": 22,
+          "name": "غيورغي مارتين",
+          "country": "وك",
+          "des": "هاي ستيم بوت سورپريسينغلي بالانكيد."
+        },
+        {
+          "id": 23,
+          "name": "هارش ڤاردهان",
+          "country": "ينديا",
+          "des": "كومپاوند ليفتس فيل مور يكسپلوسيڤي."
+        },
+        {
+          "id": 24,
+          "name": "پيتير نوڤاك",
+          "country": "سلوڤاكيا",
+          "des": "غود نيورال اكتيڤاشن بيفور هيڤي ليفتس."
+        },
+        {
+          "id": 25,
+          "name": "ارمان كريشي",
+          "country": "ينديا",
+          "des": "إنرجي ريمينس ستيدي ثراوغه ذا ووركاوت."
+        },
+        {
+          "id": 26,
+          "name": "سيبإيه إستيان كروز",
+          "country": "تشيلي",
+          "des": "ڤيري سترونغ بوت ماناغيبلي ستيمولاشن."
+        },
+        {
+          "id": 27,
+          "name": "جي پاتيل",
+          "country": "ينديا",
+          "des": "هيلپس بريك ثراوغه ترينينغ پلاتيوس."
+        },
+        {
+          "id": 28,
+          "name": "ڤيكتور پيتروڤ",
+          "country": "بولغاريا",
+          "des": "نوت أ بيغيننير پرودكت بوت ووركس غريت فور يكسپيريينكيد ليفتيرس."
+        },
+        {
+          "id": 29,
+          "name": "دانييل پارك",
+          "country": "ساوث كوري",
+          "des": "فوكوس أند اغغريسجن كومبيناشن فيلس پيرفيكت."
+        },
+        {
+          "id": 30,
+          "name": "راكيش كومار",
+          "country": "ينديا",
+          "des": "هالف سكوب الريدي فيلس سترونغر ثان موست پري ووركاوتس."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "inopower-r",
+      "name": "INOPOWER-R",
+      "cost2cost": "https://www.cost2costsupplement.com/products/inopower-r",
+      "category": "ATP BOOSTER",
+      "title": "Non-stim يندورانكي فورميولا ذات سپورتس إيه تي پي إنرجي, ريدوكيس فاتيغوي, أند كيپس پرفورمانس ستيدي ويذاوت كافيين.كيب غوينغ وين وثيرس ستوپ.",
+      "description": "INOPOWER-R™ إز أ non-stimulant إيه تي پي پرفورمانس فورميولا ديزايند تو إنهانس يندورانكي,ريدوكي فاتيغوي, أند سپورت لونغ ترينينغ سيسجنس ويذاوت اففيكتينغ يور نيرڤاوس سيستيم.پيرفيكت فور late-night ووركاوتس, off-stim كيكليس, أور أثليتس هو نيد كلين, سوستينيد إنرجي ويذاوت كافيين.",
+      "seo": {
+        "title": "پروموليكوليس Inopower-R | إيه تي پي إنرجي & يندورانكي سوپپليمينت",
+        "description": "باي Inopower-R باي پروموليكوليس™. أدفانسد إيه تي پي فورميولا فور يكسپلوسيڤي إنرجي, يندورانكي & فإيه إستير ريكفري. High-performance سوپپليمينت فور سيرياوس أثليتس. وردير ناو.",
+        "canonical": "https://www.promolecules.com/product/inopower-r/",
+        "og": {
+          "title": "Inopower-R | إيه تي پي إنرجي & يندورانكي | پروموليكوليس",
+          "type": "website",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "locale": "AE-DU",
+          "site_name": "پروموليكوليس",
+          "description": "يكسپلوسيڤي إنرجي. ماكسيموم يندورانكي. فإيه إستير ريكفري. ديسكوڤير Inopower-R باي پروموليكوليس™ – بويلت فور سيرياوس پرفورمانس.",
+          "url": "https://www.promolecules.com/product/inopower-r/"
+        },
+        "author": "پروموليكوليس",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "دوبي"
+        },
+        "language": "ين",
+        "robots": "index,follow",
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "پروموليكوليس",
+          "title": "Inopower-R | إيه تي پي إنرجي بوست",
+          "description": "باور يور ووركاوتس ويذ Inopower-R. أدفانسد إيه تي پي فورميولا فور إنرجي, يندورانكي & ريكفري.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp"
+        },
+        "ldjson": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "پروموليكوليس",
+          "url": "https://www.promolecules.com/product/inopower-r/",
+          "logo": "https://www.promolecules.com/promolecules-logo.webp",
+          "sameAs": [
+            "https://www.instagram.com/promolecules/",
+            "https://www.threads.com/@promolecules",
+            "https://x.com/promolecules",
+            "https://in.pinterest.com/promolecules/",
+            "https://www.youtube.com/@Promolecules",
+            "https://www.facebook.com/promolecules.official"
+          ],
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "contactType": "customer service",
+              "email": "contact@promolecules.com"
+            }
+          ]
+        }
+      },
+      "servings": [
+        {
+          "size": "35",
+          "price": 45.99
+        }
+      ],
+      "variants": [
+        {
+          "flavour": "أن فليڤرد",
+          "size": "120 كابسول",
+          "price": 45.99,
+          "image": "/Promolecules/inopower1.webp"
+        }
+      ],
+      "price": "43",
+      "discounted": "41.2",
+      "images": [
+        "/Promolecules/inopower1.webp",
+        "/Promolecules/inpower3/inpower-r-supplements.webp",
+        "/Promolecules/inpower3/promolecules-inpower-r-supplements.webp",
+        "/Promolecules/inpower3/inpower-r-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/inpower3/inopower-r-ultra-high-stimulant-pre-workout.webp",
+      "keyBenefits": [
+        "إيه تي پي إنرجي پرودوكشن",
+        "سوستينيد يندورانكي اوتپوت",
+        "نو كنس وڤيرلواد",
+        "نو سليپ ديسروپشن",
+        "ريدوكيد فاتيغوي & بيتتير ريكفري"
+      ],
+      "whychooseus": [
+        "إنرجي ويذاوت ستيمولانتس",
+        "سپورتس كيللولار پرفورمانس, نوت جوست اليرتنيسس",
+        "يديل فور ستاكينغ ويذ high-stim پرودكتس"
+      ],
+      "howToUse": "تيك إت بيفور يور ترينينغ سيسجن تو سپورت پرفورمانس أند ريدينيسس. إت كان بي وسيد ديلي إيه إس پارت أوف يور راوتيني, ديپيندينغ أون يور فيتنس غوالس. يو كان ييثير ستاك إت ويذ وثير pre-workout سوپپليمينتس فور ينهانكيد ريزالتس أور يوز إت أون إتس اون فور أ سيمپلير اپپرواتش.",
+      "whatToAvoid": [
+        "دو نوت يكسپيكت stimulant-like “روش”",
+        "أڤويد وڤيردوسينغ"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "جإيه إسأون ميللير",
+          "country": "يو إس إيه",
+          "des": "وات ي ليكي أباوت INOPOWER-R إز ذا كلين إنرجي. نو كافيين سپيكي, جوست ستيدي يندورانكي ديورينغ لونغ هيپيرتروفي سيسجنس."
+        },
+        {
+          "id": 2,
+          "name": "راهول ڤيرما",
+          "country": "ينديا",
+          "des": "وسيد ذيس بيفور أ باك ووركاوت أند نوتيكيد ي وإيه إسن’ت غيتتينغ تيريد بيتوين سيتس. إنرجي فيلت ناتشرال, نوت وڤيرستيمولاتيد."
+        },
+        {
+          "id": 3,
+          "name": "دانييل كوڤاكس",
+          "country": "هونغاري",
+          "des": "إيه إس سوميوني سينسيتيڤي تو ستيمولانتس, ذيس إز يكساكتلي وات ي نيديد. إيه تي پي سپورت ويذاوت كافيين وڤيرلواد."
+        },
+        {
+          "id": 4,
+          "name": "ارجون ميهتا",
+          "country": "ينديا",
+          "des": "ستاكيد إت ويذ مي پامپ فورميولا أند ذا يندورانكي ينكريإيه إسي وإيه إس وبڤياوس. فينيشيد مي ووركاوت ويذاوت فيلينغ درينيد."
+        },
+        {
+          "id": 5,
+          "name": "كارلوس ريڤيرا",
+          "country": "ميكسيكو",
+          "des": "غود intra-style إنرجي سپورت. ماسَلز دون’ت فاتيغوي إيه إس كيكلي ديورينغ high-volume ترينينغ."
+        },
+        {
+          "id": 6,
+          "name": "سانديپ راوات",
+          "country": "ينديا",
+          "des": "ترينينغ لاتي يڤينينغس وسيد تو بي ديففيكولت بيكاوسي أوف كافيين. ذيس غيڤيس إنرجي ويذاوت اففيكتينغ سليپ."
+        },
+        {
+          "id": 7,
+          "name": "وليڤير غرانت",
+          "country": "وك",
+          "des": "پيرفيكت فور أثليتس هو وانت پرفورمانس سپورت بوت أڤويد هاي ستيم پرودكتس."
+        },
+        {
+          "id": 8,
+          "name": "يمران كهان",
+          "country": "پاكيستان",
+          "des": "يندورانكي ديورينغ ليغ دي يمپروڤيد. ريكفري بيتوين سيتس فيلس فإيه إستير."
+        },
+        {
+          "id": 9,
+          "name": "ريان بروكس",
+          "country": "يو إس إيه",
+          "des": "فيلس ليكي أ كلين إيه تي پي بوستير. إنرجي ستيس ستابلي ثراوغهاوت ذا سيسجن."
+        },
+        {
+          "id": 10,
+          "name": "ڤيكإيه إس تشاوهان",
+          "country": "ينديا",
+          "des": "غريت فور پيوپلي هو ترين تويكي أ دي. نو وڤيرستيمولاشن, جوست كونسيستينت إنرجي."
+        },
+        {
+          "id": 11,
+          "name": "ماتيو غونزاليز",
+          "country": "سپين",
+          "des": "مي كارديو سيسجنس فيل لونغير أند سموثير ويذ ذيس."
+        },
+        {
+          "id": 12,
+          "name": "امان سينغه",
+          "country": "ينديا",
+          "des": "پيرفيكت سوپپليمينت فور يندورانكي ووركاوتس."
+        },
+        {
+          "id": 13,
+          "name": "دانييل پارك",
+          "country": "ساوث كوري",
+          "des": "فوكوس ستيس ستابلي ويذاوت كافيين جيتتيرس."
+        },
+        {
+          "id": 14,
+          "name": "ڤيكتور پيتروڤ",
+          "country": "بولغاريا",
+          "des": "ستاكيد إت ويذ پري ووركاوت أند يندورانكي يمپروڤيد."
+        },
+        {
+          "id": 15,
+          "name": "اديتيا شارما",
+          "country": "ينديا",
+          "des": "ماسل فاتيغوي فيلس ريدوكيد ديورينغ هاي ريپس."
+        },
+        {
+          "id": 16,
+          "name": "ناثان هوغهيس",
+          "country": "وك",
+          "des": "غود إنرجي سيستيم سپورت ويذاوت ستيمولانتس."
+        },
+        {
+          "id": 17,
+          "name": "ميغويل سانتوس",
+          "country": "پورتوغال",
+          "des": "فيلس مور ليكي ميتابوليك إنرجي راثير ثان ستيمولاشن."
+        },
+        {
+          "id": 18,
+          "name": "روهيت تشاتتيرجي",
+          "country": "ينديا",
+          "des": "پيرفيكت بيفور لونغ هيپيرتروفي ووركاوتس."
+        },
+        {
+          "id": 19,
+          "name": "يثان كارتير",
+          "country": "يو إس إيه",
+          "des": "مي يندورانكي ديورينغ كومپاوند ليفتس يمپروڤيد نوتيكيبلي."
+        },
+        {
+          "id": 20,
+          "name": "هارش غوپتا",
+          "country": "ينديا",
+          "des": "هيلپس پوش ثراوغه لونغ غيم سيسجنس."
+        },
+        {
+          "id": 21,
+          "name": "لوكإيه إس اندرادي",
+          "country": "برازيل",
+          "des": "إنرجي سپورت فيلس سموث أند ناتشرال."
+        },
+        {
+          "id": 22,
+          "name": "راجيڤ مينون",
+          "country": "ينديا",
+          "des": "غريت فور پيوپلي هو أڤويد كافيين."
+        },
+        {
+          "id": 23,
+          "name": "كيڤين لارسون",
+          "country": "كانادا",
+          "des": "ترينينغ ينتينسيتي ستيس ستابلي ثراوغهاوت ووركاوت."
+        },
+        {
+          "id": 24,
+          "name": "كاران مالهوترا",
+          "country": "ينديا",
+          "des": "هيلپس ريدوكي فاتيغوي ديورينغ هاي ڤولومي سيسجنس."
+        },
+        {
+          "id": 25,
+          "name": "ومار هإيه إسسان",
+          "country": "واي",
+          "des": "غود ستاكابلي إنرجي فورميولا."
+        },
+        {
+          "id": 26,
+          "name": "غيورغي ادامس",
+          "country": "وك",
+          "des": "ووركس ويلل فور يندورانكي أثليتس."
+        },
+        {
+          "id": 27,
+          "name": "اكإيه إسه شارما",
+          "country": "ينديا",
+          "des": "پيرفيكت فور late-night ترينينغ سيسجنس."
+        },
+        {
+          "id": 28,
+          "name": "ڤيكتور كروز",
+          "country": "تشيلي",
+          "des": "إمبروڤز ستامينا ديورينغ ووركاوتس."
+        },
+        {
+          "id": 29,
+          "name": "دانييل نوڤاك",
+          "country": "سلوڤاكيا",
+          "des": "كلين إيه تي پي إنرجي سپورت."
+        },
+        {
+          "id": 30,
+          "name": "راكيش كومار",
+          "country": "ينديا",
+          "des": "غريت non-stim إنرجي سوپپليمينت."
+        }
+      ],
+      "supplementFacts": {
+        "servingSize": "1 سكوب (30غ)",
+        "servingsPerContainer": "30",
+        "nutrients": [
+          {
+            "name": "كالورييس",
+            "amount": "120"
+          },
+          {
+            "name": "پروتين",
+            "amount": "24غ"
+          },
+          {
+            "name": "كاربوهيدراتيس",
+            "amount": "3غ"
+          },
+          {
+            "name": "فات",
+            "amount": "1.5غ"
+          },
+          {
+            "name": "بكاإيه إس",
+            "amount": "5.5غ"
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "slug": "hydrapump",
+      "amazonLink": "https://www.amazon.in/Promolecules-Hydrapump-Hydration-Liquid-Supplement/dp/B0GTZNK5S2?ref_=ast_sto_dp&th=1",
+      "flipkartLink": "https://www.flipkart.com/promolecules-hydrapump-glycerol-liquid-pump-formula-muscle-hydration-x8tra-pump-blue-razz/p/itmd011fb75cb0b6?pid=VSLHHTAFXEEUHHUR&lid=LSTVSLHHTAFXEEUHHURKWWDS7&marketplace=FLIPKART&q=hydrapump+&store=search.flipkart.com&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_PY9yFY_mB0KHONWq8Wi1BwXjKQ7VYSMxYuKEM-VXvuhNy2Iz-vX5smQcoVfLgZm-vO8dbutioUNXCOlK0Rb8vw%3D%3D&ppt=sp&ppn=sp&ssid=6236rbg3xc0000001779782357625&qH=0496b440042c8a8a&ov_redirect=true&ov_redirect=true",
+      "cost2cost": "https://www.cost2costsupplement.com/products/hydrapump-muscle-fullness-vascularity-hydration-endurance-strength-performance",
+      "name": "Hyder Pump+",
+      "category": "MUSCLE HYDRATION",
+      "title": "أدفانسد هايدريشن أند پامپ فورميولا ذات إنهانسز ماسل فوللنيسس, يندورانكي, أند پرفورمانس إن يڤيري سيسجن.هيدراتي ديپير. پامپ بيغغير.",
+      "description": "Hyder Pump+™ إز أ high-performance هايدريشن أند پامپ ماتريكس ديزايند تو ماكسيميزي ماسل فوللنيسس, ڤإيه إسكولاريتي, أند يندورانكي.ويذ ليكويد غليكيرول أند إلكترولايتس, إت ديليڤيرس ديپ كيللولار هايدريشن أند إنساين پومپس—يسپيكياللي إن high-volume أور هوت ترينينغ كونديشنز.",
+      "seo": {
+        "title": "Hyder Pump+ – ماكسيميزي پومپس, هايدريشن & ووركاوت پرفورمانس | پروموليكوليس™",
+        "description": "ماكسيميزي ماسل پومپس & هايدريشن ويذ Hyder Pump+ باي پروموليكوليس™. أدفانسد غليكيرول, كيترولليني & إلكترولايتس فورميولا فور يندورانكي, ريكفري & يإكس تيريمي پرفورمانس. شوب ناو.",
+        "canonical": "https://www.promolecules.com/product/hydrapump/",
+        "og": {
+          "title": "Hyder Pump+ | يإكس تيريمي پومپس, هايدريشن & پرفورمانس",
+          "type": "website",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "locale": "AE-DU",
+          "site_name": "پروموليكوليس",
+          "description": "ونلوك إنساين پومپس, هايدريشن & يندورانكي ويذ Hyder Pump+. پاويريد باي غليكيرول, كيترولليني & إلكترولايتس فور سيرياوس أثليتس.",
+          "url": "https://www.promolecules.com/product/hydrapump/"
+        },
+        "author": "پروموليكوليس",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "دوبي"
+        },
+        "language": "ين",
+        "robots": "index,follow",
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "پروموليكوليس",
+          "title": "Hyder Pump+ | ماكس پومپس & هايدريشن فورميولا",
+          "description": "ترين هاردير ويذ بيتتير پومپس, هايدريشن & يندورانكي. Hyder Pump+ إز بويلت فور سيرياوس پرفورمانس.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp"
+        },
+        "ldjson": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "پروموليكوليس",
+          "url": "https://www.promolecules.com/product/hydrapump/",
+          "logo": "https://www.promolecules.com/promolecules-logo.webp",
+          "sameAs": [
+            "https://www.instagram.com/promolecules/",
+            "https://www.threads.com/@promolecules",
+            "https://x.com/promolecules",
+            "https://in.pinterest.com/promolecules/",
+            "https://www.youtube.com/@Promolecules",
+            "https://www.facebook.com/promolecules.official"
+          ],
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "contactType": "customer service",
+              "email": "contact@promolecules.com"
+            }
+          ]
+        }
+      },
+      "servings": [
+        {
+          "size": "35",
+          "price": 48.99
+        },
+        {
+          "size": "65",
+          "price": 59.99
+        }
+      ],
+      "variants": [
+        {
+          "flavour": "Mint-Mojito",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/mintmojito.jpeg"
+        },
+        {
+          "flavour": "Blue-Razz",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/bluerazz.webp"
+        },
+        {
+          "flavour": "بوببليغوم",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/bubblegumhydra.webp"
+        },
+        {
+          "flavour": "Cherry-Lemonade",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/cherrylemon.webp"
+        },
+        {
+          "flavour": "كولا",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/cola.webp"
+        },
+        {
+          "flavour": "Juicy-Grapes",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/juicygrapes.webp"
+        },
+        {
+          "flavour": "Mango-Pineapple",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/mangopineapple.webp"
+        },
+        {
+          "flavour": "أورينج",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/oranges.webp"
+        },
+        {
+          "flavour": "Fruit-Punch",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/fruitpunch.webp"
+        },
+        {
+          "flavour": "Sour-Apple",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/SOURAPPLE.webp"
+        },
+        {
+          "flavour": "ستراوبيرري",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/strawberry.webp"
+        }
+      ],
+      "price": "43",
+      "discounted": "41.2",
+      "images": [
+        "/Promolecules/hydrapump2/promolecules-hydrapump+.webp",
+        "/Promolecules/hydrapump2/promolecules-hydrapump+-pre-workout.webp",
+        "/Promolecules/hydrapump2/hydrapump1.webp",
+        "/Promolecules/hydrapump2/hydrapump-supplements-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/hydrapump2/hydrapump-liquid-glycerol.webp",
+      "keyBenefits": [
+        "يإكس تيريمي إنرجي بوست",
+        "Laser-Sharp فوكوس",
+        "ينكريإيه إسيد سترينث",
+        "ينهانكيد ستامينا",
+        "سپورتس يندورانكي",
+        "هيلپس إمبروڤ ووركاوت پرفورمانس"
+      ],
+      "whychooseus": [
+        "ليكويد غليكيرول سيستيم (بيتتير ابسورپشن)",
+        "نوت جوست پامپ—هايدريشن + پرفورمانس سيستيم"
+      ],
+      "howToUse": "تيك إت بيفور يور ووركاوت, إت كان بي ستاكيد ويذ اني pre-workout, أند إز يديل فور لونغ أور high-volume سيسجنس.",
+      "whatToAvoid": [
+        "دو نوت يكسكيد دوساغي",
+        "أڤويد under-hydration (درينك يناوغه ووتر)"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "جاكي ريينولدس",
+          "country": "يو إس إيه",
+          "des": "ستاكيد هايدرا پامپ ويذ مي پري ووركاوت أند ذا ڤإيه إسكولاريتي ديورينغ ارم دي وإيه إس كرازي."
+        },
+        {
+          "id": 2,
+          "name": "روهيت شارما",
+          "country": "ينديا",
+          "des": "ماسل فوللنيسس ديورينغ تشيست ووركاوت ستييد يڤين آفتر فينيشينغ ذا سيسجن."
+        },
+        {
+          "id": 3,
+          "name": "لويس غاركيا",
+          "country": "سپين",
+          "des": "ذا هايدريشن ميتشانيسم إز نوتيكيبلي. پومپس ستي لونغير ويذاوت بلواتينغ."
+        },
+        {
+          "id": 4,
+          "name": "ارجون بهاتيا",
+          "country": "ينديا",
+          "des": "پامپ فيلس دينسي راثير ثان واتيري."
+        },
+        {
+          "id": 5,
+          "name": "دانييل ويتي",
+          "country": "وك",
+          "des": "غريت نون ستيم پامپ فورميولا فور يڤينينغ ووركاوتس."
+        },
+        {
+          "id": 6,
+          "name": "راهول نير",
+          "country": "ينديا",
+          "des": "ماسَلز ستي فوللير ثراوغه ذا ينتيري ووركاوت."
+        },
+        {
+          "id": 7,
+          "name": "ڤيكتور كوستا",
+          "country": "برازيل",
+          "des": "ارم دي پامپ لإيه إستيد الموست آن هاور آفتر ترينينغ."
+        },
+        {
+          "id": 8,
+          "name": "كاران مالهوترا",
+          "country": "ينديا",
+          "des": "ووركس پيرفيكتلي ويذ هاي ستيم پري ووركاوتس."
+        },
+        {
+          "id": 9,
+          "name": "اهميد كاريم",
+          "country": "واي",
+          "des": "هايدريشن ديورينغ ينتينسي سيسجنس فيلس يمپروڤيد."
+        },
+        {
+          "id": 10,
+          "name": "تشريس داوسون",
+          "country": "يو إس إيه",
+          "des": "ڤإيه إسكولاريتي ينكريإيه إسي وإيه إس نوتيكيبلي."
+        },
+        {
+          "id": 11,
+          "name": "ساهيل ارورا",
+          "country": "ينديا",
+          "des": "پامپ فيلس تايت أند كونترولليد."
+        },
+        {
+          "id": 12,
+          "name": "مارك داڤييس",
+          "country": "وك",
+          "des": "ستاكابلي فورميولا ووركس ويلل."
+        },
+        {
+          "id": 13,
+          "name": "راجيڤ سينغه",
+          "country": "ينديا",
+          "des": "ماسل يندورانكي ديورينغ هاي ڤولومي سيتس يمپروڤيد."
+        },
+        {
+          "id": 14,
+          "name": "پيدرو لوپيز",
+          "country": "ميكسيكو",
+          "des": "غريت پامپ پرودكت ويذاوت ستيمولانتس."
+        },
+        {
+          "id": 15,
+          "name": "انكيت جين",
+          "country": "ينديا",
+          "des": "هيلپس ويذ ماسل فوللنيسس ديورينغ هيپيرتروفي ووركاوتس."
+        },
+        {
+          "id": 16,
+          "name": "توم هارريس",
+          "country": "اوستراليا",
+          "des": "وني أوف ذا بيتتير هايدريشن پامپ فورمولإيه إس."
+        },
+        {
+          "id": 17,
+          "name": "يمران سيدديكي",
+          "country": "پاكيستان",
+          "des": "نو بلواتينغ بوت سترونغ ڤإيه إسكولار پامپ."
+        },
+        {
+          "id": 18,
+          "name": "اديتيا راج",
+          "country": "ينديا",
+          "des": "پيرفيكت فور pump-focused ووركاوتس."
+        },
+        {
+          "id": 19,
+          "name": "كارلوس سيلڤا",
+          "country": "پورتوغال",
+          "des": "ماسل فوللنيسس يففيكت نوتيكيبلي."
+        },
+        {
+          "id": 20,
+          "name": "راهول ڤيرغهيسي",
+          "country": "ينديا",
+          "des": "هيلپس ديورينغ لونغ سيسجنس."
+        },
+        {
+          "id": 21,
+          "name": "ڤيكتور سانتشيز",
+          "country": "تشيلي",
+          "des": "غريت پري ووركاوت ستاك."
+        },
+        {
+          "id": 22,
+          "name": "ارڤيند كومار",
+          "country": "ينديا",
+          "des": "پامپ ستيس كونسيستينت ثراوغه سيتس."
+        },
+        {
+          "id": 23,
+          "name": "بين فوستير",
+          "country": "وك",
+          "des": "غود ڤولوميزينغ فورميولا."
+        },
+        {
+          "id": 24,
+          "name": "ارجون غوپتا",
+          "country": "ينديا",
+          "des": "ووركس بيست ديورينغ ارم دي."
+        },
+        {
+          "id": 25,
+          "name": "لويس اندرادي",
+          "country": "برازيل",
+          "des": "هايدريشن أند پامپ سينيرغي ووركس ويلل."
+        },
+        {
+          "id": 26,
+          "name": "راهول ياداڤ",
+          "country": "ينديا",
+          "des": "غود ڤإيه إسكولاريتي بوست."
+        },
+        {
+          "id": 27,
+          "name": "غيورغي ادامس",
+          "country": "يو إس إيه",
+          "des": "كلين پامپ فورميولا."
+        },
+        {
+          "id": 28,
+          "name": "روهيت تشاتتيرجي",
+          "country": "ينديا",
+          "des": "ماسَلز فيل فوللير ديورينغ ووركاوت."
+        },
+        {
+          "id": 29,
+          "name": "دانييل نوڤاك",
+          "country": "سلوڤاكيا",
+          "des": "غريت پامپ ويذاوت ستيمولانتس."
+        },
+        {
+          "id": 30,
+          "name": "اكشي ميهتا",
+          "country": "ينديا",
+          "des": "پيرفيكت ستاك ويذ هاي ستيم پري ووركاوتس."
+        }
+      ],
+      "supplementFacts": {
+        "servingSize": "1 سكوب (30غ)",
+        "servingsPerContainer": "30",
+        "nutrients": [
+          {
+            "name": "كالورييس",
+            "amount": "120"
+          },
+          {
+            "name": "پروتين",
+            "amount": "24غ"
+          },
+          {
+            "name": "كاربوهيدراتيس",
+            "amount": "3غ"
+          },
+          {
+            "name": "فات",
+            "amount": "1.5غ"
+          },
+          {
+            "name": "بكاإيه إس",
+            "amount": "5.5غ"
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "slug": "thermo-nuke-xt",
+      "name": "Thermo Nuke XT",
+      "cost2cost": "https://www.cost2costsupplement.com/products/thermo-nuke-xt-advanced-thermogenic-formula-for-fast-fat-loss",
+      "category": "FAT BURNER",
+      "title": "باورفل fat-burning فورميولا ذات بوستس ميتابوليسم, ينكريإيه إسيس هيت, أند كيپس إنرجي هاي ديورينغ كوتتينغ فإيه إسيس.بورن هاردير. غيت لينير.",
+      "description": "ثيرمو نيوك إكس تي™ إز ينغينيريد تو ينكريإيه إسي ميتابوليك اوتپوت, يليڤاتي بادي هيت, أند اككيليراتي فات وكسيداشن ويلي مينتينينغ إنرجي أند فوكوس.ذيس إز نوت أ ميلد فات بيرنر—إت’س بويلت فور كوتتينغ فإيه إسيس, شريددينغ كيكليس, أند سيرياوس ترانسفورماشن غوالس.",
+      "seo": {
+        "title": "Thermo Nuke XTباي پروموليكوليس™ | High-Stim فات بيرنر فور اغغريسسيڤي فات لوسس",
+        "description": "باي Thermo Nuke XTباي پروموليكوليس™ – أ high-stimulant فات بيرنر ديزايند تو بوست ميتابوليسم, ينكريإيه إسي إنرجي, أند سپورت اغغريسسيڤي فات لوسس. شوب ناو فور فإيه إستير ريزالتس.",
+        "canonical": "https://www.promolecules.com/product/thermo-nuke-xt/",
+        "og": {
+          "title": "Thermo Nuke XTباي پروموليكوليس™ | High-Stim فات بيرنر",
+          "type": "website",
+          "image": "https://www.promolecules.com/product-image.webp",
+          "locale": "AE-DU",
+          "site_name": "پروموليكوليس",
+          "description": "High-stim فات بيرنر تو بوست ميتابوليسم, إنرجي & فات لوسس. ديزايند فور سيرياوس ريزالتس. شوب Thermo Nuke XTناو.",
+          "url": "https://www.promolecules.com/product/thermo-nuke-xt/"
+        },
+        "author": "پروموليكوليس",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "دوبي"
+        },
+        "language": "ين",
+        "robots": "index,follow",
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "پروموليكوليس",
+          "title": "Thermo Nuke XT| High-Stim فات بيرنر باي پروموليكوليس™",
+          "description": "بوست ميتابوليسم, بورن فات فإيه إستير & ينكريإيه إسي إنرجي ويذ ثيرمو نيوك إكس تي. ديزايند فور اغغريسسيڤي فات لوسس.",
+          "image": "https://www.promolecules.com/product-image.webp"
+        },
+        "ldjson": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "پروموليكوليس",
+          "url": "https://www.promolecules.com/product/thermo-nuke-xt/",
+          "logo": "https://www.promolecules.com/logo.webp",
+          "sameAs": [
+            "https://www.instagram.com/promolecules/",
+            "https://www.threads.com/@promolecules",
+            "https://x.com/promolecules",
+            "https://in.pinterest.com/promolecules/",
+            "https://www.youtube.com/@Promolecules",
+            "https://www.facebook.com/promolecules.official"
+          ],
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "contactType": "customer service",
+              "email": "contact@promolecules.com"
+            }
+          ]
+        }
+      },
+      "servings": [
+        {
+          "size": "60 capsules",
+          "price": 35.99
+        }
+      ],
+      "variants": [
+        {
+          "flavour": "أن فليڤرد",
+          "size": "60 كابسول",
+          "price": 35.99,
+          "image": "/Promolecules/thermo/promolecules-thermo-nuke-xt.webp"
+        }
+      ],
+      "discounted": 41.2,
+      "images": [
+        "/Promolecules/thermo/promolecules-thermo-nuke-xt.webp",
+        "/Promolecules/thermo/thermo-nuke-xt-fat-burner.webp",
+        "/Promolecules/thermo/thermo-nuke-xt-fat-burning-capsules.webp",
+        "/Promolecules/thermo/thermo-nuke-xt-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/thermo/promolecules-thermo-nuke-xt-img.webp",
+      "keyBenefits": [
+        "اككيليراتيد فات بورنينغ",
+        "ثيرموغينيك هيت اكتيڤاشن",
+        "هاي إنرجي اوتپوت",
+        "اپپيتيتي سوپپريسجن سپورت",
+        "ينهانكيد فوكوس ديورينغ كوتتينغ",
+        "ريدوكيد ووتر ريتينشن لوك"
+      ],
+      "whychooseus": [
+        "Multi-stimulant ثيرموغينيك سيستيم",
+        "ديزايند فور ڤيسيبلي فات لوسس ريزالتس",
+        "نوت herbal-only—ريل پرفورمانس فورميولا"
+      ],
+      "howToUse": "تيك وني سيرڤينغ إن ذا مورنينغ, ويذ آن وپشنال سيكوند سيرڤينغ بيفور يور ووركاوت, أند إت إز بيست وسيد ديورينغ كالوريي ديفيكيت فإيه إسيس.",
+      "whatToAvoid": [
+        "أڤويد يوزينغ ويذ وثير stimulant-heavy پرودكتس",
+        "دو نوت تيك كلوسي تو بيدتيمي",
+        "نوت فور stimulant-sensitive وسيرس"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "داڤيد كوليمان",
+          "country": "يو إس إيه",
+          "des": "يوزينغ ذيس ديورينغ مي كوت فإيه إسي أند ذا ثيرموغينيك ريسپونسي إز نوتيكيبلي. كارديو سيسجنس فيل مور پرودوكتيڤي."
+        },
+        {
+          "id": 2,
+          "name": "راجات مالهوترا",
+          "country": "ينديا",
+          "des": "مورنينغ فإيه إستيد كارديو فيلس يإيه إسيير. ميتابوليسم فيلس اكتيڤي ثراوغهاوت ذا دي."
+        },
+        {
+          "id": 3,
+          "name": "لويس مارتينيز",
+          "country": "سپين",
+          "des": "فات بورنيرس راريلي وورك فور مي بوت ذيس وني اكتواللي ينكريإيه إسيس بادي هيت ديورينغ ترينينغ."
+        },
+        {
+          "id": 4,
+          "name": "موهيت ياداڤ",
+          "country": "ينديا",
+          "des": "إنرجي ديورينغ كالوريي ديفيكيت إز ذا بيغغيست بينيفيت."
+        },
+        {
+          "id": 5,
+          "name": "اليكس غرانت",
+          "country": "وك",
+          "des": "كلين ثيرموغينيك يففيكت ويذاوت ماكينغ مي انكسياوس."
+        },
+        {
+          "id": 6,
+          "name": "راهول پاتيل",
+          "country": "ينديا",
+          "des": "هيلپس مينتين ووركاوت ينتينسيتي يڤين ويلي دييتينغ."
+        },
+        {
+          "id": 7,
+          "name": "دانييل پيريز",
+          "country": "ميكسيكو",
+          "des": "سويت راتي ينكريإيه إسيس ديورينغ كارديو سيسجنس."
+        },
+        {
+          "id": 8,
+          "name": "سيددهارث جين",
+          "country": "ينديا",
+          "des": "ميتابوليك بوست إز نوتيكيبلي ديورينغ هييت."
+        },
+        {
+          "id": 9,
+          "name": "ومار الي",
+          "country": "واي",
+          "des": "هيلپس پوش ثراوغه low-energy ديز ديورينغ كوتتينغ."
+        },
+        {
+          "id": 10,
+          "name": "تشريس والكير",
+          "country": "يو إس إيه",
+          "des": "فيلس ليكي أ ميتابوليك اككيليراتور راثير ثان جوست كافيين."
+        },
+        {
+          "id": 11,
+          "name": "كونال ثاكور",
+          "country": "ينديا",
+          "des": "اپپيتيتي كونترول أند كلين إنرجي ديورينغ پريپ."
+        },
+        {
+          "id": 12,
+          "name": "ڤيكتور سانتوس",
+          "country": "برازيل",
+          "des": "ووركس ويلل بيفور كارديو سيسجنس."
+        },
+        {
+          "id": 13,
+          "name": "جاميس پورتير",
+          "country": "وك",
+          "des": "كلين فات بيرنر ويذاوت كرازي جيتتيرس."
+        },
+        {
+          "id": 14,
+          "name": "روهيت دإيه إس",
+          "country": "ينديا",
+          "des": "هيلپس مينتين فوكوس ويلي كوتتينغ كالورييس."
+        },
+        {
+          "id": 15,
+          "name": "كارلوس ريڤيرا",
+          "country": "ميكسيكو",
+          "des": "نوتيكيبلي ثيرموغينيك هيت ديورينغ ووركاوتس."
+        },
+        {
+          "id": 16,
+          "name": "اهميد فاروك",
+          "country": "واي",
+          "des": "غريت ادديشن فور مورنينغ ترينينغ."
+        },
+        {
+          "id": 17,
+          "name": "اديتيا مينون",
+          "country": "ينديا",
+          "des": "إنرجي ستيس ستيدي ديورينغ دييت فإيه إسي."
+        },
+        {
+          "id": 18,
+          "name": "مارك ليويس",
+          "country": "كانادا",
+          "des": "ثيرموغينيك يففيكت إز كونسيستينت."
+        },
+        {
+          "id": 19,
+          "name": "راهول سينها",
+          "country": "ينديا",
+          "des": "هيلپس پوش كارديو سيسجنس لونغير."
+        },
+        {
+          "id": 20,
+          "name": "جاكي تورنير",
+          "country": "اوستراليا",
+          "des": "كلين ميتابوليك إنرجي."
+        },
+        {
+          "id": 21,
+          "name": "ارجون پاتيل",
+          "country": "ينديا",
+          "des": "غود سپورت فور فات لوسس ترينينغ."
+        },
+        {
+          "id": 22,
+          "name": "دانييل كوستا",
+          "country": "پورتوغال",
+          "des": "فات بورنينغ يففيكت نوتيكيبلي ديورينغ كارديو."
+        },
+        {
+          "id": 23,
+          "name": "ساهيل غوپتا",
+          "country": "ينديا",
+          "des": "ووركس ويلل ديورينغ كالوريي ديفيكيت."
+        },
+        {
+          "id": 24,
+          "name": "غيورغي يڤانوڤ",
+          "country": "بولغاريا",
+          "des": "إمبروڤز ترينينغ اوتپوت ديورينغ كوت."
+        },
+        {
+          "id": 25,
+          "name": "ناڤين كومار",
+          "country": "ينديا",
+          "des": "إنرجي بوست ويذاوت كرإيه إسه."
+        },
+        {
+          "id": 26,
+          "name": "توم هوغهيس",
+          "country": "وك",
+          "des": "بالانكيد ثيرموغينيك فورميولا."
+        },
+        {
+          "id": 27,
+          "name": "يمران شييكه",
+          "country": "پاكيستان",
+          "des": "كارديو سيسجنس فيل مور پرودوكتيڤي."
+        },
+        {
+          "id": 28,
+          "name": "ميغويل لوپيز",
+          "country": "سپين",
+          "des": "كلين إنرجي أند سويت ينكريإيه إسي."
+        },
+        {
+          "id": 29,
+          "name": "اكإيه إسه شارما",
+          "country": "ينديا",
+          "des": "هيلپفول فور ستوببورن فات فإيه إسي."
+        },
+        {
+          "id": 30,
+          "name": "كيڤين هالل",
+          "country": "يو إس إيه",
+          "des": "وني أوف ذا بيتتير ثيرموغينيك سوپپليمينتس ي’ڤي وسيد."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "title": "Sobre a Promolecules™",
+  "backgroundImage": "/promolecules-about-banner.webp",
+  "backgroundAlt": "Imagem de fundo da seção Sobre",
+  "headings": [
+    {
+      "title": "QUEM SOMOS",
+      "url": "/about/who-we-are"
+    },
+    {
+      "title": "O QUE OFERECEMOS",
+      "url": "/about/what-we-deliver"
+    },
+    {
+      "title": "HISTÓRIA",
+      "url": "/about/history"
+    },
+    {
+      "title": "PERGUNTAS FREQUENTES",
+      "url": "/about/faq"
+    }
+  ],
+  "socials": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/promolecules/"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/promolecules.official"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://x.com/promolecules"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@Promolecules"
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://www.pinterest.com/promolecules/"
+    }
+  ],
+  "who-we-are": {
+    "hero": {
+      "title": "SOMOS A PROMOLECULES",
+      "description": "Uma marca de nutrição focada em desempenho, criada para pessoas que não se contentam com resultados medianos. Existimos para impulsionar ambições, desbloquear o potencial físico e apoiar aqueles que treinam com propósito, disciplina e intensidade. Nossa identidade está fundamentada em fórmulas respaldadas pela ciência, ingredientes de qualidade premium e um compromisso incansável com resultados.",
+      "backButton": "Voltar à página Sobre"
+    },
+    "performanceShowcase": [
+      {
+        "image": "/promolecules-about.webp",
+        "alt": "Desempenho à esquerda",
+        "text": "Pare de buscar a energia artificial de produtos cheios de cafeína e promessas enganosas. A Promolecules oferece ativação do sistema nervoso central desenvolvida para o desempenho, e não apenas um pico descontrolado de estimulantes.",
+        "tag": "— Somos uma marca de nutrição focada primeiro no desempenho"
+      },
+      {
+        "image": "/promolecules-about-background-image.webp",
+        "alt": "Atleta ao centro",
+        "text": "Desenvolvido para quem tem disciplina. Esta é a essência da arquitetura de desempenho — criada para aqueles que exigem mais de cada sessão de treino.",
+        "tag": "— Compromisso com desempenho, qualidade e resultados reais"
+      },
+      {
+        "image": "/promolecules-aboutimage.webp",
+        "alt": "Imagem sobre a Promolecules",
+        "text": "Mais do que um produto — uma cultura de força. Faça parte de uma comunidade construída sobre disciplina, determinação e busca incansável pelo desempenho de elite.",
+        "tag": "— Somos uma comunidade movida pela força"
+      }
+    ],
+    "moreInformation": {
+      "heading": "MAIS INFORMAÇÕES",
+      "items": [
+        {
+          "title": "NOSSA IDENTIDADE",
+          "content": "A Promolecules™ é uma marca de suplementos focada em desempenho, desenvolvida para atletas dedicados que exigem estimulação controlada, força mensurável e formulações disciplinadas. Somos especializados em sistemas de alta estimulação bioengenheirados, projetados para ativação neurológica controlada, desempenho sustentado e intensidade sem concessões em ambientes avançados de treinamento."
+        },
+        {
+          "title": "NOSSA MISSÃO",
+          "content": "Nossa missão é eliminar fórmulas com dosagens insuficientes e o uso irresponsável de estimulantes em excesso, oferecendo sistemas de desempenho desenvolvidos com precisão. A Promolecules™ cria suplementos de alto impacto e equilíbrio inteligente que potencializam energia, foco, força e resistência, respeitando a estabilidade neurológica a longo prazo e a evolução dos atletas."
+        },
+        {
+          "title": "NOSSA VISÃO",
+          "content": "Nossa visão é redefinir a nutrição esportiva global, estabelecendo novos padrões em formulações de estimulantes, transparência de ingredientes e desenvolvimento funcional de fórmulas. A Promolecules™ busca se tornar uma referência para atletas de alto desempenho que levam o treinamento a sério e procuram evolução sem concessões ou ilusões de marketing."
+        },
+        {
+          "title": "POR QUE PROMOLECULES",
+          "content": "Porque intensidade sem estrutura leva ao esgotamento. A Promolecules™ desenvolve fórmulas em camadas, calibradas para o desempenho, que ativam, sustentam e estabilizam os resultados. De pré-treinos de estimulação extremamente alta a sistemas de resistência, cada produto é desenvolvido para atletas focados em resultados que esperam domínio mensurável, e não apenas entusiasmo passageiro."
+        }
+      ]
+    }
+  },
+  "what-we-deliver": {
+    "hero": {
+      "heading": "O QUE OFERECEMOS",
+      "backgroundImage": "/whatwedeliver.webp",
+      "backgroundAlt": "Imagem de fundo do banner principal"
+    },
+    "middleStatement": "A Promolecules foi criada para pessoas que levam seu condicionamento físico a sério. Atendemos a um amplo público unido por um único objetivo — melhor desempenho e resultados reais.",
+    "servicesHeading": {
+      "first": "NOSSOS",
+      "second": "SERVIÇOS"
+    },
+    "servicesDescription": "Na Promolecules, nossos serviços vão além da venda de suplementos. Oferecemos soluções de nutrição focadas em desempenho, desenvolvidas para apoiar cada etapa da sua jornada fitness.",
+    "services": [
+      {
+        "number": "1",
+        "title": "Soluções de Nutrição para Desempenho",
+        "desc": "Desenvolvemos e oferecemos suplementos respaldados pela ciência, com foco no crescimento e fortalecimento muscular, energia, foco, resistência e recuperação. Cada produto é formulado para atender às exigências reais dos treinos, utilizando ingredientes premium.",
+        "image": "/promolecules-whatwedeliverim.webp"
+      },
+      {
+        "number": "2",
+        "title": "Pesquisa e Inovação",
+        "desc": "Nossa equipe estuda continuamente os avanços da ciência da nutrição esportiva para aprimorar nossas fórmulas. Adotamos ingredientes avançados, maior absorção e inovação como pilares de tudo o que criamos.",
+        "image": "/promolecules-whatwedeliverimg.webp"
+      },
+      {
+        "number": "3",
+        "title": "Suporte para Atletas e Treinadores",
+        "desc": "Apoiamos atletas, treinadores e profissionais de fitness oferecendo nutrição confiável voltada ao desempenho, orientações sobre suplementos de acordo com objetivos específicos e atualizações contínuas sobre nossos produtos.",
+        "image": "/promolecules-what-we-deliverim.webp"
+      }
+    ],
+    "middleStatementHighlights": [
+      "condicionamento físico a sério",
+      "melhor desempenho",
+      "resultados reais"
+    ]
+  },
+  "history": {
+    "historyHero": {
+      "heading": "ONDE TUDO COMEÇOU",
+      "highlight": "COMEÇOU",
+      "description": "Tudo começou nos bastidores das academias de verdade. Onde praticantes de musculação continuavam buscando algo que nunca conseguiam sentir. Fórmulas fracas. Nenhuma ativação. Nenhuma vantagem. Então surgiu o outro extremo. Estimulantes em excesso que causavam um impacto intenso… e uma queda ainda mais intensa. Foi nesse cenário que a Promolecules escolheu um caminho diferente. Nem fraco. Nem irresponsável.",
+      "subtitle": "Promolecules™ – História e Motivos por Trás das Fórmulas",
+      "backgroundImage": "/promolecules-footer-background-historyimages.webp",
+      "backgroundAlt": "Imagem de fundo da história da Promolecules",
+      "backButton": "Voltar à página Sobre",
+      "backButtonUrl": "/about"
+    },
+    "journeySection": {
+      "heading": "A JORNADA POR TRÁS DA PROMOLECULES",
+      "tagline": "NASCIDA DA CIÊNCIA, DESENVOLVIDA PARA O DESEMPENHO",
+      "description": "A Promolecules™ não foi criada para seguir as tendências do mercado de suplementos. Ela nasceu da insatisfação dentro de academias reais, onde praticantes dedicados eram obrigados a escolher entre dois extremos.",
+      "growthHeading": "CRESCIMENTO E EVOLUÇÃO",
+      "intro": "O primeiro foco da marca foi a ativação neurológica — compreender como o sistema nervoso central responde à administração de estimulantes em camadas, em vez de depender de doses excessivas de cafeína de uma única fonte.",
+      "image": "/history2.webp",
+      "imageAlt": "Crescimento"
+    },
+    "growthEvolutionFaq": [
+      {
+        "question": "QUANDO A PROMOLECULES FOI FUNDADA?",
+        "answer": "A Promolecules™ foi fundada no início da década de 2020, em um período no qual os suplementos com alta concentração de estimulantes ganhavam popularidade rapidamente, mas ainda careciam de formulações estruturadas. A marca surgiu em resposta à crescente demanda por sistemas de desempenho mais potentes e desenvolvidos de maneira mais inteligente."
+      },
+      {
+        "question": "POR QUE A PROMOLECULES FOI CRIADA?",
+        "answer": "A Promolecules™ foi criada para questionar o hábito da indústria de utilizar dosagens insuficientes de ingredientes essenciais ou doses excessivas de cafeína para gerar impacto no marketing. O objetivo era desenvolver suplementos de desempenho que proporcionassem intensidade real por meio de formulações estruturadas, e não de estimulação baseada em promessas exageradas."
+      },
+      {
+        "question": "QUAL PROBLEMA A PROMOLECULES BUSCAVA RESOLVER?",
+        "answer": "A marca buscava resolver três problemas principais: misturas proprietárias sem transparência, quedas bruscas de energia causadas por estimulantes descontrolados e qualidade inconsistente entre lotes. A Promolecules™ concentrou seus esforços na criação de fórmulas bioengenheiradas e cuidadosamente desenvolvidas, que proporcionam ativação controlada, desempenho sustentado e transparência para atletas dedicados."
+      },
+      {
+        "question": "COMO A PROMOLECULES EVOLUIU AO LONGO DO TEMPO?",
+        "answer": "A Promolecules™ começou com sistemas de desempenho de estimulação extremamente alta e expandiu seu portfólio para pré-treinos híbridos, termogênicos, potencializadores de ATP sem estimulantes, sistemas de pump e hidratação e suporte proteico. Essa evolução reflete a construção de um ecossistema mais amplo de desempenho, em vez de uma única categoria de produtos."
+      },
+      {
+        "question": "O QUE PERMANECEU CONSTANTE DESDE O INÍCIO?",
+        "answer": "O que permaneceu constante foi o princípio da intensidade estruturada. A Promolecules™ continua priorizando a estimulação controlada, o posicionamento voltado aos atletas, a comunicação transparente sobre a potência dos produtos e sistemas de desempenho desenvolvidos para promover evolução — e não para consumo casual."
+      }
+    ],
+    "blogsSection": {
+      "heading": "BLOG",
+      "readMore": "LEIA MAIS",
+      "noBlogsFound": "NENHUM ARTIGO ENCONTRADO",
+      "viewAll": "VER TODOS",
+      "by": "POR",
+      "authorSeparator": "•"
+    }
+  },
+  "faqSection": {
+    "faqHero": {
+      "heading": "POR QUE A PROMOLECULES ESTÁ ACIMA DE TODAS AS MARCAS DE SUPLEMENTOS DE BAIXA QUALIDADE",
+      "description": "O mercado global de suplementos enfrenta o que chamamos de síndrome da degradação das fórmulas, na qual os produtos perdem sua eficácia em um período de 3 a 14 dias.",
+      "faqTitle": "FAQ",
+      "faqSubtitle": "Perguntas Frequentes",
+      "faqDescription": "Encontre respostas para as perguntas mais frequentes. Ainda tem dúvidas?",
+      "backgroundImage": "/promolecules-faq-banner.webp",
+      "backgroundAlt": "Imagem de fundo",
+      "headingHighlight": "PROMOLECULES"
+    },
+    "comparisonSection": {
+      "heading": {
+        "first": "MERCADO PARALELO VS.",
+        "second": "PROMOLECULES"
+      },
+      "columns": {
+        "factor": "Fator Crítico",
+        "gray": "Marcas do Mercado Paralelo",
+        "promolecules": "Promolecules"
+      },
+      "rows": [
+        {
+          "factor": "PROTOCOLO DE CICLO DE DOSAGEM DE ESTIMULANTES",
+          "gray": "FASE X ALEATÓRIA",
+          "pro": "INTEGRIDADE DA FÓRMULA DISSOLVIDA"
+        },
+        {
+          "factor": "REGRESSÕES DA ADAPTAÇÃO NEURAL",
+          "gray": "PICO DE TOLERÂNCIA EM 7–14 DIAS",
+          "pro": "MODULAÇÃO SUSTENTADA DOS RECEPTORES NEURAIS"
+        },
+        {
+          "factor": "LIMITE DE SEGURANÇA CARDIOVASCULAR",
+          "gray": "DOSAGEM DE ESTIMULANTES NÃO IDENTIFICADA",
+          "pro": "EQUILÍBRIO VASCULAR EM CONFORMIDADE COM AS NORMAS ISO"
+        },
+        {
+          "factor": "DIVERSIDADE DAS VIAS TERMOGÊNICAS",
+          "gray": "METABOLISMO DE VIA ÚNICA / VIA BETA",
+          "pro": "EXPANSÃO METABÓLICA EM MÚLTIPLAS CAMADAS"
+        },
+        {
+          "factor": "TECNOLOGIA DE PRESERVAÇÃO DE ATP",
+          "gray": "DEGRADAÇÃO INSTÁVEL DA PRECISÃO",
+          "pro": "Sistema de Energia de Peptídeos Russos"
+        },
+        {
+          "factor": "GERENCIAMENTO DO ESTRESSE HEPÁTICO",
+          "gray": "SOBRECARGA DE COMPOSTOS TÓXICOS",
+          "pro": "TECNOLOGIAS DE PROTEÇÃO HEPÁTICA"
+        },
+        {
+          "factor": "ENGENHARIA DE NOOTRÓPICOS HÍBRIDOS",
+          "gray": "PROTOCOLO DE INCHAÇO POR EXCESSO DE SÓDIO",
+          "pro": "EQUILÍBRIO SINÁPTICO DE GRAU FARMACÊUTICO"
+        },
+        {
+          "factor": "IMPACTO NEUROLÓGICO DA PRIMEIRA DOSE",
+          "gray": "ATIVAÇÃO NO LIMITE DO EFEITO PLACEBO",
+          "pro": "MANIFESTAÇÃO IMEDIATA DO DESEMPENHO"
+        },
+        {
+          "factor": "PROTOCOLO DE ELIMINAÇÃO DE METAIS PESADOS",
+          "gray": "RISCO DE CONTAMINAÇÃO POR CHUMBO/MERCÚRIO",
+          "pro": "CERTIFICAÇÃO OBRIGATÓRIA POR TERCEIROS NOS EUA"
+        },
+        {
+          "factor": "PROTEÇÃO DE ATP DURANTE A FASE DE DEFINIÇÃO MUSCULAR",
+          "gray": "EFEITO DE QUEIMA E PERDA DE VOLUME MUSCULAR",
+          "pro": "RETENÇÃO CELULAR ANTICATABÓLICA"
+        }
+      ]
+    },
+    "faqSection": [
+      {
+        "question": "POR QUE A MAIORIA DOS PRÉ-TREINOS DO MERCADO INDIANO DEIXA DE FUNCIONAR APÓS 1–2 SEMANAS?",
+        "answer": "Esse fenômeno é chamado de Engenharia de Tolerância Acelerada, uma estratégia deliberada de formulação na qual as marcas utilizam dosagens insuficientes de compostos essenciais, como beta-alanina (normalmente 800 mg em vez dos 3200 mg utilizados em doses terapêuticas), e derivados de cafeína degradados que provocam uma rápida adaptação neural. Os receptores de adenosina do organismo tornam-se menos sensíveis em 7–14 dias devido à qualidade inconsistente dos estimulantes e à ausência de tecnologias de modulação dos receptores. A maioria dos pré-treinos indianos apresenta o que chamamos de Manipulação do Limite de Estimulantes, misturando cafeína de grau farmacêutico (30–40%) com cafeína industrial residual (60–70%) para reduzir custos. Isso cria um efeito inicial que desaparece à medida que o sistema nervoso identifica o perfil inferior dos compostos. O Paradigma Promolecules: Father of Insane™ e WARFLEX™ utilizam uma Arquitetura de Cafeína de Múltiplas Fontes — combinando Caffeine Anhydrous, Dicaffeine Malate (2XCAFF™), Caffeine Citrate (Citra Caff™) e Caffeine HCL em proporções calculadas com precisão. Isso proporciona Ativação Neural Sustentada, em vez de padrões de pico e queda. Nossas dosagens terapêuticas validadas nos EUA (450 mg de cafeína total em Father of Insane e 395 mg em WARFLEX) são calibradas para uma Velocidade Zero de Adaptação Neural, o que significa que os efeitos permanecem consistentes ao longo de ciclos de 60–90 dias, sem exigir pausas para recuperação da tolerância."
+      },
+      {
+        "question": "POR QUE ALGUNS PRÉ-TREINOS CAUSAM QUEDAS EXTREMAS DE ENERGIA E ANSIEDADE?",
+        "answer": "A queda de energia que você sente é uma Cascata de Esgotamento Adrenal, causada pela liberação descontrolada de ioimbina (frequentemente 5–10 mg em vez dos 2,5 mg considerados seguros) e pela contaminação por estimulantes sintéticos. Marcas do mercado paralelo frequentemente utilizam compostos proibidos, como análogos de DMAA ou estimulantes sintéticos não identificados, que provocam uma ativação intensa do sistema nervoso simpático, seguida por uma queda drástica nos níveis de energia. O problema se agrava com a Ocultação da Origem da Cafeína, quando as marcas informam a presença de cafeína, mas utilizam fontes provenientes de síntese industrial tóxica em vez de processos de extração farmacêutica. Isso pode resultar em picos de cortisol, ciclos de ansiedade, palpitações cardíacas e a temida queda de energia duas horas após o treino, deixando você mais esgotado do que antes de começar. A Solução Promolecules: seguimos Protocolos de Limite de Segurança Cardiovascular GMP dos EUA. Nossas misturas de estimulantes passam por um processo de Calibração do Sistema Nervoso Simpático, no qual cada composto é equilibrado com L-Theanine (100 mg em WARFLEX) para ajudar a evitar episódios de ansiedade, mantendo uma energia explosiva. A Alpha Yohimbine é dosada com precisão em 2,5 mg, quantidade destinada a favorecer a mobilização de gordura sem desencadear respostas de pânico. O resultado? Uma Elevação Progressiva de Energia que proporciona disposição por 8–10 horas, sem a queda intensa que pode comprometer o restante do seu dia."
+      },
+      {
+        "question": "PRÉ-TREINOS COM ALTAS DOSES DE ESTIMULANTES SÃO PERIGOSOS PARA O CORAÇÃO?",
+        "answer": "Altas doses de estimulantes tornam-se perigosas quando há Infiltração de Compostos Não Identificados, um problema recorrente no mercado paralelo de suplementos da Índia. Eventos cardíacos podem ocorrer quando as marcas utilizam doses excessivas de estimulantes (equivalentes a 600–800 mg de cafeína), combinam compostos incompatíveis (ioimbina + sinefrina em níveis tóxicos) ou utilizam matérias-primas falsificadas contaminadas com metais pesados que sobrecarregam os tecidos cardiovasculares. O perigo não está necessariamente na cafeína em altas doses, mas na ausência de Tecnologia de Contrabalanço da Vasodilatação. Pré-treinos baratos podem elevar a pressão arterial sem favorecer a expansão dos vasos sanguíneos, criando uma sobrecarga cardiovascular perigosa durante exercícios compostos pesados. A Proteção Promolecules: Father of Insane™ é formulado de acordo com os padrões de divulgação de estimulantes em conformidade com a FDA dos EUA. Cada miligrama é identificado, testado e equilibrado com 1000 mg de L-Citrulline + 1600 mg de BetaAlanine em WARFLEX para favorecer a vasodilatação mediada pelo óxido nítrico. Os testes realizados por terceiros têm como objetivo eliminar o risco de contaminação por substâncias proibidas."
+      },
+      {
+        "question": "POR QUE A MAIORIA DOS TERMOGÊNICOS NÃO CONSEGUE ELIMINAR A GORDURA PERSISTENTE DA BARRIGA E DAS COXAS?",
+        "answer": "Os termogênicos econômicos sofrem com a Limitação da Termogênese de Via Única. Eles dependem exclusivamente de doses moderadas de cafeína (200–250 mg) e extrato de chá verde, aos quais o organismo pode se adaptar em 2–3 semanas por meio de mecanismos de defesa contra a redução metabólica. A gordura persistente (barriga, flancos e coxas) exige Antagonismo dos Receptores Alfa e Ativação Adrenérgica Beta-3 — mecanismos que podem ser ignorados por fórmulas mais baratas. Além disso, muitos queimadores de gordura não conseguem abordar a Resistência à Insulina do Tecido Adiposo Persistente. Sem compostos como Yohimbine HCL e GBBxt, os resultados da perda de gordura podem ser limitados. A Vantagem Promolecules: Thermo Nuke XT™ utiliza uma Estratégia de Aumento Metabólico em Múltiplas Camadas — combinando CitraSyn 50™ (sinefrina para aumentar a taxa metabólica), GBBxt (síntese de carnitina para o transporte de ácidos graxos), Yohimbine (bloqueio dos receptores alfa para atuar sobre a gordura persistente), Green Tea Extract (EGCG para termogênese) e Theobromine (fluxo sanguíneo para o tecido adiposo). A mistura Thermo Nuke de 650 mg foi desenvolvida para apoiar múltiplas vias de oxidação de gordura."
+      },
+      {
+        "question": "QUEIMADORES DE GORDURA DE MARCAS DE BAIXA QUALIDADE PODEM PREJUDICAR O FÍGADO?",
+        "answer": "Alguns produtos termogênicos mal formulados podem conter combinações de estimulantes não identificadas, matérias-primas contaminadas com metais pesados (chumbo, mercúrio e arsênio) ou doses excessivas de determinados compostos. Esses fatores podem aumentar a sobrecarga do fígado. O fígado processa todos os compostos que você ingere. A Proteção Promolecules: segundo a marca, Thermo Nuke XT™ passa por uma certificação obrigatória de eliminação de metais pesados em instalações GMP nos EUA. As vitaminas B6 e B12 estão incluídas para apoiar os processos metabólicos normais. A triagem de toxinas realizada por terceiros tem como objetivo identificar possíveis contaminações. Siga as instruções do rótulo do produto e consulte um profissional de saúde antes de usar."
+      },
+      {
+        "question": "POR QUE A RETENÇÃO DE LÍQUIDOS ACONTECE COM MUITOS PRODUTOS DE PUMP NA ÍNDIA?",
+        "answer": "O inchaço pode estar associado a desequilíbrios de sódio e eletrólitos, especialmente quando os produtos contêm excesso de sódio e quantidades insuficientes de potássio ou magnésio. Produtos de pump mal equilibrados também podem afetar a distribuição de líquidos no organismo. A Precisão Promolecules: HydraPump+™ utiliza Glicerol Líquido de Grau Farmacêutico (10 ml por porção) com eletrólitos: 300 mg de Sódio + 200 mg de Potássio + 200 mg de Magnésio provenientes do Sal Rosa do Himalaia e do Magnésio Glicinato. A fórmula também combina 3000 mg de Citrulline Malate 2:1."
+      },
+      {
+        "question": "POR QUE A MAIORIA DOS PRODUTOS DE HIDRATAÇÃO NÃO FUNCIONA BEM DURANTE TREINOS INTENSOS?",
+        "answer": "Os produtos de hidratação podem ser menos eficazes durante treinos intensos quando suas fórmulas de eletrólitos e suporte hídrico não estão adequadamente equilibradas. A Precisão Promolecules: HydraPump+™ utiliza Glicerol Líquido de Grau Farmacêutico (10 ml por porção) com quantidades equilibradas de Sódio, Potássio e Magnésio. Combinada com 3000 mg de Citrulline Malate 2:1, a fórmula foi desenvolvida para apoiar a hidratação e o desempenho durante os treinos."
+      },
+      {
+        "question": "POR QUE OS POTENCIALIZADORES DE ATP NÃO MELHORAM A RESISTÊNCIA DE MUITOS USUÁRIOS?",
+        "answer": "Alguns suplementos de ATP podem oferecer benefícios limitados devido à estabilidade dos precursores, à qualidade dos ingredientes ou às diferenças de formulação e dosagem. O verdadeiro aumento de ATP envolve as vias de energia celular, e não simplesmente a adição de compostos de adenosina. A Inovação Promolecules: INOPOWER-R™ utiliza uma mistura de ATP que combina Adenosine 5-Triphosphate, Hypoxanthine Riboside (Inosine) e Taurine em uma mistura de 600 mg. Também inclui B6 (50 mg) e B12 (500 mcg) para apoiar o metabolismo energético normal."
+      },
+      {
+        "question": "É VERDADE QUE MUITOS SUPLEMENTOS INDIANOS ESTÃO CONTAMINADOS COM METAIS PESADOS?",
+        "answer": "Alguns suplementos podem estar contaminados com metais pesados, como chumbo, mercúrio e arsênio, quando as matérias-primas ou os processos de fabricação não são adequadamente controlados. Os consumidores devem procurar produtos que apresentem testes de qualidade confiáveis e informações transparentes sobre sua fabricação. A Garantia Promolecules: a marca afirma que seus produtos são fabricados em instalações certificadas GMP nos EUA e passam por testes de eliminação de metais pesados e verificação de toxinas realizada por terceiros."
+      },
+      {
+        "question": "POR QUE ALGUNS PRÉ-TREINOS QUE PROMETEM AUMENTAR A TESTOSTERONA NÃO MELHORAM O DESEMPENHO?",
+        "answer": "Alguns produtos utilizam ingredientes como Tribulus, Fenugreek e Ashwagandha em dosagens que podem não proporcionar o efeito pretendido. O desempenho depende de vários fatores, incluindo treinamento, nutrição, recuperação e a própria formulação. A Abordagem Promolecules: WARFLEX™ é descrito pela marca como um Sistema de Suporte Hormonal Orientado ao Desempenho, e não como um substituto da testosterona. Sua fórmula inclui 3 mg de Boron Citrate, Alpha GPC (500 mg), Eria Jarensis (450 mg) e a mistura XBTR3 Pump Blend."
+      }
+    ]
+  }
+}

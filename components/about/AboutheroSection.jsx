@@ -1,9 +1,13 @@
 "use client";
 
 import ContactForm from "@/components/ContactForm";
-import React, { useState } from "react";
+import React from "react";
+import { useT } from "@/lib/i18n/client";
 
 export default function ContactheroSection() {
+  const c = useT("contact");
+  const t = c.contactHero || {};
+  const f = t.features || [];
 
 
 
@@ -18,13 +22,13 @@ export default function ContactheroSection() {
         <div className="relative z-10 max-w-7xl mx-auto px-5 sm:px-6 w-full max-w-[1600px] mx-auto">
 
           <h4 className="text-white text-4xl sm:text-6xl md:text-7xl lg:text-8xl creepster-regular uppercase ">
-            <span className="text-gray-200">Get In </span>
-            <span className="text-red-600">Touch</span>
+            <span className="text-gray-200">{t.heading?.first} </span>
+            <span className="text-red-600">{t.heading?.second}</span>
           </h4>
 
           <div className="mt-6">
             <p className="text-gray-300 luppercase text-md sm:text-lg md:text-xl lg:text-3xl font-bold anton-regular break-all">
-              CONTACT@PROMOLECULES.COM
+              {t.email}
             </p>
           </div>
 
@@ -33,31 +37,25 @@ export default function ContactheroSection() {
 
             <div className="flex item-center justify-center ">
               <h2 className="text-3xl creepster-regular uppercase leading-snug text-gray-200">
-                Let’s Make Something <br /> Amazing, Together
+                {t.tagline}
               </h2>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 text-xs uppercase tracking-wider">
 
               <div>
-                <h4 className="text-red-600  text-md font-bold">Strength</h4>
-                <p className="global-text-style">
-                  Engineered to amplify neurological drive and muscular output.
-                </p>
+                <h4 className="text-red-600  text-md font-bold">{f[0]?.title}</h4>
+                <p className="global-text-style">{f[0]?.description}</p>
               </div>
 
               <div>
-                <h5 className="text-red-600  text-md font-bold">Design</h5>
-                <p className="global-text-style">
-                  Structured ingredient architecture balancing stimulatio.
-                </p>
+                <h5 className="text-red-600  text-md font-bold">{f[1]?.title}</h5>
+                <p className="global-text-style">{f[1]?.description}</p>
               </div>
 
               <div>
-                <h6 className="text-red-600 text-md font-bold">Development</h6>
-                <p className="global-text-style">
-                  Built through performance-first research & testing.
-                </p>
+                <h6 className="text-red-600 text-md font-bold">{f[2]?.title}</h6>
+                <p className="global-text-style">{f[2]?.description}</p>
               </div>
 
             </div>
@@ -80,8 +78,8 @@ export default function ContactheroSection() {
       md:text-7xl
       lg:text-8xl
       xl:text-9xl">
-      <span className="text-gray-200">Lets Start To </span>
-      <span className="text-red-600">Work</span>
+      <span className="text-gray-200">{c.ctaSection?.heading?.first} </span>
+      <span className="text-red-600">{c.ctaSection?.heading?.second}</span>
     </h2>
   </div>  
 </section>

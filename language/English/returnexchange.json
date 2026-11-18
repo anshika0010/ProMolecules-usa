@@ -1,0 +1,124 @@
+{
+  "page": {
+    "title": "Return & Exchange Policy",
+    "intro": "At Promolecules, we are committed to providing you with high-quality supplements based in the UAE. If you are not completely satisfied with your purchase, we are here to help. Please read our policies carefully to understand your options for returns, exchanges, and refunds."
+  },
+  "navigation": [
+    {
+      "id": "window",
+      "label": "Return Window"
+    },
+    {
+      "id": "eligibility",
+      "label": "Return Eligibility"
+    },
+    {
+      "id": "non-returnable",
+      "label": "Non-Returnable Items"
+    },
+    {
+      "id": "defective",
+      "label": "Defective / Damaged / Incorrect Items"
+    },
+    {
+      "id": "exchanges",
+      "label": "Exchanges"
+    },
+    {
+      "id": "how-to",
+      "label": "How to Request a Return"
+    },
+    {
+      "id": "refunds",
+      "label": "Refunds"
+    },
+    {
+      "id": "contact",
+      "label": "Need Help?"
+    }
+  ],
+  "sections": [
+    {
+      "id": "window",
+      "eyebrow": "Act Quickly",
+      "title": "Return Window",
+      "content": [
+        "You have 7 days from the date of delivery to return an item. Unfortunately, if 7 days have passed since your order was delivered, we will not be able to offer you a refund or exchange."
+      ]
+    },
+    {
+      "id": "eligibility",
+      "eyebrow": "Strict Rules Apply",
+      "title": "Return Eligibility",
+      "content": [
+        "Due to the nature of dietary supplements and health and safety regulations, we have strict guidelines for returned products:",
+        "Unopened and Sealed: Your item must be unused, unopened, and in exactly the same condition as when you received it. The original safety seal must be completely intact.",
+        "Original Packaging: The item must be returned in its original packaging.",
+        "Proof of Purchase: A receipt or proof of purchase (order number or order confirmation email) is required to return an item."
+      ]
+    },
+    {
+      "id": "non-returnable",
+      "eyebrow": "For Health & Safety Reasons",
+      "title": "Non-Returnable Items",
+      "content": [
+        "For health and safety reasons, the following items cannot be returned or exchanged:",
+        "Products that have been opened, have a broken safety seal, or have been used.",
+        "Items marked as \"Final Sale\" or \"Clearance\".",
+        "Gift cards."
+      ]
+    },
+    {
+      "id": "defective",
+      "eyebrow": "If We Make a Mistake, We'll Make It Right",
+      "title": "Defective, Damaged, or Incorrect Items",
+      "content": [
+        "If you receive a defective, damaged, or incorrect item (for example, the wrong brand or flavour), please contact us within 3 days of delivery.",
+        "We will gladly replace the item or issue a full refund at no additional cost to you.",
+        "Please email info@promolecules.com with your order number and photos of the damaged or incorrect product so we can resolve the issue as quickly as possible."
+      ]
+    },
+    {
+      "id": "exchanges",
+      "eyebrow": "How Exchanges Work",
+      "title": "Exchanges",
+      "content": [
+        "We only exchange items if they are defective, damaged, or if the wrong product was sent to you.",
+        "If you accidentally ordered the wrong item and would like to exchange it for another product, you must return the original unopened item (following the return process below) and place a new order for the product you want."
+      ]
+    },
+    {
+      "id": "how-to",
+      "eyebrow": "Step by Step",
+      "title": "How to Request a Return",
+      "content": [
+        "To start the return process, please follow these steps:",
+        "Contact Us: Send an email to our support team at info@promolecules.com and include your order number and reason for the return.",
+        "Approval: If your return request is approved, we will send you a Return Merchandise Authorization (RMA) number and instructions on where to send your package.",
+        "Package and Ship: Carefully and securely package the unopened items. Please clearly write the RMA number on the outside of the package."
+      ],
+      "importantNote": "Important Note: You are responsible for paying the return shipping costs (unless the return is due to our error). Shipping costs are non-refundable. We strongly recommend using a trackable shipping service or insuring your package, as we cannot guarantee that we will receive your returned item."
+    },
+    {
+      "id": "refunds",
+      "eyebrow": "Getting Your Money Back",
+      "title": "Refunds",
+      "content": [
+        "Once we receive your returned item, our team will inspect it to ensure it meets our return criteria (unopened and sealed).",
+        "We will notify you of the refund status immediately after inspecting the item.",
+        "If your return is approved, we will initiate a refund to your credit card (or original payment method).",
+        "Depending on your card issuer's policies, the amount will be credited to your account within 5 to 10 business days."
+      ],
+      "note": "Please Note: Original shipping costs are non-refundable and will be deducted from your total refund amount."
+    },
+    {
+      "id": "contact",
+      "eyebrow": "We're Here to Help",
+      "title": "Need Help?",
+      "content": [
+        "If you have any questions about returning your item, please contact our customer support team."
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

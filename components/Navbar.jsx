@@ -6,6 +6,8 @@ import Image from "next/image";
 import { ShoppingCart, Menu, X, Search } from "lucide-react";
 import { usePathname } from "next/navigation";
 import SearchModal from "../components/SearchModal";
+import CountrySelector from "../components/CountrySelector";
+import { useT } from "@/lib/i18n/client";
 
 const Navbar = () => {
   const [searchOpen, setSearchOpen] = useState(false);
@@ -14,6 +16,7 @@ const Navbar = () => {
   const [lastScrollY, setLastScrollY] = useState(0);
   const [showNavbar, setShowNavbar] = useState(true);
   const pathname = usePathname();
+  const t = useT("navbar").navbar || {};
 
   /* ── Hide on scroll-down, show on scroll-up ── */
   useEffect(() => {
@@ -42,14 +45,9 @@ const Navbar = () => {
     setIsOpen(false);
   }, [pathname]);
 
-  const navLinks = [
-    { name: "HOME",    href: "/" },
-     { name: "SHOP",    href: "/shop" },
-    { name: "ABOUT",   href: "/about" },
-   
-    { name: "BLOGS",   href: "/blog" },
-    { name: "CONTACT", href: "/contact-us" },
-  ];
+  const navLinks = (t.navigation_links || []).map((l) => ({ name: l.label, href: l.href }));
+  const a11y = t.accessibility_labels || {};
+  const cart = t.cart_drawer || {};
 
   const isActive = (href) =>
     href === "/" ? pathname === "/" : pathname.startsWith(href);
@@ -75,7 +73,7 @@ const Navbar = () => {
           <Link href="/" className="flex-shrink-0 z-10">
             <Image
               src="/promolecules-logo.webp"
-              alt="Promolecules logo"
+              alt={t.logo_alt}
               width={150}
               height={150}
               priority
@@ -118,11 +116,16 @@ const Navbar = () => {
           {/* ── Right icons ── */}
           <div className="flex items-center gap-2 sm:gap-3">
 
+            {/* Country selector — visible md+ */}
+            <div className="hidden md:block">
+              <CountrySelector />
+            </div>
+
             {/* Search — visible md+ */}
             <button
               onClick={() => setSearchOpen(true)}
               className={`${iconBtn} hidden md:flex p-3 sm:p-3.5`}
-              aria-label="Search products"
+              aria-label={a11y.search_products}
             >
               <Search size={18} className="text-white sm:w-5 sm:h-5" />
             </button>
@@ -131,7 +134,7 @@ const Navbar = () => {
             {/* <button
               onClick={() => setCartOpen(true)}
               className={`${iconBtn} hidden md:flex p-3 sm:p-3.5`}
-              aria-label="View shopping cart"
+              aria-label={a11y.view_shopping_cart}
             >
               <ShoppingCart size={18} className="text-white sm:w-5 sm:h-5" />
             </button> */}
@@ -139,7 +142,7 @@ const Navbar = () => {
             {/* Hamburger — visible below lg (but on mobile only; tablet shows links above) */}
             <button
               className="lg:hidden flex items-center justify-center w-10 h-10 rounded-full border border-white/10 bg-black/30 text-white transition-colors hover:bg-white/10"
-              aria-label={isOpen ? "Close menu" : "Open menu"}
+              aria-label={isOpen ? a11y.close_menu : a11y.open_menu}
               onClick={() => setIsOpen(!isOpen)}
             >
               {isOpen ? <X size={20} /> : <Menu size={20} />}
@@ -152,7 +155,7 @@ const Navbar = () => {
         ════════════════════════════════════════ */}
         <div
           className={`lg:hidden overflow-hidden transition-all duration-400 ease-in-out
-            ${isOpen ? "max-h-[500px] opacity-100 mt-3" : "max-h-0 opacity-0 mt-0"}`}
+            ${isOpen ? "max-h-[900px] opacity-100 mt-3" : "max-h-0 opacity-0 mt-0"}`}
         >
           <div className="bg-black/90 backdrop-blur-md border border-white/10 rounded-2xl p-5 sm:p-6 space-y-5">
 
@@ -173,23 +176,28 @@ const Navbar = () => {
               ))}
             </div>
 
+            {/* Country selector — mobile only (md+ shows it in the header) */}
+            <div className="md:hidden">
+              <CountrySelector fullWidth />
+            </div>
+
             {/* Icon row — search + cart, always in the drawer */}
             <div className="flex items-center gap-3">
               <button
                 onClick={() => { setSearchOpen(true); setIsOpen(false); }}
                 className={`${iconBtn} flex-1 gap-2 py-3`}
-                aria-label="Search products"
+                aria-label={a11y.search_products}
               >
                 <Search size={18} className="text-white" />
-                <span className="text-white text-xs font-semibold tracking-widest">SEARCH</span>
+                <span className="text-white text-xs font-semibold tracking-widest">{t.mobile_drawer?.search}</span>
               </button>
               {/* <button
                 onClick={() => { setCartOpen(true); setIsOpen(false); }}
                 className={`${iconBtn} flex-1 gap-2 py-3`}
-                aria-label="View shopping cart"
+                aria-label={a11y.view_shopping_cart}
               >
                 <ShoppingCart size={18} className="text-white" />
-                <span className="text-white text-xs font-semibold tracking-widest">CART</span>
+                <span className="text-white text-xs font-semibold tracking-widest">{t.mobile_drawer?.cart}</span>
               </button> */}
             </div>
           </div>
@@ -221,13 +229,13 @@ const Navbar = () => {
           <div className="flex items-center gap-3">
             <ShoppingCart size={18} className="text-red-500" />
             <span className="text-white font-bold tracking-widest text-xs sm:text-sm uppercase">
-              Your Cart
+              {cart.title}
             </span>
           </div>
           {/* <button
             onClick={() => setCartOpen(false)}
             className="text-white/50 hover:text-white transition-colors bg-white/5 hover:bg-white/10 p-2 rounded-full"
-            aria-label="Close cart"
+            aria-label={a11y.close_cart}
           >
             <X size={16} />
           </button> */}
@@ -244,18 +252,17 @@ const Navbar = () => {
 
           <div className="space-y-2 sm:space-y-3">
             <h2 className="text-white font-extrabold text-lg sm:text-xl tracking-wide uppercase">
-              We're Working On It
+              {cart.working_heading}
             </h2>
             <p className="text-white text-xs sm:text-sm leading-relaxed max-w-[240px]">
-              Our cart experience is currently under construction. Check back
-              soon — something powerful is coming.
+              {cart.description}
             </p>
           </div>
 
           <div className="w-12 h-px bg-red-600/40" />
 
           <span className="text-red-500/70 text-xs tracking-[0.2em] uppercase font-semibold">
-            Coming Soon
+            {cart.coming_soon}
           </span>
         </div>
 
@@ -266,7 +273,7 @@ const Navbar = () => {
             onClick={() => setCartOpen(false)}
             className="flex items-center justify-center gap-2 w-full bg-red-600 hover:bg-red-700 text-white font-bold text-xs sm:text-sm tracking-widest uppercase py-3 sm:py-3.5 rounded-full transition-colors duration-200"
           >
-            Browse Shop
+            {cart.browse_shop}
           </Link>
         </div>
       </div>

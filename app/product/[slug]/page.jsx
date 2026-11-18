@@ -1,5 +1,7 @@
-import productsData from "@/data/productsdetail.json";
+import productsData from "@/language/English/productDetails.json";
 import ProductPageClient from "./ProductPageClient";
+import Messages from "@/lib/i18n/Messages";
+import { getProducts, getProductSummaries } from "@/lib/i18n/server";
 
 export async function generateStaticParams() {
   return productsData.products.map((product) => ({
@@ -10,7 +12,7 @@ export async function generateStaticParams() {
 // ✅ SEO — har product ka alag metadata
 export async function generateMetadata({ params }) {
   const { slug } = await params;
-  const product = productsData.products.find((p) => p.slug === slug);
+  const product = (await getProducts()).find((p) => p.slug === slug);
 
   if (!product?.seo) {
     return {
@@ -131,11 +133,12 @@ export async function generateMetadata({ params }) {
 export default async function ProductPage({ params }) {
   const { slug } = await params;
 
-  const product = productsData.products.find((p) => p.slug === slug);
+  const product = (await getProducts()).find((p) => p.slug === slug);
 
   if (!product) {
     return <div className="text-white p-10">Product Not Found</div>;
   }
+  const moreProducts = await getProductSummaries();
 
   // JSON-LD structured data
   const jsonld = product?.seo?.ldjson
@@ -150,7 +153,9 @@ export default async function ProductPage({ params }) {
           dangerouslySetInnerHTML={{ __html: jsonld }}
         />
       )}
-      <ProductPageClient product={product} />
+      <Messages ns={["product"]}>
+        <ProductPageClient product={product} moreProducts={moreProducts} />
+      </Messages>
     </>
   );
 }

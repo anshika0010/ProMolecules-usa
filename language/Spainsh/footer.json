@@ -1,0 +1,116 @@
+{
+  "footer": {
+    "section_headings": {
+      "disclaimer": "AVISO LEGAL",
+      "quick_links": "ENLACES RÁPIDOS",
+      "categories": "CATEGORÍAS",
+      "contact": "CONTACTO"
+    },
+    "disclaimer": "Diseñado exclusivamente para atletas exigentes y adultos sanos. Los productos Promolecules están formulados para apoyar el rendimiento deportivo, no para sustituir el asesoramiento médico profesional. Consulta siempre con un profesional sanitario antes de utilizarlos, especialmente si tienes alguna afección médica preexistente.\nUtilízalos de forma responsable. Comienza con las porciones recomendadas y evalúa tu tolerancia. No superes la dosis indicada.",
+    "quick_links": [
+      {
+        "label": "SOBRE NOSOTROS",
+        "href": "/about"
+      },
+      {
+        "label": "CONTACTO",
+        "href": "/contact-us"
+      },
+      {
+        "label": "PRODUCTOS",
+        "href": "/product"
+      },
+      {
+        "label": "BLOGS",
+        "href": "/blog"
+      },
+      {
+        "label": "PREGUNTAS FRECUENTES",
+        "href": "/about/faq/"
+      },
+      {
+        "label": "NACIONAL",
+        "href": "/domestic"
+      },
+      {
+        "label": "INTERNACIONAL",
+        "href": "/international"
+      }
+    ],
+    "categories": [
+      {
+        "label": "Pre-entrenamiento",
+        "href": "/high-stim-pre-workout/"
+      },
+      {
+        "label": "Father of Insane V.2",
+        "href": "https://www.fatherofinsane.com/"
+      },
+      {
+        "label": "HYDRAPUMP",
+        "href": "/hydrapump-liquid-glycerol-pre-workout-supplement/"
+      },
+      {
+        "label": "QUEMADOR DE GRASA",
+        "href": "/product?category=FAT%20BURNER"
+      },
+      {
+        "label": "POTENCIADOR DE ATP",
+        "href": "/product?category=ATP%20BOOSTER"
+      },
+      {
+        "label": "MERCHANDISING",
+        "href": "/merch"
+      }
+    ],
+    "contact": {
+      "email_label": "CORREO ELECTRÓNICO",
+      "email": "info@promolecules.com",
+      "social_links_label": "REDES SOCIALES",
+      "social_links": [
+        {
+          "label": "INSTAGRAM",
+          "href": "https://www.instagram.com/promolecules/"
+        },
+        {
+          "label": "FACEBOOK",
+          "href": "https://www.facebook.com/promolecules.official"
+        },
+        {
+          "label": "YOUTUBE",
+          "href": "https://www.youtube.com/@Promolecules"
+        },
+        {
+          "label": "PINTEREST",
+          "href": "https://in.pinterest.com/promolecules/"
+        }
+      ]
+    },
+    "brand_text": "PROMOLECULES",
+    "trademark": "TM",
+    "copyright": "©2026 PROMOLECULES™ TODA LOS DERECHOS RESERVADOS.",
+    
+    "scroll_to_top_aria_label": "Volver al inicio"
+  },
+  "preserved": {
+    "technical_code": "Conservar sin cambios los componentes de React/Next.js, hooks, animaciones de Framer Motion, iconos, clases CSS, controladores de eventos y comportamiento del desplazamiento. Traducir únicamente el texto estático visible para el usuario.",
+    "routes": [
+      "/about",
+      "/contact-us",
+      "/product",
+      "/blog",
+      "/about/faq/",
+      "/domestic",
+      "/international",
+      "/high-stim-pre-workout/",
+      "https://www.fatherofinsane.com/",
+      "/hydrapump-liquid-glycerol-pre-workout-supplement/",
+      "/product?category=FAT%20BURNER",
+      "/product?category=ATP%20BOOSTER",
+      "/merch"
+    ],
+    "email": "info@promolecules.com",
+    "brand_identifier": "PROMOLECULES",
+    "copyright_year": 2026
+  }
+}

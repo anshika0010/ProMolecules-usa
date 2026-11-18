@@ -1,0 +1,115 @@
+{
+  "footer": {
+    "section_headings": {
+      "disclaimer": "سلب مسئولیت",
+      "quick_links": "پیوندهای سریع",
+      "categories": "دسته‌بندی‌ها",
+      "contact": "تماس با ما"
+    },
+    "disclaimer": "این محصولات فقط برای ورزشکاران جدی و بزرگسالان دارای سبک زندگی سالم طراحی شده‌اند. محصولات پرومولکولز برای پشتیبانی از عملکرد تمرینی طراحی شده‌اند و جایگزین توصیه‌های پزشکی حرفه‌ای نیستند. پیش از مصرف، به‌ویژه اگر بیماری یا شرایط پزشکی از پیش موجود دارید، همیشه با متخصص مراقبت‌های سلامت مشورت کنید.\nمسئولانه مصرف کنید. با مقدار مصرف توصیه‌شده شروع کنید و میزان تحمل بدن خود را ارزیابی کنید. از مقدار مصرف پیشنهادی تجاوز نکنید.",
+    "quick_links": [
+      {
+        "label": "درباره ما",
+        "href": "/about"
+      },
+      {
+        "label": "تماس با ما",
+        "href": "/contact-us"
+      },
+      {
+        "label": "محصولات",
+        "href": "/product"
+      },
+      {
+        "label": "وبلاگ",
+        "href": "/blog"
+      },
+      {
+        "label": "سؤالات متداول",
+        "href": "/about/faq/"
+      },
+      {
+        "label": "داخلی",
+        "href": "/domestic"
+      },
+      {
+        "label": "بین‌المللی",
+        "href": "/international"
+      }
+    ],
+    "categories": [
+      {
+        "label": "پری‌ورک‌اوت",
+        "href": "/high-stim-pre-workout/"
+      },
+      {
+        "label": "فادر آو اینسین نسخه ۲",
+        "href": "https://www.fatherofinsane.com/"
+      },
+      {
+        "label": "هیدراپامپ",
+        "href": "/hydrapump-liquid-glycerol-pre-workout-supplement/"
+      },
+      {
+        "label": "چربی‌سوز",
+        "href": "/product?category=FAT%20BURNER"
+      },
+      {
+        "label": "تقویت‌کننده ATP",
+        "href": "/product?category=ATP%20BOOSTER"
+      },
+      {
+        "label": "محصولات تبلیغاتی و پوشاک برند",
+        "href": "/merch"
+      }
+    ],
+    "contact": {
+      "email_label": "ایمیل",
+      "email": "info@promolecules.com",
+      "social_links_label": "شبکه‌های اجتماعی",
+      "social_links": [
+        {
+          "label": "اینستاگرام",
+          "href": "https://www.instagram.com/promolecules/"
+        },
+        {
+          "label": "فیس‌بوک",
+          "href": "https://www.facebook.com/promolecules.official"
+        },
+        {
+          "label": "یوتیوب",
+          "href": "https://www.youtube.com/@Promolecules"
+        },
+        {
+          "label": "پینترست",
+          "href": "https://in.pinterest.com/promolecules/"
+        }
+      ]
+    },
+    "brand_text": "پرومولکولز",
+    "trademark": "TM",
+    "copyright": "©2026 پرومولکولز™. تمامی حقوق محفوظ است.",
+
+    "scroll_to_top_aria_label": "رفتن به بالای صفحه"
+  },
+  "preserved": {
+    "technical_code": "اجزای React/Next.js، هوک‌ها، Framer Motion، آیکون‌ها، کلاس‌های CSS، مدیریت‌کننده‌های رویداد و رفتار پیمایش را بدون تغییر نگه دارید. فقط متن‌های ثابت قابل مشاهده برای کاربران را ترجمه کنید.",
+    "routes": [
+      "/about",
+      "/contact-us",
+      "/product",
+      "/blog",
+      "/about/faq/",
+      "/domestic",
+      "/international",
+      "/high-stim-pre-workout/",
+      "https://www.fatherofinsane.com/",
+      "/hydrapump-liquid-glycerol-pre-workout-supplement/",
+      "/product?category=FAT%20BURNER",
+      "/product?category=ATP%20BOOSTER",
+      "/merch"   ],
+    "email": "info@promolecules.com",
+    "brand_identifier": "PROMOLECULES",
+    "copyright_year": 2026
+  }
+}

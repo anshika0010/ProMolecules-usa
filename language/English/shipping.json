@@ -1,0 +1,134 @@
+{
+  "page": {
+    "title": "Shipping & Returns",
+    "intro": "Authentic, high-quality supplements delivered safely to your doorstep. Everything you need to know about processing times, shipment tracking, international shipping, and how to return your order."
+  },
+  "navigation": [
+    {
+      "id": "processing",
+      "label": "Order Processing"
+    },
+    {
+      "id": "rates",
+      "label": "Shipping Rates & Delivery"
+    },
+    {
+      "id": "tracking",
+      "label": "Shipment Tracking"
+    },
+    {
+      "id": "quality",
+      "label": "Quality Assurance"
+    },
+    {
+      "id": "damages",
+      "label": "Damaged & Lost Packages"
+    },
+    {
+      "id": "address",
+      "label": "Incorrect Addresses"
+    },
+    {
+      "id": "international",
+      "label": "International Shipping"
+    },
+    {
+      "id": "returns",
+      "label": "Returns"
+    },
+    {
+      "id": "contact",
+      "label": "Contact Us"
+    }
+  ],
+  "sections": [
+    {
+      "id": "processing",
+      "eyebrow": "Before We Ship",
+      "title": "Order Processing Time",
+      "items": [
+        "All orders are processed within 1–3 business days.",
+        "Orders are not shipped or delivered on weekends or public holidays.",
+        "During periods of high order volume, shipments may be delayed by a few days. If your order experiences a significant delay, we will contact you by email or phone."
+      ]
+    },
+    {
+      "id": "rates",
+      "eyebrow": "Getting It to You",
+      "title": "Shipping Rates & Estimated Delivery Times",
+      "content": [
+        "We take pride in delivering orders quickly so you can receive your supplements without unnecessary delays."
+      ],
+      "items": [
+        "Standard shipping time: 2–5 business days.",
+        "Shipping costs are calculated and displayed at checkout. Standard shipping is also free for eligible orders above the specified minimum amount in the local currency.",
+        "Deliveries may occasionally be delayed due to weather conditions, carrier-related issues, or peak holiday periods."
+      ]
+    },
+    {
+      "id": "tracking",
+      "eyebrow": "Stay Informed",
+      "title": "Shipping Confirmation & Order Tracking",
+      "content": [
+        "Once your order has been shipped, you will receive a shipping confirmation email containing your tracking number. Tracking numbers become active within 24 hours, allowing you to follow your package until it is delivered."
+      ]
+    },
+    {
+      "id": "quality",
+      "eyebrow": "What You Receive",
+      "title": "Trusted US Brands & Quality Assurance",
+      "content": [
+        "We source products directly from leading supplement brands in the United States. Each product is stored in temperature-controlled environments before being packaged and shipped to you to preserve maximum effectiveness and freshness."
+      ]
+    },
+    {
+      "id": "damages",
+      "eyebrow": "If Something Goes Wrong",
+      "title": "Damaged & Lost Packages",
+      "content": [
+        "Promolecules is not responsible for products that are damaged or lost during transit. However, we still want you to have a positive experience.",
+        "If your order arrives damaged, please contact the shipping carrier or our support team to file a claim.",
+        "Please keep all packaging materials and damaged items until your claim has been fully resolved.",
+        "For assistance, contact us by email at info@promolecules.com."
+      ]
+    },
+    {
+      "id": "address",
+      "eyebrow": "Double-Check Before Completing Your Purchase",
+      "title": "Incorrect Shipping Addresses",
+      "content": [
+        "Customers are responsible for providing an accurate shipping address during checkout. Promolecules will not be responsible for packages delivered to an incorrect address provided by the customer.",
+        "If a package is returned to us due to an incorrect address, the customer will be responsible for paying any additional shipping costs required to resend the order."
+      ]
+    },
+    {
+      "id": "international",
+      "eyebrow": "Beyond Our Borders",
+      "title": "International Shipping",
+      "content": [
+        "We also offer international shipping. Standard shipping times (2–5 days) apply only to domestic orders. International shipments typically take 7–21 business days.",
+        "Your order may be subject to customs duties and taxes, including Value Added Tax (VAT), once it arrives in the destination country. Promolecules is not responsible for paying these charges."
+      ]
+    },
+    {
+      "id": "returns",
+      "eyebrow": "Changed Your Mind?",
+      "title": "How to Request a Return",
+      "steps": [
+        "Contact Us — Email info@promolecules.com with your order number and reason for the return.",
+        "Receive Approval — Once approved, we will send you a Return Merchandise Authorization (RMA) number along with instructions on where to send your package.",
+        "Package & Ship — Carefully and securely package the unopened items and clearly write the RMA number on the outside of the package."
+      ],
+      "note": "Please Note: Return shipping costs are the customer's responsibility (unless the return is due to our error), and shipping costs are non-refundable. We recommend using a trackable shipping service or shipping insurance, as we cannot guarantee receipt of returned items."
+    },
+    {
+      "id": "contact",
+      "eyebrow": "We're Here to Help",
+      "title": "Have Questions About Your Shipment?",
+      "content": [
+        "If you have any questions or concerns about your order's shipping status, our customer support team will be happy to assist you."
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

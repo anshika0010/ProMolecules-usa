@@ -6,59 +6,15 @@ import TrendingCategory from "@/components/TrendingCategory";
 import Image from "next/image";
 import { motion, AnimatePresence } from "framer-motion";
 import Link from "next/link";
+import { useT } from "@/lib/i18n/client";
 
 export default function ProductClient({ jsonld }) {
 
-  const products = [
-    {
-      title: "Father of Insane",
-      image: "/father-of-insane-pre-workout-65-Servings.webp",
-      price: "$1599",
-      description:
-        "Nitrox boosts explosive power and stamina with advanced nitric oxide technology.",
-      thumbnail: "/father-of-insane.webp",
-      link: "/product/father-of-insane",
-    },
-    {
-      title: "Warflex",
-      image: "/warflex-pre-workout-35-Servings.webp",
-      price: "$1899",
-      description:
-        "Hybrid pre workout built for real performance Combines energy, pump, and focus Balanced high-stim formula.",
-      thumbnail: "/warflex-thumbnail.webp",
-      link: "/product/warflex",
-    },
+  const t = useT("shop");
+  const products = t.products || [];
 
-    {
-      title: "Inopower-R",
-      image: "/promolecules-inpower-r.webp",
-      price: "$2099",
-      description:
-        "Clean energy without caffeine dependency Built on ATP energy system Supports endurance at cellular level.",
-      thumbnail: "/inpower.webp",
-      link: "/product/inopower-r/",
-    },
-    {
-      title: "Thermo Nuke XT",
-      image: "/thermonuke.png",
-      price: "$1799",
-      description:
-        "Built for serious fat loss phases Targets metabolism, not just stimulation.Thermogenic formula that increases heat output.",
-      thumbnail: "/thermo-thumbnail.webp",
-      link: "/product/thermo-nuke-xt/",
-    },
-    {
-      title: "Hydrapump+",
-      image: "/hydra.webp",
-      price: "$1799",
-      description:
-        "Hydrapump + is a liquid glycerol-based pump system built for real muscle performance.",
-      thumbnail: "/hydrapump-thumbnail.webp",
-      link: "/product/hydrapump",
-    },
-  ];
-
-  const [activeProduct, setActiveProduct] = useState(products[0]);
+  const [activeIndex, setActiveIndex] = useState(0);
+  const activeProduct = products[activeIndex] || {};
 
   return (
     <>
@@ -77,7 +33,7 @@ export default function ProductClient({ jsonld }) {
           {/* ── DESKTOP LAYOUT (lg+) ── */}
           <div className="hidden lg:flex flex-row items-center justify-between gap-18">
             {/* LEFT: text + thumbnails */}
-            <div className="flex-1 space-y-6 text-left">
+            <div className="flex-1 space-y-6 text-start">
               <AnimatePresence mode="wait">
                 <motion.div
                   key={activeProduct.title}
@@ -99,7 +55,7 @@ export default function ProductClient({ jsonld }) {
                   {activeProduct?.link && (
                     <Link href={activeProduct.link}>
                       <button className="bg-red-600 mt-4 cursor-pointer hover:bg-red-700 active:scale-95 transition-all px-4 py-2.5 sm:px-6 sm:py-3 rounded-2xl text-[10px] sm:text-xs uppercase tracking-wider font-semibold w-full sm:w-auto">
-                        View Details →
+                        {t.buttons?.viewDetails} <span className="inline-block rtl:rotate-180">→</span>
                       </button>
                     </Link>
                   )}
@@ -110,11 +66,11 @@ export default function ProductClient({ jsonld }) {
               <div className="relative z-10 pt-[200px]">
                 <div className="flex flex-wrap justify-start gap-3 sm:gap-4">
                   {products.map((product, index) => {
-                    const isActive = activeProduct.title === product.title;
+                    const isActive = index === activeIndex;
                     return (
                       <div
                         key={index}
-                        onClick={() => setActiveProduct(product)}
+                        onClick={() => setActiveIndex(index)}
                         className={`relative w-16 h-16 sm:w-18 sm:h-18 md:w-20 md:h-20 transition cursor-pointer rounded-lg border
   ${
     isActive
@@ -162,11 +118,11 @@ export default function ProductClient({ jsonld }) {
             {/* 1. THUMBNAILS ROW */}
             <div className="flex flex-wrap justify-center gap-3 w-full">
               {products.map((product, index) => {
-                const isActive = activeProduct.title === product.title;
+                const isActive = index === activeIndex;
                 return (
                   <div
                     key={index}
-                    onClick={() => setActiveProduct(product)}
+                    onClick={() => setActiveIndex(index)}
                     className={`relative w-14 h-14 xs:w-16 xs:h-16 sm:w-20 sm:h-20 transition cursor-pointer rounded-lg border
                       ${
                         isActive
@@ -224,7 +180,7 @@ export default function ProductClient({ jsonld }) {
                 {activeProduct?.link && (
                   <Link href={activeProduct.link}>
                     <button className="bg-red-600 mt-2 hover:bg-red-700 transition px-6 py-3 rounded-2xl text-xs uppercase tracking-wider font-semibold">
-                      View Details →
+                      {t.buttons?.viewDetails} <span className="inline-block rtl:rotate-180">→</span>
                     </button>
                   </Link>
                 )}

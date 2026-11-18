@@ -1,58 +1,10 @@
+"use client";
 import { Check } from "lucide-react";
+import { useT } from "@/lib/i18n/client";
 
 export default function ComparisonSection() {
-  const rows = [
-    {
-      factor: "STIMULANT DOSING CYCLE PROTOCOL",
-      gray: "RANDOMIZED PHASE X",
-      pro: "DISSOLVED FORMULA INTEGRITY",
-    },
-    {
-      factor: "NEURAL ADAPTATION REGRESSIONS",
-      gray: "7–14 DAY TOLERANCE SPIKE",
-      pro: "SUSTAINED NEURAL RECEPTOR MODULATION",
-    },
-    {
-      factor: "CARDIOVASCULAR SAFETY CEILING",
-      gray: "UNLABELED STIMULANT DOSING",
-      pro: "ISO-COMPLIANT VASCULARIZED BALANCE",
-    },
-    {
-      factor: "THERMOGENIC PATHWAY DIVERSITY",
-      gray: "SINGLE-JAW METABOLISM / BETA PATHWAY",
-      pro: "MULTI-LAYER METABOLIC EXPANSION",
-    },
-    {
-      factor: "ATP PRESERVATION TECHNOLOGY",
-      gray: "UNSTABLE PRECISION DEGRADATION",
-      pro: "Russian Peptide Energy System",
-    },
-    {
-      factor: "HEPATIC STRESS MANAGEMENT",
-      gray: "TOXIC COMPOUND OVERLOAD",
-      pro: "LIVER-SHIELDING TECHNOLOGIES",
-    },
-    {
-      factor: "HYBRID NOOTROPIC ENGINEERING",
-      gray: "SODIUM-JUMPING BLOAT PROTOCOL",
-      pro: "PHARMACEUTICAL-GRADE SYNAPSE BALANCE",
-    },
-    {
-      factor: "FIRST-DOSE NEUROLOGICAL IMPACT",
-      gray: "PLACEBO-THRESHOLD ACTIVATION",
-      pro: "IMMEDIATE PERFORMANCE MANIFESTATION",
-    },
-    {
-      factor: "HEAVY METAL CLEARANCE PROTOCOL",
-      gray: "LEAD/MERCURY CONTAMINATION RISK",
-      pro: "MANDATORY USA THIRD-PARTY CERTIFICATION",
-    },
-    {
-      factor: "CUTTING-PHASE ATP PROTECTION",
-      gray: "MUSCLE FLATNESS BURNING EFFECT",
-      pro: "ANTI-CATABOLIC CELLULAR RETENTION",
-    },
-  ];
+  const t = useT("about").faqSection?.comparisonSection || {};
+  const rows = t.rows || [];
 
   return (
     <section className="max-w-7xl mx-auto bg-black text-white px-6 md:px-16 py-6">
@@ -63,16 +15,16 @@ export default function ComparisonSection() {
           className="text-4xl md:text-6xl creepster-regular tracking-wide"
         
         >
-          GRAY MARKET VS{" "}
-          <span className="text-red-600">PROMOLECULES</span>
+          {t.heading?.first}{" "}
+          <span className="text-red-600">{t.heading?.second}</span>
         </h2>
       </div>
 
       {/* Table Header */}
       <div className="grid grid-cols-3 bg-red-600 text-black text-sm font-bold uppercase tracking-wide py-3 px-4">
-        <div>Critical Factor</div>
-        <div>Gray Market Brands</div>
-        <div className="text-right">Promolecules</div>
+        <div>{t.columns?.factor}</div>
+        <div>{t.columns?.gray}</div>
+        <div className="text-end">{t.columns?.promolecules}</div>
       </div>
 
       {/* Table Rows */}

@@ -1,0 +1,126 @@
+{
+  "page": {
+    "title": "Politique de confidentialité",
+    "brand": "Promolecules",
+    "lastUpdated": "10-11-2025",
+    "description": "Cette politique de confidentialité explique comment Promolecules™ (« Société », « nous », « notre », « nos ») collecte, utilise et protège vos données personnelles lorsque vous consultez notre site web ou effectuez un achat sur celui-ci. Nous respectons les normes du RGPD et du CCPA afin de garantir la sécurité de vos informations.",
+    "contactNotice": "Pour toute question relative à la confidentialité, contactez-nous à l'adresse suivante",
+    "contactEmail": "info@promolecules.com",
+    "lastUpdatedLabel": "Dernière mise à jour :"
+  },
+  "sections": [
+    {
+      "id": "who-we-are",
+      "eyebrow": "À propos de nous",
+      "title": "1. Qui sommes-nous ?",
+      "content": [
+        "Nom enregistré : Promolecules™. Nous expédions nos produits à l'international. Cette politique s'applique à tous les utilisateurs et clients de notre site web."
+      ]
+    },
+    {
+      "id": "information-we-collect",
+      "eyebrow": "Informations collectées",
+      "title": "2. Informations que nous collectons",
+      "subsections": [
+        {
+          "title": "Informations personnelles :",
+          "items": [
+            "Nom, adresse e-mail, numéro de téléphone",
+            "Adresse de facturation et de livraison",
+            "Détails des commandes et demandes de renseignements"
+          ]
+        },
+        {
+          "title": "Informations collectées automatiquement :",
+          "items": [
+            "Adresse IP, navigateur et informations sur l'appareil",
+            "Pages consultées et durée de navigation",
+            "Cookies et données de suivi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "how-we-use-your-data",
+      "eyebrow": "Finalité",
+      "title": "3. Comment nous utilisons vos données",
+      "items": [
+        "Traiter et livrer les commandes",
+        "Vérifier les paiements (Razorpay, PayPal, paiement à la livraison)",
+        "Fournir une assistance clientèle",
+        "Améliorer les performances du site",
+        "Envoyer des actualités et des offres promotionnelles",
+        "Prévenir la fraude et respecter la législation"
+      ],
+      "note": "Remarque : Nous ne vendons jamais vos données personnelles."
+    },
+    {
+      "id": "cookies-tracking",
+      "eyebrow": "Technologies de suivi",
+      "title": "4. Cookies et suivi",
+      "content": [
+        "Nous utilisons des cookies et des outils d'analyse (Google et Meta) afin d'améliorer le fonctionnement du site web, de personnaliser votre expérience et de mesurer ses performances. Vous pouvez désactiver les cookies à tout moment dans les paramètres de votre navigateur."
+      ]
+    },
+    {
+      "id": "payments-sharing",
+      "eyebrow": "Tiers",
+      "title": "5. Paiements et partage des données",
+      "content": [
+        "Les paiements sont traités de manière sécurisée par Razorpay, PayPal ou par paiement à la livraison. Nous pouvons partager certaines informations limitées avec :"
+      ],
+      "items": [
+        "Partenaire de livraison (DTDC)",
+        "Passerelles de paiement",
+        "Outils d'analyse (Google, Meta)"
+      ],
+      "notice": "Tous nos partenaires respectent des règles strictes en matière de confidentialité et de protection des données."
+    },
+    {
+      "id": "data-security",
+      "eyebrow": "Protection de vos données",
+      "title": "6. Sécurité des données",
+      "items": [
+        "Chiffrement SSL et protection par pare-feu",
+        "Accès limité et serveurs sécurisés",
+        "Surveillance régulière du système",
+        "Bien que nous prenions des précautions importantes, aucun système en ligne n'est sécurisé à 100 %."
+      ]
+    },
+    {
+      "id": "your-rights",
+      "eyebrow": "RGPD et CCPA",
+      "title": "7. Vos droits",
+      "content": [
+        "En vertu du RGPD et du CCPA, vous pouvez demander à consulter, corriger, supprimer ou limiter l'utilisation de vos données. Vous pouvez également retirer votre consentement ou vous opposer au partage de vos données.",
+        "Pour exercer vos droits, contactez-nous :"
+      ],
+      "email": "info@promolecules.com"
+    },
+    {
+      "id": "marketing-communications",
+      "eyebrow": "Restons en contact",
+      "title": "8. Marketing et communications",
+      "content": [
+        "En fournissant vos coordonnées, vous acceptez de recevoir des mises à jour concernant vos commandes, des annonces de lancement de produits et des offres promotionnelles. Vous pouvez vous désabonner à tout moment."
+      ]
+    },
+    {
+      "id": "childrens-privacy",
+      "eyebrow": "Condition d'âge",
+      "title": "9. Confidentialité des enfants",
+      "content": [
+        "Notre site web et nos produits ne sont pas destinés aux personnes de moins de 18 ans. Nous ne collectons pas sciemment de données concernant des mineurs."
+      ]
+    },
+    {
+      "id": "updates-contact",
+      "eyebrow": "Nous sommes là pour vous aider",
+      "title": "10. Mises à jour et contact",
+      "content": [
+        "Nous pouvons mettre à jour cette politique de confidentialité de temps à autre. En continuant à utiliser notre site, vous acceptez ces mises à jour."
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

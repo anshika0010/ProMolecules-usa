@@ -1,0 +1,126 @@
+{
+  "page": {
+    "title": "Dasar Privasi",
+    "brand": "Promolecules",
+    "lastUpdated": "10-11-2025",
+    "description": "Dasar Privasi ini menerangkan cara Promolecules™ (\"Syarikat\", \"kami\", \"milik kami\") mengumpul, menggunakan dan melindungi data peribadi anda apabila anda melawat laman web kami atau membuat pembelian daripadanya. Kami mematuhi piawaian GDPR dan CCPA untuk memastikan maklumat anda sentiasa selamat.",
+    "contactNotice": "Untuk sebarang pertanyaan berkaitan privasi, hubungi kami di",
+    "contactEmail": "info@promolecules.com",
+    "lastUpdatedLabel": "Kemas Kini Terakhir:"
+  },
+  "sections": [
+    {
+      "id": "who-we-are",
+      "eyebrow": "Tentang Kami",
+      "title": "1. Siapa Kami",
+      "content": [
+        "Nama Berdaftar: Promolecules™. Kami membuat penghantaran ke peringkat antarabangsa. Dasar ini terpakai kepada semua pengguna laman web dan pelanggan."
+      ]
+    },
+    {
+      "id": "information-we-collect",
+      "eyebrow": "Maklumat yang Kami Kumpulkan",
+      "title": "2. Maklumat yang Kami Kumpulkan",
+      "subsections": [
+        {
+          "title": "Maklumat Peribadi:",
+          "items": [
+            "Nama, alamat e-mel, nombor telefon",
+            "Alamat pengebilan/penghantaran",
+            "Butiran pesanan dan pertanyaan"
+          ]
+        },
+        {
+          "title": "Maklumat yang Dikumpulkan Secara Automatik:",
+          "items": [
+            "Alamat IP, pelayar, maklumat peranti",
+            "Halaman yang dilawati, tempoh masa yang diluangkan",
+            "Kuki dan data penjejakan"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "how-we-use-your-data",
+      "eyebrow": "Tujuan",
+      "title": "3. Cara Kami Menggunakan Data Anda",
+      "items": [
+        "Memproses dan menghantar pesanan",
+        "Mengesahkan pembayaran (Razorpay, PayPal, COD)",
+        "Menyediakan sokongan pelanggan",
+        "Meningkatkan prestasi laman web",
+        "Menghantar kemas kini dan promosi",
+        "Mencegah penipuan dan mematuhi undang-undang"
+      ],
+      "note": "Nota: Kami tidak pernah menjual data peribadi anda."
+    },
+    {
+      "id": "cookies-tracking",
+      "eyebrow": "Teknologi Penjejakan",
+      "title": "4. Kuki dan Penjejakan",
+      "content": [
+        "Kami menggunakan kuki dan alat analitik (Google dan Meta) untuk meningkatkan fungsi laman web, memperibadikan pengalaman pengguna dan mengukur prestasi. Anda boleh menyahaktifkan kuki melalui tetapan pelayar anda pada bila-bila masa."
+      ]
+    },
+    {
+      "id": "payments-sharing",
+      "eyebrow": "Pihak Ketiga",
+      "title": "5. Pembayaran dan Perkongsian Maklumat",
+      "content": [
+        "Pembayaran diproses dengan selamat melalui Razorpay, PayPal atau COD. Kami mungkin berkongsi maklumat terhad dengan:"
+      ],
+      "items": [
+        "Rakan kongsi penghantaran (DTDC)",
+        "Gerbang pembayaran",
+        "Alat analitik (Google, Meta)"
+      ],
+      "notice": "Semua rakan kongsi mematuhi peraturan kerahsiaan dan perlindungan data yang ketat."
+    },
+    {
+      "id": "data-security",
+      "eyebrow": "Memastikan Keselamatan",
+      "title": "6. Keselamatan Data",
+      "items": [
+        "Penyulitan SSL dan perlindungan tembok api",
+        "Akses terhad dan pelayan yang selamat",
+        "Pemantauan sistem secara berkala",
+        "Walaupun kami mengambil langkah berjaga-jaga yang ketat, tiada sistem dalam talian yang 100% selamat."
+      ]
+    },
+    {
+      "id": "your-rights",
+      "eyebrow": "GDPR dan CCPA",
+      "title": "7. Hak Anda",
+      "content": [
+        "Di bawah GDPR dan CCPA, anda boleh memohon untuk mengakses, membetulkan, memadam atau mengehadkan penggunaan data anda. Anda juga boleh menarik balik persetujuan atau memilih untuk tidak membenarkan perkongsian data.",
+        "Untuk melaksanakan hak anda, hubungi:"
+      ],
+      "email": "info@promolecules.com"
+    },
+    {
+      "id": "marketing-communications",
+      "eyebrow": "Kekal Berhubung",
+      "title": "8. Pemasaran dan Komunikasi",
+      "content": [
+        "Dengan memberikan maklumat hubungan anda, anda bersetuju untuk menerima kemas kini pesanan, pelancaran produk dan tawaran promosi. Anda boleh berhenti melanggan pada bila-bila masa."
+      ]
+    },
+    {
+      "id": "childrens-privacy",
+      "eyebrow": "Had Umur",
+      "title": "9. Privasi Kanak-kanak",
+      "content": [
+        "Laman web dan produk kami tidak ditujukan kepada individu yang berumur di bawah 18 tahun. Kami tidak mengumpulkan data daripada golongan bawah umur dengan sengaja."
+      ]
+    },
+    {
+      "id": "updates-contact",
+      "eyebrow": "Kami Sedia Membantu",
+      "title": "10. Kemas Kini dan Hubungan",
+      "content": [
+        "Kami mungkin mengemas kini Dasar Privasi ini dari semasa ke semasa. Penggunaan berterusan laman web kami bermakna anda menerima kemas kini tersebut."
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

@@ -4,7 +4,8 @@ import { useState, useEffect, useRef } from "react";
 import { Search, X, ArrowRight } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
-import productsData from "@/data/productsdetail";
+import productsData from "@/language/English/productDetails.json";
+import { useT } from "@/lib/i18n/client";
 
 const ALL_PRODUCTS = productsData.products.map((p) => ({
   slug: p.slug,
@@ -18,6 +19,10 @@ export default function SearchModal({ isOpen, onClose }) {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState([]);
   const inputRef = useRef(null);
+  const tp = useT("product");
+  const t = tp.searchModal || {};
+  const categoryLabel = (value) =>
+    (tp.categories || []).find((c) => c.value === value)?.label || value;
 
   // Auto focus input when modal opens
   useEffect(() => {
@@ -41,9 +46,11 @@ export default function SearchModal({ isOpen, onClose }) {
     const filtered = ALL_PRODUCTS.filter(
       (p) =>
         p.name.toLowerCase().includes(q) ||
-        p.category.toLowerCase().includes(q)
+        p.category.toLowerCase().includes(q) ||
+        categoryLabel(p.category).toLowerCase().includes(q)
     );
     setResults(filtered);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [query]);
 
   // Close on Escape key
@@ -76,12 +83,13 @@ export default function SearchModal({ isOpen, onClose }) {
             type="text"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder="Search products..."
+            placeholder={t.placeholder}
             className="flex-1 bg-transparent text-white placeholder-white/30 text-base sm:text-lg outline-none font-barlowCondensed tracking-wider"
           />
           {query && (
             <button
               onClick={() => setQuery("")}
+              aria-label={t.clear}
               className="text-white/30 hover:text-white transition-colors"
             >
               <X size={18} />
@@ -89,7 +97,8 @@ export default function SearchModal({ isOpen, onClose }) {
           )}
           <button
             onClick={onClose}
-            className="text-white/30 hover:text-white transition-colors ml-1 border border-white/10 rounded-lg p-1.5"
+            aria-label={t.close}
+            className="text-white/30 hover:text-white transition-colors ms-1 border border-white/10 rounded-lg p-1.5"
           >
             <X size={16} />
           </button>
@@ -102,7 +111,7 @@ export default function SearchModal({ isOpen, onClose }) {
             <div className="flex flex-col items-center justify-center py-16 gap-3 text-center px-6">
               <Search size={40} className="text-white/10" />
               <p className="text-white/30 text-sm tracking-widest uppercase font-barlowCondensed">
-                Type to search products
+                {t.typeToSearch}
               </p>
             </div>
           )}
@@ -111,7 +120,7 @@ export default function SearchModal({ isOpen, onClose }) {
           {query && results.length === 0 && (
             <div className="flex flex-col items-center justify-center py-16 gap-3 text-center px-6">
               <p className="text-white/20 text-sm tracking-widest uppercase font-barlowCondensed">
-                No products found for &quot;{query}&quot;
+                {t.noResults} &quot;{query}&quot;
               </p>
             </div>
           )}
@@ -143,7 +152,7 @@ export default function SearchModal({ isOpen, onClose }) {
                         {product.name}
                       </p>
                       <p className="text-red-500 text-xs tracking-widest uppercase mt-0.5">
-                        {product.category}
+                        {categoryLabel(product.category)}
                       </p>
                     </div>
 
@@ -154,7 +163,7 @@ export default function SearchModal({ isOpen, onClose }) {
                       </span>
                       <ArrowRight
                         size={16}
-                        className="text-white/20 group-hover:text-red-500 group-hover:translate-x-1 transition-all duration-200"
+                        className="text-white/20 group-hover:text-red-500 group-hover:translate-x-1 rtl:rotate-180 rtl:group-hover:-translate-x-1 transition-all duration-200"
                       />
                     </div>
                   </Link>
@@ -167,10 +176,10 @@ export default function SearchModal({ isOpen, onClose }) {
         {/* Footer hint */}
         <div className="px-5 py-3 border-t border-white/5 flex items-center justify-between">
           <span className="text-white/20 text-xs tracking-widest uppercase">
-            {results.length > 0 ? `${results.length} result${results.length > 1 ? "s" : ""}` : ""}
+            {results.length > 0 ? `${results.length} ${results.length > 1 ? t.results : t.result}` : ""}
           </span>
           <span className="text-white/20 text-xs tracking-widest">
-            ESC to close
+            {t.escToClose}
           </span>
         </div>
       </div>

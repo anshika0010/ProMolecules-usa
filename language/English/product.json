@@ -1,0 +1,91 @@
+{
+  "heading": "PRODUCTS",
+  "categories": [
+    {
+      "value": "ALL",
+      "label": "ALL"
+    },
+    {
+      "value": "PRE-WORKOUT",
+      "label": "PRE-WORKOUT"
+    },
+    {
+      "value": "FAT BURNER",
+      "label": "FAT BURNER"
+    },
+    {
+      "value": "ATP BOOSTER",
+      "label": "ATP BOOSTER"
+    },
+    {
+      "value": "MUSCLE HYDRATION",
+      "label": "MUSCLE HYDRATION"
+    }
+  ],
+  "search": "SEARCH...",
+  "sort": "SORT",
+  "sortOptions": {
+    "default": "SORT",
+    "priceLow": "LOW → HIGH",
+    "priceHigh": "HIGH → LOW"
+  },
+  "view": "View",
+  "noResults": "NO RESULTS",
+  "tryDifferentSearch": "TRY A DIFFERENT SEARCH",
+  "detail": {
+    "flavours": "FLAVOURS",
+    "servings": "SERVINGS",
+    "buyNowOn": "BUY NOW ON",
+    "buyOn": "Buy on",
+    "launchingSoon": "Launching Soon...",
+    "launchingSoonText": "This product will be available online soon.",
+    "whatsappEarlyAccess": "WhatsApp us for early access",
+    "supplementFacts": "Supplement Facts",
+    "productAlt": "product",
+    "thumbnailAlt": "thumbnail",
+    "sections": {
+      "description": "DESCRIPTION",
+      "keyBenefits": "KEY BENEFITS",
+      "whyChooseUs": "WHY CHOOSE US?",
+      "howToUse": "HOW TO USE",
+      "safetyInformation": "SAFETY INFORMATION",
+      "whoShouldUse": "WHO SHOULD USE"
+    },
+    "moreProductsHeading": "Don’t Miss Out – Shop & Save",
+    "notFound": "Product Not Found"
+  },
+  "faq": {
+    "badge": "Frequently Asked Questions",
+    "heading": "Everything You Need to Know About",
+    "description": "Find answers to the most common questions , ingredients, usage, benefits, safety, and performance."
+  },
+  "reviews": {
+    "heading": "CUSTOMER REVIEWS",
+    "basedOn": "Based on",
+    "review": "Review",
+    "reviews": "Reviews",
+    "averageRating": "Average customer rating",
+    "star": "STAR",
+    "stars": "STARS",
+    "viewMore": "VIEW MORE...",
+    "noReviews": "No reviews found for this product."
+  },
+  "reviewModal": {
+    "heading": "Write a Review",
+    "name": "Your Name",
+    "email": "Your Email",
+    "review": "Write your review...",
+    "submit": "Submit Review",
+    "close": "Close"
+  },
+  "searchModal": {
+    "placeholder": "Search products...",
+    "typeToSearch": "Type to search products",
+    "noResults": "No products found for",
+    "result": "result",
+    "results": "results",
+    "escToClose": "ESC to close",
+    "clear": "Clear search",
+    "close": "Close search"
+  }
+}

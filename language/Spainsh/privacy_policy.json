@@ -1,0 +1,126 @@
+{
+  "page": {
+    "title": "Política de privacidad",
+    "brand": "Promolecules",
+    "lastUpdated": "10-11-2025",
+    "description": "Esta Política de privacidad explica cómo Promolecules™ («Empresa», «nosotros», «nuestro», «nos») recopila, utiliza y protege tus datos personales cuando visitas nuestro sitio web o realizas una compra en él. Cumplimos con los estándares del RGPD y la CCPA para mantener tu información segura.",
+    "contactNotice": "Si tienes alguna pregunta relacionada con la privacidad, puedes contactarnos en",
+    "contactEmail": "info@promolecules.com",
+    "lastUpdatedLabel": "Última actualización:"
+  },
+  "sections": [
+    {
+      "id": "who-we-are",
+      "eyebrow": "Sobre nosotros",
+      "title": "1. Quiénes somos",
+      "content": [
+        "Nombre registrado: Promolecules™. Realizamos envíos internacionales. Esta política se aplica a todos los usuarios y clientes de nuestro sitio web."
+      ]
+    },
+    {
+      "id": "information-we-collect",
+      "eyebrow": "Qué información recopilamos",
+      "title": "2. Información que recopilamos",
+      "subsections": [
+        {
+          "title": "Información personal:",
+          "items": [
+            "Nombre, correo electrónico y número de teléfono",
+            "Dirección de facturación y envío",
+            "Detalles de pedidos y consultas"
+          ]
+        },
+        {
+          "title": "Información recopilada automáticamente:",
+          "items": [
+            "Dirección IP, navegador e información del dispositivo",
+            "Páginas visitadas y tiempo de permanencia",
+            "Cookies y datos de seguimiento"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "how-we-use-your-data",
+      "eyebrow": "Finalidad",
+      "title": "3. Cómo utilizamos tus datos",
+      "items": [
+        "Procesar y entregar pedidos",
+        "Verificar pagos (Razorpay, PayPal, pago contra reembolso)",
+        "Ofrecer atención al cliente",
+        "Mejorar el rendimiento del sitio web",
+        "Enviar novedades y promociones",
+        "Prevenir el fraude y cumplir con la legislación"
+      ],
+      "note": "Nota: Nunca vendemos tus datos personales."
+    },
+    {
+      "id": "cookies-tracking",
+      "eyebrow": "Tecnología de seguimiento",
+      "title": "4. Cookies y seguimiento",
+      "content": [
+        "Utilizamos cookies y herramientas de análisis (Google y Meta) para mejorar la funcionalidad del sitio web, personalizar la experiencia y medir el rendimiento. Puedes desactivar las cookies en cualquier momento desde la configuración de tu navegador."
+      ]
+    },
+    {
+      "id": "payments-sharing",
+      "eyebrow": "Terceros",
+      "title": "5. Pagos e intercambio de información",
+      "content": [
+        "Los pagos se procesan de forma segura mediante Razorpay, PayPal o pago contra reembolso. Podemos compartir información limitada con:"
+      ],
+      "items": [
+        "Socio de envíos (DTDC)",
+        "Pasarelas de pago",
+        "Herramientas de análisis (Google, Meta)"
+      ],
+      "notice": "Todos nuestros socios cumplen estrictas normas de confidencialidad y protección de datos."
+    },
+    {
+      "id": "data-security",
+      "eyebrow": "Protección de tus datos",
+      "title": "6. Seguridad de los datos",
+      "items": [
+        "Cifrado SSL y protección mediante cortafuegos",
+        "Acceso limitado y servidores seguros",
+        "Supervisión periódica de los sistemas",
+        "Aunque tomamos medidas de precaución rigurosas, ningún sistema en línea es 100 % seguro."
+      ]
+    },
+    {
+      "id": "your-rights",
+      "eyebrow": "RGPD y CCPA",
+      "title": "7. Tus derechos",
+      "content": [
+        "En virtud del RGPD y la CCPA, puedes solicitar el acceso, la corrección, la eliminación o la limitación del uso de tus datos. También puedes retirar tu consentimiento o excluirte del intercambio de datos.",
+        "Para ejercer tus derechos, ponte en contacto con:"
+      ],
+      "email": "info@promolecules.com"
+    },
+    {
+      "id": "marketing-communications",
+      "eyebrow": "Mantente en contacto",
+      "title": "8. Marketing y comunicaciones",
+      "content": [
+        "Al proporcionar tus datos de contacto, aceptas recibir actualizaciones sobre pedidos, lanzamientos de productos y ofertas promocionales. Puedes darte de baja en cualquier momento."
+      ]
+    },
+    {
+      "id": "childrens-privacy",
+      "eyebrow": "Requisito de edad",
+      "title": "9. Privacidad de los menores",
+      "content": [
+        "Nuestro sitio web y nuestros productos no están destinados a personas menores de 18 años. No recopilamos deliberadamente datos de menores."
+      ]
+    },
+    {
+      "id": "updates-contact",
+      "eyebrow": "Estamos aquí para ayudarte",
+      "title": "10. Actualizaciones y contacto",
+      "content": [
+        "Es posible que actualicemos esta Política de privacidad ocasionalmente. Si continúas utilizando nuestro sitio web, se entenderá que aceptas dichas actualizaciones."
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "navbar": {
+    "navigation_links": [
+      {
+        "label": "HOME",
+        "href": "/"
+      },
+      {
+        "label": "SHOP",
+        "href": "/shop"
+      },
+      {
+        "label": "ABOUT",
+        "href": "/about"
+      },
+      {
+        "label": "BLOGS",
+        "href": "/blog"
+      },
+      {
+        "label": "CONTACT",
+        "href": "/contact-us"
+      }
+    ],
+    "logo_alt": "Promolecules logo",
+    "accessibility_labels": {
+      "search_products": "Search products",
+      "view_shopping_cart": "View shopping cart",
+      "close_menu": "Close menu",
+      "open_menu": "Open menu",
+      "close_cart": "Close cart"
+    },
+    "mobile_drawer": {
+      "search": "SEARCH",
+      "cart": "CART"
+    },
+    "cart_drawer": {
+      "title": "Your Cart",
+      "working_heading": "We're Working On It",
+      "description": "Our cart experience is currently under construction. Check back soon — something powerful is coming.",
+      "coming_soon": "Coming Soon",
+      "browse_shop": "Browse Shop"
+    },
+    "preserved": {
+      "technical_code": "Keep React/Next.js components, hooks, Framer Motion, icons, states, event handlers, scroll behavior, CSS classes, and SearchModal unchanged. Translate only static text visible to users.",
+      "routes": [
+        "/",
+        "/shop",
+        "/about",
+        "/blog",
+        "/contact-us"
+      ],
+      "logo_image": "/promolecules-logo.webp",
+      "cart_status": "The shopping cart UI currently displays an 'Under Construction' message; preserve its existing behavior.",
+      "scroll_behavior": "Hide the navigation bar when scrolling down more than 60 pixels, and show it again when scrolling up.",
+      "body_scroll_lock": "Lock body scrolling while the cart or mobile menu is open."
+    },
+    "country_selector": {
+      "button": "COUNTRY",
+      "aria_label": "Select your country",
+      "search_placeholder": "Search country...",
+      "no_results": "No country found"
+    }
+  }
+}

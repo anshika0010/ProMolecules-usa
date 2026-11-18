@@ -1,0 +1,65 @@
+{
+  "navbar": {
+    "navigation_links": [
+      {
+        "label": "خانه",
+        "href": "/"
+      },
+      {
+        "label": "فروشگاه",
+        "href": "/shop"
+      },
+      {
+        "label": "درباره ما",
+        "href": "/about"
+      },
+      {
+        "label": "وبلاگ",
+        "href": "/blog"
+      },
+      {
+        "label": "تماس با ما",
+        "href": "/contact-us"
+      }
+    ],
+    "logo_alt": "لوگوی پرومولکولز",
+    "accessibility_labels": {
+      "search_products": "جستجوی محصولات",
+      "view_shopping_cart": "مشاهده سبد خرید",
+      "close_menu": "بستن منو",
+      "open_menu": "باز کردن منو",
+      "close_cart": "بستن سبد خرید"
+    },
+    "mobile_drawer": {
+      "search": "جستجو",
+      "cart": "سبد خرید"
+    },
+    "cart_drawer": {
+      "title": "سبد خرید شما",
+      "working_heading": "در حال آماده‌سازی هستیم",
+      "description": "بخش سبد خرید ما در حال حاضر در دست ساخت است. به‌زودی دوباره سر بزنید؛ اتفاقات هیجان‌انگیزی در راه است.",
+      "coming_soon": "به‌زودی",
+      "browse_shop": "مشاهده فروشگاه"
+    },
+    "preserved": {
+      "technical_code": "اجزای React/Next.js، هوک‌ها، Framer Motion، آیکون‌ها، وضعیت‌ها، مدیریت‌کننده‌های رویداد، رفتار پیمایش، کلاس‌های CSS و SearchModal را بدون تغییر نگه دارید. فقط متن‌های ثابت قابل مشاهده برای کاربران را ترجمه کنید.",
+      "routes": [
+        "/",
+        "/shop",
+        "/about",
+        "/blog",
+        "/contact-us"
+      ],
+      "logo_image": "/promolecules-logo.webp",
+      "cart_status": "رابط کاربری سبد خرید در حال حاضر پیام «در دست ساخت» را نمایش می‌دهد؛ رفتار فعلی آن را حفظ کنید.",
+      "scroll_behavior": "پس از پیمایش بیش از ۶۰ پیکسل به پایین، نوار ناوبری مخفی شود و هنگام پیمایش به بالا دوباره نمایش داده شود.",
+      "body_scroll_lock": "هنگامی که سبد خرید یا منوی موبایل باز است، پیمایش بدنه صفحه قفل شود."
+    },
+    "country_selector": {
+      "button": "کشور",
+      "aria_label": "کشور خود را انتخاب کنید",
+      "search_placeholder": "جستجوی کشور...",
+      "no_results": "کشوری یافت نشد"
+    }
+  }
+}

@@ -2,11 +2,15 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { countryFromHost } from "@/lib/countries";
 
 export default function CountryPopup() {
   const [open, setOpen] = useState(false);
 
   useEffect(() => {
+    // Country subdomains (ae.promolecules.com, ...) already chose the region.
+    if (countryFromHost(window.location.hostname)) return;
+
     const selected = localStorage.getItem("selectedCountry");
 
     if (!selected) {

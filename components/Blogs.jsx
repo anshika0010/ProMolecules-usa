@@ -10,10 +10,12 @@ import { Autoplay } from "swiper/modules";
 import "swiper/css";
 
 import Image from "next/image";
+import { useT } from "@/lib/i18n/client";
 
 const Blogs = () => {
   const [blogs, setBlogs] = useState([]);
   const [loading, setLoading] = useState(true);
+  const t = useT("home").blog || {};
 
 useEffect(() => {
   async function loadBlogs() {
@@ -57,7 +59,7 @@ useEffect(() => {
               className="relative flex flex-col items-center w-full"
             >
               <h2 className="creepster-regular heading leading-none text-center">
-                BLOGS
+                {t.heading}
               </h2>
               <div className="h-1 bg-red-600 mt-2 w-20 sm:w-32 md:w-60 rounded-full" />
             </motion.div>
@@ -124,15 +126,15 @@ useEffect(() => {
                         {blog.name} 
                       </h3>
                       <p className="global-text-style text-[9px] sm:text-[10px] md:text-xs leading-relaxed line-clamp-2 text-gray-400">
-                        By {blog.author?.name} • {blog.publish_date}
+                        {t.by} {blog.author?.name} • {blog.publish_date}
                       </p>
                     </div>
                   </div>
 
                   {/* CTA Button */}
                   <div className="flex items-center justify-center gap-2 bg-red-600 hover:bg-red-700 text-white font-bold px-4 py-2.5 sm:py-3 rounded-full transition-all duration-300 text-xs sm:text-sm tracking-wider">
-                    <span>Read More</span>
-                    <ChevronRight size={16} />
+                    <span>{t.readMore}</span>
+                    <ChevronRight size={16} className="rtl:rotate-180" />
                   </div>
                 </Link>
               </SwiperSlide>
@@ -143,7 +145,7 @@ useEffect(() => {
         {/* No blogs fallback */}
         {!loading && blogs.length === 0 && (
           <p className="text-center text-gray-500 py-10 text-sm uppercase tracking-widest">
-            No blogs found.
+            {t.noBlogsFound}
           </p>
         )}
 
@@ -151,11 +153,11 @@ useEffect(() => {
         <div className="flex justify-center mt-6 sm:mt-10">
           <Link href="/blog">
             <button className="flex items-center gap-2 sm:gap-3 bg-transparent border-2 border-red-600 hover:bg-red-600 text-white font-bold px-7 sm:px-10 py-3 sm:py-4 rounded-full transition-all duration-300 text-xs sm:text-sm tracking-widest group cursor-pointer">
-              <span>VIEW ALL</span>
+              <span>{t.viewAll}</span>
               <div className="bg-red-600 group-hover:bg-white p-1.5 sm:p-2 rounded-full transition-colors">
                 <ChevronRight
                   size={16}
-                  className="text-white group-hover:text-red-600"
+                  className="text-white group-hover:text-red-600 rtl:rotate-180"
                 />
               </div>
             </button>

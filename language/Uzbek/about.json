@@ -1,0 +1,299 @@
+{
+  "title": "Promolecules™ haqida",
+  "backgroundImage": "/promolecules-about-banner.webp",
+  "backgroundAlt": "Fon tasviri",
+  "headings": [
+    {
+      "title": "BIZ KIMMIZ",
+      "url": "/about/who-we-are"
+    },
+    {
+      "title": "NIMALARNI TAKLIF QILAMIZ",
+      "url": "/about/what-we-deliver"
+    },
+    {
+      "title": "TARIXIMIZ",
+      "url": "/about/history"
+    },
+    {
+      "title": "KO‘P SO‘RALADIGAN SAVOLLAR",
+      "url": "/about/faq"
+    }
+  ],
+  "socials": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/promolecules/"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/promolecules.official"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://x.com/promolecules"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@Promolecules"
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://www.pinterest.com/promolecules/"
+    }
+  ],
+  "who-we-are": {
+    "hero": {
+      "title": "BIZ — PROMOLECULES",
+      "description": "O‘rtacha natijalar bilan cheklanmaydigan insonlar uchun yaratilgan, yuqori samaradorlikka yo‘naltirilgan sport oziqlanishi brendi. Bizning maqsadimiz — intilishni qo‘llab-quvvatlash, jismoniy imkoniyatlarni ochish hamda maqsad, intizom va yuqori shiddat bilan shug‘ullanadigan insonlarga yordam berish. Brendimiz ilmiy tadqiqotlarga asoslangan formulalar, yuqori sifatli ingredientlar va natijalarga tinimsiz e’tibor qaratish tamoyillariga asoslanadi.",
+      "backButton": "Biz haqimizdagi sahifaga qaytish"
+    },
+    "performanceShowcase": [
+      {
+        "image": "/promolecules-about.webp",
+        "alt": "Chap tomondagi samaradorlik tasviri",
+        "text": "Haddan tashqari kofeinli, shunchaki shov-shuvga asoslangan mahsulotlarning sun’iy energiyasiga ergashishni bas qiling. Promolecules — bu shunchaki tartibsiz stimulyator ta’siri emas, balki samaradorlik uchun ishlab chiqilgan markaziy asab tizimi faollashuvidir.",
+        "tag": "— Biz uchun samaradorlik birinchi o‘rinda"
+      },
+      {
+        "image": "/promolecules-about-background-image.webp",
+        "alt": "Markazdagi sportchi",
+        "text": "Intizomli insonlar uchun ishlab chiqilgan. Bu — yuqori samaradorlikning asosiy tuzilmasi bo‘lib, har bir mashg‘ulotdan ko‘proq natija kutadiganlar uchun yaratilgan.",
+        "tag": "— Samaradorlik, sifat va haqiqiy natijalarga sodiqmiz"
+      },
+      {
+        "image": "/promolecules-aboutimage.webp",
+        "alt": "Promolecules haqida tasvir",
+        "text": "Bu shunchaki mahsulot emas — bu kuch madaniyati. Intizom, matonat va yuqori darajadagi samaradorlikka tinimsiz intilish asosida shakllangan hamjamiyatga qo‘shiling.",
+        "tag": "— Biz kuchga asoslangan hamjamiyatmiz"
+      }
+    ],
+    "moreInformation": {
+      "heading": "QO‘SHIMCHA MA’LUMOT",
+      "items": [
+        {
+          "title": "BIZNING MOHIYATIMIZ",
+          "content": "Promolecules™ — aniq tartibga solingan stimulyatsiya, o‘lchanadigan kuch va puxta ishlab chiqilgan formulalarni talab qiladigan jiddiy sportchilar uchun yaratilgan, samaradorlikka yo‘naltirilgan qo‘shimchalar brendi. Biz nazorat qilinadigan nevrologik faollashuv, barqaror samaradorlik va ilg‘or mashg‘ulot sharoitlarida murosasiz intensivlikni ta’minlashga mo‘ljallangan bioinjeneriya asosidagi yuqori stimulyatsiyali tizimlarga ixtisoslashganmiz."
+        },
+        {
+          "title": "BIZNING MISSIYAMIZ",
+          "content": "Bizning missiyamiz — aniq ishlab chiqilgan samaradorlik tizimlarini taklif qilish orqali yetarli dozalanmagan formulalar va nazoratsiz stimulyatorlarning ortiqcha miqdoriga chek qo‘yish. Promolecules™ energiya, diqqat, kuch va chidamlilikni oshirishga yordam beradigan, uzoq muddatli nevrologik barqarorlik hamda sportchining rivojlanishini hisobga olgan holda muvozanatlangan, ta’sirchan qo‘shimchalarni yaratadi."
+        },
+        {
+          "title": "BIZNING KELAJAKDAGI MAQSADIMIZ",
+          "content": "Bizning maqsadimiz — stimulyatorlar tuzilishi, ingredientlar shaffofligi va funksional formulalar bo‘yicha yangi standartlarni belgilash orqali global sport oziqlanishi sohasini qayta shakllantirish. Promolecules™ marketing illyuziyalari yoki murosalarsiz rivojlanishni istaydigan yuqori samaradorlikka intiluvchi jiddiy sportchilar uchun asosiy mezonga aylanishni ko‘zlaydi."
+        },
+        {
+          "title": "NEGA AYNAN PROMOLECULES",
+          "content": "Chunki tartib va tuzilmasiz intensivlik charchashga olib keladi. Promolecules™ faollashtirish, samaradorlikni saqlash va natijalarni barqarorlashtirish uchun bosqichma-bosqich ishlab chiqilgan formulalarni yaratadi. Juda yuqori stimulyatsiyali pre-workout mahsulotlaridan tortib chidamlilik tizimlarigacha, har bir mahsulot vaqtinchalik shov-shuvni emas, balki o‘lchanadigan natijalarni kutadigan sportchilar uchun ishlab chiqilgan."
+        }
+      ]
+    }
+  },
+  "what-we-deliver": {
+    "hero": {
+      "heading": "NIMALARNI TAKLIF QILAMIZ",
+      "backgroundImage": "/whatwedeliver.webp",
+      "backgroundAlt": "Asosiy fon tasviri"
+    },
+    "middleStatement": "Promolecules jismoniy tayyorgarlikka jiddiy yondashadigan insonlar uchun yaratilgan. Biz bitta maqsad — yuqoriroq samaradorlik va haqiqiy natijalar yo‘lida birlashgan keng doiradagi insonlarga xizmat qilamiz.",
+    "servicesHeading": {
+      "first": "BIZNING",
+      "second": "XIZMATLARIMIZ"
+    },
+    "servicesDescription": "Promolecules’da xizmatlarimiz shunchaki qo‘shimchalarni sotish bilan cheklanmaydi. Biz jismoniy tayyorgarlik yo‘lingizning har bir bosqichini qo‘llab-quvvatlash uchun samaradorlikka yo‘naltirilgan oziqlanish yechimlarini taklif qilamiz.",
+    "services": [
+      {
+        "number": "1",
+        "title": "Sport Samaradorligi uchun Oziqlanish Yechimlari",
+        "desc": "Biz mushaklarning o‘sishi va kuchi, energiya, diqqat va chidamlilik hamda tiklanishga qaratilgan, ilmiy asoslangan qo‘shimchalarni ishlab chiqamiz va taqdim etamiz. Har bir mahsulot haqiqiy mashg‘ulot talablariga mos ravishda premium ingredientlar bilan tayyorlanadi.",
+        "image": "/promolecules-whatwedeliverim.webp"
+      },
+      {
+        "number": "2",
+        "title": "Tadqiqot va Innovatsiyalar",
+        "desc": "Jamoamiz formulalarni takomillashtirish uchun sport oziqlanishi sohasidagi yangi ilmiy tadqiqotlarni muntazam o‘rganadi. Biz ilg‘or ingredientlar, yaxshilangan so‘rilish texnologiyalari va innovatsiyalarni qo‘llab-quvvatlaymiz — yaratadigan har bir mahsulotimizning markazida innovatsiya turadi.",
+        "image": "/promolecules-whatwedeliverimg.webp"
+      },
+      {
+        "number": "3",
+        "title": "Sportchilar va Murabbiylarni Qo‘llab-quvvatlash",
+        "desc": "Biz sportchilar, murabbiylar va fitnes mutaxassislarini ishonchli sport oziqlanishi, maqsadga mos qo‘shimchalar bo‘yicha tavsiyalar hamda mahsulotlar haqidagi muntazam yangilanishlar bilan qo‘llab-quvvatlaymiz.",
+        "image": "/promolecules-what-we-deliverim.webp"
+      }
+    ],
+    "middleStatementHighlights": [
+      "jismoniy tayyorgarlikka jiddiy yondashadigan",
+      "yuqoriroq samaradorlik",
+      "haqiqiy natijalar"
+    ]
+  },
+  "history": {
+    "historyHero": {
+      "heading": "BARCHASI QANDAY BOSHLANGAN",
+      "highlight": "BOSHLANGAN",
+      "description": "Barchasi haqiqiy sport zallarining chekka burchaklarida boshlandi. Sportchilar o‘zlari kutgan ta’sirni hech qachon his qila olmaydigan mahsulotlarni izlashda davom etishardi. Zaif formulalar. Faollashuv yo‘q. Ustunlik yo‘q. Keyin esa buning aksi paydo bo‘ldi. Juda kuchli stimulyatorlar keskin ta’sir ko‘rsatardi… ammo undan ham keskinroq holatda ta’siri yo‘qolardi. Aynan shu yerda Promolecules boshqa yo‘lni tanladi. Na zaif, na mas’uliyatsiz.",
+      "subtitle": "Promolecules™ — Formula tarixi va uning yaratilish sabablari",
+      "backgroundImage": "/promolecules-footer-background-historyimages.webp",
+      "backgroundAlt": "Promolecules tarixi uchun fon",
+      "backButton": "Biz haqimizdagi sahifaga qaytish",
+      "backButtonUrl": "/about"
+    },
+    "journeySection": {
+      "heading": "PROMOLECULES ORTIDAGI YO‘L",
+      "tagline": "ILMDAN TUG‘ILGAN, SAMARADORLIK UCHUN YARATILGAN",
+      "description": "Promolecules™ qo‘shimchalar bozoridagi trendlar ortidan borish uchun yaratilmagan. U haqiqiy sport zallaridagi norozilikdan paydo bo‘lgan. Chunki jiddiy shug‘ullanuvchi sportchilar ikki keskin variantdan birini tanlashga majbur edilar.",
+      "growthHeading": "O‘SISH VA RIVOJLANISH",
+      "intro": "Brendning dastlabki e’tibori nevrologik faollashuvga qaratildi — markaziy asab tizimi bitta manbadan olinadigan ortiqcha kofein o‘rniga, bosqichma-bosqich yetkaziladigan stimulyatorlarga qanday javob berishini tushunishga.",
+      "image": "/history2.webp",
+      "imageAlt": "Rivojlanish"
+    },
+    "growthEvolutionFaq": [
+      {
+        "question": "PROMOLECULES QACHON TASHKIL ETILGAN?",
+        "answer": "Promolecules™ 2020-yillarning boshlarida, yuqori stimulyatorli qo‘shimchalar tez ommalashayotgan, biroq ularning formulalari yetarlicha puxta ishlab chiqilmagan davrda tashkil etilgan. Brend kuchliroq, shu bilan birga yanada oqilona ishlab chiqilgan samaradorlik tizimlariga bo‘lgan talab ortib borayotganiga javoban paydo bo‘ldi."
+      },
+      {
+        "question": "PROMOLECULES NIMA UCHUN YARATILGAN?",
+        "answer": "Promolecules™ sanoatdagi muhim ingredientlarni yetarli miqdorda ishlatmaslik yoki marketing ta’sirini kuchaytirish uchun kofeinni ortiqcha qo‘shish odatiga qarshi turish maqsadida yaratildi. Maqsad — shov-shuvga asoslangan stimulyatsiya emas, balki puxta ishlab chiqilgan formulalar orqali haqiqiy intensivlikni ta’minlaydigan samaradorlik qo‘shimchalarini yaratish edi."
+      },
+      {
+        "question": "PROMOLECULES QANDAY MUAMMONI HAL QILISHNI MAQSAD QILGAN?",
+        "answer": "Brend uchta asosiy muammoni hal qilishni maqsad qilgan: yashirin proprietary aralashmalar, tartibsiz stimulyator ta’sirining keskin pasayishi va partiyalar sifatining bir xil bo‘lmasligi. Promolecules™ nazorat qilinadigan faollashuv, barqaror samaradorlik va jiddiy sportchilar uchun shaffof yondashuvni ta’minlaydigan intizomli, bioinjeneriya asosidagi formulalarni yaratishga e’tibor qaratdi."
+      },
+      {
+        "question": "PROMOLECULES VAQT O‘TISHI BILAN QANDAY RIVOJLANDI?",
+        "answer": "Promolecules™ dastlab juda yuqori stimulyatsiyali samaradorlik tizimlari bilan ish boshladi va keyinchalik gibrid pre-workout mahsulotlari, termogenik formulalar, stimulyatorsiz ATP kuchaytirgichlari, gidratatsiyaga asoslangan pump tizimlari hamda oqsil qo‘llab-quvvatlash mahsulotlarini o‘z ichiga olgan holda kengaydi. Bu rivojlanish bitta mahsulot toifasidan ko‘ra kengroq samaradorlik ekotizimini aks ettiradi."
+      },
+      {
+        "question": "BOSHLANGANIDAN BERI NIMA O‘ZGARMAY QOLDI?",
+        "answer": "O‘zgarmagan asosiy tamoyil — tartibli intensivlikdir. Promolecules™ nazorat qilinadigan stimulyatsiya, sportchilarga yo‘naltirilgan yondashuv, mahsulot kuchi haqida shaffof ma’lumot va oddiy iste’mol uchun emas, balki rivojlanish uchun yaratilgan samaradorlik tizimlariga ustuvor ahamiyat berishda davom etmoqda."
+      }
+    ],
+    "blogsSection": {
+      "heading": "BLOG MAQOLALARI",
+      "readMore": "BATAFSIL O‘QISH",
+      "noBlogsFound": "BLOG MAQOLALARI TOPILMADI",
+      "viewAll": "BARCHASINI KO‘RISH",
+      "by": "MUALLIF:",
+      "authorSeparator": "•"
+    }
+  },
+  "faqSection": {
+    "faqHero": {
+      "heading": "NEGA PROMOLECULES ARZON SUPLEMENT BRENDLARIDAN USTUN?",
+      "description": "Global qo‘shimchalar bozori biz formula degradatsiyasi sindromi deb ataydigan muammoga duch kelmoqda. Bunda mahsulotlar 3–14 kun ichida samaradorligini yo‘qotadi.",
+      "faqTitle": "FAQ",
+      "faqSubtitle": "Ko‘p so‘raladigan savollar",
+      "faqDescription": "Barcha ko‘p so‘raladigan savollarga javob oling. Hali ham savollaringiz bormi?",
+      "backgroundImage": "/promolecules-faq-banner.webp",
+      "backgroundAlt": "Fon tasviri",
+      "headingHighlight": "PROMOLECULES"
+    },
+    "comparisonSection": {
+      "heading": {
+        "first": "NOQONUNIY BOZOR VS",
+        "second": "PROMOLECULES"
+      },
+      "columns": {
+        "factor": "Muhim omil",
+        "gray": "Noqonuniy bozor brendlari",
+        "promolecules": "Promolecules"
+      },
+      "rows": [
+        {
+          "factor": "STIMULYATOR DOZASINING SIKL PROTOKOLI",
+          "gray": "TASODIFIY X BOSQICHI",
+          "pro": "FORMULA YAXLITLIGI"
+        },
+        {
+          "factor": "NEVROLOGIK MOSLASHUVNING PASAYISHI",
+          "gray": "7–14 KUNLIK TOLERANTLIK KESKIN OSHISHI",
+          "pro": "NEVROLOGIK RETSEPTORLARNING BARQAROR BOSHQARILISHI"
+        },
+        {
+          "factor": "YURAK-QON TOMIR XAVFSIZLIGINING CHEGARASI",
+          "gray": "YORLIQDA KO‘RSATILMAGAN STIMULYATOR DOZASI",
+          "pro": "ISO TALABLARIGA MOS QON TOMIR MUVOZANATI"
+        },
+        {
+          "factor": "TERMOGENIK YO‘LLARNING XILMA-XILLIGI",
+          "gray": "BIR YO‘NALISHLI METABOLIZM / BETA YO‘LI",
+          "pro": "KO‘P QATLAMLI METABOLIK KENGAYISH"
+        },
+        {
+          "factor": "ATP NI SAQLASH TEXNOLOGIYASI",
+          "gray": "BARQAROR BO‘LMAGAN ANIQLIK VA DEGRADATSIYA",
+          "pro": "RUS PEPTID ENERGIYA TIZIMI"
+        },
+        {
+          "factor": "JIGARGA TUSHADIGAN YUKLAMANI BOSHQARISH",
+          "gray": "ZAHARLI BIRIKMALARNING ORTIQCHA MIQDORI",
+          "pro": "JIGARNI HIMOYA QILISH TEXNOLOGIYALARI"
+        },
+        {
+          "factor": "GIBRID NOOTROPIK MUHANDISLIGI",
+          "gray": "NATRIY MIQDORINING KESKIN O‘ZGARISHI VA SHISHISH PROTOKOLI",
+          "pro": "FARMATSEVTIK DARAJADAGI SINAPS MUVOZANATI"
+        },
+        {
+          "factor": "BIRINCHI DOZANING NEVROLOGIK TA’SIRI",
+          "gray": "PLACEBO CHEGARASIDAGI FAOLLASHUV",
+          "pro": "SAMARADORLIKNING DARHOL NAMOYON BO‘LISHI"
+        },
+        {
+          "factor": "OG‘IR METALLARNI ANIQLASH VA TOZALASH PROTOKOLI",
+          "gray": "QO‘RG‘OSHIN / SIMOB BILAN IFLOSLANISH XAVFI",
+          "pro": "AQSHDA MAJBURIY UCHINCHI TOMON SERTIFIKATSIYASI"
+        },
+        {
+          "factor": "CUTTING BOSQICHIDA ATP HIMOYASI",
+          "gray": "MUSHAKLARNING YASSILASHISHI VA KUYISH TA’SIRI",
+          "pro": "KATABOLIZMGA QARSHI HUJAYRAVIY SAQLANISH"
+        }
+      ]
+    },
+    "faqSection": [
+      {
+        "question": "NEGA HINDISTON BOZORIDAGI KO‘PCHILIK PRE-WORKOUT MAHSULOTLARI 1–2 HAFTADAN KEYIN TA’SIR QILMAY QO‘YADI?",
+        "answer": "Bu hodisa Tezlashtirilgan Tolerantlik Muhandisligi deb ataladi. Bu ayrim brendlar beta-alanin kabi muhim birikmalarni yetarli miqdorda qo‘shmasligi (odatda 800 mg, terapevtik doza esa 3200 mg) va tez nevrologik moslashuvni keltirib chiqaradigan sifati pasaygan kofein hosilalaridan foydalanishi bilan bog‘liq formula strategiyasidir. Stimulyatorlar sifati bir xil bo‘lmagani va retseptorlarni boshqarish texnologiyasi yetishmagani sababli organizmdagi adenozin retseptorlari 7–14 kun ichida sezgirligini yo‘qotishi mumkin. Hindistondagi ko‘plab pre-workout mahsulotlarida biz Stimulyator Chegarasini Manipulyatsiya Qilish deb ataydigan holat kuzatiladi: xarajatlarni kamaytirish uchun farmatsevtik darajadagi kofein (30–40%) sanoat chiqindilaridan olingan kofein (60–70%) bilan aralashtiriladi. Natijada dastlabki ta’sir paydo bo‘ladi, biroq asab tizimi sifatsiz birikmalar tarkibini anglagach, bu ta’sir pasayadi. Promolecules yondashuvi: Father of Insane™ va WARFLEX™ bir nechta manbali kofein arxitekturasidan foydalanadi. U aniq hisoblangan nisbatlarda Caffeine Anhydrous, Dicaffeine Malate (2XCAFF™), Caffeine Citrate (Citra Caff™) va Caffeine HCL birikmalarini birlashtiradi. Bu keskin ko‘tarilish va pasayish o‘rniga barqaror nevrologik faollashuvni ta’minlashga mo‘ljallangan. AQSHda tasdiqlangan terapevtik dozalarimiz (Father of Insane tarkibida jami 450 mg, WARFLEX tarkibida 395 mg kofein) 60–90 kunlik sikllarda tolerantlik tanaffuslarisiz ta’sirning barqaror qolishiga mo‘ljallangan."
+      },
+      {
+        "question": "NEGA AYRIM PRE-WORKOUT MAHSULOTLARI KUCHLI HOLDA ENERGIYA PASAYISHI VA XAVOTIRGA SABAB BO‘LADI?",
+        "answer": "Siz his qiladigan keskin energiya pasayishi Adrenal Charchash Kaskadi deb ataladi. Bunga yohimbine miqdorining nazoratsiz oshirilishi (ko‘pincha 5–10 mg, xavfsiz deb ko‘rsatilgan 2.5 mg o‘rniga) va sintetik stimulyatorlar bilan ifloslanish sabab bo‘lishi mumkin. Noqonuniy bozor brendlari ko‘pincha DMAA analoglari yoki yorliqda ko‘rsatilmagan sintetik stimulyatorlar kabi taqiqlangan birikmalardan foydalanadi. Ular simpatik asab tizimini keskin faollashtirib, keyinchalik energiyaning keskin kamayishiga olib kelishi mumkin. Bundan ham yomoni — kofein manbasini yashirish holati: brendlar kofeinni yorliqda ko‘rsatadi, ammo uni farmatsevtik ekstraksiya o‘rniga zaharli sanoat sintezi orqali olishi mumkin. Bu kortizol ko‘tarilishi, xavotir, yurak urishining tezlashishi va mashg‘ulotdan keyin ikki soat ichida kuchli charchashga olib kelishi mumkin. Promolecules yechimi: Biz AQSH GMP yurak-qon tomir xavfsizligi protokollariga amal qilamiz. Stimulyator aralashmalarimiz simpatik asab tizimini muvozanatlash jarayonidan o‘tadi. Har bir birikma WARFLEX tarkibidagi L-Theanine (100 mg) bilan muvozanatlashtiriladi. Bu kuchli energiyani saqlagan holda xavotirni kamaytirishga qaratilgan. Alpha Yohimbine yog‘larni safarbar qilishni qo‘llab-quvvatlash uchun 2.5 mg miqdorida aniq dozalanadi. Natijada kuningizga salbiy ta’sir ko‘rsatadigan keskin energiya pasayishisiz 8–10 soat davom etadigan toza energiya ta’siri hosil bo‘lishi ko‘zda tutilgan."
+      },
+      {
+        "question": "YUQORI STIMULYATORLI PRE-WORKOUT MAHSULOTLARI YURAK UCHUN XAVFLIMI?",
+        "answer": "Yuqori stimulyatorli mahsulotlar yorliqda ko‘rsatilmagan birikmalar bilan bog‘liq muammolar mavjud bo‘lganda xavfli bo‘lishi mumkin. Bu Hindistonning noqonuniy qo‘shimchalar bozorida keng tarqalgan muammolardan biridir. Brendlar stimulyatorlarni haddan tashqari ko‘p qo‘shganda (600–800 mg kofein ekvivalenti), mos kelmaydigan birikmalarni (zaharli darajadagi yohimbine + synephrine) birlashtirganda yoki og‘ir metallar bilan ifloslangan qalbaki xomashyodan foydalanganda yurak bilan bog‘liq hodisalar yuz berishi mumkin. Xavf faqat kofeinning yuqori miqdorida emas, balki qon tomirlarini kengaytirish muvozanati texnologiyasining yo‘qligidadir. Arzon pre-workout mahsulotlari qon bosimini oshirishi, ammo qon tomirlarining kengayishini qo‘llab-quvvatlamasligi mumkin. Bu og‘ir mashqlar vaqtida yurak-qon tomir tizimiga xavfli yuklama keltirib chiqaradi. Promolecules himoyasi: Father of Insane™ AQSH FDA talablariga mos stimulyatorlarni oshkor qilish standartlari asosida ishlab chiqilgan. Har bir milligramm yorliqda ko‘rsatiladi, tekshiriladi va WARFLEX tarkibidagi 1000 mg L-Citrulline hamda 1600 mg BetaAlanine bilan muvozanatlashtiriladi. Bu azot oksidi vositasida qon tomirlarining kengayishini qo‘llab-quvvatlashga qaratilgan. Uchinchi tomon sinovlari taqiqlangan moddalar bilan ifloslanish xavfini aniqlash va kamaytirishga mo‘ljallangan."
+      },
+      {
+        "question": "NEGA KO‘PCHILIK YOG‘ YOQUVCHI MAHSULOTLAR QORIN VA SONLARDAGI QAYSAR YOG‘LARNI YO‘QOTMAYDI?",
+        "answer": "Byudjet termogenik mahsulotlar bitta yo‘l orqali termogenezni faollashtirish chekloviga duch keladi. Ular faqat yengil kofein (200–250 mg) va yashil choy ekstraktiga tayanadi. Organizm esa Metabolik Pasayishga Qarshi Himoya mexanizmi orqali 2–3 hafta ichida bunga moslashishi mumkin. Qorin, bel yonlari va sonlardagi qaysar yog‘lar Alpha-Receptor Antagonism va Beta-3 Adrenergic Activation mexanizmlarini talab qiladi. Arzon formulalar esa bu mexanizmlarni e’tiborsiz qoldirishi mumkin. Bundan tashqari, ko‘plab yog‘ yoquvchi mahsulotlar yog‘ to‘qimalarining insulin qarshiligini hisobga olmaydi. Yohimbine HCL va GBBxt kabi birikmalarsiz yog‘ yo‘qotish natijalari cheklangan bo‘lishi mumkin. Promolecules ustunligi: Thermo Nuke XT™ ko‘p qatlamli metabolik faollashtirish tizimidan foydalanadi. U CitraSyn 50™ (metabolizm tezligini oshirish uchun synephrine), GBBxt (yog‘ kislotalarini tashish uchun karnitin sintezi), Yohimbine (qaysar yog‘lar uchun alfa-retseptor blokadasi), Green Tea Extract (termogenez uchun EGCG) va Theobromine (yog‘ to‘qimalariga qon oqimini qo‘llab-quvvatlash) birikmalarini birlashtiradi. 650 mg Thermo Nuke Blend yog‘ oksidlanishining bir nechta yo‘nalishini qo‘llab-quvvatlash uchun ishlab chiqilgan."
+      },
+      {
+        "question": "PAST SIFATLI BRENDLARNING YOG‘ YOQUVCHI MAHSULOTLARI JIGARGA ZARAR YETKAZISHI MUMKINMI?",
+        "answer": "Noto‘g‘ri ishlab chiqilgan ayrim termogenik mahsulotlarda yorliqda ko‘rsatilmagan stimulyator aralashmalari, og‘ir metallar (qo‘rg‘oshin, simob, mishyak) bilan ifloslangan xomashyo yoki ayrim birikmalarning haddan tashqari yuqori dozalari bo‘lishi mumkin. Bular jigarga qo‘shimcha yuklama tushirishi mumkin. Organizm qabul qilgan har bir birikma jigar orqali qayta ishlanadi. Promolecules himoyasi: Brend ma’lumotiga ko‘ra, Thermo Nuke XT™ AQSH GMP korxonalarida majburiy og‘ir metallarni tekshirish sertifikatsiyasidan o‘tadi. B6 va B12 vitaminlari normal metabolik jarayonlarni qo‘llab-quvvatlash uchun kiritilgan. Uchinchi tomon tomonidan toksinlarni tekshirish ehtimoliy ifloslanishni aniqlashga qaratilgan. Mahsulot yorlig‘idagi ko‘rsatmalarga amal qiling va foydalanishdan oldin tibbiyot mutaxassisi bilan maslahatlashing."
+      },
+      {
+        "question": "NEGA HINDISTONDA KO‘PLAB PUMP MAHSULOTLARIDAN FOYDALANGANDA ORGANIZMDA SUV USHLANIB QOLADI?",
+        "answer": "Shishish natriy va elektrolitlar muvozanatining buzilishi bilan bog‘liq bo‘lishi mumkin. Bu, ayniqsa, mahsulotlarda natriy ortiqcha, kaliy yoki magniy esa yetarli bo‘lmaganda kuzatiladi. Muvozanatsiz pump mahsulotlari suyuqlik taqsimotiga ham ta’sir qilishi mumkin. Promolecules aniqligi: HydraPump+™ har bir porsiyada 10 ml farmatsevtik darajadagi suyuq Glycerol va elektrolitlardan foydalanadi: Pink Himalayan Salt hamda Magnesium Glycinate manbalaridan 300 mg Sodium + 200 mg Potassium + 200 mg Magnesium. Formula shuningdek 3000 mg Citrulline Malate 2:1 ni o‘z ichiga oladi."
+      },
+      {
+        "question": "NEGA KO‘PCHILIK GIDRATATSIYA MAHSULOTLARI KUCHLI MASHG‘ULOTLAR VAQTIDA KUTILGAN NATIJANI BERMAYDI?",
+        "answer": "Elektrolitlar va suyuqlikni qo‘llab-quvvatlovchi formulalar to‘g‘ri muvozanatlanmagan bo‘lsa, gidratatsiya mahsulotlari kuchli mashg‘ulotlar vaqtida kamroq samarali bo‘lishi mumkin. Promolecules aniqligi: HydraPump+™ har bir porsiyada 10 ml farmatsevtik darajadagi suyuq Glycerol hamda muvozanatlangan Sodium, Potassium va Magnesium miqdoridan foydalanadi. 3000 mg Citrulline Malate 2:1 bilan birgalikda ushbu formula gidratatsiya va mashg‘ulot samaradorligini qo‘llab-quvvatlash uchun ishlab chiqilgan."
+      },
+      {
+        "question": "NEGA ATP KUCHAYTIRGICHLARI KO‘PCHILIK FOYDALANUVCHILARDA CHIDAMLILIKNI HAQIQATAN HAM OSHIRMAYDI?",
+        "answer": "Ayrim ATP qo‘shimchalari boshlang‘ich birikmalarning barqarorligi, ingredientlar sifati yoki formula va dozalardagi farqlar sababli cheklangan foyda berishi mumkin. ATP miqdorini haqiqiy oshirish shunchaki adenozin birikmalarini qo‘shish emas, balki hujayraviy energiya yo‘llari bilan bog‘liq. Promolecules innovatsiyasi: INOPOWER-R™ 600 mg aralashma tarkibida Adenosine 5-Triphosphate, Hypoxanthine Riboside (Inosine) va Taurine birikmalarini o‘z ichiga olgan ATP formulasidan foydalanadi. Normal energiya almashinuvini qo‘llab-quvvatlash uchun B6 (50 mg) va B12 (500 mcg) vitaminlari ham qo‘shilgan."
+      },
+      {
+        "question": "HINDISTONDAGI KO‘PLAB QO‘SHIMCHALAR OG‘IR METALLAR BILAN IFLOSLANGANI ROSTMI?",
+        "answer": "Xomashyo yoki ishlab chiqarish jarayonlari yetarlicha nazorat qilinmasa, ayrim qo‘shimchalar qo‘rg‘oshin, simob va mishyak kabi og‘ir metallar bilan ifloslanishi mumkin. Iste’molchilar ishonchli sifat sinovlari va shaffof ishlab chiqarish ma’lumotlariga ega mahsulotlarni tanlashlari kerak. Promolecules kafolati: Brend ma’lumotiga ko‘ra, uning mahsulotlari AQSH GMP sertifikatiga ega korxonalarda ishlab chiqariladi hamda og‘ir metallarni aniqlash va tozalash sinovlari hamda uchinchi tomon toksin tekshiruvidan o‘tadi."
+      },
+      {
+        "question": "NEGA TESTOSTERONNI OSHIRISHGA YO‘NALTIRILGAN AYRIM PRE-WORKOUT MAHSULOTLARI SAMARADORLIKNI UMUMAN YAXSHILAMAYDI?",
+        "answer": "Ayrim mahsulotlarda Tribulus, Fenugreek va Ashwagandha kabi ingredientlar mo‘ljallangan ta’sirni bermasligi mumkin bo‘lgan dozalarda ishlatiladi. Samaradorlik mashg‘ulot, ovqatlanish, tiklanish va formulaning o‘zi kabi ko‘plab omillarga bog‘liq. Promolecules yondashuvi: Brend WARFLEX™ mahsulotini testosteron o‘rnini bosuvchi vosita emas, balki samaradorlikka yo‘naltirilgan gormonal qo‘llab-quvvatlash tizimi sifatida ta’riflaydi. Uning formulasi tarkibida 3 mg Boron Citrate, Alpha GPC (500 mg), Eria Jarensis (450 mg) va XBTR3 Pump Blend mavjud."
+      }
+    ]
+  }
+}

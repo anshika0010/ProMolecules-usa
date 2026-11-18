@@ -234,3 +234,11 @@ body {
   color: #d1d5db;
   font-style: italic;
 }
+/* ── Arabic (RTL) ──
+   The Latin display fonts have no Arabic glyphs, so swap every font to Cairo
+   when the page is in Arabic. */
+html[lang="ar"] body,
+html[lang="ar"] body * {
+  font-family: var(--font-arabic), sans-serif !important;
+  letter-spacing: normal !important;
+}

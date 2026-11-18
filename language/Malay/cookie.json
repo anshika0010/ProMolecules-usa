@@ -1,0 +1,169 @@
+{
+  "page": {
+    "title": "Dasar Kuki",
+    "brand": "Promolecules™",
+    "lastUpdated": "10-02-2026",
+    "description": "Dasar Kuki ini menerangkan cara Promolecules™ (\"kami\") menggunakan kuki dan teknologi penjejakan yang serupa di laman web kami. Dengan menggunakan laman web kami, anda bersetuju dengan penggunaan kuki seperti yang diterangkan dalam dasar ini.",
+    "contactNotice": "Jika anda mempunyai sebarang pertanyaan, anda boleh menghubungi kami di:",
+    "contactEmail": "info@promolecules.com",
+    "lastUpdatedLabel": "Kemas Kini Terakhir:"
+  },
+  "sections": [
+    {
+      "id": "what-are-cookies",
+      "eyebrow": "Asas",
+      "title": "1. Apakah Kuki?",
+      "content": [
+        "Kuki ialah fail teks kecil yang disimpan pada peranti anda (komputer, telefon bimbit atau tablet) apabila anda melawat sesebuah laman web. Kuki membantu meningkatkan pengalaman pengguna dan membolehkan laman web mengingati tindakan atau pilihan anda dari semasa ke semasa."
+      ]
+    },
+    {
+      "id": "types-of-cookies",
+      "eyebrow": "Tidak Semua Kuki Adalah Sama",
+      "title": "2. Jenis Kuki yang Kami Gunakan",
+      "subsections": [
+        {
+          "title": "2.1 Kuki Penting / Sangat Diperlukan",
+          "items": [
+            "Proses pembayaran yang selamat",
+            "Navigasi laman web",
+            "Log masuk pengguna",
+            "Fungsi troli beli-belah"
+          ],
+          "notice": "Tanpa kuki ini, sesetengah ciri laman web mungkin tidak berfungsi dengan baik."
+        },
+        {
+          "title": "2.2 Kuki Prestasi dan Analitik",
+          "intro": "Kami menggunakan:",
+          "items": [
+            "Google Analytics",
+            "Meta (Facebook) Pixel"
+          ],
+          "collectIntro": "Alat ini mengumpulkan maklumat seperti:",
+          "collectItems": [
+            "Halaman yang dilawati",
+            "Tempoh masa yang dihabiskan di laman web",
+            "Corak klik",
+            "Maklumat peranti/pelayar"
+          ]
+        },
+        {
+          "title": "2.3 Kuki Keutamaan",
+          "items": [
+            "Pilihan bahasa",
+            "Wilayah",
+            "Pilihan log masuk",
+            "Produk yang pernah dilihat"
+          ]
+        },
+        {
+          "title": "2.4 Kuki Pengiklanan dan Penyasaran Semula",
+          "intro": "Rakan pengiklanan kami mungkin termasuk:",
+          "items": [
+            "Google Ads",
+            "Meta (Facebook dan Instagram)",
+            "Platform pemasaran semula yang lain"
+          ],
+          "collectIntro": "Kuki ini:",
+          "collectItems": [
+            "Menjejaki aktiviti pelayaran",
+            "Memaparkan iklan yang diperibadikan",
+            "Memaparkan semula iklan produk yang pernah anda lihat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "third-party-cookies",
+      "eyebrow": "Di Luar Kawalan Kami",
+      "title": "3. Kuki Pihak Ketiga",
+      "content": [
+        "Sesetengah kuki mungkin diletakkan oleh pihak ketiga di laman web kami, seperti:",
+        "Gerbang pembayaran (Razorpay, PayPal)",
+        "Perkhidmatan analitik",
+        "Kandungan terbenam media sosial",
+        "Platform pengiklanan",
+        "Rakan kongsi ini mempunyai dasar privasi dan kuki mereka sendiri. Kami tidak mengawal kuki pihak ketiga."
+      ]
+    },
+    {
+      "id": "why-we-use-cookies",
+      "eyebrow": "Tujuan",
+      "title": "4. Mengapa Kami Menggunakan Kuki",
+      "items": [
+        "Meningkatkan fungsi laman web",
+        "Memperbaiki pengalaman membeli-belah",
+        "Menganalisis prestasi laman web",
+        "Memperibadikan cadangan produk",
+        "Menyediakan pembayaran yang selamat",
+        "Menjalankan kempen pemasaran dan penargetan semula",
+        "Menjejaki penukaran dan trafik laman web"
+      ]
+    },
+    {
+      "id": "how-to-control-cookies",
+      "eyebrow": "Pilihan Anda",
+      "title": "5. Cara Mengawal Kuki",
+      "content": [
+        "Anda boleh mengurus atau menyahaktifkan kuki melalui tetapan pelayar anda:",
+        "Chrome: Tetapan → Privasi → Kuki",
+        "Safari: Keutamaan → Privasi",
+        "Firefox: Tetapan → Privasi dan Keselamatan",
+        "Edge: Tetapan → Kuki dan Kebenaran Laman",
+        "Jika anda menyahaktifkan kuki:"
+      ],
+      "consequences": [
+        "Sesetengah bahagian laman web mungkin tidak berfungsi dengan baik",
+        "Anda mungkin tidak dapat menyelesaikan pembelian",
+        "Anda mungkin melihat cadangan produk yang kurang relevan"
+      ]
+    },
+    {
+      "id": "cookie-consent",
+      "eyebrow": "Pematuhan GDPR",
+      "title": "6. Persetujuan Kuki (Pematuhan GDPR)",
+      "items": [
+        "Anda akan melihat sepanduk persetujuan kuki",
+        "Anda boleh memilih untuk Menerima, Menolak atau Menyesuaikan penggunaan kuki",
+        "Kami menyimpan pilihan kuki anda seperti yang dikehendaki di bawah GDPR"
+      ]
+    },
+    {
+      "id": "data-collected",
+      "eyebrow": "Maklumat yang Dijejaki",
+      "title": "7. Data yang Dikumpulkan Melalui Kuki",
+      "intro": "Kuki mungkin mengumpulkan:",
+      "items": [
+        "Maklumat peranti",
+        "Jenis pelayar",
+        "Negara/bandar",
+        "Halaman yang dilihat",
+        "Corak interaksi",
+        "URL perujuk",
+        "Alamat IP (dianonimkan apabila dikehendaki oleh undang-undang)"
+      ],
+      "neverCollectTitle": "Kami Tidak Pernah Mengumpulkan:",
+      "neverCollect": [
+        "Butiran kad pembayaran",
+        "Maklumat peribadi yang sensitif"
+      ]
+    },
+    {
+      "id": "updates-to-policy",
+      "eyebrow": "Sentiasa Dikemas Kini",
+      "title": "8. Kemas Kini Dasar Ini",
+      "content": [
+        "Kami mungkin mengemas kini Dasar Kuki ini dari semasa ke semasa. Sebarang perubahan akan dinyatakan bersama tarikh \"Kemas Kini Terakhir\" yang baharu. Penggunaan berterusan laman web kami bermakna anda menerima perubahan tersebut."
+      ]
+    },
+    {
+      "id": "contact-us",
+      "eyebrow": "Kami Sedia Membantu",
+      "title": "9. Hubungi Kami",
+      "content": [
+        "Jika anda mempunyai sebarang pertanyaan tentang amalan penggunaan kuki kami, sila hubungi kami di:"
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

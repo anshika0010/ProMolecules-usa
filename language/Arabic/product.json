@@ -1,0 +1,76 @@
+{
+  "heading": "المنتجات",
+  "categories": [
+    { "value": "ALL", "label": "الكل" },
+    { "value": "PRE-WORKOUT", "label": "ما قبل التمرين" },
+    { "value": "FAT BURNER", "label": "حارق الدهون" },
+    { "value": "ATP BOOSTER", "label": "معزّز ATP" },
+    { "value": "MUSCLE HYDRATION", "label": "ترطيب العضلات" }
+  ],
+  "search": "بحث...",
+  "sort": "ترتيب",
+  "sortOptions": {
+    "default": "ترتيب",
+    "priceLow": "السعر: من الأقل إلى الأعلى",
+    "priceHigh": "السعر: من الأعلى إلى الأقل"
+  },
+  "view": "عرض",
+  "noResults": "لا توجد نتائج",
+  "tryDifferentSearch": "جرّب كلمة بحث مختلفة",
+  "detail": {
+    "flavours": "النكهات",
+    "servings": "عدد الحصص",
+    "buyNowOn": "اشترِ الآن من",
+    "buyOn": "اشترِ من",
+    "launchingSoon": "يُطرح قريبًا...",
+    "launchingSoonText": "سيتوفر هذا المنتج عبر الإنترنت قريبًا.",
+    "whatsappEarlyAccess": "راسلنا على واتساب للحصول عليه مبكرًا",
+    "supplementFacts": "الحقائق الغذائية",
+    "productAlt": "المنتج",
+    "thumbnailAlt": "صورة مصغّرة",
+    "sections": {
+      "description": "الوصف",
+      "keyBenefits": "الفوائد الرئيسية",
+      "whyChooseUs": "لماذا تختارنا؟",
+      "howToUse": "طريقة الاستخدام",
+      "safetyInformation": "معلومات السلامة",
+      "whoShouldUse": "لمن هذا المنتج"
+    },
+    "moreProductsHeading": "لا تفوّت الفرصة – تسوّق ووفّر",
+    "notFound": "المنتج غير موجود"
+  },
+  "faq": {
+    "badge": "الأسئلة الشائعة",
+    "heading": "كل ما تحتاج إلى معرفته",
+    "description": "اعثر على إجابات لأكثر الأسئلة شيوعًا حول المكونات وطريقة الاستخدام والفوائد والسلامة والأداء."
+  },
+  "reviews": {
+    "heading": "آراء العملاء",
+    "basedOn": "بناءً على",
+    "review": "تقييم",
+    "reviews": "تقييمات",
+    "averageRating": "متوسط تقييم العملاء",
+    "star": "نجمة",
+    "stars": "نجوم",
+    "viewMore": "عرض المزيد...",
+    "noReviews": "لا توجد تقييمات لهذا المنتج."
+  },
+  "reviewModal": {
+    "heading": "اكتب تقييمًا",
+    "name": "اسمك",
+    "email": "بريدك الإلكتروني",
+    "review": "اكتب تقييمك...",
+    "submit": "إرسال التقييم",
+    "close": "إغلاق"
+  },
+  "searchModal": {
+    "placeholder": "ابحث عن المنتجات...",
+    "typeToSearch": "اكتب للبحث عن المنتجات",
+    "noResults": "لا توجد منتجات تطابق",
+    "result": "نتيجة",
+    "results": "نتائج",
+    "escToClose": "اضغط ESC للإغلاق",
+    "clear": "مسح البحث",
+    "close": "إغلاق البحث"
+  }
+}

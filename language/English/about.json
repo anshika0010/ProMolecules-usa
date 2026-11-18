@@ -1,0 +1,300 @@
+{
+  "title": "About Promolecules™",
+  "backgroundImage": "/promolecules-about-banner.webp",
+  "backgroundAlt": "About Background",
+  "headings": [
+    {
+      "title": "WHO WE ARE",
+      "url": "/about/who-we-are"
+    },
+    {
+      "title": "WHAT WE DELIVER",
+      "url": "/about/what-we-deliver"
+    },
+    {
+      "title": "HISTORY",
+      "url": "/about/history"
+    },
+    {
+      "title": "FAQ",
+      "url": "/about/faq"
+    }
+  ],
+  "socials": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/promolecules/"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/promolecules.official"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://x.com/promolecules"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@Promolecules"
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://www.pinterest.com/promolecules/"
+    }
+  ],
+  "who-we-are": {
+    "hero": {
+      "title": "WE ARE PROMOLECULES",
+      "description": "A performance-driven nutrition brand built for individuals who refuse average. We exist to fuel ambition, unlock physical potential, and support those who train with purpose, discipline, and intensity. Our identity is rooted in science-backed formulations, premium-quality ingredients, and a relentless focus on results.",
+      "backButton": "Go back to about page"
+    },
+    "performanceShowcase": [
+      {
+        "image": "/promolecules-about.webp",
+        "alt": "Left Performance",
+        "text": "Stop chasing the \"clown energy\" of over-caffeinated gimmicks. Promolecules is performance-engineered CNS activation, not just a chaotic stimulant spike.",
+        "tag": "— We Are Performance First Nutrition"
+      },
+      {
+        "image": "/promolecules-about-background-image.webp",
+        "alt": "Center Athlete",
+        "text": "Engineered for the disciplined. This is the Father of performance architecture — built for those who demand more from every session.",
+        "tag": "— Committed To Performance, Quality & Real Results"
+      },
+      {
+        "image": "/promolecules-aboutimage.webp",
+        "alt": "Promolecules About Image",
+        "text": "More than a product — a culture of strength. Join a community built on discipline, grit, and the relentless pursuit of elite performance.",
+        "tag": "— We Are A Strength Driven Community"
+      }
+    ],
+    "moreInformation": {
+      "heading": "MORE INFORMATION",
+      "items": [
+        {
+          "title": "OUR IDENTITY",
+          "content": "Promolecules™ is a performance-driven supplement brand engineered for serious athletes who demand structured stimulation, measurable strength, and disciplined formulation. We specialize in bio-engineered high-stim systems designed for controlled neurological activation, sustained performance output, and uncompromising intensity across advanced training environments."
+        },
+        {
+          "title": "OUR MISSION",
+          "content": "Our mission is to eliminate under-dosed formulas and reckless stimulant overload by delivering precision-built performance systems. Promolecules™ creates intelligently balanced, high-impact supplements that enhance energy, focus, strength, and endurance while respecting long-term neurological stability and athlete progression."
+        },
+        {
+          "title": "OUR VISION",
+          "content": "Our vision is to redefine global performance nutrition by setting new standards in stimulant architecture, ingredient transparency, and functional formulation. Promolecules™ aims to become the benchmark for serious high-performance athletes seeking progression without compromise or marketing illusion."
+        },
+        {
+          "title": "WHY PROMOLECULES",
+          "content": "Because intensity without structure leads to burnout. Promolecules™ designs layered, performance-calibrated formulas that activate, sustain, and stabilize output. From ultra high-stim pre-workouts to endurance systems, every product is engineered for results-driven athletes who expect measurable dominance, not temporary hype."
+        }
+      ]
+    }
+  },
+  "what-we-deliver": {
+    "hero": {
+      "heading": "WHAT WE DELIVER",
+      "backgroundImage": "/whatwedeliver.webp",
+      "backgroundAlt": "Hero Background"
+    },
+    "middleStatement": "Promolecules is built for Individuals who take their Fitness Seriously. We serve a wide spectrum of people united by one goal — Better Performance and Real Results.",
+    "servicesHeading": {
+      "first": "OUR",
+      "second": "SERVICES"
+    },
+    "servicesDescription": "At Promolecules, our services go beyond selling supplements. We provide performance-driven nutrition solutions designed to support every stage of your fitness journey.",
+    "services": [
+      {
+        "number": "1",
+        "title": "Performance Nutrition Solutions",
+        "desc": "We develop and deliver science-backed supplements focused on muscle growth & strength, energy, focus & endurance, and recovery. Each product is formulated for real training demands with premium ingredients.",
+        "image": "/promolecules-whatwedeliverim.webp"
+      },
+      {
+        "number": "2",
+        "title": "Research & Innovation",
+        "desc": "Our team continuously studies emerging sports nutrition science to improve formulations. We embrace advanced ingredients, enhanced absorption, and innovation is at the core of everything we create.",
+        "image": "/promolecules-whatwedeliverimg.webp"
+      },
+      {
+        "number": "3",
+        "title": "Athlete & Trainers Support",
+        "desc": "We support athletes, coaches, and fitness professionals by providing trusted performance nutrition, goal-specific supplement guidance, and ongoing product updates.",
+        "image": "/promolecules-what-we-deliverim.webp"
+      }
+    ],
+    "middleStatementHighlights": [
+      "Individuals",
+      "Fitness Seriously",
+      "Better Performance",
+      "Real Results"
+    ]
+  },
+  "history": {
+    "historyHero": {
+      "heading": "WHERE IT ALL BEGINNING",
+      "highlight": "BEGINNING",
+      "description": "It started in the shadows of real gyms. Where lifters kept chasing something they could never feel. Weak formulas. No activation. No edge. Then came the other side. Overloaded stimulants that hit hard… and left harder. That's where Promolecules took a different path. Not weak. Not reckless.",
+      "subtitle": "Promolecules™ – History & Reason Behind the Formulation",
+      "backgroundImage": "/promolecules-footer-background-historyimages.webp",
+      "backgroundAlt": "Promolecules History Background",
+      "backButton": "Go back to about page",
+      "backButtonUrl": "/about"
+    },
+    "journeySection": {
+      "heading": "THE JOURNEY BEHIND PROMOLECULES",
+      "tagline": "BORN FROM SCIENCE, BUILT FOR PERFORMANCE",
+      "description": "Promolecules™ was not created to follow the supplement trend cycle. It was born from frustration inside real gym environments where serious lifters were forced to choose between two extremes.",
+      "growthHeading": "GROWTH & EVOLUTION",
+      "intro": "The brand's first focus was neurological activation — understanding how the central nervous system responds to layered stimulant delivery rather than single-source caffeine overload.",
+      "image": "/history2.webp",
+      "imageAlt": "Growth"
+    },
+    "growthEvolutionFaq": [
+      {
+        "question": "WHEN WAS PROMOLECULES FOUNDED?",
+        "answer": "Promolecules™ was founded in the early 2020s during a period when high-stimulant supplements were rapidly gaining popularity but lacked structured formulation. It emerged in response to growing demand for stronger yet more intelligently engineered performance systems."
+      },
+      {
+        "question": "WHY WAS PROMOLECULES CREATED?",
+        "answer": "Promolecules™ was created to challenge the industry's habit of underdosing key ingredients or overdosing caffeine for marketing impact. The goal was to build performance supplements that deliver real intensity through structured formulation, not hype-driven stimulation."
+      },
+      {
+        "question": "WHAT PROBLEM DID PROMOLECULES AIM TO SOLVE?",
+        "answer": "The brand aimed to solve three core issues: hidden proprietary blends, chaotic stimulant crashes, and inconsistent batch quality. Promolecules™ focused on creating disciplined, bioengineered formulas that provide controlled activation, sustained output, and transparent positioning for serious athletes."
+      },
+      {
+        "question": "HOW HAS PROMOLECULES EVOLVED OVER TIME?",
+        "answer": "Promolecules™ began with ultra high-stim performance systems and expanded into hybrid pre-workouts, thermogenics, stimulant-free ATP enhancers, hydration-based pump systems, and protein support. The evolution reflects a broader performance ecosystem rather than a single product category."
+      },
+      {
+        "question": "WHAT HAS REMAINED CONSTANT SINCE THE BEGINNING?",
+        "answer": "What has remained constant is the principle of structured intensity. Promolecules™ continues to prioritize controlled stimulation, athlete-focused positioning, transparent messaging about product strength, and performance systems built for progression — not casual consumption."
+      }
+    ],
+    "blogsSection": {
+      "heading": "BLOGS",
+      "readMore": "READ MORE",
+      "noBlogsFound": "NO BLOGS FOUND",
+      "viewAll": "VIEW ALL",
+      "by": "BY",
+      "authorSeparator": "•"
+    }
+  },
+  "faqSection": {
+    "faqHero": {
+      "heading": "WHY PROMOLECULES STANDS ABOVE EVERY CHEAP SUPPLEMENT BRAND",
+      "description": "The global supplement market suffers from what we call formula degradation syndrome, where products lose effectiveness within 3–14 days.",
+      "faqTitle": "FAQ",
+      "faqSubtitle": "Frequently Asked Questions",
+      "faqDescription": "Answer all frequently asked questions. Still confused?",
+      "backgroundImage": "/promolecules-faq-banner.webp",
+      "backgroundAlt": "Background",
+      "headingHighlight": "PROMOLECULES"
+    },
+    "comparisonSection": {
+      "heading": {
+        "first": "GRAY MARKET VS",
+        "second": "PROMOLECULES"
+      },
+      "columns": {
+        "factor": "Critical Factor",
+        "gray": "Gray Market Brands",
+        "promolecules": "Promolecules"
+      },
+      "rows": [
+        {
+          "factor": "STIMULANT DOSING CYCLE PROTOCOL",
+          "gray": "RANDOMIZED PHASE X",
+          "pro": "DISSOLVED FORMULA INTEGRITY"
+        },
+        {
+          "factor": "NEURAL ADAPTATION REGRESSIONS",
+          "gray": "7–14 DAY TOLERANCE SPIKE",
+          "pro": "SUSTAINED NEURAL RECEPTOR MODULATION"
+        },
+        {
+          "factor": "CARDIOVASCULAR SAFETY CEILING",
+          "gray": "UNLABELED STIMULANT DOSING",
+          "pro": "ISO-COMPLIANT VASCULARIZED BALANCE"
+        },
+        {
+          "factor": "THERMOGENIC PATHWAY DIVERSITY",
+          "gray": "SINGLE-JAW METABOLISM / BETA PATHWAY",
+          "pro": "MULTI-LAYER METABOLIC EXPANSION"
+        },
+        {
+          "factor": "ATP PRESERVATION TECHNOLOGY",
+          "gray": "UNSTABLE PRECISION DEGRADATION",
+          "pro": "Russian Peptide Energy System"
+        },
+        {
+          "factor": "HEPATIC STRESS MANAGEMENT",
+          "gray": "TOXIC COMPOUND OVERLOAD",
+          "pro": "LIVER-SHIELDING TECHNOLOGIES"
+        },
+        {
+          "factor": "HYBRID NOOTROPIC ENGINEERING",
+          "gray": "SODIUM-JUMPING BLOAT PROTOCOL",
+          "pro": "PHARMACEUTICAL-GRADE SYNAPSE BALANCE"
+        },
+        {
+          "factor": "FIRST-DOSE NEUROLOGICAL IMPACT",
+          "gray": "PLACEBO-THRESHOLD ACTIVATION",
+          "pro": "IMMEDIATE PERFORMANCE MANIFESTATION"
+        },
+        {
+          "factor": "HEAVY METAL CLEARANCE PROTOCOL",
+          "gray": "LEAD/MERCURY CONTAMINATION RISK",
+          "pro": "MANDATORY USA THIRD-PARTY CERTIFICATION"
+        },
+        {
+          "factor": "CUTTING-PHASE ATP PROTECTION",
+          "gray": "MUSCLE FLATNESS BURNING EFFECT",
+          "pro": "ANTI-CATABOLIC CELLULAR RETENTION"
+        }
+      ]
+    },
+    "faqSection": [
+      {
+        "question": "WHY DO MOST PRE-WORKOUTS IN THE INDIAN MARKET STOP WORKING AFTER 1–2 WEEKS?",
+        "answer": "This phenomenon is called Accelerated Tolerance Engineering, a deliberate formulation strategy where brands underdose critical compounds like beta-alanine (typically 800mg vs. therapeutic 3200mg) and use degraded caffeine derivatives that trigger rapid neural adaptation. The body's adenosine receptors become desensitized within 7–14 days due to inconsistent stimulant quality and lack of receptor modulation technology. Most Indian pre-workouts exhibit what we term Stimulant Ceiling Manipulation, mixing pharmaceutical-grade caffeine (30–40%) with industrial waste caffeine (60–70%) to reduce costs. This creates an initial effect that collapses as your nervous system identifies the inferior compound profile. The Promolecules Paradigm: Father of Insane™ and WARFLEX™ deploy Multi Source Caffeine Architecture—combining Caffeine Anhydrous, Dicaffeine Malate (2XCAFF™), Caffeine Citrate (Citra Caff™), and Caffeine HCL in precisely calculated ratios. This creates Sustained Neural Activation rather than spike and crash patterns. Our USA validated therapeutic dosages (450mg total caffeine in Father of Insane, 395mg in WARFLEX) are calibrated for Zero Neural Adaptation Velocity, meaning effects remain consistent across 60–90 day cycles without requiring tolerance breaks."
+      },
+      {
+        "question": "WHY DO SOME PRE-WORKOUTS CAUSE EXTREME CRASHING AND ANXIETY?",
+        "answer": "The crash you experience is Adrenal Burnout Cascade, caused by unregulated yohimbine dumping (often 5–10mg vs. safe 2.5mg) and synthetic stimulant contamination. Grey market brands frequently use banned compounds like DMAA analogues or unlabeled synthetic stimulants that create violent sympathetic nervous system activation followed by catastrophic energy depletion. What's worse is Caffeine Source Masking, where brands list caffeine but source it from toxic industrial synthesis rather than pharmaceutical extraction. This results in cortisol spikes, anxiety loops, heart palpitations, and the dreaded 2-hour post-workout crash that leaves you more depleted than before training. The Promolecules Solution: We follow USA GMP Cardiovascular Safety Ceiling Protocols. Our stimulant blends undergo Sympathetic Nervous System Calibration, with each compound balanced with L-Theanine (100mg in WARFLEX) to prevent anxiety spirals while maintaining explosive energy. Alpha Yohimbine is precision-dosed at 2.5mg, enough for fat mobilization without triggering panic responses. The result? Clean Energy Escalation that elevates you for 8–10 hours without the brutal crash that ruins your entire day."
+      },
+      {
+        "question": "ARE HIGH-STIMULANT PRE-WORKOUTS DANGEROUS FOR THE HEART?",
+        "answer": "High stimulants become dangerous when subjected to Unlabeled Compound Infiltration, a rampant issue in India's grey supplement market. Cardiac events can occur when brands overdose stimulants (600–800mg caffeine equivalent), combine incompatible compounds (yohimbine + synephrine at toxic levels), or use counterfeit raw materials contaminated with heavy metals that stress cardiovascular tissue. The danger isn't high caffeine itself; it's the lack of Vasodilation Counterbalance Technology. Cheap pre-workouts spike blood pressure without supporting blood vessel expansion, creating dangerous cardiovascular strain during heavy compound lifts. The Promolecules Safeguard: Father of Insane™ is formulated under US FDA-Compliant Stimulant Disclosure Standards. Every milligram is labeled, tested, and balanced with 1000mg L-Citrulline + 1600mg BetaAlanine in WARFLEX to support Nitric Oxide-Mediated Vasodilation. Third-party testing is intended to eliminate the risk of banned substance contamination."
+      },
+      {
+        "question": "WHY DON'T MOST FAT BURNERS ACTUALLY BURN STUBBORN BELLY AND THIGH FAT?",
+        "answer": "Budget thermogenics suffer from Single Pathway Thermogenesis Limitation. They rely solely on mild caffeine (200–250mg) and green tea extract, which your body may adapt to within 2–3 weeks through Metabolic Downregulation Defense. Stubborn fat (belly, love handles, thighs) requires Alpha-Receptor Antagonism and Beta-3 Adrenergic Activation—mechanisms that cheap formulas may ignore. Moreover, most fat burners fail because they don't address Stubborn Adipose Insulin Resistance. Without compounds like Yohimbine HCL and GBBxt, fat-loss results may be limited. The Promolecules Advantage: Thermo Nuke XT™ deploys Multi-Layer Metabolic Upregulation—combining CitraSyn 50™ (synephrine for metabolic rate increase), GBBxt (carnitine synthesis for fatty acid transport), Yohimbine (alpha-receptor blockade for stubborn fat), Green Tea Extract (EGCG for thermogenesis), and Theobromine (blood flow to adipose tissue). The 650mg Thermo Nuke Blend is designed to support multiple fat-oxidation pathways."
+      },
+      {
+        "question": "CAN FAT BURNERS DAMAGE THE LIVER IN LOW-QUALITY BRANDS?",
+        "answer": "Some poorly formulated thermogenic products may contain unlabeled stimulant combinations, raw materials contaminated with heavy metals (lead, mercury, arsenic), or excessive doses of certain compounds. These may place additional stress on the liver. The liver processes every compound you ingest. The Promolecules Protection: Thermo Nuke XT™ undergoes mandatory Heavy-Metal Clearance Certification in USA GMP facilities, according to the brand. B6 and B12 vitamins are included to support normal metabolic processes. Third-party toxin screening is intended to identify potential contamination. Follow the product label and consult a healthcare professional before use."
+      },
+      {
+        "question": "WHY DOES WATER RETENTION HAPPEN WITH MANY PUMP PRODUCTS IN INDIA?",
+        "answer": "Bloating may be associated with sodium and electrolyte imbalances, particularly when products contain excessive sodium and insufficient potassium or magnesium. Poorly balanced pump products may also affect fluid distribution. The Promolecules Precision: HydraPump+™ uses Pharmaceutical-Grade Liquid Glycerol (10ml per serving) with electrolytes: 300mg Sodium + 200mg Potassium + 200mg Magnesium from Pink Himalayan Salt and Magnesium Glycinate. The formula also combines 3000mg Citrulline Malate 2:1."
+      },
+      {
+        "question": "WHY DO MOST HYDRATION PRODUCTS FAIL DURING INTENSE WORKOUTS?",
+        "answer": "Hydration products may be less effective during intense workouts when their electrolyte and fluid-support formulations are not appropriately balanced. The Promolecules Precision: HydraPump+™ uses Pharmaceutical-Grade Liquid Glycerol (10ml per serving) with balanced Sodium, Potassium, and Magnesium. Combined with 3000mg Citrulline Malate 2:1, the formula is designed to support hydration and workout performance."
+      },
+      {
+        "question": "WHY DON'T ATP BOOSTERS ACTUALLY IMPROVE ENDURANCE IN MANY USERS?",
+        "answer": "Some ATP supplements may provide limited benefits because of precursor stability, ingredient quality, or formulation and dosage differences. Real ATP enhancement involves cellular energy pathways, not simply adding adenosine compounds. The Promolecules Innovation: INOPOWER-R™ uses an ATP blend combining Adenosine 5-Triphosphate, Hypoxanthine Riboside (Inosine), and Taurine in a 600mg blend. B6 (50mg) and B12 (500mcg) are also included to support normal energy metabolism."
+      },
+      {
+        "question": "IS IT TRUE THAT MANY INDIAN SUPPLEMENTS ARE CONTAMINATED WITH HEAVY METALS?",
+        "answer": "Some supplements may be contaminated with heavy metals such as lead, mercury, and arsenic when raw materials or manufacturing processes are inadequately controlled. Consumers should look for products with credible quality testing and transparent manufacturing information. The Promolecules Guarantee: The brand states that its products are manufactured in USA GMP-certified facilities and undergo heavy-metal clearance testing and third-party toxin verification."
+      },
+      {
+        "question": "WHY DO SOME TEST-BOOSTING PRE-WORKOUTS FAIL TO IMPROVE PERFORMANCE AT ALL?",
+        "answer": "Some products use ingredients such as Tribulus, Fenugreek, and Ashwagandha at doses that may not provide the intended effect. Performance depends on multiple factors, including training, nutrition, recovery, and the formulation itself. The Promolecules Approach: WARFLEX™ is described by the brand as a Performance-Driven Hormonal Support System, not a testosterone replacement. Its formula includes 3mg Boron Citrate, Alpha GPC (500mg), Eria Jarensis (450mg), and the XBTR3 Pump Blend."
+      }
+    ]
+  }
+}

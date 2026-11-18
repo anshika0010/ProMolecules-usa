@@ -2,9 +2,11 @@
 
 import { useState } from "react";
 import { Star, ChevronRight } from "lucide-react";
+import { useT } from "@/lib/i18n/client";
 
 export default function CustomerReviews({ reviews = [] }) {
   const [visibleCount, setVisibleCount] = useState(5);
+  const t = useT("product").reviews || {};
 
   const reviewsWithRatings = reviews.map((review) => ({
     ...review,
@@ -27,7 +29,7 @@ export default function CustomerReviews({ reviews = [] }) {
     ).length;
 
     return {
-      label: `${rating} STAR${rating > 1 ? "S" : ""}`,
+      label: `${rating} ${rating > 1 ? t.stars : t.star}`,
       value: count,
       percent: totalReviews > 0 ? (count / totalReviews) * 100 : 0,
     };
@@ -76,7 +78,7 @@ export default function CustomerReviews({ reviews = [] }) {
   if (totalReviews === 0) {
     return (
       <p className="text-white p-10">
-        No reviews found for this product.
+        {t.noReviews}
       </p>
     );
   }
@@ -84,7 +86,7 @@ export default function CustomerReviews({ reviews = [] }) {
   return (
     <section className="bg-black text-white py-16 px-3 lg:px-2 max-w-7xl mx-auto">
       <h2 className="text-red-600 text-4xl md:text-6xl font-extrabold creepster-regular tracking-wide mb-10">
-        CUSTOMER REVIEWS
+        {t.heading}
       </h2>
 
       <div className="grid lg:grid-cols-2 gap-6">
@@ -97,13 +99,13 @@ export default function CustomerReviews({ reviews = [] }) {
             {renderStars(averageRating)}
 
             <span className="text-gray-400 uppercase text-sm">
-              Based on {totalReviews}{" "}
-              {totalReviews === 1 ? "Review" : "Reviews"}
+              {t.basedOn} {totalReviews}{" "}
+              {totalReviews === 1 ? t.review : t.reviews}
             </span>
           </div>
 
           <p className="text-gray-500 text-sm mb-8">
-            Average customer rating
+            {t.averageRating}
           </p>
         </div>
 
@@ -124,7 +126,7 @@ export default function CustomerReviews({ reviews = [] }) {
                 />
               </div>
 
-              <span className="text-sm text-gray-400 w-6 text-right">
+              <span className="text-sm text-gray-400 w-6 text-end">
                 {item.value}
               </span>
             </div>
@@ -164,12 +166,12 @@ export default function CustomerReviews({ reviews = [] }) {
             onClick={handleLoadMore}
             className="flex items-center cursor-pointer gap-3 bg-transparent border-2 border-red-600 hover:bg-red-600 text-white font-bold px-7 py-2 rounded-full transition-all duration-300 text-sm tracking-widest group"
           >
-            <span>VIEW MORE...</span>
+            <span>{t.viewMore}</span>
 
             <div className="bg-red-600 group-hover:bg-white p-1 rounded-full transition-colors">
               <ChevronRight
                 size={18}
-                className="text-white group-hover:text-red-600"
+                className="text-white group-hover:text-red-600 rtl:rotate-180"
               />
             </div>
           </button>

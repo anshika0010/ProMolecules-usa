@@ -1,0 +1,307 @@
+{
+  "slider": [
+    {
+      "id": 1,
+      "productImage": "/thermo.webp",
+      "title": "Thermo Nuke XT",
+      "backgroundImage": "/thermoo nuke xt new banner .jpg",
+      "mobileBackgroundImage": "/thermo mobile.webp",
+      "link": "/product/thermo-nuke-xt/",
+      "description": "Qaysar yog‘larni termogenik ta’sir yordamida tezroq yoqing, metabolizmni tezlashtiring, terlashni oshiring, energiyani saqlang va har kuni yog‘ kamaytirish bosqichidagi mashg‘ulotlarda maksimal natijaga erishing."
+    },
+    {
+      "id": 2,
+      "productImage": "/hydra.webp",
+      "title": "HydraPump+",
+      "backgroundImage": "/bannnerrr.jpg",
+      "mobileBackgroundImage": "/hydra-mobile.webp",
+      "link": "/product/hydrapump/",
+      "description": "Kofeinsiz yuqori samaradorlik uchun suyuq glitserol yordamida mushaklarning kuchli to‘lishi, tezkor gidratatsiya, tomirlarning yaqqol ko‘rinishi va chidamlilikni his eting."
+    },
+    {
+      "id": 3,
+      "productImage": "/father-of-insane-pre-workout-65-Servings.webp",
+      "title": "Father of Insane",
+      "backgroundImage": "/Father-of-insane.webp",
+      "mobileBackgroundImage": "/father-of-insane-mob.webp",
+      "link": "/product/father-of-insane/",
+      "description": "Father of Insane™ oddiy energiyadan ko‘prog‘iga muhtoj sportchilar uchun yaratilgan. U markaziy asab tizimini faollashtiradi, diqqatni maksimal darajada jamlaydi va ilk yondashuvingizdanoq portlovchi kuch bilan mashq qilishga yordam beradi."
+    }
+  ],
+  "who_we_are_section": {
+    "title": "BIZ KIMMIZ",
+    "subtitle": "Promolecules™ sport samaradorligiga e’tibor qaratadi va chegaralaringizdan ham oshib o‘tishingizga yordam beradi.",
+    "card_1": {
+      "heading": "Mashq qiling. Quvvat oling. G‘alaba qozoning.",
+      "text": "Promolecules™ — jiddiy sportchilar uchun mo‘ljallangan premium sport oziqlanishi brendi."
+    },
+    "cta": "Batafsil ko‘rish",
+    "card_2": {
+      "heading": "Hech qanday sir yo‘q. Faqat sof quvvat.",
+      "text": "Har bir mahsulot AQSHning yuqori sifat standartlariga javob beradi, tarkibidagi ingredientlar ochiq ko‘rsatiladi va klinik tadqiqotlarda o‘rganilgan dozalar qo‘llaniladi."
+    }
+  },
+  "video_hero_alt": "Brauzeringiz video tegini qo‘llab-quvvatlamaydi.",
+  "ultra_high_performance_section": {
+    "main_title": "O‘TA YUQORI SAMARADORLIK",
+    "subtitle": "FORMULA",
+    "features": [
+      {
+        "id": 1,
+        "title": "DIQQATNI JAMLASH",
+        "description": "Aqliy ravshanlik, reaksiya tezligi va mashg‘ulot paytidagi chuqur diqqatni kuchaytiradi. 15 daqiqa ichida faollashish uchun ishlab chiqilgan. Diqqatingizni jamlang."
+      },
+      {
+        "id": 2,
+        "title": "ENERGIYA",
+        "description": "Tez faollashish va keskin pasayishlarsiz bir maromda davom etadigan energiya uchun ko‘p bosqichli stimulyatsiya. Har bir yondashuvda kuchingizni namoyon eting."
+      },
+      {
+        "id": 3,
+        "title": "KUCH",
+        "description": "Portlovchi kuch, chidamlilik va og‘irroq vaznlarni ko‘tarishni qo‘llab-quvvatlaydi. Butun tanani tabiiy ravishda faollashtirib, mushaklar samaradorligini oshirishga yordam beradi."
+      }
+    ]
+  },
+  "warning_tape_section": {
+    "mobile": {
+      "safety_heading": "Muhim xavfsizlik ma’lumotlari",
+      "safety_text": "USHBU MAHSULOT FAQAT KATTALAR UCHUN MO‘LJALLANGAN. BOLALAR, HOMILADOR YOKI EMIZIKLI AYOLLARGA TAVSIYA ETILMAYDI."
+    },
+    "desktop": {
+      "crisis_heading": "Qo‘shimchalar sanoatidagi yashirin muammo",
+      "crisis_text": "Qo‘shimchalar sanoati jiddiy, ammo ko‘zga tashlanmaydigan muammoga duch kelmoqda: mahsulot tarkibining soxtalashtirilishi. Tadqiqotlar shuni ko‘rsatadiki, byudjet toifasidagi qo‘shimchalarning qariyb 70 foizida faol ingredientlar miqdori yorliqda ko‘rsatilganidan kam bo‘ladi.",
+      "safety_heading": "Muhim xavfsizlik ma’lumotlari",
+      "safety_text": "USHBU MAHSULOT FAQAT KATTALAR UCHUN MO‘LJALLANGAN. BOLALAR, HOMILADOR YOKI EMIZIKLI AYOLLARGA TAVSIYA ETILMAYDI."
+    },
+    "tape_text": {
+      "item_1": "Father of Insane",
+      "item_2": "Ogohlantirish",
+      "item_3": "Thermo Nuke XT",
+      "item_4": "Warflex",
+      "item_5": "HydraPump"
+    }
+  },
+  "trending_category_section": {
+    "heading": "MASHHUR KATEGORIYALAR",
+    "description": "Bugungi fitnes bozorida sport qo‘shimchalari juda ko‘p, ammo ularning barchasi bir xil sifatga ega emas. Ko‘plab arzon brendlar ingredientlar tozaligidan voz kechadi, faol moddalar miqdori yetarli bo‘lmagan aralashmalardan foydalanadi yoki haqiqiy natija bermaydigan, tekshirilmagan xomashyolarni xarid qiladi.",
+    "categories": [
+      {
+        "title": "mashgʻulotdan oldingi",
+        "desc": "Markaziy asab tizimini faollashtirish, diqqatni keskin jamlash va uzoq davom etadigan kuch uchun turli manbalardan olingan kofein va nootrop moddalar.",
+        "image": "/father-of-insane-warflex-products.webp",
+        "hoverImage": "/promolecules0father-of-insane-warflex-combo-offers.webp",
+        "link": "/product?category=PRE-WORKOUT"
+      },
+      {
+        "title": "YOG‘ YOQUVCHI",
+        "desc": "Metabolizm, yog‘ yoqish jarayoni va energiya samaradorligini qo‘llab-quvvatlash uchun kofein kompleksi, yohimbine va termogenik moddalar.",
+        "image": "/product2.webp",
+        "hoverImage": "/hoverproduct.webp",
+        "link": "/product?category=FAT%20BURNER"
+      },
+      {
+        "title": "ATP KUCHAYTIRUVCHI",
+        "desc": "Metabolizm va energiya samaradorligini qo‘llab-quvvatlash uchun kofein kompleksi, yohimbine va termogenik moddalar.",
+        "image": "/product2.webp",
+        "hoverImage": "/hoverproduct.webp",
+        "link": "/product?category=ATP%20BOOSTER"
+      },
+      {
+        "title": "MUSHAKLAR GIDRATATSIYASI",
+        "desc": "Chuqur gidratatsiya, mushaklarning to‘lishi va chidamlilikni yaxshilash uchun suyuq glitserol, sitrullin va pushti tuz.",
+        "image": "/promolecules-hydrapump-new.webp",
+        "hoverImage": "/promolecules-hydrapump.webp",
+        "link": "/product?category=MUSCLE%20HYDRATION"
+      },
+      {
+        "title": "BREND MAHSULOTLARI",
+        "desc": "Jiddiy sport va zal madaniyati uchun yaratilgan, intizomni ifodalovchi samaradorlikka yo‘naltirilgan kiyim-kechak va mashg‘ulot aksessuarlari.",
+        "image": "/father-of-insane-fusion-merch-product.webp",
+        "hoverImage": "/father-of-insane-fusion.webp",
+        "link": "/merch"
+      }
+    ]
+  },
+  "blog": {
+    "heading": "BLOGLAR",
+    "readMore": "Batafsil o‘qish",
+    "noBlogsFound": "Bloglar topilmadi.",
+    "viewAll": "BARCHASINI KO‘RISH",
+    "by": "Muallif:"
+  },
+  "testimonialsSection": {
+    "heading": "MIJOZLARIMIZ FIKRI",
+    "subheading": "PROMOLECULES™ MASHG‘ULOTLARINGIZGA KUCH BAG‘ISHLAYDI — YANADA QATTIQROQ MASHQ QILADIGAN, YANADA UZOQQA BORADIGAN VA HECH QACHON ORTGA CHEKINMAYDIGANLAR UCHUN YARATILGAN.",
+    "testimonials": [
+      {
+        "quote": "Toza energiya, aql bovar qilmas darajadagi diqqat va mashg‘ulotdan keyin keskin charchoq yo‘q. Promolecules bugungi bozordagi ko‘plab sport qo‘shimchalari kabi shunchaki bo‘rttirilgan reklama emas, balki puxta ishlab chiqilgan mahsulotdek tuyuladi.",
+        "author": "ROHIT S.",
+        "role": "FITNES ISHQIBOZI"
+      },
+      {
+        "quote": "Mashg‘ulotim uchun yarim o‘lchov qoshiqning o‘zi yetarli bo‘ldi. Titrashsiz kuchli faollik. Bu, albatta, yangi boshlovchilar uchun emas — jiddiy sport samaradorligiga mo‘ljallangan formula.",
+        "author": "FAUZAN K.",
+        "role": "SPORTCHI"
+      },
+      {
+        "quote": "Mushaklardagi pump hissi shishgan emas, balki zich va nazorat ostida edi. Kuch oxirgi yondashuvgacha bir maromda saqlanib qoldi. Formulaning sifatidan juda mamnunman.",
+        "author": "SARAH M.",
+        "role": "PАUERLIFTER"
+      },
+      {
+        "quote": "Stimulyatsiya kuchli, ammo hayratlanarli darajada muvozanatli. Bezovtalik kuchaymadi, mashg‘ulotdan keyin keskin charchoq bo‘lmadi. Mashg‘ulot intensivligi davomida diqqat va kuch saqlanib qoldi.",
+        "author": "JAMES T.",
+        "role": "CROSSFIT SPORTCHISI"
+      },
+      {
+        "quote": "Avval ko‘plab mashgʻulotdan oldingini sinab ko‘rganman, ammo bunisi ancha puxta ishlab chiqilgandek. Energiya bosqichma-bosqich, bir maromda va kuchli ta’sir qiladi. Faqat intizomli sportchilar uchun yaratilgan.",
+        "author": "MIKE R.",
+        "role": "BODIBILDЕR"
+      }
+    ],
+    "previous": "Oldingi",
+    "next": "Keyingi"
+  },
+  "promoleculesSection": {
+    "certifications": [
+      "AQSH GMP sertifikatiga ega ishlab chiqarish",
+      "Premium sifatli ingredientlar",
+      "Puxta muvozanatlashtirilgan formulalar",
+      "Mustaqil uchinchi tomon tomonidan sifat sinovlari",
+      "Xomashyoda og‘ir metallar mavjudligini tekshirish",
+      "Ingredientlar tarkibining aniq ko‘rsatilishi",
+      "Keraksiz maxsus aralashmalarsiz",
+      "Standartlashtirilgan ishlab chiqarish"
+    ],
+    "ingredients": [
+      "L-Citrulline",
+      "Beta Alanine",
+      "Creatine",
+      "Taurine",
+      "Alpha GPC",
+      "L-Theanine",
+      "Elektrolitlar",
+      "Vitamin B6 & B12",
+      "Glycerol",
+      "Green Tea Extract",
+      "Kofein manbalari",
+      "Aminokislotalar"
+    ],
+    "products": [
+      {
+        "tag": "MASHG‘ULOT OLDI QO‘SHIMCHASI",
+        "name": "Father of Insane™",
+        "desc": "Mashg‘ulotni yengil boshlamaydigan sportchilar uchun maksimal energiya, diqqat va mashg‘ulot intensivligi."
+      },
+      {
+        "tag": "MASHG‘ULOT OLDI QO‘SHIMCHASI",
+        "name": "Warflex™",
+        "desc": "Uzoqroq va intensivroq mashg‘ulot davrlari uchun barqaror kuch va diqqatni jamlashga yordam beradi."
+      },
+      {
+        "tag": "PUMP VA GIDRATATSIYA",
+        "name": "HydraPump+™",
+        "desc": "Mashg‘ulot o‘rtasida samaradorlik pasayib ketmasligi uchun mushaklarning to‘lishi va barqaror gidratatsiyani ta’minlashga yordam beradi."
+      },
+      {
+        "tag": "ATP VA CHIDAMLILIK",
+        "name": "INOPOWER R™",
+        "desc": "Chidamlilik mashg‘ulotlari davomida hujayralarda ATP ishlab chiqarilishini qo‘llab-quvvatlash uchun ishlab chiqilgan."
+      },
+      {
+        "tag": "TERMOGENIK",
+        "name": "Thermo Nuke XT™",
+        "desc": "Tuzilgan ovqatlanish va mashg‘ulot rejasini to‘ldirish uchun ishlab chiqilgan, uning o‘rnini bosmaydi."
+      }
+    ],
+    "audience": [
+      "Bodibilderlar",
+      "Kuch sporti bilan shug‘ullanuvchilar",
+      "Pauerlifterlar",
+      "Og‘ir atletikachilar",
+      "CrossFit sportchilari",
+      "Funksional fitnes sportchilari",
+      "Fizik ko‘rinish ustida ishlovchi sportchilar",
+      "Chidamlilik sportchilari",
+      "Jiddiy fitnes va zal ishqibozlari"
+    ],
+    "faq": [
+      {
+        "q": "Promolecules™ nima?",
+        "a": "Bu mashgʻulotdan oldingi, gidratatsiya aralashmalari, ATP qo‘llab-quvvatlovchi va termogenik mahsulotlarni o‘z ichiga olgan sport oziqlanishi mahsulotlari qatori bo‘lib, ishonchli samaradorlikni istaydigan sportchilar va fitnes ishqibozlari uchun ishlab chiqilgan."
+      },
+      {
+        "q": "Ushbu qo‘shimchalar qayerda ishlab chiqariladi?",
+        "a": "Har bir Promolecules™ mahsuloti AQSH GMP sertifikatiga ega ishlab chiqarish korxonalarida tayyorlanadi."
+      },
+      {
+        "q": "Ushbu qo‘shimchalar kimlar uchun mo‘ljallangan?",
+        "a": "Og‘ir atletika, yugurish, chidamlilik musobaqalari yoki rejalashtirilgan mashg‘ulotlar bilan jiddiy shug‘ullanadigan kattalar uchun. Har doim mahsulot yorlig‘idagi ko‘rsatmalarga amal qiling va sog‘lig‘ingiz bilan bog‘liq xavotirlaringiz bo‘lsa, shifokoringiz bilan maslahatlashing."
+      },
+      {
+        "q": "Promolecules™ mahsulotlarini sinovdan o‘tkazadimi?",
+        "a": "Ha. Har bir partiya GMP ko‘rsatmalariga muvofiq ishlab chiqariladi, sifat tahlilidan o‘tkaziladi va xomashyo tarkibidagi og‘ir metallar tekshiriladi."
+      },
+      {
+        "q": "Ushbu mahsulotlar yangi boshlovchilar uchun mosmi?",
+        "a": "Ayrim mahsulotlarda stimulyatorlar miqdori yuqori bo‘lishi mumkin va ular yangi boshlovchilar uchun mos kelmasligi mumkin. Yorliqni diqqat bilan o‘qing va faqat yetarli tajriba hamda moslashuvchanlikka ega bo‘lsangiz, foydalanishni boshlang."
+      },
+      {
+        "q": "Haqiqiy Promolecules™ mahsulotlarini qayerdan sotib olish mumkin?",
+        "a": "Haqiqiy mahsulotlarni Promolecules™ rasmiy veb-sayti, Cost to Cost Supplement, Flipkart va Amazon orqali xarid qilishingiz mumkin."
+      }
+    ],
+    "section": {
+      "brand": "Promolecules™",
+      "teaser": "Bioinjeneriya asosida yaratilgan sport oziqlanishi — mahsulotlarning to‘liq assortimentini ko‘rish uchun bosing",
+      "collapse": "Bo‘limni yig‘ish",
+      "heroSubtitle": "BIOINJENERIYA ASOSIDAGI SPORT OZIQLANISHI",
+      "heroDescription": "Sportchilar, bodibilderlar, pauerlifterlar va maqsad bilan mashq qiladigan barcha insonlar uchun ishlab chiqilgan samaradorlik qo‘shimchalari. Premium ingredientlar. Samarali dozalar. Yorliqni shunchaki uzunroq qilish uchun hech qanday ortiqcha ingredient qo‘shilmaydi.",
+      "shopRange": "Mahsulotlarni xarid qilish",
+      "qualityFirst": "BIRINCHI O‘RINDA SIFAT",
+      "range": "MAHSULOTLAR ASSORTIMENTI",
+      "rangeDescription": "Har bir mahsulot bir-birini takrorlaydigan formulalar to‘plami emas, balki muayyan samaradorlik maqsadi asosida ishlab chiqilgan.",
+      "fullCatalog": "TO‘LIQ KATALOG",
+      "catalogDescription": "mashgʻulotdan oldingi, gidratatsiya, ATP qo‘llab-quvvatlovi va termogenik mahsulotlar — barchasi bir joyda.",
+      "builtFrom": "ASOSI",
+      "whatWorks": "HAQIQIY SAMARA",
+      "ingredientsDescription": "Har bir ingredient formulaga o‘zi ta’minlaydigan foydali ta’siri uchun kiritiladi — yorliqni shunchaki uzunroq qilish uchun emas.",
+      "audienceHeading": "KIMLAR MASHQ QILADI",
+      "questions": "SAVOLLAR",
+      "footerHeading": "Maqsad bilan mashq qiling. Tanangizni ham shunday quvvatlantiring.",
+      "footerButton": "Promolecules mahsulotlarini xarid qilish"
+    }
+  },
+  "preserved": {
+    "technical_code": "Preserve React/Next.js components, hooks, Framer Motion animations, icons, CSS classes, event handlers, API calls, routes, and interaction behavior without changes. Translate only customer-facing static text.",
+    "routes": [
+      "/product/thermo-nuke-xt/",
+      "/product/hydrapump/",
+      "/product/father-of-insane/",
+      "/product?category=PRE-WORKOUT",
+      "/product?category=FAT%20BURNER",
+      "/product?category=ATP%20BOOSTER",
+      "/product?category=MUSCLE%20HYDRATION",
+      "/merch",
+      "/product",
+      "/shop"
+    ],
+    "video": "/video.mp4",
+    "warning_tape_background": "/promolecules-tape.webp",
+    "blog_api": "/api/blogs?page=1",
+    "blog_route": "/blog/[slug]",
+    "blog_dynamic_fields": [
+      "blog.id",
+      "blog.slug",
+      "blog.featured_image",
+      "blog.name",
+      "blog.category.name",
+      "blog.author.name",
+      "blog.publish_date"
+    ],
+    "slider_interval_ms": 3000,
+    "testimonial_visible_cards": 2,
+    "testimonial_navigation_step": 2
+  }
+}

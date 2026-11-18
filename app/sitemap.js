@@ -68,11 +68,7 @@ export default async function sitemap() {
       changeFrequency: "monthly",
     },
 
-    {
-      path: "/cookies-policy/",
-      priority: 0.3,
-      changeFrequency: "yearly",
-    },
+   
 
     {
       path: "/domestic/",
@@ -108,12 +104,6 @@ export default async function sitemap() {
       path: "/shop/",
       priority: 0.9,
       changeFrequency: "daily",
-    },
-
-    {
-      path: "/terms-conditions/",
-      priority: 0.3,
-      changeFrequency: "yearly",
     },
 
     // Product Pages

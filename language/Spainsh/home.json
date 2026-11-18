@@ -1,0 +1,307 @@
+{
+  "slider": [
+    {
+      "id": 1,
+      "productImage": "/thermo.webp",
+      "title": "Thermo Nuke XT",
+      "backgroundImage": "/thermoo nuke xt new banner .jpg",
+      "mobileBackgroundImage": "/thermo mobile.webp",
+      "link": "/product/thermo-nuke-xt/",
+      "description": "Quema la grasa resistente más rápido gracias a su potencia termogénica, acelera el metabolismo, aumenta la sudoración, mantiene la energía y domina cada entrenamiento durante la fase de definición."
+    },
+    {
+      "id": 2,
+      "productImage": "/hydra.webp",
+      "title": "HydraPump+",
+      "backgroundImage": "/bannnerrr.jpg",
+      "mobileBackgroundImage": "/hydra-mobile.webp",
+      "link": "/product/hydrapump/",
+      "description": "Experimenta el efecto del glicerol líquido, una mayor plenitud muscular, hidratación rápida, vascularidad mejorada y resistencia sin cafeína para alcanzar el máximo rendimiento en cada entrenamiento."
+    },
+    {
+      "id": 3,
+      "productImage": "/father-of-insane-pre-workout-65-Servings.webp",
+      "title": "Father of Insane",
+      "backgroundImage": "/Father-of-insane.webp",
+      "mobileBackgroundImage": "/father-of-insane-mob.webp",
+      "link": "/product/father-of-insane/",
+      "description": "Father of Insane™ está diseñado para atletas que necesitan algo más que energía. Activa el sistema nervioso central, agudiza la concentración hasta alcanzar un enfoque total y potencia la fuerza explosiva desde la primera serie."
+    }
+  ],
+  "who_we_are_section": {
+    "title": "QUIÉNES SOMOS",
+    "subtitle": "Promolecules™ se centra en el rendimiento y te ayuda a superar tus propios límites.",
+    "card_1": {
+      "heading": "Entrena. Aliméntate. Domina.",
+      "text": "Promolecules™ es una marca premium de nutrición deportiva para atletas exigentes."
+    },
+    "cta": "Ver más",
+    "card_2": {
+      "heading": "Sin secretos. Solo potencia pura.",
+      "text": "Cada producto cumple con altos estándares de calidad de EE. UU. y utiliza listas transparentes de ingredientes y dosis estudiadas clínicamente."
+    }
+  },
+  "video_hero_alt": "Tu navegador no admite la reproducción de vídeo.",
+  "ultra_high_performance_section": {
+    "main_title": "RENDIMIENTO ULTRAALTO",
+    "subtitle": "FÓRMULA",
+    "features": [
+      {
+        "id": 1,
+        "title": "CONCENTRACIÓN",
+        "description": "Mejora la claridad mental, la velocidad de reacción y la concentración durante entrenamientos intensos. Diseñado para activarse en 15 minutos. Mantén el enfoque."
+      },
+      {
+        "id": 2,
+        "title": "ENERGÍA",
+        "description": "Estimulación multifásica para una activación rápida y energía constante y sostenida, sin caídas repentinas. Potencia cada serie."
+      },
+      {
+        "id": 3,
+        "title": "FUERZA",
+        "description": "Favorece la potencia explosiva, la resistencia y levantamientos más fuertes, al tiempo que impulsa la activación de todo el cuerpo para aumentar de forma natural el rendimiento muscular."
+      }
+    ]
+  },
+  "warning_tape_section": {
+    "mobile": {
+      "safety_heading": "Información importante de seguridad",
+      "safety_text": "ESTE PRODUCTO ESTÁ DESTINADO EXCLUSIVAMENTE A ADULTOS. NO SE RECOMIENDA SU USO EN NIÑOS NI EN MUJERES EMBARAZADAS O EN PERÍODO DE LACTANCIA."
+    },
+    "desktop": {
+      "crisis_heading": "La crisis oculta de los suplementos",
+      "crisis_text": "La industria de los suplementos se enfrenta a una crisis silenciosa: la adulteración. Los estudios revelan que casi el 70 % de los suplementos económicos contienen menos ingredientes activos de los que declaran.",
+      "safety_heading": "Información importante de seguridad",
+      "safety_text": "ESTE PRODUCTO ESTÁ DESTINADO EXCLUSIVAMENTE A ADULTOS. NO SE RECOMIENDA SU USO EN NIÑOS NI EN MUJERES EMBARAZADAS O EN PERÍODO DE LACTANCIA."
+    },
+    "tape_text": {
+      "item_1": "Father of Insane",
+      "item_2": "Advertencia",
+      "item_3": "Thermo Nuke XT",
+      "item_4": "Warflex",
+      "item_5": "HydraPump"
+    }
+  },
+  "trending_category_section": {
+    "heading": "CATEGORÍAS DESTACADAS",
+    "description": "En el mercado actual del fitness, los suplementos están por todas partes, pero no todos ofrecen la misma calidad. Muchas marcas económicas comprometen la pureza de los ingredientes, utilizan mezclas con dosis insuficientes o adquieren materias primas no verificadas que no ofrecen resultados reales.",
+    "categories": [
+      {
+        "title": "Pre-entrenamiento",
+        "desc": "Cafeína de múltiples fuentes y nootrópicos para activar el sistema nervioso central, mejorar la concentración y mantener la fuerza.",
+        "image": "/father-of-insane-warflex-products.webp",
+        "hoverImage": "/promolecules0father-of-insane-warflex-combo-offers.webp",
+        "link": "/product?category=PRE-WORKOUT"
+      },
+      {
+        "title": "QUEMADOR DE GRASA",
+        "desc": "Una combinación de cafeína, yohimbina y componentes termogénicos para favorecer el metabolismo, la quema de grasa y el rendimiento energético.",
+        "image": "/product2.webp",
+        "hoverImage": "/hoverproduct.webp",
+        "link": "/product?category=FAT%20BURNER"
+      },
+      {
+        "title": "POTENCIADOR DE ATP",
+        "desc": "Una combinación de cafeína, yohimbina y componentes termogénicos para favorecer el metabolismo y el rendimiento energético.",
+        "image": "/product2.webp",
+        "hoverImage": "/hoverproduct.webp",
+        "link": "/product?category=ATP%20BOOSTER"
+      },
+      {
+        "title": "HIDRATACIÓN MUSCULAR",
+        "desc": "Glicerol líquido, citrulina y sal rosa para una hidratación profunda, un mayor efecto de bombeo muscular y una mejor resistencia.",
+        "image": "/promolecules-hydrapump-new.webp",
+        "hoverImage": "/promolecules-hydrapump.webp",
+        "link": "/product?category=MUSCLE%20HYDRATION"
+      },
+      {
+        "title": "MERCHANDISING",
+        "desc": "Ropa deportiva y accesorios esenciales para entrenar, diseñados para la auténtica cultura del gimnasio y como representación de la disciplina.",
+        "image": "/father-of-insane-fusion-merch-product.webp",
+        "hoverImage": "/father-of-insane-fusion.webp",
+        "link": "/merch"
+      }
+    ]
+  },
+  "blog": {
+    "heading": "BLOGS",
+    "readMore": "Leer más",
+    "noBlogsFound": "No se encontraron blogs.",
+    "viewAll": "VER TODA",
+    "by": "Por"
+  },
+  "testimonialsSection": {
+    "heading": "LO QUE DICEN NUESTROS CLIENTES",
+    "subheading": "PROMOLECULES™ IMPULSA TU RUTINA: CREADO PARA QUIENES ENTRENAN MÁS DURO, LLEGAN MÁS LEJOS Y NUNCA SE RINDEN.",
+    "testimonials": [
+      {
+        "quote": "Energía limpia, concentración increíble y cero caídas de energía. Promolecules realmente parece diseñado científicamente, no exagerado como la mayoría de los suplementos de gimnasio disponibles hoy en día.",
+        "author": "ROHIT S.",
+        "role": "AFICIONADO AL GIMNASIO"
+      },
+      {
+        "quote": "Media medida fue suficiente para mi sesión. Activación potente sin nerviosismo. Definitivamente no es para principiantes: es una fórmula seria para el rendimiento.",
+        "author": "FAUZAN K.",
+        "role": "ATLETA"
+      },
+      {
+        "quote": "El bombeo muscular se sintió intenso y controlado, sin hinchazón. La fuerza se mantuvo constante hasta la última serie. Estoy muy impresionada con la calidad de la fórmula.",
+        "author": "SARAH M.",
+        "role": "POWERLIFTER"
+      },
+      {
+        "quote": "Alta estimulación, pero sorprendentemente equilibrada. Sin picos de ansiedad ni caídas bruscas de energía. La intensidad del entrenamiento se mantuvo elevada y constante durante toda la sesión.",
+        "author": "JAMES T.",
+        "role": "ATLETA DE CROSSFIT"
+      },
+      {
+        "quote": "He probado muchos Pre-entrenamientos, pero este se siente diferente y bien estructurado. La energía es progresiva, fluida y potente. Creado exclusivamente para atletas disciplinados.",
+        "author": "MIKE R.",
+        "role": "CULTURISTA"
+      }
+    ],
+    "previous": "Anterior",
+    "next": "Siguiente"
+  },
+  "promoleculesSection": {
+    "certifications": [
+      "Fabricación certificada GMP de EE. UU.",
+      "Ingredientes de calidad superior",
+      "Fórmulas cuidadosamente equilibradas",
+      "Pruebas de calidad realizadas por terceros",
+      "Análisis de metales pesados en materias primas",
+      "Ingredientes claramente identificados",
+      "Sin mezclas patentadas innecesarias",
+      "Fabricación estandarizada"
+    ],
+    "ingredients": [
+      "L-Citrulline",
+      "Beta Alanine",
+      "Creatine",
+      "Taurine",
+      "Alpha GPC",
+      "L-Theanine",
+      "Electrolytes",
+      "Vitamin B6 & B12",
+      "Glycerol",
+      "Green Tea Extract",
+      "Caffeine Sources",
+      "Amino Acids"
+    ],
+    "products": [
+      {
+        "tag": "Pre-entrenamiento",
+        "name": "Father of Insane™",
+        "desc": "Máxima energía, concentración e intensidad de entrenamiento para atletas que no se conforman con una serie cualquiera."
+      },
+      {
+        "tag": "Pre-entrenamiento",
+        "name": "Warflex™",
+        "desc": "Impulso sostenido y concentración total, diseñado para sesiones de entrenamiento más largas e intensas."
+      },
+      {
+        "tag": "PUMP E HIDRATACIÓN",
+        "name": "HydraPump+™",
+        "desc": "Un mayor bombeo muscular y una hidratación constante para que el rendimiento no disminuya a mitad del entrenamiento."
+      },
+      {
+        "tag": "ATP Y RESISTENCIA",
+        "name": "INOPOWER R™",
+        "desc": "Formulado para favorecer la producción celular de ATP durante los entrenamientos de resistencia."
+      },
+      {
+        "tag": "TERMOGÉNICO",
+        "name": "Thermo Nuke XT™",
+        "desc": "Diseñado para complementar una dieta estructurada y un plan de entrenamiento, no para sustituirlos."
+      }
+    ],
+    "audience": [
+      "Culturistas",
+      "Atletas de fuerza",
+      "Powerlifters",
+      "Levantadores de pesas",
+      "Atletas de CrossFit",
+      "Atletas de fitness funcional",
+      "Atletas de físico culturismo",
+      "Atletas de resistencia",
+      "Entusiastas del gimnasio comprometidos"
+    ],
+    "faq": [
+      {
+        "q": "¿Qué es Promolecules™?",
+        "a": "Una línea de nutrición deportiva que incluye Pre-entrenamientos, mezclas de hidratación, productos de apoyo al ATP y fórmulas termogénicas, diseñada para atletas y entusiastas del fitness que buscan un rendimiento fiable."
+      },
+      {
+        "q": "¿Dónde se fabrican estos suplementos?",
+        "a": "Todos los productos Promolecules™ se fabrican en instalaciones certificadas GMP de EE. UU."
+      },
+      {
+        "q": "¿Para quién están destinados estos suplementos?",
+        "a": "Para adultos que se toman en serio sus entrenamientos, ya sea levantamiento de pesas, carrera, pruebas de resistencia o sesiones estructuradas. Sigue siempre las indicaciones de la etiqueta del producto y consulta con tu médico si tienes alguna preocupación relacionada con tu salud."
+      },
+      {
+        "q": "¿Promolecules™ analiza sus productos?",
+        "a": "Sí. Cada lote sigue las directrices GMP e incluye análisis de calidad y pruebas de metales pesados en las materias primas."
+      },
+      {
+        "q": "¿Estos productos son adecuados para principiantes?",
+        "a": "Algunos productos contienen niveles elevados de estimulantes y pueden no ser adecuados para principiantes. Lee la etiqueta y comienza a utilizarlos únicamente si cuentas con la tolerancia y experiencia necesarias."
+      },
+      {
+        "q": "¿Dónde puedo comprar productos originales de Promolecules™?",
+        "a": "El sitio web oficial de Promolecules™, Cost to Cost Supplement, Flipkart y Amazon son puntos de venta verificados para adquirir productos originales."
+      }
+    ],
+    "section": {
+      "brand": "Promolecules™",
+      "teaser": "Nutrición deportiva bioingenierizada: pulsa para explorar toda la gama",
+      "collapse": "Contraer sección",
+      "heroSubtitle": "NUTRICIÓN DEPORTIVA BIOINGENIERIZADA",
+      "heroDescription": "Suplementos de rendimiento diseñados para atletas, culturistas, powerlifters y cualquier persona que entrene con propósito. Ingredientes de calidad superior. Dosis eficaces. Nada añadido únicamente para alargar la lista de ingredientes.",
+      "shopRange": "Explorar productos",
+      "qualityFirst": "LA CALIDAD ES LO PRIMERO",
+      "range": "LA GAMA",
+      "rangeDescription": "Cada producto está diseñado en torno a un objetivo específico de rendimiento, no como una colección de fórmulas que se solapan.",
+      "fullCatalog": "CATÁLOGO COMPLETO",
+      "catalogDescription": "Pre-entrenamientos, hidratación, apoyo al ATP y termogénicos: todo en un mismo lugar.",
+      "builtFrom": "FORMULADO CON",
+      "whatWorks": "LO QUE FUNCIONA",
+      "ingredientsDescription": "Cada ingrediente tiene una función específica dentro de la fórmula por el efecto que aporta, nunca se incluye simplemente para alargar la etiqueta.",
+      "audienceHeading": "QUIÉNES LO UTILIZAN",
+      "questions": "PREGUNTAS",
+      "footerHeading": "Entrena con propósito. Aliméntate con la misma determinación.",
+      "footerButton": "Comprar Promolecules™"
+    }
+  },
+  "preserved": {
+    "technical_code": "Conservar sin cambios los componentes de React/Next.js, hooks, animaciones de Framer Motion, iconos, clases CSS, controladores de eventos, llamadas a la API, rutas y comportamiento de interacción. Traducir únicamente el texto estático visible para el usuario.",
+    "routes": [
+      "/product/thermo-nuke-xt/",
+      "/product/hydrapump/",
+      "/product/father-of-insane/",
+      "/product?category=PRE-WORKOUT",
+      "/product?category=FAT%20BURNER",
+      "/product?category=ATP%20BOOSTER",
+      "/product?category=MUSCLE%20HYDRATION",
+      "/merch",
+      "/product",
+      "/shop"
+    ],
+    "video": "/video.mp4",
+    "warning_tape_background": "/promolecules-tape.webp",
+    "blog_api": "/api/blogs?page=1",
+    "blog_route": "/blog/[slug]",
+    "blog_dynamic_fields": [
+      "blog.id",
+      "blog.slug",
+      "blog.featured_image",
+      "blog.name",
+      "blog.category.name",
+      "blog.author.name",
+      "blog.publish_date"
+    ],
+    "slider_interval_ms": 3000,
+    "testimonial_visible_cards": 2,
+    "testimonial_navigation_step": 2
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "heading": "Produits",
+  "categories": [
+    {
+      "value": "ALL",
+      "label": "Tous"
+    },
+    {
+      "value": "PRE-WORKOUT",
+      "label": "Pré-entraînement"
+    },
+    {
+      "value": "FAT BURNER",
+      "label": "Brûle-graisses"
+    },
+    {
+      "value": "ATP BOOSTER",
+      "label": "Booster d'ATP"
+    },
+    {
+      "value": "MUSCLE HYDRATION",
+      "label": "Hydratation musculaire"
+    }
+  ],
+  "search": "Rechercher...",
+  "sort": "Trier",
+  "sortOptions": {
+    "default": "Trier",
+    "priceLow": "Prix : du moins cher au plus cher",
+    "priceHigh": "Prix : du plus cher au moins cher"
+  },
+  "view": "Afficher",
+  "noResults": "Aucun résultat trouvé",
+  "tryDifferentSearch": "Essayez un autre terme de recherche",
+  "detail": {
+    "flavours": "SAVEURS",
+    "servings": "PORTIONS",
+    "buyNowOn": "ACHETER SUR",
+    "buyOn": "Acheter sur",
+    "launchingSoon": "Bientôt disponible...",
+    "launchingSoonText": "Ce produit sera bientôt disponible en ligne.",
+    "whatsappEarlyAccess": "Contactez-nous sur WhatsApp pour un accès anticipé",
+    "supplementFacts": "Valeurs nutritionnelles",
+    "productAlt": "produit",
+    "thumbnailAlt": "miniature",
+    "sections": {
+      "description": "DESCRIPTION",
+      "keyBenefits": "PRINCIPAUX BIENFAITS",
+      "whyChooseUs": "POURQUOI NOUS CHOISIR ?",
+      "howToUse": "MODE D'EMPLOI",
+      "safetyInformation": "INFORMATIONS DE SÉCURITÉ",
+      "whoShouldUse": "À QUI S'ADRESSE CE PRODUIT"
+    },
+    "moreProductsHeading": "Ne manquez rien – Achetez et économisez",
+    "notFound": "Produit introuvable"
+  },
+  "faq": {
+    "badge": "Questions fréquemment posées",
+    "heading": "Tout ce que vous devez savoir sur",
+    "description": "Retrouvez les réponses aux questions les plus fréquentes : ingrédients, utilisation, bienfaits, sécurité et performances."
+  },
+  "reviews": {
+    "heading": "AVIS DES CLIENTS",
+    "basedOn": "Basé sur",
+    "review": "avis",
+    "reviews": "avis",
+    "averageRating": "Note moyenne des clients",
+    "star": "ÉTOILE",
+    "stars": "ÉTOILES",
+    "viewMore": "VOIR PLUS...",
+    "noReviews": "Aucun avis trouvé pour ce produit."
+  },
+  "reviewModal": {
+    "heading": "Rédiger un avis",
+    "name": "Votre nom",
+    "email": "Votre e-mail",
+    "review": "Rédigez votre avis...",
+    "submit": "Envoyer l'avis",
+    "close": "Fermer"
+  },
+  "searchModal": {
+    "placeholder": "Rechercher des produits...",
+    "typeToSearch": "Saisissez un terme pour rechercher des produits",
+    "noResults": "Aucun produit trouvé pour",
+    "result": "résultat",
+    "results": "résultats",
+    "escToClose": "Échap pour fermer",
+    "clear": "Effacer la recherche",
+    "close": "Fermer la recherche"
+  }
+}

@@ -1,0 +1,2003 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "slug": "father-of-insane",
+      "name": "FATHER OF INSANE",
+      "flipkartLink": "https://www.flipkart.com/promolecules-father-insane-ultra-high-stim-5200mg-power-blend-70-serv-half-scoop-35-full-pre-workout/p/itmb96e27fc7e10d",
+      "amazonLink": "https://www.amazon.in/Promolecules-Father-Performance-Supplement-Enthusiasts/dp/B0GM15FD9N?ref_=ast_sto_dp",
+      "cost2cost": "https://www.cost2costsupplement.com/products/father-of-insane-high-stim-pre-workout",
+      "category": "PRE-WORKOUT",
+      "title": "Pra-latihan perangsang ultra-tinggi yang dibina untuk atlet serius. Memberikan pengaktifan pantas, fokus tajam, dan tenaga berterusan tanpa keletihan mendadak. Hidupkan suis. Berlatih dengan bersungguh-sungguh.",
+      "description": "Lepaskan Tenaga Elit, Fokus Laser, & Menyokong prestasi senaman. Jika anda seorang atlet berpengalaman yang mencari pra-latihan perangsang ultra-tinggi, Father of Insane™ oleh Promolecules™ dirumus untuk menyokong sesi latihan yang intensif. Pra-latihan ini direka untuk pengguna lanjutan dengan bahan berfokuskan prestasi seperti Beta-Alanine, Creatine Monohydrate, Creatine HCl, L-Citrulline, Betaine Anhydrous, dan beberapa sumber kafein dalam campuran proprietari pekat. Sama ada bina badan, kekuatan, power-lifting, senaman gim gaya CrossFit atau berintensiti tinggi, Father of Insane direka untuk menyediakan anda secara mental dan fizikal sebelum senaman.",
+      "seo": {
+        "title": "Pra-Latihan Perangsang Ultra Tinggi Father of Insane | Promolecules",
+        "description": "Beli Pra-Latihan Perangsang Ultra Tinggi Father of Insane™ dalam talian. Alami Pra-Latihan meletup untuk Tenaga, Fokus, pam otot hebat, daya tahan dan Suplemen Prestasi Gim.",
+        "keywords": "Pra-Latihan Perangsang Ultra Tinggi, Father of Insane, Pra-Latihan Father of Insane, Beli Pra-Latihan Perangsang Ultra Tinggi, Pra-Latihan Perangsang Ultra Tinggi Terbaik, Pra-Latihan Perangsang Tinggi, Suplemen Pra-Latihan, Serbuk Pra-Latihan, Suplemen Gim, Pemakanan Sukan, Suplemen Tenaga Senaman, Pra-Latihan Kafein Tinggi, Suplemen Pam Otot, Suplemen Daya Tahan, Suplemen Fokus, Pra-Latihan Terbaik",
+        "canonical": "https://www.promolecules.com/product/father-of-insane/",
+        "author": "Promolecules™",
+        "publisher": "Promolecules™",
+        "language": "Melayu",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "googlebot": "index, follow",
+        "bingbot": "index, follow",
+        "revisit_after": "7 days",
+        "distribution": "global",
+        "rating": "general",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "Dubai"
+        },
+        "og": {
+          "title": "Pra-Latihan Father of Insane | Formula Perangsang Tinggi",
+          "type": "website",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "Pra-Latihan Perangsang Ultra Tinggi Father of Insane",
+          "locale": "ms_MY",
+          "site_name": "Promolecules™",
+          "description": "Alami tenaga meletup, fokus intensif, pam otot dan daya tahan dengan pra-latihan perangsang tinggi Father of Insane. Dibina untuk atlet serius dan prestasi gim.",
+          "url": "https://www.promolecules.com/product/father-of-insane/"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "Promolecules™",
+          "title": "Pra-Latihan Perangsang Ultra Tinggi Father of Insane™",
+          "description": "Tenaga ekstrem, fokus laser, pam otot berkuasa dan daya tahan. Beli Pra-Latihan Perangsang Ultra Tinggi Father of Insane™ dalam talian.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "Pra-Latihan Perangsang Ultra Tinggi Father of Insane"
+        },
+        "ldjson": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Promolecules",
+            "alternateName": "Promolecules",
+            "url": "https://www.promolecules.com/",
+            "logo": "https://www.promolecules.com/promolecules-logo.webp",
+            "sameAs": [
+              "https://www.facebook.com/promolecules.official",
+              "https://x.com/promolecules",
+              "https://www.instagram.com/promolecules/",
+              "https://www.youtube.com/@Promolecules",
+              "https://www.pinterest.com/promolecules/"
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Pra-Latihan Perangsang Ultra Tinggi Father of Insane™",
+            "image": "https://promolecules.com/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-35-Servings.webp",
+            "description": "Beli Pra-Latihan Perangsang Ultra Tinggi Father of Insane™ dalam talian. Alami Pra-Latihan meletup untuk Tenaga, Fokus, pam otot hebat, daya tahan dan Suplemen Prestasi Gim.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Promolecules™"
+            },
+            "sku": "father-of-insane-35",
+            "offers": {
+              "@type": "Offer",
+              "url": "https://www.promolecules.com/product/father-of-insane/",
+              "priceCurrency": "USD",
+              "price": "41.99",
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "247"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": []
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "promolecules",
+                "item": "https://www.promolecules.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "produk",
+                "item": "https://www.promolecules.com/product/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Pra-Latihan",
+                "item": "https://www.promolecules.com/product-category/pre-workout/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "name": "Father of Insane",
+                "item": "https://www.promolecules.com/product/father-of-insane/"
+              }
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Review",
+            "@id": "https://www.promolecules.com/product/father-of-insane/#review",
+            "itemReviewed": {
+              "@type": "Product",
+              "name": "Pra-Latihan Perangsang Ultra Tinggi Father of Insane™",
+              "url": "https://www.promolecules.com/product/father-of-insane/"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pelanggan Disahkan"
+            },
+            "datePublished": "2026-07-03",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "name": "Pra-Latihan Perangsang Tinggi yang Cemerlang",
+            "reviewBody": "Father of Insane™ larut dengan baik dan memberikan tenaga senaman, fokus, serta intensiti latihan yang luar biasa. Saya menghargai arahan penggunaan yang jelas dan formula perangsang tinggi."
+          }
+        ]
+      },
+      "images": [
+        "/Promolecules/fatherofinsane/frontside.webp",
+        "/Promolecules/fatherofinsane/backside.webp",
+        "/Promolecules/fatherofinsane/father-of-insane.webp",
+        "/Promolecules/fatherofinsane/father-of-insane-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/fatherofinsane/father-of-insane-pre-workout.webp",
+      "variants": [
+        {
+          "flavour": "Fruit-Punch",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Fruit-Punch",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Gummies-Bliss",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/gummies-bliss-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Gummies-Bliss",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/gummies-bliss-father-of-insane-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Blue-Rasberry",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/blue-rasberry-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Blue-Rasberry",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/blue-rasberry-father-of-insane-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Purple-Pulse",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/purple-pulse-gummies-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Purple-Pulse",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/purple-pulse-gummies-father-of-insane-pre-workout-65-Servings.webp"
+        }
+      ],
+      "price": "43",
+      "discounted": "41.2",
+      "servings": [
+        {
+          "size": "35",
+          "price": 41.99
+        },
+        {
+          "size": "65",
+          "price": 59.99
+        }
+      ],
+      "flavours": [
+        {
+          "name": "Fruit Punch",
+          "images": [
+            "/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        },
+        {
+          "name": "Gummy Bliss",
+          "images": [
+            "/Promolecules/fatherofinsane/gummies-bliss-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        },
+        {
+          "name": "Purple Pulse Gummies",
+          "images": [
+            "/Promolecules/fatherofinsane/purple-pulse-gummies-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        },
+        {
+          "name": "Blue Raspberry",
+          "images": [
+            "/Promolecules/fatherofinsane/blue-rasberry-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        }
+      ],
+      "keyBenefits": [
+        "Membantu menyokong tenaga senaman - Formula ini merangkumi pelbagai sumber kafein termasuk Caffeine Anhydrous, Dicaffeine Malate (2XCAFF®), dan Caffeine Citrate (Citra Caff®). Bahan-bahan ini lazim dalam pemakanan sukan untuk membantu anda kekal peka dan bersedia untuk bersenam.",
+        "Menyokong fokus mental semasa bersenam - Kualiti senaman anda bergantung pada mengekalkan fokus semasa latihan berat. Kafein dan bahan prestasi lain disertakan untuk membantu menyokong tumpuan dan kewaspadaan mental.",
+        "Penggalak Pam Otot - L-Citrulline adalah salah satu bahan paling popular dalam suplemen pra-latihan kerana peranannya dalam penghasilan nitrik oksida dan meningkatkan aliran darah, menyumbang kepada pam otot yang hebat.",
+        "Penggalak Kekuatan dan Kuasa - Formula ini mengandungi Creatine Monohydrate dan Creatine HCl, bahan yang mempunyai penyelidikan meluas menyokong peningkatan prestasi semasa senaman berintensiti tinggi yang berulang.",
+        "Daya Tahan Otot - Beta-Alanine membantu meningkatkan tahap karnosina otot, memberikan kapasiti penimbal asid dan membantu menyokong prestasi semasa senaman intensif.",
+        "Formula Berorientasikan Prestasi - Father of Insane menggabungkan asid amino, pelbagai sumber kreatina, penggalak nitrik oksida, perangsang, dan nootropik untuk menyokong program latihan yang serius.",
+        "Asid Amino Prestasi - Membantu menyediakan badan anda untuk aktiviti fizikal dan menyokong prestasi otot.",
+        "Matriks Kreatina - Menyokong prestasi senaman berintensiti tinggi.",
+        "Nitrik Oksida - L-Citrulline membantu menghasilkan nitrik oksida, menyokong peredaran darah yang sihat semasa bersenam.",
+        "Kompleks Perangsang - Beberapa bahan yang mengandungi kafein disertakan untuk membantu anda kekal peka sebelum latihan.",
+        "Beta-Alanine - Atlet menggunakan Beta-Alanine kerana ia membantu meningkatkan tahap karnosina otot. Tahap karnosina yang lebih tinggi membantu menimbal pengumpulan asid semasa latihan intensif, membolehkan anda beraksi lebih lama.",
+        "Creatine Monohydrate - Salah satu bahan yang paling banyak dikaji dalam pemakanan sukan. Apabila digabungkan dengan latihan rintangan, pengambilan suplemen secara berkala menyokong kekuatan, output kuasa, dan prestasi berintensiti tinggi yang berulang.",
+        "Creatine HCl (CreaCCL®) - Creatine Hydrochloride ialah bentuk kreatina yang sangat mudah larut yang melengkapkan matriks kreatina dalam formula.",
+        "L-Citrulline - L-Citrulline ditukar kepada arginina dalam badan, yang menyokong penghasilan nitrik oksida. Proses ini boleh membantu meningkatkan aliran darah semasa bersenam dan memperhebatkan pam otot.",
+        "Betaine Anhydrous - Betaine lazimnya disertakan dalam formula prestasi untuk menyokong kekuatan, kuasa, dan prestasi senaman secara keseluruhan.",
+        "Caffeine Anhydrous - Sumber kafein yang diserap dengan pantas yang menyokong kewaspadaan, masa tindak balas, dan kesediaan senaman.",
+        "Dicaffeine Malate (2XCAFF®) - Gabungan kafein dan asid malik yang memberikan pelepasan tenaga yang lebih perlahan dan stabil.",
+        "Caffeine Citrate (Citra Caff®) - Sumber kafein tambahan yang disertakan untuk mencipta campuran tenaga yang seimbang.",
+        "Ekstrak Citrus Aurantium (Citrusyn® 30) - Ekstrak botani yang lazimnya disertakan dalam produk pemakanan sukan termogenik dan berasaskan perangsang."
+      ],
+      "whychooseus": [
+        "Tiada formula dos rendah. Tiada campuran tersembunyi.",
+        "Seni bina perangsang berbilang lapisan—bukan sekadar lambakan kafein",
+        "Dibina untuk atlet lanjutan, bukan pengguna kasual",
+        "Direka untuk prestasi, bukan gembar-gembur",
+        "Direka untuk mengaktifkan CNS + output otot secara serentak"
+      ],
+      "whoShouldUse": [
+        "Pengunjung gim lanjutan",
+        "Ahli bina badan",
+        "Atlet kekuatan",
+        "Powerlifter",
+        "Peminat latihan silang (Cross-training)",
+        "Pengguna berpengalaman pra-latihan yang mengandungi perangsang",
+        "Tidak disyorkan untuk pemula atau individu yang sensitif terhadap perangsang."
+      ],
+      "howToUse": [
+        "Campurkan ½ skop dengan 4–6 oz (120–180 ml) air kira-kira 30 minit sebelum latihan untuk menilai toleransi.",
+        "Jika diterima dengan baik, campurkan 1 skop penuh dengan 8–10 oz (240–300 ml) air kira-kira 30 minit sebelum senaman anda.",
+        "Jangan melebihi satu skop sehari."
+      ],
+      "whatToAvoid": [
+        "Jangan gunakan jika anda seorang pemula",
+        "Elakkan menggabungkan dengan produk perangsang tinggi yang lain",
+        "Jangan ambil hampir dengan waktu tidur",
+        "Jangan melebihi dos yang disyorkan",
+        "Tidak sesuai untuk individu yang sensitif terhadap perangsang"
+      ],
+      "safetyInformation": [
+        "Diperuntukkan untuk orang dewasa yang sihat sahaja.",
+        "Bukan untuk pemula.",
+        "Jangan melebihi hidangan yang disyorkan.",
+        "Elakkan menggabungkan dengan produk lain yang mengandungi kafein.",
+        "Rujuk profesional penjagaan kesihatan sebelum digunakan jika anda mempunyai masalah kesihatan atau sedang mengambil ubat.",
+        "Tidak bertujuan untuk digunakan semasa mengandung atau menyusukan anak.",
+        "Jauhkan daripada capaian kanak-kanak.",
+        "Simpan di tempat yang sejuk dan kering."
+      ],
+      "faqs": [
+        {
+          "question": "Apakah itu Father of Insane™?",
+          "answer": "Father of Insane™ ialah Suplemen Pra-Latihan Perangsang Ultra Tinggi yang dibangunkan untuk orang dewasa sihat yang sudah mempunyai pengalaman dengan produk pemakanan sukan yang mengandungi perangsang. Campuran proprietari 5200 mg Father of Insane menggabungkan bahan-bahan yang lazim digunakan dalam formula pra-latihan untuk menyokong tenaga senaman, fokus, sokongan nitrik oksida, kekuatan, daya tahan otot, dan prestasi semasa latihan yang mencabar. Kerana ia mengandungi beberapa bahan perangsang, label produk menasihatkan pengguna untuk bermula dengan ½ skop bagi menilai toleransi."
+        },
+        {
+          "question": "Siapakah yang patut menggunakan Father of Insane™?",
+          "answer": "Father of Insane™ diperuntukkan bagi orang dewasa yang sihat dengan pengalaman terdahulu menggunakan suplemen pra-latihan yang mengandungi perangsang. Ia tidak disyorkan untuk pemula atau individu yang sensitif terhadap kafein atau perangsang lain."
+        },
+        {
+          "question": "Bagaimanakah cara mengambil Father of Insane™?",
+          "answer": "Mulakan dengan ½ skop dicampur dengan 4–6 oz (120–180 ml) air kira-kira 30 minit sebelum senaman untuk menilai toleransi. Jika diterima dengan baik, gunakan 1 skop penuh dengan 8–10 oz (240–300 ml) air kira-kira 30 minit sebelum senaman anda. Jangan melebihi satu skop sehari."
+        },
+        {
+          "question": "Apakah bahan-bahan yang terkandung dalam Father of Insane™?",
+          "answer": "Campuran proprietari 5200 mg mengandungi Beta-Alanine, Creatine Monohydrate, Creatine HCl (CreaCCL®), L-Citrulline, Betaine Anhydrous, Caffeine Anhydrous, Ekstrak Citrus Aurantium (Citrusyn® 30), Dicaffeine Malate (2XCAFF®), dan Caffeine Citrate (Citra Caff®)."
+        },
+        {
+          "question": "Adakah Father of Insane™ sesuai untuk pemula?",
+          "answer": "Tidak. Label dengan jelas menyatakan bahawa Father of Insane™ bukan untuk pemula. Kerana ia mengandungi pelbagai bahan perangsang, pengguna baharu harus mengelakkan produk ini dan memilih alternatif perangsang yang lebih rendah jika sesuai."
+        },
+        {
+          "question": "Apakah manfaat utama Father of Insane™?",
+          "answer": "Formula ini direka untuk menyokong tenaga senaman, fokus mental, pam otot, daya tahan senaman, latihan berorientasikan kekuatan, dan senaman berintensiti tinggi. Keputusan berbeza-beza bergantung pada individu, program latihan, pemakanan, dan konsistensi."
+        },
+        {
+          "question": "Adakah Father of Insane™ mengandungi kreatina?",
+          "answer": "Ya. Ia merangkumi Creatine Monohydrate dan Creatine HCl (CreaCCL®), dua bentuk kreatina yang lazim digunakan dalam pemakanan sukan untuk menyokong prestasi senaman berintensiti tinggi."
+        },
+        {
+          "question": "Adakah Father of Insane™ mengandungi kafein?",
+          "answer": "Ya. Produk ini merangkumi pelbagai sumber kafein, termasuk Caffeine Anhydrous, Dicaffeine Malate (2XCAFF®), dan Caffeine Citrate (Citra Caff®). Label juga menyatakan jumlah kandungan kafein sebanyak 450 mg setiap hidangan."
+        },
+        {
+          "question": "Bolehkah saya mengambil Father of Insane™ setiap hari?",
+          "answer": "Ikuti arahan pada label dan jangan melebihi satu hidangan sehari. Ramai atlet juga menyesuaikan rutin suplemen mereka berdasarkan intensiti latihan dan toleransi individu. Rujuk profesional penjagaan kesihatan jika anda mempunyai soalan tentang penggunaan berkala."
+        },
+        {
+          "question": "Bolehkah saya menggabungkan (stack) Father of Insane™ dengan suplemen lain?",
+          "answer": "Father of Insane™ boleh digunakan bersama produk pemakanan sukan yang serasi, tetapi kerana ia mengandungi tahap perangsang yang tinggi, elakkan menggabungkannya dengan suplemen tambahan yang mengandungi kafein melainkan dinasihatkan oleh profesional penjagaan kesihatan."
+        },
+        {
+          "question": "Adakah Father of Insane™ diuji untuk kualiti?",
+          "answer": "Label menyatakan bahawa produk ini dikilangkan secara eksklusif untuk Promolecules di kemudahan cGMP, yang mencerminkan pematuhan kepada Amalan Pengilangan Baik semasa."
+        },
+        {
+          "question": "Di manakah saya boleh membeli Father of Insane™?",
+          "answer": "Father of Insane™ boleh didapati melalui laman web rasmi Promolecules, Cost2Cost Supplement, Amazon, Flipkart, dan rakan kongsi runcit sah terpilih. Membeli daripada penjual sah membantu memastikan ketulenan produk."
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Ethan Parker",
+          "country": "AS",
+          "des": "Sudah bertahun-tahun menggunakan pra-latihan perangsang tinggi. Yang ini mengejutkan saya. Setengah skop sebelum bench berat dan dorongan neural berfungsi dengan sempurna."
+        },
+        {
+          "id": 2,
+          "name": "Vikas Chauhan",
+          "country": "India",
+          "des": "Peningkatan tenaga terasa terkawal. Tiada tangan menggeletar, hanya fokus padu dalam setiap set."
+        },
+        {
+          "id": 3,
+          "name": "Marco Bellini",
+          "country": "Itali",
+          "des": "Saya berlatih lewat petang dan biasanya rasa letih. Dengan pra-latihan ini, motivasi dan intensiti kekal tinggi walaupun pada hari latihan kaki."
+        },
+        {
+          "id": 4,
+          "name": "Deepak Rana",
+          "country": "India",
+          "des": "Kali pertama saya benar-benar faham apa yang orang maksudkan dengan pengaktifan CNS. Sesi deadlift saya terasa meletup."
+        },
+        {
+          "id": 5,
+          "name": "Oliver Scott",
+          "country": "UK",
+          "des": "Protokol setengah skop sangat masuk akal. Formula ini memberi kesan lebih kuat daripada kebanyakan pra-latihan dua skop."
+        },
+        {
+          "id": 6,
+          "name": "Ravi Mehta",
+          "country": "India",
+          "des": "Fokus semasa angkatan kompaun meningkat serta-merta. Terasa direka dengan teliti berbanding sekadar dos berlebihan."
+        },
+        {
+          "id": 7,
+          "name": "Jason Ward",
+          "country": "AS",
+          "des": "Apa yang mengagumkan saya ialah rangsangan yang bersih. Tiada keletihan mendadak walaupun selepas sesi 90 minit."
+        },
+        {
+          "id": 8,
+          "name": "Abhishek Tripathi",
+          "country": "India",
+          "des": "Menggunakannya sebelum hari squat. Output kekuatan kekal konsisten sehingga set terakhir."
+        },
+        {
+          "id": 9,
+          "name": "Nicolas Romero",
+          "country": "Argentina",
+          "des": "Ini adalah pra-latihan pertama di mana keagresifan benar-benar terasa terkawal."
+        },
+        {
+          "id": 10,
+          "name": "Faizan Khan",
+          "country": "UAE",
+          "des": "Mengambil setengah skop sebelum senaman tolak (push). Lonjakan tenaga terasa lancar dan stabil."
+        },
+        {
+          "id": 11,
+          "name": "Andrew Foster",
+          "country": "Australia",
+          "des": "Tidak mesra pemula tetapi sempurna untuk pengangkat berat yang berpengalaman."
+        },
+        {
+          "id": 12,
+          "name": "Aman Verma",
+          "country": "India",
+          "des": "Dalam masa 20 minit fikiran saya terkunci sepenuhnya pada senaman."
+        },
+        {
+          "id": 13,
+          "name": "Carlos Rivera",
+          "country": "Mexico",
+          "des": "Peningkatan fokus yang hebat semasa angkatan kompaun berat."
+        },
+        {
+          "id": 14,
+          "name": "Rahul Thakur",
+          "country": "India",
+          "des": "Terasa lebih kuat daripada kebanyakan pra-latihan import yang pernah saya gunakan."
+        },
+        {
+          "id": 15,
+          "name": "Daniel Moore",
+          "country": "AS",
+          "des": "Tenaga kekal konsisten tanpa keletihan mendadak akibat kafein."
+        },
+        {
+          "id": 16,
+          "name": "Sanjay Deshmukh",
+          "country": "India",
+          "des": "Membantu memecahkan dataran tinggi (plateau) kekuatan."
+        },
+        {
+          "id": 17,
+          "name": "Mateo Gonzalez",
+          "country": "Sepanyol",
+          "des": "Sempurna untuk hari latihan berintensiti tinggi."
+        },
+        {
+          "id": 18,
+          "name": "Imran Malik",
+          "country": "Pakistan",
+          "des": "Rangsangan terasa bersih dan terkawal."
+        },
+        {
+          "id": 19,
+          "name": "Nathan Hughes",
+          "country": "UK",
+          "des": "Formula kuat tetapi tidak huru-hara."
+        },
+        {
+          "id": 20,
+          "name": "Kunal Aggarwal",
+          "country": "India",
+          "des": "Membantu meneruskan beberapa set terakhir."
+        },
+        {
+          "id": 21,
+          "name": "Victor Almeida",
+          "country": "Brazil",
+          "des": "Kesan fokus sangat ketara."
+        },
+        {
+          "id": 22,
+          "name": "Aditya Saxena",
+          "country": "India",
+          "des": "Menjadikan senaman terasa lebih agresif."
+        },
+        {
+          "id": 23,
+          "name": "Eric Larson",
+          "country": "AS",
+          "des": "Salah satu pra-latihan terkuat yang pernah saya gunakan."
+        },
+        {
+          "id": 24,
+          "name": "Rahul Khanna",
+          "country": "India",
+          "des": "Tenaga kekal stabil untuk senaman yang panjang."
+        },
+        {
+          "id": 25,
+          "name": "Dmitry Ivanov",
+          "country": "Rusia",
+          "des": "Setengah skop sudah terasa sangat berkuasa."
+        },
+        {
+          "id": 26,
+          "name": "Armaan Sheikh",
+          "country": "India",
+          "des": "Rangsangan yang baik tanpa rasa gelisah (jitters)."
+        },
+        {
+          "id": 27,
+          "name": "Peter Wallace",
+          "country": "Kanada",
+          "des": "Membantu mengekalkan intensiti."
+        },
+        {
+          "id": 28,
+          "name": "Harshit Arora",
+          "country": "India",
+          "des": "Sempurna untuk hari latihan berat."
+        },
+        {
+          "id": 29,
+          "name": "Antonio Ruiz",
+          "country": "Sepanyol",
+          "des": "Fokus kekal terkunci semasa bersenam."
+        },
+        {
+          "id": 30,
+          "name": "Suresh Kumar",
+          "country": "India",
+          "des": "Formula yang kuat tetapi seimbang."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "warflex",
+      "flipkartLink": "https://www.flipkart.com/promolecules-warflex-high-stim-pre-workout-caffeine-strength-pump-focus-formula-35-servings/p/itm855c7c69787ee?pid=PSLHKNVKCWGH6HRK&lid=LSTPSLHKNVKCWGH6HRKJSOMI5&marketplace=FLIPKART&q=preworkout&store=hlc%2Fetg%2F1rx&srno=s_1_4&otracker=AS_QueryStore_OrganicAutoSuggest_1_8_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_8_na_na_na&fm=search-autosuggest&iid=a7b10f9a-b5f9-4612-bb69-bd7eb8b52db5.PSLHKNVKCWGH6HRK.SEARCH&ppt=sp&ppn=sp&ssid=5rrj430ryo0000001779782323988&qH=c27d997028a56b71&ov_redirect=true&ov_redirect=true",
+      "cost2cost": "https://www.cost2costsupplement.com/products/warflex-high-stim-test-booster-preworkout",
+      "category": "PRE-WORKOUT",
+      "name": "WARFLEX",
+      "title": "Warflex™ ialah pra-latihan penggalak testosteron perangsang tinggi dengan Boron Citrate. Warflex™ dirumus untuk orang dewasa sihat yang biasa dengan produk pemakanan sukan berasaskan perangsang. Setiap hidangan mempunyai nisbah asid amino yang tepat, sumber kreatina, bahan sokongan nitrik oksida, ekstrak botani, nootropik, dan pelbagai sumber kafein. Ia direka untuk membantu pengguna berpengalaman bersedia menghadapi senaman intensif dengan lebih fokus dan kesediaan. Kerana formula ini mengandungi perangsang yang kuat, pengguna harus bermula dengan setengah skop untuk menilai toleransi individu mereka sebelum menggunakan hidangan penuh.",
+      "description": "Tenaga Maksimum. Fokus Unggul. Prestasi Kekuatan Lanjutan. Jika anda memerlukan sesuatu yang melampaui pra-latihan biasa, cubalah Warflex™ – campuran lanjutan yang dirumus secara saintifik daripada pelbagai bahan prestasi yang sesuai untuk atlet lanjutan. Creatine Monohydrate, Creatine HCl (CreaCCL®), Beta-Alanine, L-Citrulline, Taurine, Alpha GPC, Boron Citrate, Agmatine Sulfate, pelbagai sebatian kafein, Alpha Yohimbine, L-Theanine, dan Huperzine-A akan membantu anda bersedia secara mental dan fizikal sebelum bersenam. Formula Warflex disasarkan kepada atlet lanjutan yang ingin memanfaatkan pra-latihan perangsang tinggi untuk melengkapkan latihan rintangan, bina badan, powerlifting, kecergasan berfungsi, dan sesi gim yang sukar. Produk ini dikilangkan di kemudahan yang diperakui cGMP.",
+      "canonical": "https://www.promolecules.com/product/warflex/",
+      "seo": {
+        "title": "Pra-Latihan Perangsang Tinggi Warflex | Beli Pra-Latihan Terbaik Dalam Talian di Promolecules",
+        "description": "Beli Pra-Latihan Perangsang Tinggi Warflex dalam talian di Promolecules. Dapatkan Suplemen Penggalak Tenaga meletup, pam otot hebat, fokus laser, kekuatan dan Suplemen Daya Tahan untuk senaman serius.",
+        "keywords": "Pra-Latihan WARFLEX, Pra-Latihan Perangsang Tinggi Warflex, Pra-Latihan Terbaik, Beli Pra-Latihan Dalam Talian, Pra-Latihan Perangsang Tinggi, Suplemen Pra-Latihan, Pra-Latihan Gim, Penggalak Tenaga Senaman, Suplemen Pam Otot, Suplemen Kekuatan, Suplemen Fokus, Suplemen Daya Tahan, Pra-Latihan Kafein Tinggi, Pra-Latihan Lanjutan, Suplemen Prestasi, Penggalak Nitrik Oksida",
+        "canonical": "https://www.promolecules.com/product/warflex/",
+        "author": "Promolecules™",
+        "publisher": "Promolecules™",
+        "language": "Melayu",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "googlebot": "index, follow",
+        "bingbot": "index, follow",
+        "revisit_after": "7 days",
+        "distribution": "global",
+        "rating": "general",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "Dubai"
+        },
+        "og": {
+          "title": "Pra-Latihan Perangsang Tinggi Warflex | Tenaga & Prestasi",
+          "type": "product",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "Pra-Latihan Perangsang Tinggi Warflex",
+          "locale": "ms_MY",
+          "site_name": "Promolecules™",
+          "description": "Alami prestasi gim tahap seterusnya dengan Pra-Latihan Perangsang Tinggi Warflex™. Dibina untuk tenaga meletup, fokus, pam, kekuatan dan daya tahan. Pesan dalam talian hari ini.",
+          "url": "https://www.promolecules.com/product/warflex/"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "title": "Pra-Latihan Perangsang Tinggi Warflex | Tenaga & Prestasi",
+          "description": "Alami prestasi gim tahap seterusnya dengan Pra-Latihan Perangsang Tinggi Warflex™. Dibina untuk tenaga meletup, fokus, pam, kekuatan dan daya tahan. Pesan dalam talian hari ini.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "Pra-Latihan Perangsang Tinggi Warflex | Tenaga & Prestasi"
+        },
+        "ldjson": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Promolecules",
+            "alternateName": "Promolecules",
+            "url": "https://www.promolecules.com/",
+            "logo": "https://www.promolecules.com/promolecules-logo.webp",
+            "sameAs": [
+              "https://www.facebook.com/promolecules.official",
+              "https://x.com/promolecules",
+              "https://www.instagram.com/promolecules/",
+              "https://www.youtube.com/@Promolecules",
+              "https://www.pinterest.com/promolecules/"
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Pra-Latihan Perangsang Tinggi Warflex",
+            "image": "https://www.promolecules.com/Promolecules/warflexnew/fruit-punch-warflex-pre-workout-35-Servings.webp",
+            "description": "Beli Pra-Latihan Perangsang Tinggi Warflex dalam talian di Promolecules. Dapatkan Suplemen Penggalak Tenaga meletup, pam otot hebat, fokus laser, kekuatan dan Suplemen Daya Tahan untuk senaman serius.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Promolecules™"
+            },
+            "sku": "father-of-insane-35",
+            "offers": {
+              "@type": "Offer",
+              "url": "https://www.promolecules.com/product/warflex/",
+              "priceCurrency": "USD",
+              "price": "41.99",
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "247"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "promolecules",
+                "item": "https://www.promolecules.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "produk",
+                "item": "https://www.promolecules.com/product/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Pra-Latihan",
+                "item": "https://www.promolecules.com/product-category/pre-workout/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "name": "warflex",
+                "item": "https://www.promolecules.com/product/warflex/"
+              }
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Review",
+            "@id": "https://www.promolecules.com/product/warflex/#review",
+            "itemReviewed": {
+              "@type": "Product",
+              "name": "Pra-Latihan Perangsang Tinggi Warflex",
+              "url": "https://www.promolecules.com/product/warflex/"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pelanggan Disahkan"
+            },
+            "datePublished": "2026-07-03",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "name": "Pra-Latihan Perangsang Tinggi Warflex™",
+            "reviewBody": "Beli Pra-Latihan Perangsang Tinggi Warflex™ dalam talian di Promolecules. Dapatkan Suplemen Penggalak Tenaga meletup, pam otot hebat, fokus laser, kekuatan dan Suplemen Daya Tahan untuk senaman serius."
+          }
+        ]
+      },
+      "price": "43",
+      "servings": [
+        {
+          "size": "35",
+          "price": 41.99
+        },
+        {
+          "size": "65",
+          "price": 59.99
+        }
+      ],
+      "discounted": "41.2",
+      "images": [
+        "/Promolecules/warflexnew/promolecules-warflex-pre-workout_11zon.webp",
+        "/Promolecules/warflexnew/promolecules-warflex-supplements_11zon.webp",
+        "/Promolecules/warflex3.webp",
+        "/Promolecules/warflexnew/Warflex-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/warflexnew/warfle-pre-workout.webp",
+      "variants": [
+        {
+          "flavour": "Fruit-Punch",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/fruit-punch-warflex-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Fruit-Punch",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/fruit-punch-warflex-pre-workout-65-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Gummies-Bliss",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/gummies-candy-warflex-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Gummies-Bliss",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/gummies-candy-warflex-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Blue-Rasberry",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/blue-rasberry-warflex-pre-workout-35-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Blue-Rasberry",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/blue-rasberry-warflex-pre-workout-65-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Purple-Pulse",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/purple-pulse-gummies-warflex-pre-workout-35-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Purple-Pulse",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/purple-pulse-gummies-warflex-pre-workout-65-Servings_11zon.webp"
+        }
+      ],
+      "keyBenefits": [
+        "Menyokong Tenaga Senaman Tinggi - Warflex ialah sumber kafein yang mengandungi Caffeine Anhydrous, Dicaffeine Malate, Caffeine Citrate, dan Caffeine HCl. Ini adalah bahan biasa dalam pemakanan sukan untuk membantu kewaspadaan dan kesediaan bersenam.",
+        "Menyokong Fokus Mental - Penggunaan bahan seperti Alpha GPC, L-Theanine, dan Huperzine-A lazimnya disertakan dalam formula prestasi untuk menyokong tumpuan dan fungsi kognitif semasa senaman yang mencabar.",
+        "Menyokong Prestasi Kekuatan - Creatine Monohydrate dan Creatine HCl adalah bahan yang berfungsi dengan baik bersama latihan kekuatan untuk prestasi senaman berintensiti tinggi.",
+        "Membantu Pam Otot - L-Citrulline dan Agmatine Sulfate adalah bahan popular dalam formula pra-latihan kerana ia menggalakkan penghasilan nitrik oksida dan aliran darah yang sihat semasa bersenam, membolehkan atlet mendapat pam otot yang lebih besar.",
+        "Menggalakkan Daya Tahan Otot - Beta-Alanine berfungsi meningkatkan tahap karnosina dalam otot anda dari semasa ke semasa untuk membantu menimbal keasidan semasa senaman berintensiti tinggi yang berulang.",
+        "Penyertaan Boron Citrate - Warflex merangkumi Boron Citrate, mineral surih yang lazim digunakan dalam pemakanan sukan. Boron memainkan peranan dalam metabolisme mineral normal dan kerap disertakan dalam formula prestasi lanjutan.",
+        "Niacin (35 mg) - Niacin (Vitamin B3) menyokong metabolisme tenaga dan membolehkan penukaran makanan kepada tenaga oleh badan.",
+        "Natrium (150 mg) - Natrium memainkan peranan penting dalam mengekalkan cecair badan dan keseimbangan elektrolit semasa aktiviti fizikal.",
+        "Beta-Alanine (2000 mg) - Beta-Alanine boleh meningkatkan daya tahan otot dengan meningkatkan jumlah karnosina dalam tisu otot. Karnosina boleh membantu mengurangkan kesan pengumpulan asid semasa senaman intensif.",
+        "Creatine Monohydrate (1000 mg) - Creatine Monohydrate ialah salah satu bahan yang paling banyak dikaji secara meluas dalam pemakanan sukan, dan apabila diambil secara berkala, menyokong kekuatan, kuasa, dan prestasi senaman berintensiti tinggi yang berulang.",
+        "L-Citrulline (1000 mg) - L-Citrulline ditukar kepada arginina dalam badan, yang membantu menyokong penghasilan nitrik oksida. Ini boleh membantu aliran darah yang lebih baik dan pam otot yang anda rasai semasa berlatih.",
+        "Creatine HCl (500 mg) - Creatine Hydrochloride ialah bentuk kreatina yang sangat mudah larut yang melengkapkan matriks kreatina produk.",
+        "Taurine (500 mg) - Taurine lazimnya ditambah kepada produk pemakanan sukan untuk menyokong fungsi otot, penghidratan, dan prestasi senaman.",
+        "Alpha GPC (50%) - Alpha GPC ialah bentuk kolina yang sering disertakan dalam suplemen nootropik dan prestasi sukan untuk sokongan fokus dan prestasi mental.",
+        "Ekstrak Eria Jarensis - Ekstrak Eria Jarensis sering disertakan dalam formula pra-latihan premium sebagai sebahagian daripada keseluruhan campuran perangsang dan fokus.",
+        "Campuran XBTRA Pump® - Campuran ini merangkumi Agmatine Sulfate dan Ekstrak Akar Bit untuk sokongan nitrik oksida dan prestasi senaman.",
+        "Ekstrak Beri Juniper - Sebahagian daripada campuran prestasi proprietari, dan disertakan dalam keseluruhan formulasi produk.",
+        "Campuran Xan Caf™ - Merangkumi Caffeine Anhydrous, Dicaffeine Malate, Caffeine Citrate, dan Caffeine HCl. Gabungan bahan-bahan ini memberikan Warflex profil perangsang yang tinggi serta membantu menggalakkan kewaspadaan dan kesediaan senaman.",
+        "Citrus Aurantium (Citrus Syn 50®) - Ekstrak Citrus Aurantium ialah bahan popular dalam produk pemakanan sukan termogenik dan berasaskan perangsang.",
+        "L-Theanine (100 mg) - L-Theanine sering digandingkan dengan kafein untuk memberikan pengalaman fokus yang menyeluruh.",
+        "Alpha Yohimbine (2.5 mg) - Bahan Alpha Yohimbine berfungsi sebagai perangsang kuat yang diperuntukkan bagi atlet lanjutan; toleransi pengguna sangat berbeza-beza, dan pengguna harus bermula pada setengah skop mengikut arahan label.",
+        "Boron Citrate (3 mg) - Boron Citrate ialah mineral surih yang disertakan dalam formula pemakanan sukan lanjutan dan dikaitkan dengan metabolisme mineral normal.",
+        "Huperzine-A (200 mcg) - Huperzine-A ialah bahan nootropik yang lazim digunakan untuk menyokong tumpuan dan fungsi mental."
+      ],
+      "whoShouldUse": [
+        "Ahli bina badan berpengalaman",
+        "Atlet kekuatan",
+        "Powerlifter",
+        "Atlet latihan silang (Cross-training)",
+        "Pengunjung gim lanjutan",
+        "Pengguna pra-latihan berpengalaman",
+        "Tidak disyorkan untuk pemula atau individu yang sensitif terhadap perangsang."
+      ],
+      "whychooseus": [
+        "Formula lanjutan dengan perangsang, bahan sokongan kekuatan, penggalak nitrik oksida, dan penambah kognitif",
+        "Menyokong persediaan untuk senaman sukar",
+        "Meningkatkan fokus dan tumpuan semasa bersenam",
+        "Menyokong latihan berkaitan kekuatan",
+        "Membantu meningkatkan daya tahan otot",
+        "Menggalakkan pam otot yang lebih baik",
+        "Meningkatkan motivasi senaman",
+        "Direka untuk atlet lanjutan dan pengguna pra-latihan berpengalaman",
+        "Sesuai untuk senaman berorientasikan prestasi"
+      ],
+      "howToUse": [
+        "Campurkan ½ skop dengan 4–6 oz (120–180 ml) air kira-kira 30 minit sebelum latihan untuk menilai toleransi.",
+        "Jika diterima dengan baik, campurkan 1 skop penuh dengan 8–10 oz (240–300 ml) air kira-kira 30 minit sebelum senaman anda.",
+        "Jangan melebihi satu skop sehari."
+      ],
+      "safetyInformation": [
+        "Untuk kegunaan orang dewasa sihat berumur 18 tahun ke atas.",
+        "Mengandungi lebih kurang 395 mg kafein setiap hidangan.",
+        "Gunakan dengan berhati-hati jika anda sensitif terhadap kafein atau perangsang lain.",
+        "Jangan gabungkan dengan produk lain yang mengandungi perangsang.",
+        "Jika anda mengambil ubat preskripsi atau mempunyai masalah kesihatan, sila rujuk profesional penjagaan kesihatan sebelum digunakan.",
+        "Tidak boleh digunakan semasa mengandung atau menyusukan anak.",
+        "Jauhkan daripada capaian kanak-kanak.",
+        "Simpan di tempat yang sejuk dan kering."
+      ],
+      "faqs": [
+        {
+          "question": "Apakah itu Warflex™?",
+          "answer": "Warflex™ ialah pra-latihan lanjutan dengan Boron Citrate untuk atlet lanjutan daripada Promolecules. Ia mengandungi Beta-Alanine, Creatine Monohydrate, Creatine HCl, L-Citrulline, Taurine, Alpha GPC, Agmatine Sulfate, Pelbagai Sumber Kafein, Alpha Yohimbine, dan Huperzine-A untuk membantu menyokong tenaga senaman, fokus, kekuatan, daya tahan, dan prestasi."
+        },
+        {
+          "question": "Siapakah yang patut menggunakan Warflex™?",
+          "answer": "Warflex™ adalah untuk orang dewasa sihat 18+ yang pernah mengambil suplemen pra-latihan perangsang sebelum ini dan tidak disyorkan untuk pemula atau mereka yang sensitif terhadap kafein kerana kandungan perangsangnya yang tinggi."
+        },
+        {
+          "question": "Bagaimanakah cara mengambil Warflex™?",
+          "answer": "Mulakan dengan ½ skop dibancuh dalam 4–6 oz (120–180 ml) air 30 minit sebelum senaman untuk menilai toleransi. Jika diterima dengan baik, ambil 1 skop penuh dicampur dalam 8–10 oz (240–300 ml) air 30 minit sebelum senaman anda. Jangan melebihi 1 hidangan sehari."
+        },
+        {
+          "question": "Apakah bahan-bahan yang terkandung dalam Warflex™?",
+          "answer": "Setiap hidangan merangkumi Beta-Alanine (2000 mg), Creatine Monohydrate (1000 mg), L-Citrulline (1000 mg), Creatine HCl (500 mg), Taurine (500 mg), Alpha GPC (50%), Ekstrak Eria Jarensis, Agmatine Sulfate, Ekstrak Akar Bit, Ekstrak Beri Juniper, Caffeine Anhydrous, Dicaffeine Malate, Caffeine Citrate, Caffeine HCl, Ekstrak Citrus Aurantium, L-Theanine, Alpha Yohimbine, Boron Citrate, dan Huperzine-A."
+        },
+        {
+          "question": "Adakah Warflex™ mengandungi kafein?",
+          "answer": "Ya. Warflex™ mengandungi pelbagai sumber kafein termasuk Caffeine Anhydrous, Dicaffeine Malate, Caffeine Citrate, dan Caffeine HCl untuk membantu menyokong kewaspadaan, kesediaan senaman, dan tenaga."
+        },
+        {
+          "question": "Adakah Warflex™ mengandungi kreatina?",
+          "answer": "Ya. Warflex™ mengandungi Creatine Monohydrate dan Creatine HCl (CreaCCL®) untuk menyokong prestasi senaman berintensiti tinggi dengan latihan rintangan berkala."
+        },
+        {
+          "question": "Apakah manfaat Boron Citrate dalam Warflex™?",
+          "answer": "Boron Citrate ialah mineral surih yang lazimnya disertakan dalam formula pemakanan sukan. Ia memainkan peranan dalam metabolisme mineral normal dan kerap digunakan dalam suplemen prestasi lanjutan."
+        },
+        {
+          "question": "Adakah Warflex™ sesuai untuk pemula?",
+          "answer": "Tidak. Warflex™ diperuntukkan bagi pengguna lanjutan, dan label dengan jelas menyatakan 'Bukan untuk Pemula.' Pengguna baharu harus mempertimbangkan pra-latihan perangsang yang lebih rendah dan sentiasa menilai toleransi mereka."
+        },
+        {
+          "question": "Bolehkah saya mengambil Warflex™ setiap hari?",
+          "answer": "Ambil Warflex™ hanya seperti yang diarahkan pada label produk dan jangan melebihi 1 hidangan sehari. Jika anda mempunyai soalan tentang penggunaan berkala, rujuk profesional penjagaan kesihatan yang berkelayakan."
+        },
+        {
+          "question": "Bolehkah saya menggabungkan Warflex™ dengan suplemen lain?",
+          "answer": "Warflex™ boleh digunakan bersama produk pemakanan sukan lain yang serasi. Walau bagaimanapun, disebabkan kandungan kafein dan perangsangnya yang tinggi, jangan gabungkannya dengan suplemen perangsang lain atau minuman tenaga."
+        },
+        {
+          "question": "Adakah Warflex™ dikilangkan di kemudahan yang diperakui kualiti?",
+          "answer": "Ya. Menurut label produk, Warflex™ dikilangkan dan dibangunkan secara eksklusif untuk Promolecules di kemudahan yang diperakui cGMP, menyokong piawaian pengilangan yang konsisten."
+        },
+        {
+          "question": "Di manakah saya boleh membeli Warflex™?",
+          "answer": "Anda boleh membeli Warflex™ terus daripada laman web rasmi Promolecules atau melalui rakan kongsi runcit yang sah untuk membantu memastikan ketulenan produk."
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Ryan Carter",
+          "country": "AS",
+          "des": "Sudah mengangkat berat selama 12 tahun. Setengah skop sebelum deadlift dan CNS saya terus aktif. Lengkung tenaga lancar dan keagresifan kekal terkawal dalam setiap set."
+        },
+        {
+          "id": 2,
+          "name": "Arjun Mehta",
+          "country": "India",
+          "des": "Kebanyakan pra-latihan terasa cair. Yang ini berbeza. Mengambil setengah skop sebelum hari squat dan fokusnya luar biasa."
+        },
+        {
+          "id": 3,
+          "name": "Daniel Kovacs",
+          "country": "Hungary",
+          "des": "Sebagai jurulatih powerlifting saya berhati-hati dengan perangsang. Mengejutkan formula ini memberikan pengaktifan bersih tanpa beban berlebihan yang menggelisahkan."
+        },
+        {
+          "id": 4,
+          "name": "Jake Robinson",
+          "country": "UK",
+          "des": "Akhirnya pra-latihan yang benar-benar menghormati pengguna perangsang tinggi. Tenaga kekal terkunci walaupun semasa sesi kompaun berat."
+        },
+        {
+          "id": 5,
+          "name": "Sandeep Rawat",
+          "country": "India",
+          "des": "Dalam masa 20 minit suis terus hidup. Sesi bench terasa agresif dan fokus. Tidak rasa keletihan kafein yang teruk selepas itu."
+        },
+        {
+          "id": 6,
+          "name": "Miguel Santos",
+          "country": "Sepanyol",
+          "des": "Sudah mencuba banyak formula perangsang tinggi tetapi yang ini terasa direka dengan baik. Intensiti latihan saya semasa hari kaki meningkat dengan ketara."
+        },
+        {
+          "id": 7,
+          "name": "Karan Singh",
+          "country": "India",
+          "des": "Saya biasanya ragu-ragu tentang dakwaan perangsang ultra tinggi. Tetapi setengah skop sebelum hari tarik (pull) dan dorongan neural sangat jelas."
+        },
+        {
+          "id": 8,
+          "name": "Lucas Andrade",
+          "country": "Brazil",
+          "des": "Pra-latihan ini sangat membantu apabila berlatih selepas seharian bekerja. Fokus kekal tajam walaupun semasa set terakhir angkatan kompaun."
+        },
+        {
+          "id": 9,
+          "name": "Ahmed Rashid",
+          "country": "UAE",
+          "des": "Lengkung rangsangan sangat seimbang. Keagresifan semasa mengangkat tetapi mental masih terkawal."
+        },
+        {
+          "id": 10,
+          "name": "Tom Gallagher",
+          "country": "Ireland",
+          "des": "Menggunakannya sebelum sesi squat berat. Pengaktifan otot terasa nyata, bukan sekadar kesan kafein."
+        },
+        {
+          "id": 11,
+          "name": "Rahul Verma",
+          "country": "India",
+          "des": "Sejujurnya tidak menjangkakan banyak. Tetapi selepas 15 minit intensiti senaman saya meningkat secara automatik."
+        },
+        {
+          "id": 12,
+          "name": "Mark Jensen",
+          "country": "Denmark",
+          "des": "Yang ini terasa dibina untuk pengangkat berat yang serius. Output tenaga kekal stabil sepanjang sesi yang panjang."
+        },
+        {
+          "id": 13,
+          "name": "Omar Hassan",
+          "country": "Mesir",
+          "des": "Formula kuat tetapi tidak huru-hara. Fokus kekal terkunci semasa angkatan kompaun."
+        },
+        {
+          "id": 14,
+          "name": "Jason Miller",
+          "country": "AS",
+          "des": "Protokol setengah skop masuk akal. Ia kuat tetapi terkawal."
+        },
+        {
+          "id": 15,
+          "name": "Nikhil Sharma",
+          "country": "India",
+          "des": "Hari deadlift terasa berbeza sama sekali. Tiada keletihan mental antara set."
+        },
+        {
+          "id": 16,
+          "name": "Ben Clarke",
+          "country": "Australia",
+          "des": "Rangsangan bersih. Tiada tangan menggeletar atau kebimbangan."
+        },
+        {
+          "id": 17,
+          "name": "Aditya Kapoor",
+          "country": "India",
+          "des": "Lonjakan tenaga lancar. Keagresifan membantu meneruskan set terakhir."
+        },
+        {
+          "id": 18,
+          "name": "Carlos Fernandez",
+          "country": "Mexico",
+          "des": "Benar-benar menyedari peningkatan daya tahan semasa latihan volum tinggi."
+        },
+        {
+          "id": 19,
+          "name": "Rohit Chauhan",
+          "country": "India",
+          "des": "Sesi latihan terasa lebih lama dan lebih fokus."
+        },
+        {
+          "id": 20,
+          "name": "Nathan Brooks",
+          "country": "Kanada",
+          "des": "Terasa seperti formula ini direka oleh seseorang yang benar-benar mengangkat berat."
+        },
+        {
+          "id": 21,
+          "name": "Imran Khan",
+          "country": "Pakistan",
+          "des": "Peningkatan fokus adalah perbezaan terbesar bagi saya."
+        },
+        {
+          "id": 22,
+          "name": "George Martin",
+          "country": "UK",
+          "des": "Perangsang tinggi tetapi sangat seimbang."
+        },
+        {
+          "id": 23,
+          "name": "Harsh Vardhan",
+          "country": "India",
+          "des": "Angkatan kompaun terasa lebih meletup."
+        },
+        {
+          "id": 24,
+          "name": "Peter Novak",
+          "country": "Slovakia",
+          "des": "Pengaktifan neural yang baik sebelum angkatan berat."
+        },
+        {
+          "id": 25,
+          "name": "Arman Qureshi",
+          "country": "India",
+          "des": "Tenaga kekal stabil sepanjang senaman."
+        },
+        {
+          "id": 26,
+          "name": "Sebastian Cruz",
+          "country": "Chile",
+          "des": "Sangat kuat tetapi rangsangan mudah diurus."
+        },
+        {
+          "id": 27,
+          "name": "Jay Patel",
+          "country": "India",
+          "des": "Membantu memecahkan dataran tinggi (plateau) latihan."
+        },
+        {
+          "id": 28,
+          "name": "Victor Petrov",
+          "country": "Bulgaria",
+          "des": "Bukan produk pemula tetapi berfungsi dengan hebat untuk pengangkat berpengalaman."
+        },
+        {
+          "id": 29,
+          "name": "Daniel Park",
+          "country": "Korea Selatan",
+          "des": "Gabungan fokus dan keagresifan terasa sempurna."
+        },
+        {
+          "id": 30,
+          "name": "Rakesh Kumar",
+          "country": "India",
+          "des": "Setengah skop sudah terasa lebih kuat daripada kebanyakan pra-latihan."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "inopower-r",
+      "name": "INOPOWER-R",
+      "cost2cost": "https://www.cost2costsupplement.com/products/inopower-r",
+      "category": "ATP BOOSTER",
+      "title": "Formula daya tahan tanpa perangsang yang menyokong tenaga ATP, mengurangkan keletihan, dan mengekalkan prestasi stabil tanpa kafein. Terus mara apabila orang lain berhenti.",
+      "description": "INOPOWER-R™ ialah formula prestasi ATP tanpa perangsang yang direka untuk meningkatkan daya tahan, mengurangkan keletihan, dan menyokong sesi latihan yang panjang tanpa menjejaskan sistem saraf anda. Sempurna untuk senaman lewat malam, kitaran tanpa perangsang (off-stim), atau atlet yang memerlukan tenaga bersih dan berterusan tanpa kafein.",
+      "seo": {
+        "title": "Promolecules Inopower-R | Suplemen Tenaga ATP & Daya Tahan",
+        "description": "Beli Inopower-R oleh Promolecules™. Formula ATP lanjutan untuk tenaga meletup, daya tahan & pemulihan lebih pantas. Suplemen berprestasi tinggi untuk atlet serius. Pesan sekarang.",
+        "canonical": "https://www.promolecules.com/product/inopower-r/",
+        "og": {
+          "title": "Inopower-R | Tenaga ATP & Daya Tahan | Promolecules",
+          "type": "website",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "locale": "ms_MY",
+          "site_name": "Promolecules",
+          "description": "Tenaga meletup. Daya tahan maksimum. Pemulihan lebih pantas. Terokai Inopower-R oleh Promolecules™ – dibina untuk prestasi serius.",
+          "url": "https://www.promolecules.com/product/inopower-r/"
+        },
+        "author": "Promolecules",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "Dubai"
+        },
+        "language": "ms",
+        "robots": "index,follow",
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "Promolecules",
+          "title": "Inopower-R | Lonjakan Tenaga ATP",
+          "description": "Perkasakan senaman anda dengan Inopower-R. Formula ATP lanjutan untuk tenaga, daya tahan & pemulihan.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp"
+        },
+        "ldjson": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Promolecules",
+          "url": "https://www.promolecules.com/product/inopower-r/",
+          "logo": "https://www.promolecules.com/promolecules-logo.webp",
+          "sameAs": [
+            "https://www.instagram.com/promolecules/",
+            "https://www.threads.com/@promolecules",
+            "https://x.com/promolecules",
+            "https://in.pinterest.com/promolecules/",
+            "https://www.youtube.com/@Promolecules",
+            "https://www.facebook.com/promolecules.official"
+          ],
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "contactType": "khidmat pelanggan",
+              "email": "contact@promolecules.com"
+            }
+          ]
+        }
+      },
+      "servings": [
+        {
+          "size": "35",
+          "price": 45.99
+        }
+      ],
+      "variants": [
+        {
+          "flavour": "Tanpa Perisa",
+          "size": "120 kapsul",
+          "price": 45.99,
+          "image": "/Promolecules/inopower1.webp"
+        }
+      ],
+      "price": "43",
+      "discounted": "41.2",
+      "images": [
+        "/Promolecules/inopower1.webp",
+        "/Promolecules/inpower3/inpower-r-supplements.webp",
+        "/Promolecules/inpower3/promolecules-inpower-r-supplements.webp",
+        "/Promolecules/inpower3/inpower-r-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/inpower3/inopower-r-ultra-high-stimulant-pre-workout.webp",
+      "keyBenefits": [
+        "Penghasilan Tenaga ATP",
+        "Output Daya Tahan Berterusan",
+        "Tiada Beban Berlebihan CNS",
+        "Tiada Gangguan Tidur",
+        "Mengurangkan Keletihan & Pemulihan Lebih Baik"
+      ],
+      "whychooseus": [
+        "Tenaga tanpa perangsang",
+        "Menyokong prestasi selular, bukan sekadar kewaspadaan",
+        "Sesuai untuk digabungkan (stack) dengan produk perangsang tinggi"
+      ],
+      "howToUse": "Ambil sebelum sesi latihan anda untuk menyokong prestasi dan kesediaan. Ia boleh digunakan setiap hari sebagai sebahagian daripada rutin anda, bergantung pada matlamat kecergasan anda. Anda boleh sama ada menggabungkannya dengan suplemen pra-latihan lain untuk hasil yang dipertingkatkan atau menggunakannya secara bersendirian untuk pendekatan yang lebih ringkas.",
+      "whatToAvoid": [
+        "Jangan jangkakan 'lonjakan' seperti perangsang",
+        "Elakkan dos berlebihan"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Jason Miller",
+          "country": "AS",
+          "des": "Apa yang saya suka tentang INOPOWER-R ialah tenaga bersihnya. Tiada lonjakan kafein, hanya daya tahan stabil semasa sesi hipertrofi yang panjang."
+        },
+        {
+          "id": 2,
+          "name": "Rahul Verma",
+          "country": "India",
+          "des": "Menggunakan ini sebelum senaman belakang dan menyedari saya tidak cepat letih antara set. Tenaga terasa semula jadi, tidak terlampau dirangsang."
+        },
+        {
+          "id": 3,
+          "name": "Daniel Kovacs",
+          "country": "Hungary",
+          "des": "Sebagai seseorang yang sensitif terhadap perangsang, ini adalah apa yang saya perlukan. Sokongan ATP tanpa beban kafein berlebihan."
+        },
+        {
+          "id": 4,
+          "name": "Arjun Mehta",
+          "country": "India",
+          "des": "Menggabungkannya dengan formula pam saya dan peningkatan daya tahan sangat jelas. Menamatkan senaman tanpa rasa lesu."
+        },
+        {
+          "id": 5,
+          "name": "Carlos Rivera",
+          "country": "Mexico",
+          "des": "Sokongan tenaga gaya intra-latihan yang baik. Otot tidak cepat letih semasa latihan volum tinggi."
+        },
+        {
+          "id": 6,
+          "name": "Sandeep Rawat",
+          "country": "India",
+          "des": "Berlatih lewat malam dahulunya sukar kerana kafein. Ini memberi tenaga tanpa menjejaskan tidur."
+        },
+        {
+          "id": 7,
+          "name": "Oliver Grant",
+          "country": "UK",
+          "des": "Sempurna untuk atlet yang mahukan sokongan prestasi tetapi mengelakkan produk perangsang tinggi."
+        },
+        {
+          "id": 8,
+          "name": "Imran Khan",
+          "country": "Pakistan",
+          "des": "Daya tahan semasa hari kaki bertambah baik. Pemulihan antara set terasa lebih pantas."
+        },
+        {
+          "id": 9,
+          "name": "Ryan Brooks",
+          "country": "AS",
+          "des": "Terasa seperti penggalak ATP yang bersih. Tenaga kekal stabil sepanjang sesi."
+        },
+        {
+          "id": 10,
+          "name": "Vikas Chauhan",
+          "country": "India",
+          "des": "Hebat untuk orang yang berlatih dua kali sehari. Tiada rangsangan berlebihan, hanya tenaga konsisten."
+        },
+        {
+          "id": 11,
+          "name": "Mateo Gonzalez",
+          "country": "Sepanyol",
+          "des": "Sesi kardio saya terasa lebih lama dan lebih lancar dengan ini."
+        },
+        {
+          "id": 12,
+          "name": "Aman Singh",
+          "country": "India",
+          "des": "Suplemen sempurna untuk senaman daya tahan."
+        },
+        {
+          "id": 13,
+          "name": "Daniel Park",
+          "country": "Korea Selatan",
+          "des": "Fokus kekal stabil tanpa rasa gelisah akibat kafein."
+        },
+        {
+          "id": 14,
+          "name": "Victor Petrov",
+          "country": "Bulgaria",
+          "des": "Menggabungkannya dengan pra-latihan dan daya tahan bertambah baik."
+        },
+        {
+          "id": 15,
+          "name": "Aditya Sharma",
+          "country": "India",
+          "des": "Keletihan otot terasa berkurang semasa ulangan tinggi."
+        },
+        {
+          "id": 16,
+          "name": "Nathan Hughes",
+          "country": "UK",
+          "des": "Sokongan sistem tenaga yang baik tanpa perangsang."
+        },
+        {
+          "id": 17,
+          "name": "Miguel Santos",
+          "country": "Portugal",
+          "des": "Terasa lebih seperti tenaga metabolik berbanding rangsangan."
+        },
+        {
+          "id": 18,
+          "name": "Rohit Chatterjee",
+          "country": "India",
+          "des": "Sempurna sebelum senaman hipertrofi yang panjang."
+        },
+        {
+          "id": 19,
+          "name": "Ethan Carter",
+          "country": "AS",
+          "des": "Daya tahan saya semasa angkatan kompaun meningkat dengan ketara."
+        },
+        {
+          "id": 20,
+          "name": "Harsh Gupta",
+          "country": "India",
+          "des": "Membantu meneruskan sesi gim yang panjang."
+        },
+        {
+          "id": 21,
+          "name": "Lucas Andrade",
+          "country": "Brazil",
+          "des": "Sokongan tenaga terasa lancar dan semula jadi."
+        },
+        {
+          "id": 22,
+          "name": "Rajeev Menon",
+          "country": "India",
+          "des": "Hebat untuk orang yang mengelakkan kafein."
+        },
+        {
+          "id": 23,
+          "name": "Kevin Larson",
+          "country": "Kanada",
+          "des": "Intensiti latihan kekal stabil sepanjang senaman."
+        },
+        {
+          "id": 24,
+          "name": "Karan Malhotra",
+          "country": "India",
+          "des": "Membantu mengurangkan keletihan semasa sesi volum tinggi."
+        },
+        {
+          "id": 25,
+          "name": "Omar Hassan",
+          "country": "UAE",
+          "des": "Formula tenaga yang baik untuk digabungkan."
+        },
+        {
+          "id": 26,
+          "name": "George Adams",
+          "country": "UK",
+          "des": "Berfungsi dengan baik untuk atlet daya tahan."
+        },
+        {
+          "id": 27,
+          "name": "Akash Sharma",
+          "country": "India",
+          "des": "Sempurna untuk sesi latihan lewat malam."
+        },
+        {
+          "id": 28,
+          "name": "Victor Cruz",
+          "country": "Chile",
+          "des": "Meningkatkan stamina semasa bersenam."
+        },
+        {
+          "id": 29,
+          "name": "Daniel Novak",
+          "country": "Slovakia",
+          "des": "Sokongan tenaga ATP yang bersih."
+        },
+        {
+          "id": 30,
+          "name": "Rakesh Kumar",
+          "country": "India",
+          "des": "Suplemen tenaga tanpa perangsang yang hebat."
+        }
+      ],
+      "supplementFacts": {
+        "servingSize": "1 Skop (30g)",
+        "servingsPerContainer": "30",
+        "nutrients": [
+          {
+            "name": "Kalori",
+            "amount": "120"
+          },
+          {
+            "name": "Protein",
+            "amount": "24g"
+          },
+          {
+            "name": "Karbohidrat",
+            "amount": "3g"
+          },
+          {
+            "name": "Lemak",
+            "amount": "1.5g"
+          },
+          {
+            "name": "BCAA",
+            "amount": "5.5g"
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "slug": "hydrapump",
+      "amazonLink": "https://www.amazon.in/Promolecules-Hydrapump-Hydration-Liquid-Supplement/dp/B0GTZNK5S2?ref_=ast_sto_dp&th=1",
+      "flipkartLink": "https://www.flipkart.com/promolecules-hydrapump-glycerol-liquid-pump-formula-muscle-hydration-x8tra-pump-blue-razz/p/itmd011fb75cb0b6?pid=VSLHHTAFXEEUHHUR&lid=LSTVSLHHTAFXEEUHHURKWWDS7&marketplace=FLIPKART&q=hydrapump+&store=search.flipkart.com&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_PY9yFY_mB0KHONWq8Wi1BwXjKQ7VYSMxYuKEM-VXvuhNy2Iz-vX5smQcoVfLgZm-vO8dbutioUNXCOlK0Rb8vw%3D%3D&ppt=sp&ppn=sp&ssid=6236rbg3xc0000001779782357625&qH=0496b440042c8a8a&ov_redirect=true&ov_redirect=true",
+      "cost2cost": "https://www.cost2costsupplement.com/products/hydrapump-muscle-fullness-vascularity-hydration-endurance-strength-performance",
+      "name": "HYDRAPUMP+",
+      "category": "MUSCLE HYDRATION",
+      "title": "Formula penghidratan dan pam lanjutan yang meningkatkan kepenuhan otot, daya tahan, dan prestasi dalam setiap sesi. Hidrat lebih dalam. Pam lebih besar.",
+      "description": "HYDRAPUMP+™ ialah matriks penghidratan dan pam berprestasi tinggi yang direka untuk memaksimumkan kepenuhan otot, vaskulariti, dan daya tahan. Dengan gliserol cecair dan elektrolit, ia memberikan penghidratan selular yang mendalam dan pam yang hebat—terutamanya dalam keadaan latihan volum tinggi atau cuaca panas.",
+      "seo": {
+        "title": "HydraPump+ – Maksimumkan Pam, Penghidratan & Prestasi Senaman | Promolecules™",
+        "description": "Maksimumkan pam otot & penghidratan dengan HydraPump+ oleh Promolecules™. Formula gliserol, sitrulina & elektrolit lanjutan untuk daya tahan, pemulihan & prestasi ekstrem. Beli sekarang.",
+        "canonical": "https://www.promolecules.com/product/hydrapump/",
+        "og": {
+          "title": "HydraPump+ | Pam Ekstrem, Penghidratan & Prestasi",
+          "type": "website",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "locale": "ms_MY",
+          "site_name": "Promolecules",
+          "description": "Buka kunci pam hebat, penghidratan & daya tahan dengan HydraPump+. Dikuasakan oleh gliserol, sitrulina & elektrolit untuk atlet serius.",
+          "url": "https://www.promolecules.com/product/hydrapump/"
+        },
+        "author": "Promolecules",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "Dubai"
+        },
+        "language": "ms",
+        "robots": "index,follow",
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "Promolecules",
+          "title": "HydraPump+ | Formula Pam & Penghidratan Maksimum",
+          "description": "Berlatih lebih keras dengan pam, penghidratan & daya tahan yang lebih baik. HydraPump+ dibina untuk prestasi serius.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp"
+        },
+        "ldjson": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Promolecules",
+          "url": "https://www.promolecules.com/product/hydrapump/",
+          "logo": "https://www.promolecules.com/promolecules-logo.webp",
+          "sameAs": [
+            "https://www.instagram.com/promolecules/",
+            "https://www.threads.com/@promolecules",
+            "https://x.com/promolecules",
+            "https://in.pinterest.com/promolecules/",
+            "https://www.youtube.com/@Promolecules",
+            "https://www.facebook.com/promolecules.official"
+          ],
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "contactType": "khidmat pelanggan",
+              "email": "contact@promolecules.com"
+            }
+          ]
+        }
+      },
+      "servings": [
+        {
+          "size": "35",
+          "price": 48.99
+        },
+        {
+          "size": "65",
+          "price": 59.99
+        }
+      ],
+      "variants": [
+        {
+          "flavour": "Mint-Mojito",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/mintmojito.jpeg"
+        },
+        {
+          "flavour": "Blue-Razz",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/bluerazz.webp"
+        },
+        {
+          "flavour": "BubbleGum",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/bubblegumhydra.webp"
+        },
+        {
+          "flavour": "Cherry-Lemonade",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/cherrylemon.webp"
+        },
+        {
+          "flavour": "Cola",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/cola.webp"
+        },
+        {
+          "flavour": "Juicy-Grapes",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/juicygrapes.webp"
+        },
+        {
+          "flavour": "Mango-Pineapple",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/mangopineapple.webp"
+        },
+        {
+          "flavour": "Orange",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/oranges.webp"
+        },
+        {
+          "flavour": "Fruit-Punch",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/fruitpunch.webp"
+        },
+        {
+          "flavour": "Sour-Apple",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/SOURAPPLE.webp"
+        },
+        {
+          "flavour": "Strawberry",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/strawberry.webp"
+        }
+      ],
+      "price": "43",
+      "discounted": "41.2",
+      "images": [
+        "/Promolecules/hydrapump2/promolecules-hydrapump+.webp",
+        "/Promolecules/hydrapump2/promolecules-hydrapump+-pre-workout.webp",
+        "/Promolecules/hydrapump2/hydrapump1.webp",
+        "/Promolecules/hydrapump2/hydrapump-supplements-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/hydrapump2/hydrapump-liquid-glycerol.webp",
+      "keyBenefits": [
+        "Lonjakan Tenaga Ekstrem",
+        "Fokus Tajam Seperti Laser",
+        "Peningkatan Kekuatan",
+        "Stamina Dipertingkatkan",
+        "Menyokong Daya Tahan",
+        "Membantu Meningkatkan Prestasi Senaman"
+      ],
+      "whychooseus": [
+        "Sistem gliserol cecair (penyerapan lebih baik)",
+        "Bukan sekadar pam—sistem penghidratan + prestasi"
+      ],
+      "howToUse": "Ambil sebelum senaman anda, ia boleh digabungkan (stack) dengan mana-mana pra-latihan, dan sesuai untuk sesi yang panjang atau bervolum tinggi.",
+      "whatToAvoid": [
+        "Jangan melebihi dos",
+        "Elakkan kurang penghidratan (minum air secukupnya)"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Jake Reynolds",
+          "country": "AS",
+          "des": "Menggabungkan Hydra Pump dengan pra-latihan saya dan vaskulariti semasa hari lengan sangat gila."
+        },
+        {
+          "id": 2,
+          "name": "Rohit Sharma",
+          "country": "India",
+          "des": "Kepenuhan otot semasa senaman dada kekal walaupun selepas menamatkan sesi."
+        },
+        {
+          "id": 3,
+          "name": "Luis Garcia",
+          "country": "Sepanyol",
+          "des": "Mekanisme penghidratan sangat ketara. Pam kekal lebih lama tanpa kembung perut."
+        },
+        {
+          "id": 4,
+          "name": "Arjun Bhatia",
+          "country": "India",
+          "des": "Pam terasa padat berbanding berair."
+        },
+        {
+          "id": 5,
+          "name": "Daniel White",
+          "country": "UK",
+          "des": "Formula pam tanpa perangsang yang hebat untuk senaman waktu petang/malam."
+        },
+        {
+          "id": 6,
+          "name": "Rahul Nair",
+          "country": "India",
+          "des": "Otot kekal lebih penuh sepanjang keseluruhan senaman."
+        },
+        {
+          "id": 7,
+          "name": "Victor Costa",
+          "country": "Brazil",
+          "des": "Pam hari lengan bertahan hampir sejam selepas latihan."
+        },
+        {
+          "id": 8,
+          "name": "Karan Malhotra",
+          "country": "India",
+          "des": "Berfungsi dengan sempurna bersama pra-latihan perangsang tinggi."
+        },
+        {
+          "id": 9,
+          "name": "Ahmed Karim",
+          "country": "UAE",
+          "des": "Penghidratan semasa sesi intensif terasa bertambah baik."
+        },
+        {
+          "id": 10,
+          "name": "Chris Dawson",
+          "country": "AS",
+          "des": "Peningkatan vaskulariti sangat ketara."
+        },
+        {
+          "id": 11,
+          "name": "Sahil Arora",
+          "country": "India",
+          "des": "Pam terasa tegang dan terkawal."
+        },
+        {
+          "id": 12,
+          "name": "Mark Davies",
+          "country": "UK",
+          "des": "Formula yang mudah digabungkan berfungsi dengan baik."
+        },
+        {
+          "id": 13,
+          "name": "Rajeev Singh",
+          "country": "India",
+          "des": "Daya tahan otot semasa set volum tinggi bertambah baik."
+        },
+        {
+          "id": 14,
+          "name": "Pedro Lopez",
+          "country": "Mexico",
+          "des": "Produk pam yang hebat tanpa perangsang."
+        },
+        {
+          "id": 15,
+          "name": "Ankit Jain",
+          "country": "India",
+          "des": "Membantu kepenuhan otot semasa senaman hipertrofi."
+        },
+        {
+          "id": 16,
+          "name": "Tom Harris",
+          "country": "Australia",
+          "des": "Salah satu formula pam penghidratan yang lebih baik."
+        },
+        {
+          "id": 17,
+          "name": "Imran Siddiqui",
+          "country": "Pakistan",
+          "des": "Tiada kembung tetapi pam vaskular yang kuat."
+        },
+        {
+          "id": 18,
+          "name": "Aditya Raj",
+          "country": "India",
+          "des": "Sempurna untuk senaman yang memfokuskan pada pam."
+        },
+        {
+          "id": 19,
+          "name": "Carlos Silva",
+          "country": "Portugal",
+          "des": "Kesan kepenuhan otot sangat ketara."
+        },
+        {
+          "id": 20,
+          "name": "Rahul Verghese",
+          "country": "India",
+          "des": "Membantu semasa sesi yang panjang."
+        },
+        {
+          "id": 21,
+          "name": "Victor Sanchez",
+          "country": "Chile",
+          "des": "Gabungan pra-latihan yang hebat."
+        },
+        {
+          "id": 22,
+          "name": "Arvind Kumar",
+          "country": "India",
+          "des": "Pam kekal konsisten sepanjang set."
+        },
+        {
+          "id": 23,
+          "name": "Ben Foster",
+          "country": "UK",
+          "des": "Formula penambah isi padu otot yang baik."
+        },
+        {
+          "id": 24,
+          "name": "Arjun Gupta",
+          "country": "India",
+          "des": "Berfungsi paling baik semasa hari lengan."
+        },
+        {
+          "id": 25,
+          "name": "Luis Andrade",
+          "country": "Brazil",
+          "des": "Sinergi penghidratan dan pam berfungsi dengan baik."
+        },
+        {
+          "id": 26,
+          "name": "Rahul Yadav",
+          "country": "India",
+          "des": "Penggalak vaskulariti yang baik."
+        },
+        {
+          "id": 27,
+          "name": "George Adams",
+          "country": "AS",
+          "des": "Formula pam yang bersih."
+        },
+        {
+          "id": 28,
+          "name": "Rohit Chatterjee",
+          "country": "India",
+          "des": "Otot terasa lebih penuh semasa bersenam."
+        },
+        {
+          "id": 29,
+          "name": "Daniel Novak",
+          "country": "Slovakia",
+          "des": "Pam hebat tanpa perangsang."
+        },
+        {
+          "id": 30,
+          "name": "Akshay Mehta",
+          "country": "India",
+          "des": "Gabungan sempurna dengan pra-latihan perangsang tinggi."
+        }
+      ],
+      "supplementFacts": {
+        "servingSize": "1 Skop (30g)",
+        "servingsPerContainer": "30",
+        "nutrients": [
+          {
+            "name": "Kalori",
+            "amount": "120"
+          },
+          {
+            "name": "Protein",
+            "amount": "24g"
+          },
+          {
+            "name": "Karbohidrat",
+            "amount": "3g"
+          },
+          {
+            "name": "Lemak",
+            "amount": "1.5g"
+          },
+          {
+            "name": "BCAA",
+            "amount": "5.5g"
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "slug": "thermo-nuke-xt",
+      "name": "THERMO NUKE XT",
+      "cost2cost": "https://www.cost2costsupplement.com/products/thermo-nuke-xt-advanced-thermogenic-formula-for-fast-fat-loss",
+      "category": "FAT BURNER",
+      "title": "Formula pembakar lemak berkuasa yang meningkatkan metabolisme, menambah haba badan, dan mengekalkan tenaga tinggi semasa fasa cutting. Bakar lebih keras. Jadi lebih tegap.",
+      "description": "THERMO NUKE XT™ direka untuk meningkatkan output metabolik, menaikkan haba badan, dan mempercepatkan pengoksidaan lemak sambil mengekalkan tenaga dan fokus. Ini bukan pembakar lemak ringan—ia dibina untuk fasa cutting, kitaran shredding, dan matlamat transformasi yang serius.",
+      "seo": {
+        "title": "Thermo Nuke XT oleh Promolecules™ | Pembakar Lemak Perangsang Tinggi untuk Kehilangan Lemak Agresif",
+        "description": "Beli Thermo Nuke XT oleh Promolecules™ – pembakar lemak perangsang tinggi yang direka untuk meningkatkan metabolisme, menambah tenaga, dan menyokong kehilangan lemak agresif. Beli sekarang untuk hasil lebih pantas.",
+        "canonical": "https://www.promolecules.com/product/thermo-nuke-xt/",
+        "og": {
+          "title": "Thermo Nuke XT oleh Promolecules™ | Pembakar Lemak Perangsang Tinggi",
+          "type": "website",
+          "image": "https://www.promolecules.com/product-image.webp",
+          "locale": "ms_MY",
+          "site_name": "Promolecules",
+          "description": "Pembakar lemak perangsang tinggi untuk meningkatkan metabolisme, tenaga & kehilangan lemak. Direka untuk hasil serius. Beli Thermo Nuke XT sekarang.",
+          "url": "https://www.promolecules.com/product/thermo-nuke-xt/"
+        },
+        "author": "Promolecules",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "Dubai"
+        },
+        "language": "ms",
+        "robots": "index,follow",
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "Promolecules",
+          "title": "Thermo Nuke XT | Pembakar Lemak Perangsang Tinggi oleh Promolecules™",
+          "description": "Tingkatkan metabolisme, bakar lemak lebih pantas & tambah tenaga dengan Thermo Nuke XT. Direka untuk kehilangan lemak agresif.",
+          "image": "https://www.promolecules.com/product-image.webp"
+        },
+        "ldjson": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Promolecules",
+          "url": "https://www.promolecules.com/product/thermo-nuke-xt/",
+          "logo": "https://www.promolecules.com/logo.webp",
+          "sameAs": [
+            "https://www.instagram.com/promolecules/",
+            "https://www.threads.com/@promolecules",
+            "https://x.com/promolecules",
+            "https://in.pinterest.com/promolecules/",
+            "https://www.youtube.com/@Promolecules",
+            "https://www.facebook.com/promolecules.official"
+          ],
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "contactType": "khidmat pelanggan",
+              "email": "contact@promolecules.com"
+            }
+          ]
+        }
+      },
+      "variants": [
+        {
+          "flavour": "Tanpa Perisa",
+          "size": "60 kapsul",
+          "price": 35.99,
+          "image": "/Promolecules/thermo/promolecules-thermo-nuke-xt.webp"
+        }
+      ],
+      "discounted": 41.2,
+      "images": [
+        "/Promolecules/thermo/promolecules-thermo-nuke-xt.webp",
+        "/Promolecules/thermo/thermo-nuke-xt-fat-burner.webp",
+        "/Promolecules/thermo/thermo-nuke-xt-fat-burning-capsules.webp",
+        "/Promolecules/thermo/thermo-nuke-xt-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/thermo/promolecules-thermo-nuke-xt-img.webp",
+      "servings": [
+        {
+          "size": "60 kapsul",
+          "price": 35.99
+        }
+      ],
+      "keyBenefits": [
+        "Pembakaran Lemak Dipercepatkan",
+        "Pengaktifan Haba Termogenik",
+        "Output Tenaga Tinggi",
+        "Sokongan Penekanan Selera Makan",
+        "Fokus Dipertingkatkan Semasa Cutting",
+        "Mengurangkan Rupa Pengekalan Air"
+      ],
+      "whychooseus": [
+        "Sistem termogenik berbilang perangsang",
+        "Direka untuk hasil kehilangan lemak yang ketara",
+        "Bukan herba semata-mata—formula prestasi sebenar"
+      ],
+      "howToUse": "Ambil satu hidangan pada waktu pagi, dengan hidangan kedua pilihan sebelum senaman anda, dan ia paling sesuai digunakan semasa fasa defisit kalori.",
+      "whatToAvoid": [
+        "Elakkan penggunaan bersama produk sarat perangsang yang lain",
+        "Jangan ambil hampir dengan waktu tidur",
+        "Bukan untuk pengguna yang sensitif terhadap perangsang"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "David Coleman",
+          "country": "AS",
+          "des": "Menggunakan ini semasa fasa cut saya dan tindak balas termogenik sangat ketara. Sesi kardio terasa lebih produktif."
+        },
+        {
+          "id": 2,
+          "name": "Rajat Malhotra",
+          "country": "India",
+          "des": "Kardio berpuasa pada waktu pagi terasa lebih mudah. Metabolisme terasa aktif sepanjang hari."
+        },
+        {
+          "id": 3,
+          "name": "Luis Martinez",
+          "country": "Sepanyol",
+          "des": "Pembakar lemak jarang berkesan untuk saya tetapi yang ini benar-benar meningkatkan haba badan semasa latihan."
+        },
+        {
+          "id": 4,
+          "name": "Mohit Yadav",
+          "country": "India",
+          "des": "Tenaga semasa defisit kalori adalah manfaat terbesar."
+        },
+        {
+          "id": 5,
+          "name": "Alex Grant",
+          "country": "UK",
+          "des": "Kesan termogenik bersih tanpa membuat saya berasa cemas."
+        },
+        {
+          "id": 6,
+          "name": "Rahul Patil",
+          "country": "India",
+          "des": "Membantu mengekalkan intensiti senaman walaupun sedang berdiet."
+        },
+        {
+          "id": 7,
+          "name": "Daniel Perez",
+          "country": "Mexico",
+          "des": "Kadar peluh meningkat semasa sesi kardio."
+        },
+        {
+          "id": 8,
+          "name": "Siddharth Jain",
+          "country": "India",
+          "des": "Lonjakan metabolik sangat ketara semasa HIIT."
+        },
+        {
+          "id": 9,
+          "name": "Omar Ali",
+          "country": "UAE",
+          "des": "Membantu mengharungi hari-hari kurang tenaga semasa cutting."
+        },
+        {
+          "id": 10,
+          "name": "Chris Walker",
+          "country": "AS",
+          "des": "Terasa seperti pemecut metabolik berbanding sekadar kafein."
+        },
+        {
+          "id": 11,
+          "name": "Kunal Thakur",
+          "country": "India",
+          "des": "Kawalan selera makan dan tenaga bersih semasa persediaan."
+        },
+        {
+          "id": 12,
+          "name": "Victor Santos",
+          "country": "Brazil",
+          "des": "Berfungsi dengan baik sebelum sesi kardio."
+        },
+        {
+          "id": 13,
+          "name": "James Porter",
+          "country": "UK",
+          "des": "Pembakar lemak bersih tanpa rasa gelisah yang melampau."
+        },
+        {
+          "id": 14,
+          "name": "Rohit Das",
+          "country": "India",
+          "des": "Membantu mengekalkan fokus semasa mengurangkan kalori."
+        },
+        {
+          "id": 15,
+          "name": "Carlos Rivera",
+          "country": "Mexico",
+          "des": "Haba termogenik yang ketara semasa bersenam."
+        },
+        {
+          "id": 16,
+          "name": "Ahmed Farooq",
+          "country": "UAE",
+          "des": "Tambahan yang bagus untuk latihan pagi."
+        },
+        {
+          "id": 17,
+          "name": "Aditya Menon",
+          "country": "India",
+          "des": "Tenaga kekal stabil semasa fasa diet."
+        },
+        {
+          "id": 18,
+          "name": "Mark Lewis",
+          "country": "Kanada",
+          "des": "Kesan termogenik adalah konsisten."
+        },
+        {
+          "id": 19,
+          "name": "Rahul Sinha",
+          "country": "India",
+          "des": "Membantu memanjangkan sesi kardio lebih lama."
+        },
+        {
+          "id": 20,
+          "name": "Jake Turner",
+          "country": "Australia",
+          "des": "Tenaga metabolik yang bersih."
+        },
+        {
+          "id": 21,
+          "name": "Arjun Patel",
+          "country": "India",
+          "des": "Sokongan yang baik untuk latihan kehilangan lemak."
+        },
+        {
+          "id": 22,
+          "name": "Daniel Costa",
+          "country": "Portugal",
+          "des": "Kesan pembakaran lemak ketara semasa kardio."
+        },
+        {
+          "id": 23,
+          "name": "Sahil Gupta",
+          "country": "India",
+          "des": "Berfungsi dengan baik semasa defisit kalori."
+        },
+        {
+          "id": 24,
+          "name": "George Ivanov",
+          "country": "Bulgaria",
+          "des": "Meningkatkan output latihan semasa cut."
+        },
+        {
+          "id": 25,
+          "name": "Naveen Kumar",
+          "country": "India",
+          "des": "Lonjakan tenaga tanpa keletihan mendadak."
+        },
+        {
+          "id": 26,
+          "name": "Tom Hughes",
+          "country": "UK",
+          "des": "Formula termogenik yang seimbang."
+        },
+        {
+          "id": 27,
+          "name": "Imran Sheikh",
+          "country": "Pakistan",
+          "des": "Sesi kardio terasa lebih produktif."
+        },
+        {
+          "id": 28,
+          "name": "Miguel Lopez",
+          "country": "Sepanyol",
+          "des": "Tenaga bersih dan peningkatan peluh."
+        },
+        {
+          "id": 29,
+          "name": "Akash Sharma",
+          "country": "India",
+          "des": "Membantu untuk fasa lemak degil."
+        },
+        {
+          "id": 30,
+          "name": "Kevin Hall",
+          "country": "AS",
+          "des": "Salah satu suplemen termogenik yang lebih baik pernah saya gunakan."
+        }
+      ]
+    }
+  ]
+}

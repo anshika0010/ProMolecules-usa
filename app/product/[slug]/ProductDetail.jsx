@@ -5,6 +5,7 @@ import { useState } from "react";
 import { FaChevronRight, FaWhatsapp, FaAmazon } from "react-icons/fa";
 import { SiFlipkart } from "react-icons/si";
 import MoreProducts from "./MoreProducts";
+import { useT } from "@/lib/i18n/client";
 
 // Cost2Cost logo (file lives in /public/c2c-logo-black.png)
 const C2CLogo = ({ size = 20 }) => (
@@ -44,8 +45,10 @@ const PlusIcon = () => (
 );
 
 // ── Main Component ──────────────────────────────────────────────────────────
-export default function ProductDetail({ product }) {
-  const [factsOpen, setFactsOpen] = useState(false);
+export default function ProductDetail({ product, moreProducts }) {
+  const t = useT("product").detail || {};
+  const st = t.sections || {};
+  const [factsOpen, setFactsOpen] = useState(true);
   const [open, setOpen] = useState(0);
 
   const [selectedFlavour, setSelectedFlavour] = useState(
@@ -64,20 +67,15 @@ export default function ProductDetail({ product }) {
   ];
   const [selectedServing, setSelectedServing] = useState(servings[0]);
 
-  // ── Marketplace buy links ──
-  const buyLinks = [
-    { label: "Amazon", href: product.amazonLink, Icon: FaAmazon },
-    { label: "Flipkart", href: product.flipkartLink, Icon: SiFlipkart },
-    { label: "Cost2Cost", href: product.cost2cost, Icon: C2CLogo },
-  ].filter((item) => item.href);
+
 
   const sections = [
-    { title: "DESCRIPTION", content: product.description },
-    { title: "KEY BENEFITS", content: product.keyBenefits },
-    { title: "WHY CHOOSE US?", content: product.whychooseus },
-    { title: "HOW TO USE", content: product.howToUse },
-    { title: "SAFETY INFORMATION", content: product.safetyInformation },
-    { title: "WHO SHOULD USE", content: product.whoShouldUse },
+    { title: st.description, content: product.description },
+    { title: st.keyBenefits, content: product.keyBenefits },
+    { title: st.whyChooseUs, content: product.whychooseus },
+    { title: st.howToUse, content: product.howToUse },
+    { title: st.safetyInformation, content: product.safetyInformation },
+    { title: st.whoShouldUse, content: product.whoShouldUse },
   ];
 
   const toggle = (index) => setOpen(open === index ? null : index);
@@ -95,7 +93,7 @@ export default function ProductDetail({ product }) {
                 <div className="absolute w-[200px] sm:w-[300px] h-[260px] sm:h-[360px] rounded-full bg-[radial-gradient(circle,rgba(224,0,27,0.12)_0%,transparent_70%)]" />
                 <Image
                   src={activeImg}
-                  alt="product"
+                  alt={t.productAlt}
                   width={400}
                   height={400}
                   className="h-[240px] sm:h-[320px] md:h-[460px] w-auto object-contain relative z-10 transition-all duration-500 ease-in-out"
@@ -118,7 +116,7 @@ export default function ProductDetail({ product }) {
                       src={src}
                       width={90}
                       height={90}
-                      alt={`thumbnail ${i + 1}`}
+                      alt={`${t.thumbnailAlt} ${i + 1}`}
                       className="w-full h-full object-contain"
                     />
                   </button>
@@ -133,7 +131,7 @@ export default function ProductDetail({ product }) {
                 {product.name}
               </h2>
 
-              <div className="h-[2px] bg-gradient-to-r from-red-600 to-transparent" />
+              <div className="h-[2px] bg-gradient-to-r rtl:bg-gradient-to-l from-red-600 to-transparent" />
 
               {/* Stars */}
               <div className="flex gap-1">
@@ -161,15 +159,12 @@ export default function ProductDetail({ product }) {
                 {product.title}
               </p>
 
-              {/* Price */}
-              <div className="text-xl sm:text-4xl font-black leading-none text-white">
-                ${selectedServing?.price}
-              </div>
+            
 
               {/* Flavours */}
               <div>
                 <p className="text-red-600 font-bold text-xs uppercase tracking-[2px] mb-2">
-                  FLAVOURS
+                  {t.flavours}
                 </p>
                 <div className="flex gap-2 flex-wrap">
                   {flavours.map((flavour) => (
@@ -200,7 +195,7 @@ export default function ProductDetail({ product }) {
               {/* Servings */}
               <div>
                 <p className="text-red-600 font-bold text-xs uppercase tracking-[2px] mb-2">
-                  SERVINGS
+                  {t.servings}
                 </p>
                 <div className="flex gap-2 flex-wrap">
                   {servings.map((s) => (
@@ -229,48 +224,7 @@ export default function ProductDetail({ product }) {
                 </div>
               </div>
 
-              {/* ── Buy Links ── */}
-              <div className="pt-3 border-t border-[#2a2a2a]">
-                {buyLinks.length > 0 ? (
-                  <>
-                    <p className="text-red-600 font-bold text-xs uppercase tracking-[2px] mb-3">
-                      BUY NOW ON
-                    </p>
-                    <div className="flex flex-col sm:flex-row gap-3 md:w-50">
-                      {buyLinks.map(({ label, href, Icon }) => (
-                        <a
-                          key={label}
-                          href={href}
-                          target="_blank"
-                          rel="noopener noreferrer nofollow sponsored"
-                          aria-label={`Buy on ${label}`}
-                          title={`Buy on ${label}`}
-                          className="flex-1 flex items-center justify-center py-3 px-4 rounded-xl border-2 border-red-600 bg-black-600 text-white hover:bg-red-700 hover:border-red-700 transition"
-                        >
-                          <Icon size={26} />
-                        </a>
-                      ))}
-                    </div>
-                  </>
-                ) : (
-                  <div className="bg-[#111] border border-neutral-800 rounded-xl p-4 sm:p-6">
-                    <h3 className="text-base sm:text-lg font-semibold text-white">
-                      Launching Soon...
-                    </h3>
-                    <p className="text-xs sm:text-sm text-gray-400 mt-1">
-                      This product will be available online soon.
-                    </p>
-                    <a
-                      href="https://wa.me/17867892121"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="inline-flex items-center gap-2 mt-4 text-sm font-semibold text-green-400 hover:text-green-300 transition"
-                    >
-                      <FaWhatsapp size={15} /> WhatsApp us for early access
-                    </a>
-                  </div>
-                )}
-              </div>
+           
 
               {/* Supplement Facts */}
               <div className="border-t border-[#2a2a2a] pt-3">
@@ -278,7 +232,7 @@ export default function ProductDetail({ product }) {
                   onClick={() => setFactsOpen(!factsOpen)}
                   className="flex justify-between items-center py-3 cursor-pointer uppercase font-bold tracking-[2px] text-sm hover:text-red-500 transition"
                 >
-                  <span>Supplement Facts</span>
+                  <span>{t.supplementFacts}</span>
                   <span
                     className={`transition-transform duration-300 ${factsOpen ? "rotate-45" : ""}`}
                   >
@@ -299,7 +253,7 @@ export default function ProductDetail({ product }) {
                       <div className="relative w-full rounded-xl overflow-hidden border border-white/10">
                         <Image
                           src={product.images[3]}
-                          alt="Supplement Facts"
+                          alt={t.supplementFacts}
                           width={600}
                           height={800}
                           className="w-full h-auto object-contain"
@@ -310,7 +264,7 @@ export default function ProductDetail({ product }) {
                 </div>
               </div>
 
-              <MoreProducts />
+              {/* <MoreProducts products={moreProducts} heading={t.moreProductsHeading} /> */}
             </div>
           </div>
         </div>
@@ -323,7 +277,7 @@ export default function ProductDetail({ product }) {
           <div className="flex justify-center">
             <Image
               src={product.images[2] || product.images[0]}
-              alt="product"
+              alt={t.productAlt}
               width={400}
               height={400}
               className="h-[260px] sm:h-[380px] lg:h-[500px] w-auto object-contain"
@@ -336,21 +290,21 @@ export default function ProductDetail({ product }) {
               <div key={index}>
                 <button
                   onClick={() => toggle(index)}
-                  className="w-full flex justify-between items-center py-4 sm:py-6 text-left"
+                  className="w-full flex justify-between items-center py-4 sm:py-6 text-start"
                 >
                   <h3 className="text-red-600 text-lg sm:text-2xl tracking-widest font-semibold creepster-regular">
                     {item.title}
                   </h3>
                   <FaChevronRight
-                    className={`text-white shrink-0 ml-3 transition-transform duration-300 ${
-                      open === index ? "rotate-90" : ""
+                    className={`text-white shrink-0 ms-3 transition-transform duration-300 ${
+                      open === index ? "rotate-90" : "rtl:rotate-180"
                     }`}
                   />
                 </button>
                 {open === index && (
                   <div className="pb-5 global-text-style text-sm sm:text-base max-w-xl">
                     {Array.isArray(item.content) ? (
-                      <ul className="list-disc pl-5 space-y-1.5">
+                      <ul className="list-disc ps-5 space-y-1.5">
                         {item.content.map((text, i) => (
                           <li key={i}>{text}</li>
                         ))}

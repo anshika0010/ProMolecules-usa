@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "title": "Father of Insane",
+      "image": "/father-of-insane-pre-workout-65-Servings.webp",
+      "price": "$1599",
+      "description": "Nitrox meningkatkan kuasa letupan dan stamina melalui teknologi nitrik oksida yang canggih.",
+      "thumbnail": "/father-of-insane.webp",
+      "link": "/product/father-of-insane"
+    },
+    {
+      "title": "Warflex",
+      "image": "/warflex-pre-workout-35-Servings.webp",
+      "price": "$1899",
+      "description": "Formula pra-senaman hibrid yang direka untuk prestasi sebenar. Menggabungkan tenaga, pam otot dan fokus dengan formula rangsangan tinggi yang seimbang.",
+      "thumbnail": "/warflex-thumbnail.webp",
+      "link": "/product/warflex"
+    },
+    {
+      "title": "Inopower-R",
+      "image": "/promolecules-inpower-r.webp",
+      "price": "$2099",
+      "description": "Tenaga bersih tanpa kebergantungan pada kafein. Berasaskan sistem tenaga ATP. Menyokong daya tahan pada peringkat selular.",
+      "thumbnail": "/inpower.webp",
+      "link": "/product/inopower-r/"
+    },
+    {
+      "title": "Thermo Nuke XT",
+      "image": "/thermonuke.png",
+      "price": "$1799",
+      "description": "Direka untuk fasa pengurangan lemak yang serius. Menyasarkan metabolisme, bukan sekadar rangsangan. Formula termogenik yang meningkatkan penghasilan haba badan.",
+      "thumbnail": "/thermo-thumbnail.webp",
+      "link": "/product/thermo-nuke-xt/"
+    },
+    {
+      "title": "Hydrapump+",
+      "image": "/hydra.webp",
+      "price": "$1799",
+      "description": "Hydrapump+ ialah sistem pam otot berasaskan gliserol cecair yang direka untuk prestasi otot sebenar.",
+      "thumbnail": "/hydrapump-thumbnail.webp",
+      "link": "/product/hydrapump"
+    }
+  ],
+  "buttons": {
+    "viewDetails": "Lihat Butiran"
+  },
+  "trending_category_section": {
+    "heading": "Kategori Trending",
+    "description": "Dalam pasaran kecergasan hari ini, suplemen boleh didapati di mana-mana, tetapi bukan semua suplemen dihasilkan dengan kualiti yang sama. Banyak jenama kos rendah mengorbankan ketulenan ramuan, menggunakan campuran dengan dos yang tidak mencukupi atau mendapatkan bahan mentah daripada sumber yang tidak disahkan sehingga tidak memberikan hasil sebenar.",
+    "categories": [
+      {
+        "title": "Pra-Senaman",
+        "desc": "Gabungan kafein daripada pelbagai sumber dan nootropik untuk mengaktifkan sistem saraf pusat, meningkatkan fokus dan mengekalkan kekuatan.",
+        "image": "/father-of-insane-warflex-products.webp",
+        "hoverImage": "/promolecules0father-of-insane-warflex-combo-offers.webp",
+        "link": "/product?category=PRE-WORKOUT"
+      },
+      {
+        "title": "Pembakar Lemak",
+        "desc": "Gabungan kafein, yohimbine dan bahan termogenik untuk meningkatkan metabolisme, menyokong pembakaran lemak dan meningkatkan penghasilan tenaga.",
+        "image": "/product2.webp",
+        "hoverImage": "/hoverproduct.webp",
+        "link": "/product?category=FAT%20BURNER"
+      },
+      {
+        "title": "Penggalak ATP",
+        "desc": "Gabungan kafein, yohimbine dan bahan termogenik untuk menyokong metabolisme dan penghasilan tenaga.",
+        "image": "/product2.webp",
+        "hoverImage": "/hoverproduct.webp",
+        "link": "/product?category=ATP%20BOOSTER"
+      },
+      {
+        "title": "Penghidratan Otot",
+        "desc": "Gliserol cecair, citrulline dan garam merah jambu untuk penghidratan mendalam, pam otot yang lebih penuh dan daya tahan yang lebih baik.",
+        "image": "/promolecules-hydrapump-new.webp",
+        "hoverImage": "/promolecules-hydrapump.webp",
+        "link": "/product?category=MUSCLE%20HYDRATION"
+      },
+      {
+        "title": "Barangan Jenama",
+        "desc": "Pakaian berorientasikan prestasi dan keperluan latihan yang direka untuk budaya gim yang serius serta melambangkan disiplin atletik.",
+        "image": "/father-of-insane-fusion-merch-product.webp",
+        "hoverImage": "/father-of-insane-fusion.webp",
+        "link": "/merch"
+      }
+    ]
+  }
+}

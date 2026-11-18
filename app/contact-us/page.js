@@ -1,6 +1,7 @@
 // app/contact-us/page.js
 import ContactheroSection from "@/components/about/AboutheroSection";
 import { getSEOMetadata, getJSONLD } from "@/lib/seo";
+import Messages from "@/lib/i18n/Messages";
 
 export const metadata = getSEOMetadata("contact");
 
@@ -15,7 +16,9 @@ export default function ContactPage() {
           dangerouslySetInnerHTML={{ __html: jsonld }}
         />
       )}
-      <ContactheroSection />
+      <Messages ns={["contact"]}>
+        <ContactheroSection />
+      </Messages>
     </>
   );
 }

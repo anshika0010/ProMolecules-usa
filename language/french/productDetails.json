@@ -1,0 +1,2010 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "slug": "father-of-insane",
+      "name": "FATHER OF INSANE",
+      "flipkartLink": "https://www.flipkart.com/promolecules-father-insane-ultra-high-stim-5200mg-power-blend-70-serv-half-scoop-35-full-pre-workout/p/itmb96e27fc7e10d",
+      "amazonLink": "https://www.amazon.in/Promolecules-Father-Performance-Supplement-Enthusiasts/dp/B0GM15FD9N?ref_=ast_sto_dp",
+      "cost2cost": "https://www.cost2costsupplement.com/products/father-of-insane-high-stim-pre-workout",
+      "category": "PRE-WORKOUT",
+      "title": "Pré-entraînement ultra-stimulant conçu pour les athlètes exigeants. Offre une activation rapide, une concentration extrême et une énergie durable sans coup de fatigue. Activez le mode performance. Entraînez-vous avec intensité.",
+      "description": "Libérez une énergie d'élite, une concentration laser et soutenez vos performances à l'entraînement. Si vous êtes un athlète expérimenté à la recherche d'un pré-entraînement ultra-stimulant, Father of Insane™ par Promolecules™ est formulé pour accompagner les séances les plus intenses. Ce pré-entraînement est conçu pour les utilisateurs avancés avec des ingrédients axés sur la performance tels que la Bêta-Alanine, la Créatine Monohydrate, la Créatine HCl, la L-Citrulline, la Bétaïne Anhydre et plusieurs sources de caféine dans un mélange exclusif concentré. Qu'il s'agisse de musculation, de force, de force athlétique (powerlifting), d'entraînements de type CrossFit ou à haute intensité, Father of Insane est conçu pour vous préparer mentalement et physiquement avant votre séance.",
+      "seo": {
+        "title": "Father of Insane Pré-entraînement Ultra Stimulant | Promolecules",
+        "description": "Achetez Father of Insane™ Pré-entraînement Ultra Stimulant en ligne. Profitez d'une énergie explosive, d'une concentration intense, de congestions musculaires massives et d'une endurance optimale.",
+        "keywords": "Pré-entraînement Ultra Stimulant, Father of Insane, Pré-entraînement Father of Insane, Acheter Pré-entraînement Ultra Stimulant, Meilleur Pré-entraînement Inde, Pré-entraînement Haute Caféine, Complément Musculation, Énergie Entraînement, Congestion Musculaire, Endurance, Concentration",
+        "canonical": "https://www.promolecules.com/product/father-of-insane/",
+        "author": "Promolecules™",
+        "publisher": "Promolecules™",
+        "language": "Français",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "googlebot": "index, follow",
+        "bingbot": "index, follow",
+        "revisit_after": "7 days",
+        "distribution": "global",
+        "rating": "general",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "Dubaï"
+        },
+        "og": {
+          "title": "Father of Insane Pré-entraînement | Formule Haute Stimulation",
+          "type": "website",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "Father of Insane Pré-entraînement Ultra Stimulant",
+          "locale": "AE-DU",
+          "site_name": "Promolecules™",
+          "description": "Découvrez une énergie explosive, une concentration intense, des congestions musculaires et une endurance accrue avec le pré-entraînement Father of Insane.",
+          "url": "https://www.promolecules.com/product/father-of-insane/"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "Promolecules™",
+          "title": "Father of Insane™ Pré-entraînement Ultra Stimulant",
+          "description": "Énergie extrême, concentration laser, congestion musculaire puissante et endurance. Achetez Father of Insane™ en ligne.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "Father of Insane Pré-entraînement Ultra Stimulant"
+        },
+        "ldjson": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Promolecules",
+            "alternateName": "Promolecules",
+            "url": "https://www.promolecules.com/",
+            "logo": "https://www.promolecules.com/promolecules-logo.webp",
+            "sameAs": [
+              "https://www.facebook.com/promolecules.official",
+              "https://x.com/promolecules",
+              "https://www.instagram.com/promolecules/",
+              "https://www.youtube.com/@Promolecules",
+              "https://www.pinterest.com/promolecules/"
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Father of Insane™ Pré-entraînement Ultra Stimulant",
+            "image": "https://promolecules.com/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-35-Servings.webp",
+            "description": "Achetez Father of Insane™ Pré-entraînement Ultra Stimulant en ligne. Profitez d'une énergie explosive, d'une concentration extrême, de congestions musculaires et d'une endurance optimale.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Promolecules™"
+            },
+            "sku": "father-of-insane-35",
+            "offers": {
+              "@type": "Offer",
+              "url": "https://www.promolecules.com/product/father-of-insane/",
+              "priceCurrency": "USD",
+              "price": "41.99",
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "247"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": []
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "promolecules",
+                "item": "https://www.promolecules.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "produit",
+                "item": "https://www.promolecules.com/product/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Pré-entraînement",
+                "item": "https://www.promolecules.com/product-category/pre-workout/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "name": "Father of Insane",
+                "item": "https://www.promolecules.com/product/father-of-insane/"
+              }
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Review",
+            "@id": "https://www.promolecules.com/product/father-of-insane/#review",
+            "itemReviewed": {
+              "@type": "Product",
+              "name": "Father of Insane™ Pré-entraînement Ultra Stimulant",
+              "url": "https://www.promolecules.com/product/father-of-insane/"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Client Vérifié"
+            },
+            "datePublished": "2026-07-03",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "name": "Excellent pré-entraînement haute stimulation",
+            "reviewBody": "Father of Insane™ se mélange très bien et procure une excellente énergie, de la concentration et une intensité d'entraînement remarquable. J'ai apprécié les instructions d'utilisation claires et la formule ultra-stimulante."
+          }
+        ]
+      },
+      "images": [
+        "/Promolecules/fatherofinsane/frontside.webp",
+        "/Promolecules/fatherofinsane/backside.webp",
+        "/Promolecules/fatherofinsane/father-of-insane.webp",
+        "/Promolecules/fatherofinsane/father-of-insane-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/fatherofinsane/father-of-insane-pre-workout.webp",
+      "variants": [
+        {
+          "flavour": "Punch aux Fruits",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Punch aux Fruits",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Bonbons Gélifiés (Gummies Bliss)",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/gummies-bliss-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Bonbons Gélifiés (Gummies Bliss)",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/gummies-bliss-father-of-insane-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Framboise Bleue",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/blue-rasberry-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Framboise Bleue",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/blue-rasberry-father-of-insane-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Bonbons Violet (Purple Pulse)",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/purple-pulse-gummies-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Bonbons Violet (Purple Pulse)",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/purple-pulse-gummies-father-of-insane-pre-workout-65-Servings.webp"
+        }
+      ],
+      "price": "43",
+      "discounted": "41.2",
+      "servings": [
+        {
+          "size": "35",
+          "price": 41.99
+        },
+        {
+          "size": "65",
+          "price": 59.99
+        }
+      ],
+      "flavours": [
+        {
+          "name": "Punch aux Fruits",
+          "images": [
+            "/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        },
+        {
+          "name": "Bonbons Gélifiés (Gummy Bliss)",
+          "images": [
+            "/Promolecules/fatherofinsane/gummies-bliss-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        },
+        {
+          "name": "Bonbons Violet (Purple Pulse Gummies)",
+          "images": [
+            "/Promolecules/fatherofinsane/purple-pulse-gummies-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        },
+        {
+          "name": "Framboise Bleue",
+          "images": [
+            "/Promolecules/fatherofinsane/blue-rasberry-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        }
+      ],
+      "keyBenefits": [
+        "Soutient l'énergie à l'entraînement - La formule comprend plusieurs sources de caféine, dont la Caféine Anhydre, le Dicafféine Malate (2XCAFF®) et le Citrate de Caféine (Citra Caff®), pour vous aider à rester alerte et prêt pour l'effort.",
+        "Favorise la concentration mentale - La caféine et d'autres ingrédients de performance soutiennent la concentration et la vigilance lors des séances difficiles.",
+        "Booste la congestion musculaire - La L-Citrulline favorise la production d'oxyde nitrique et améliore la circulation sanguine, contribuant à une congestion optimale.",
+        "Augmente la force et la puissance - Contient de la Créatine Monohydrate et de la Créatine HCl, reconnues pour améliorer les performances lors d'exercices répétés à haute intensité.",
+        "Endurance musculaire - La Bêta-Alanine augmente les niveaux de carnosine musculaire, aidant à tamponner l'acidité pendant les efforts intenses.",
+        "Formule axée sur la performance - Combine acides aminés, multiples sources de créatine, boosters d'oxyde nitrique, stimulants et nootropiques.",
+        "Acides aminés de performance - Prépare votre corps à l'activité physique et soutient la performance musculaire.",
+        "Matrice de créatine - Soutient les performances lors d'exercices à haute intensité.",
+        "Oxyde nitrique - La L-Citrulline aide à produire de l'oxyde nitrique, favorisant une bonne circulation sanguine pendant l'effort.",
+        "Complexe stimulant - Plusieurs ingrédients contenant de la caféine pour maintenir votre vigilance avant l'entraînement.",
+        "Bêta-Alanine - Aide à augmenter la carnosine musculaire pour retarder la fatigue due à l'accumulation d'acide lactique.",
+        "Créatine Monohydrate - L'un des ingrédients les plus étudiés pour soutenir la force, la puissance et la performance.",
+        "Créatine HCl (CreaCCL®) - Une forme de créatine hautement soluble qui complète la matrice de créatine.",
+        "L-Citrulline - Convertie en arginine dans l'organisme pour soutenir la production d'oxyde nitrique et la congestion.",
+        "Bétaïne Anhydre - Soutient la force, la puissance et la performance physique globale.",
+        "Caféine Anhydre - Source de caféine à absorption rapide favorisant la vigilance et le temps de réaction.",
+        "Dicafféine Malate (2XCAFF®) - Combinaison de caféine et d'acide malique offrant une libération d'énergie plus lente et régulière.",
+        "Citrate de Caféine (Citra Caff®) - Source de caféine supplémentaire pour un profil énergétique équilibré.",
+        "Extrait de Citrus Aurantium (Citrusyn® 30) - Extrait botanique couramment utilisé dans les formules thermogéniques et stimulantes."
+      ],
+      "whychooseus": [
+        "Aucune formule sous-dosée. Aucun mélange caché.",
+        "Architecture stimulante multicouche — pas seulement une surcharge de caféine",
+        "Conçu pour les athlètes avancés, pas pour les utilisateurs occasionnels",
+        "Développé pour la performance, pas pour le marketing",
+        "Conçu pour activer simultanément le système nerveux central et la puissance musculaire"
+      ],
+      "whoShouldUse": [
+        "Pratiquants de musculation avancés",
+        "Culturistes (Bodybuilders)",
+        "Athlètes de force",
+        "Powerlifters (force athlétique)",
+        "Adeptes d'entraînement croisé (Cross-training)",
+        "Utilisateurs expérimentés de pré-entraînements stimulants",
+        "Déconseillé aux débutants ou aux personnes sensibles aux stimulants."
+      ],
+      "howToUse": [
+        "Mélangez ½ dose (scoop) avec 120 à 180 ml (4–6 oz) d'eau environ 30 minutes avant l'entraînement pour évaluer votre tolérance.",
+        "Si bien toléré, mélangez 1 dose complète avec 240 à 300 ml (8–10 oz) d'eau environ 30 minutes avant votre séance.",
+        "Ne pas dépasser une dose par jour."
+      ],
+      "whatToAvoid": [
+        "Ne pas utiliser si vous êtes débutant",
+        "Éviter d'associer avec d'autres produits fortement stimulants",
+        "Ne pas consommer peu avant l'heure du coucher",
+        "Ne pas dépasser la dose recommandée",
+        "Ne convient pas aux personnes sensibles aux stimulants"
+      ],
+      "safetyInformation": [
+        "Destiné uniquement aux adultes en bonne santé.",
+        "Déconseillé aux débutants.",
+        "Ne pas dépasser la portion recommandée.",
+        "Éviter de combiner avec d'autres produits contenant de la caféine.",
+        "Consultez un professionnel de la santé avant utilisation si vous souffrez d'un problème médical ou prenez des médicaments.",
+        "Déconseillé aux femmes enceintes ou allaitantes.",
+        "Tenir hors de portée des enfants.",
+        "Conserver dans un endroit frais et sec."
+      ],
+      "faqs": [
+        {
+          "question": "Qu'est-ce que Father of Insane™ ?",
+          "answer": "Father of Insane™ est un complément pré-entraînement ultra-stimulant développé pour les adultes en bonne santé ayant déjà l'habitude des produits de nutrition sportive stimulants. Le mélange exclusif de 5200 mg combine des ingrédients conçus pour soutenir l'énergie, la concentration, l'oxyde nitrique, la force et l'endurance musculaire lors d'entraînements exigeants. En raison de sa forte teneur en stimulants, il est conseillé de commencer par ½ dose pour évaluer sa tolérance."
+        },
+        {
+          "question": "À qui s'adresse Father of Insane™ ?",
+          "answer": "Father of Insane™ est destiné aux adultes en bonne santé ayant une expérience préalable avec les pré-entraînements stimulants. Il est déconseillé aux débutants ou aux personnes sensibles à la caféine et aux stimulants."
+        },
+        {
+          "question": "Comment prendre Father of Insane™ ?",
+          "answer": "Commencez par ½ dose mélangée dans 120 à 180 ml d'eau environ 30 minutes avant l'entraînement pour évaluer votre tolérance. Si le produit est bien toléré, prenez 1 dose complète dans 240 à 300 ml d'eau 30 minutes avant votre séance. Ne dépassez pas une dose par jour."
+        },
+        {
+          "question": "Quels ingrédients composent Father of Insane™ ?",
+          "answer": "Le mélange exclusif de 5200 mg contient de la Bêta-Alanine, de la Créatine Monohydrate, de la Créatine HCl (CreaCCL®), de la L-Citrulline, de la Bétaïne Anhydre, de la Caféine Anhydre, de l'Extrait de Citrus Aurantium (Citrusyn® 30), du Dicafféine Malate (2XCAFF®) et du Citrate de Caféine (Citra Caff®)."
+        },
+        {
+          "question": "Father of Insane™ convient-il aux débutants ?",
+          "answer": "Non. L'étiquette indique clairement que Father of Insane™ n'est pas destiné aux débutants. En raison de ses multiples ingrédients stimulants, les nouveaux utilisateurs devraient opter pour une alternative moins stimulante."
+        },
+        {
+          "question": "Quels sont les principaux bienfaits de Father of Insane™ ?",
+          "answer": "La formule est conçue pour soutenir l'énergie, la concentration mentale, la congestion musculaire, l'endurance, la force et les entraînements à haute intensité. Les résultats varient selon l'individu, le programme d'entraînement et l'alimentation."
+        },
+        {
+          "question": "Father of Insane™ contient-il de la créatine ?",
+          "answer": "Oui. Il comprend de la Créatine Monohydrate et de la Créatine HCl (CreaCCL®), deux formes de créatine utilisées pour soutenir les performances lors d'exercices à haute intensité."
+        },
+        {
+          "question": "Father of Insane™ contient-il de la caféine ?",
+          "answer": "Oui. Le produit contient plusieurs sources de caféine, dont la Caféine Anhydre, le Dicafféine Malate (2XCAFF®) et le Citrate de Caféine (Citra Caff®), pour un total de 450 mg de caféine par dose."
+        },
+        {
+          "question": "Puis-je prendre Father of Insane™ tous les jours ?",
+          "answer": "Suivez les instructions sur l'étiquette et ne dépassez pas une dose par jour. De nombreux athlètes adaptent leur consommation selon l'intensité de leurs séances. Consultez un professionnel de la santé en cas de doute sur une utilisation régulière."
+        },
+        {
+          "question": "Puis-je associer Father of Insane™ à d'autres compléments ?",
+          "answer": "Father of Insane™ peut être utilisé avec d'autres produits de nutrition sportive compatibles, mais en raison de sa teneur élevée en stimulants, évitez de le combiner avec d'autres suppléments contenant de la caféine sans avis médical."
+        },
+        {
+          "question": "La qualité de Father of Insane™ est-elle contrôlée ?",
+          "answer": "L'étiquette indique que le produit est fabriqué exclusivement pour Promolecules dans une installation certifiée cGMP (Bonnes Pratiques de Fabrication)."
+        },
+        {
+          "question": "Où puis-je acheter Father of Insane™ ?",
+          "answer": "Father of Insane™ est disponible sur le site officiel de Promolecules, Cost2Cost Supplement, Amazon, Flipkart et auprès des revendeurs agréés pour garantir l'authenticité du produit."
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Ethan Parker",
+          "country": "États-Unis",
+          "des": "J'utilise des pré-entraînements ultra-stimulants depuis des années. Celui-ci m'a surpris. Une demi-dose avant un développé couché lourd et l'activation nerveuse était parfaite."
+        },
+        {
+          "id": 2,
+          "name": "Vikas Chauhan",
+          "country": "Inde",
+          "des": "La montée d'énergie est maîtrisée. Pas de mains qui tremblent, juste une concentration solide à chaque série."
+        },
+        {
+          "id": 3,
+          "name": "Marco Bellini",
+          "country": "Italie",
+          "des": "Je m'entraîne tard le soir et je me sens généralement vidé. Avec ce pré-workout, la motivation et l'intensité restent élevées même le jour des jambes."
+        },
+        {
+          "id": 4,
+          "name": "Deepak Rana",
+          "country": "Inde",
+          "des": "La première fois que j'ai vraiment compris ce que signifie l'activation du système nerveux central. Ma séance de soulevé de terre était explosive."
+        },
+        {
+          "id": 5,
+          "name": "Oliver Scott",
+          "country": "Royaume-Uni",
+          "des": "Le protocole à demi-dose prend tout son sens. Cette formule frappe plus fort que la plupart des pré-entraînements à deux doses."
+        },
+        {
+          "id": 6,
+          "name": "Ravi Mehta",
+          "country": "Inde",
+          "des": "La concentration sur les mouvements polyarticulaires s'est améliorée immédiatement. On sent une vraie ingénierie plutôt qu'une simple surcharge."
+        },
+        {
+          "id": 7,
+          "name": "Jason Ward",
+          "country": "États-Unis",
+          "des": "Ce qui m'a impressionné, c'est la stimulation propre. Aucun coup de barre même après une séance de 90 minutes."
+        },
+        {
+          "id": 8,
+          "name": "Abhishek Tripathi",
+          "country": "Inde",
+          "des": "Utilisé avant ma séance de squat. La force est restée constante jusqu'à la dernière série."
+        },
+        {
+          "id": 9,
+          "name": "Nicolas Romero",
+          "country": "Argentine",
+          "des": "C'est le premier pré-entraînement où l'agressivité à l'effort reste parfaitement contrôlée."
+        },
+        {
+          "id": 10,
+          "name": "Faizan Khan",
+          "country": "Émirats arabes unis",
+          "des": "J'ai pris une demi-dose avant ma séance poussée. Le pic d'énergie était fluide et stable."
+        },
+        {
+          "id": 11,
+          "name": "Andrew Foster",
+          "country": "Australie",
+          "des": "Pas adapté aux débutants, mais parfait pour les pratiquants expérimentés."
+        },
+        {
+          "id": 12,
+          "name": "Aman Verma",
+          "country": "Inde",
+          "des": "En 20 minutes, mon esprit était totalement verrouillé sur l'entraînement."
+        },
+        {
+          "id": 13,
+          "name": "Carlos Rivera",
+          "country": "Mexique",
+          "des": "Excellente amélioration de la concentration lors des exercices lourds."
+        },
+        {
+          "id": 14,
+          "name": "Rahul Thakur",
+          "country": "Inde",
+          "des": "Semble plus puissant que la plupart des pré-entraînements importés que j'ai essayés."
+        },
+        {
+          "id": 15,
+          "name": "Daniel Moore",
+          "country": "États-Unis",
+          "des": "L'énergie reste constante sans l'effet de chute lié à la caféine."
+        },
+        {
+          "id": 16,
+          "name": "Sanjay Deshmukh",
+          "country": "Inde",
+          "des": "Aide à franchir les paliers de stagnation en force."
+        },
+        {
+          "id": 17,
+          "name": "Mateo Gonzalez",
+          "country": "Espagne",
+          "des": "Parfait pour les journées d'entraînement à haute intensité."
+        },
+        {
+          "id": 18,
+          "name": "Imran Malik",
+          "country": "Pakistan",
+          "des": "La stimulation est nette et maîtrisée."
+        },
+        {
+          "id": 19,
+          "name": "Nathan Hughes",
+          "country": "Royaume-Uni",
+          "des": "Formule puissante mais sans sensation désordonnée."
+        },
+        {
+          "id": 20,
+          "name": "Kunal Aggarwal",
+          "country": "Inde",
+          "des": "Aide à tout donner sur les toutes dernières séries."
+        },
+        {
+          "id": 21,
+          "name": "Victor Almeida",
+          "country": "Brésil",
+          "des": "L'effet sur la concentration est vraiment remarquable."
+        },
+        {
+          "id": 22,
+          "name": "Aditya Saxena",
+          "country": "Inde",
+          "des": "Rend les entraînements beaucoup plus intenses et offensifs."
+        },
+        {
+          "id": 23,
+          "name": "Eric Larson",
+          "country": "États-Unis",
+          "des": "L'un des pré-entraînements les plus puissants que j'aie utilisés."
+        },
+        {
+          "id": 24,
+          "name": "Rahul Khanna",
+          "country": "Inde",
+          "des": "L'énergie reste stable pour les longues séances."
+        },
+        {
+          "id": 25,
+          "name": "Dmitry Ivanov",
+          "country": "Russie",
+          "des": "Une demi-dose se fait déjà sentir très puissamment."
+        },
+        {
+          "id": 26,
+          "name": "Armaan Sheikh",
+          "country": "Inde",
+          "des": "Bonne stimulation sans nervosité ni tremblements."
+        },
+        {
+          "id": 27,
+          "name": "Peter Wallace",
+          "country": "Canada",
+          "des": "Aide à maintenir un haut niveau d'intensité."
+        },
+        {
+          "id": 28,
+          "name": "Harshit Arora",
+          "country": "Inde",
+          "des": "Parfait pour les jours d'entraînement lourd."
+        },
+        {
+          "id": 29,
+          "name": "Antonio Ruiz",
+          "country": "Espagne",
+          "des": "La concentration reste au maximum pendant toute la séance."
+        },
+        {
+          "id": 30,
+          "name": "Suresh Kumar",
+          "country": "Inde",
+          "des": "Formule forte mais équilibrée."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "warflex",
+      "flipkartLink": "https://www.flipkart.com/promolecules-warflex-high-stim-pre-workout-caffeine-strength-pump-focus-formula-35-servings/p/itm855c7c69787ee?pid=PSLHKNVKCWGH6HRK&lid=LSTPSLHKNVKCWGH6HRKJSOMI5&marketplace=FLIPKART&q=preworkout&store=hlc%2Fetg%2F1rx&srno=s_1_4&otracker=AS_QueryStore_OrganicAutoSuggest_1_8_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_8_na_na_na&fm=search-autosuggest&iid=a7b10f9a-b5f9-4612-bb69-bd7eb8b52db5.PSLHKNVKCWGH6HRK.SEARCH&ppt=sp&ppn=sp&ssid=5rrj430ryo0000001779782323988&qH=c27d997028a56b71&ov_redirect=true&ov_redirect=true",
+      "cost2cost": "https://www.cost2costsupplement.com/products/warflex-high-stim-test-booster-preworkout",
+      "category": "PRE-WORKOUT",
+      "name": "WARFLEX",
+      "title": "Warflex™ est un pré-entraînement haute stimulation booster de testostérone avec du Citrate de Bore. Warflex™ est formulé pour les adultes en bonne santé habitués aux compléments stimulants. Chaque dose offre un ratio précis d'acides aminés, de sources de créatine, d'ingrédients soutenant l'oxyde nitrique, d'extraits botaniques, de nootropiques et de multiples sources de caféine. Il aide les utilisateurs expérimentés à aborder des séances intenses avec plus de concentration. En raison de ses stimulants puissants, commencez par une demi-dose pour évaluer votre tolérance.",
+      "description": "Énergie maximale. Concentration supérieure. Performances de force avancées. Si vous cherchez bien plus qu'un simple pré-entraînement, essayez Warflex™ – un mélange scientifiquement formulé d'ingrédients de performance destiné aux athlètes confirmés. Créatine Monohydrate, Créatine HCl (CreaCCL®), Bêta-Alanine, L-Citrulline, Taurine, Alpha GPC, Citrate de Bore, Sulfate d'Agmatine, divers composés de caféine, Alpha Yohimbine, L-Théanine et Huperzine-A vous préparent mentalement et physiquement avant l'effort. La formule de Warflex cible les athlètes avancés pratiquant la musculation, le culturisme, la force athlétique et le fitness fonctionnel. Fabriqué dans une installation certifiée cGMP.",
+      "canonical": "https://www.promolecules.com/product/warflex/",
+      "seo": {
+        "title": "Warflex Pré-entraînement Haute Stimulation | Acheter en ligne sur Promolecules",
+        "description": "Achetez Warflex Pré-entraînement Haute Stimulation en ligne sur Promolecules. Obtenez un booster d'énergie explosif, des congestions musculaires intenses, une concentration laser et une force accrue.",
+        "keywords": "WARFLEX Pré-entraînement, Warflex Haute Stimulation, Meilleur Pré-entraînement, Acheter Pré-entraînement en ligne, Booster d'Énergie, Congestion Musculaire, Complément Force, Concentration, Endurance, Haute Caféine, Oxyde Nitrique",
+        "canonical": "https://www.promolecules.com/product/warflex/",
+        "author": "Promolecules™",
+        "publisher": "Promolecules™",
+        "language": "Français",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "googlebot": "index, follow",
+        "bingbot": "index, follow",
+        "revisit_after": "7 days",
+        "distribution": "global",
+        "rating": "general",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "Dubaï"
+        },
+        "og": {
+          "title": "Warflex Pré-entraînement Haute Stimulation | Énergie & Performance",
+          "type": "product",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "Warflex Pré-entraînement Haute Stimulation",
+          "locale": "AE-DU",
+          "site_name": "Promolecules™",
+          "description": "Passez au niveau supérieur à la salle avec le pré-entraînement Warflex™. Conçu pour une énergie explosive, la concentration, la congestion, la force et l'endurance.",
+          "url": "https://www.promolecules.com/product/warflex/"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "title": "Warflex Pré-entraînement Haute Stimulation | Énergie & Performance",
+          "description": "Passez au niveau supérieur à la salle avec le pré-entraînement Warflex™. Conçu pour une énergie explosive, la concentration, la congestion, la force et l'endurance.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "Warflex Pré-entraînement Haute Stimulation | Énergie & Performance"
+        },
+        "ldjson": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Promolecules",
+            "alternateName": "Promolecules",
+            "url": "https://www.promolecules.com/",
+            "logo": "https://www.promolecules.com/promolecules-logo.webp",
+            "sameAs": [
+              "https://www.facebook.com/promolecules.official",
+              "https://x.com/promolecules",
+              "https://www.instagram.com/promolecules/",
+              "https://www.youtube.com/@Promolecules",
+              "https://www.pinterest.com/promolecules/"
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Warflex Pré-entraînement Haute Stimulation",
+            "image": "https://www.promolecules.com/Promolecules/warflexnew/fruit-punch-warflex-pre-workout-35-Servings.webp",
+            "description": "Achetez Warflex Pré-entraînement Haute Stimulation en ligne sur Promolecules. Obtenez une énergie explosive, des congestions intenses, une concentration laser et une endurance optimale.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Promolecules™"
+            },
+            "sku": "father-of-insane-35",
+            "offers": {
+              "@type": "Offer",
+              "url": "https://www.promolecules.com/product/warflex/",
+              "priceCurrency": "USD",
+              "price": "41.99",
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "247"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "promolecules",
+                "item": "https://www.promolecules.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "produit",
+                "item": "https://www.promolecules.com/product/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Pré-entraînement",
+                "item": "https://www.promolecules.com/product-category/pre-workout/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "name": "warflex",
+                "item": "https://www.promolecules.com/product/warflex/"
+              }
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Review",
+            "@id": "https://www.promolecules.com/product/warflex/#review",
+            "itemReviewed": {
+              "@type": "Product",
+              "name": "Warflex Pré-entraînement Haute Stimulation",
+              "url": "https://www.promolecules.com/product/warflex/"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Client Vérifié"
+            },
+            "datePublished": "2026-07-03",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "name": "Warflex™ Pré-entraînement Haute Stimulation",
+            "reviewBody": "Achetez Warflex™ Pré-entraînement Haute Stimulation en ligne sur Promolecules. Profitez d'une énergie explosive, de congestions musculaires massives, d'une concentration laser et d'une endurance optimale."
+          }
+        ]
+      },
+      "price": "43",
+      "servings": [
+        {
+          "size": "35",
+          "price": 41.99
+        },
+        {
+          "size": "65",
+          "price": 59.99
+        }
+      ],
+      "discounted": "41.2",
+      "images": [
+        "/Promolecules/warflexnew/promolecules-warflex-pre-workout_11zon.webp",
+        "/Promolecules/warflexnew/promolecules-warflex-supplements_11zon.webp",
+        "/Promolecules/warflex3.webp",
+        "/Promolecules/warflexnew/Warflex-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/warflexnew/warfle-pre-workout.webp",
+      "variants": [
+        {
+          "flavour": "Punch aux Fruits",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/fruit-punch-warflex-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Punch aux Fruits",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/fruit-punch-warflex-pre-workout-65-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Bonbons Gélifiés (Gummies Bliss)",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/gummies-candy-warflex-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Bonbons Gélifiés (Gummies Bliss)",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/gummies-candy-warflex-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Framboise Bleue",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/blue-rasberry-warflex-pre-workout-35-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Framboise Bleue",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/blue-rasberry-warflex-pre-workout-65-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Bonbons Violet (Purple Pulse)",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/purple-pulse-gummies-warflex-pre-workout-35-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Bonbons Violet (Purple Pulse)",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/purple-pulse-gummies-warflex-pre-workout-65-Servings_11zon.webp"
+        }
+      ],
+      "keyBenefits": [
+        "Soutient une énergie élevée à l'entraînement - Contient de la Caféine Anhydre, du Dicafféine Malate, du Citrate de Caféine et de la Caféine HCl pour favoriser la vigilance et la préparation à l'effort.",
+        "Soutient la concentration mentale - L'Alpha GPC, la L-Théanine et l'Huperzine-A soutiennent la concentration et les fonctions cognitives lors des entraînements exigeants.",
+        "Soutient la performance en force - La Créatine Monohydrate et la Créatine HCl optimisent les efforts de musculation à haute intensité.",
+        "Favorise la congestion musculaire - La L-Citrulline et le Sulfate d'Agmatine stimulent la production d'oxyde nitrique et le flux sanguin.",
+        "Favorise l'endurance musculaire - La Bêta-Alanine augmente la carnosine musculaire pour tamponner l'acidité pendant les efforts répétés.",
+        "Inclusion de Citrate de Bore - Oligo-élément jouant un rôle dans le métabolisme minéral normal, souvent intégré aux formules avancées.",
+        "Niacine (35 mg) - La vitamine B3 soutient le métabolisme énergétique et la conversion des aliments en énergie.",
+        "Sodium (150 mg) - Maintient l'équilibre hydrique et électrolytique pendant l'activité physique.",
+        "Bêta-Alanine (2000 mg) - Améliore l'endurance musculaire en réduisant les effets de l'accumulation d'acide lactique.",
+        "Créatine Monohydrate (1000 mg) - Soutient la force, la puissance et les performances à haute intensité.",
+        "L-Citrulline (1000 mg) - Convertie en arginine pour favoriser l'oxyde nitrique, la circulation sanguine et la congestion.",
+        "Créatine HCl (500 mg) - Forme hautement soluble complétant la matrice de créatine.",
+        "Taurine (500 mg) - Soutient la fonction musculaire, l'hydratation et la performance physique.",
+        "Alpha GPC (50 %) - Source de choline favorisant la concentration et les performances mentales.",
+        "Extrait d'Eria Jarensis - Intégré au complexe stimulant et nootropique pour la concentration.",
+        "Mélange XBTRA Pump® - Associe Sulfate d'Agmatine et Extrait de Betterave pour soutenir l'oxyde nitrique et la performance.",
+        "Extrait de Baie de Genévrier - Fait partie du mélange exclusif de performance.",
+        "Mélange Xan Caf™ - Combine Caféine Anhydre, Dicafféine Malate, Citrate de Caféine et Caféine HCl pour un profil hautement stimulant.",
+        "Citrus Aurantium (Citrus Syn 50®) - Extrait botanique prisé dans les formules thermogéniques et stimulantes.",
+        "L-Théanine (100 mg) - Associée à la caféine pour une concentration fluide et équilibrée.",
+        "Alpha Yohimbine (2,5 mg) - Stimulant puissant destiné aux athlètes avancés ; commencez par une demi-dose pour évaluer votre tolérance.",
+        "Citrate de Bore (3 mg) - Oligo-élément associé au métabolisme minéral normal.",
+        "Huperzine-A (200 mcg) - Nootropique utilisé pour soutenir la concentration et les fonctions mentales."
+      ],
+      "whoShouldUse": [
+        "Culturistes (Bodybuilders) expérimentés",
+        "Athlètes de force",
+        "Powerlifters (force athlétique)",
+        "Athlètes de cross-training",
+        "Pratiquants de musculation avancés",
+        "Utilisateurs expérimentés de pré-entraînements",
+        "Déconseillé aux débutants ou aux personnes sensibles aux stimulants."
+      ],
+      "whychooseus": [
+        "Formule avancée combinant stimulants, soutien de la force, boosters d'oxyde nitrique et activateurs cognitifs",
+        "Prépare efficacement aux entraînements difficiles",
+        "Améliore la concentration pendant l'effort",
+        "Soutient l'entraînement axé sur la force",
+        "Aide à améliorer l'endurance musculaire",
+        "Favorise de meilleures congestions musculaires",
+        "Booste la motivation à l'entraînement",
+        "Conçu pour les athlètes avancés et habitués aux pré-entraînements",
+        "Idéal pour les entraînements axés sur la performance"
+      ],
+      "howToUse": [
+        "Mélangez ½ dose avec 120 à 180 ml (4–6 oz) d'eau environ 30 minutes avant l'entraînement pour évaluer votre tolérance.",
+        "Si bien toléré, mélangez 1 dose complète avec 240 à 300 ml (8–10 oz) d'eau environ 30 minutes avant votre séance.",
+        "Ne pas dépasser une dose par jour."
+      ],
+      "whatToAvoid": [
+        "Ne pas utiliser si vous êtes débutant",
+        "Éviter d'associer avec d'autres produits fortement stimulants",
+        "Ne pas consommer peu avant l'heure du coucher",
+        "Ne pas dépasser la dose recommandée",
+        "Ne convient pas aux personnes sensibles aux stimulants"
+      ],
+      "safetyInformation": [
+        "Destiné aux adultes en bonne santé âgés de 18 ans et plus.",
+        "Contient environ 395 mg de caféine par dose.",
+        "Utiliser avec prudence si vous êtes sensible à la caféine ou à d'autres stimulants.",
+        "Ne pas associer avec d'autres produits contenant des stimulants.",
+        "Si vous prenez des médicaments sur ordonnance ou souffrez d'un problème médical, consultez un professionnel de la santé avant utilisation.",
+        "Ne pas utiliser pendant la grossesse ou l'allaitement.",
+        "Tenir hors de portée des enfants.",
+        "Conserver dans un endroit frais et sec."
+      ],
+      "faqs": [
+        {
+          "question": "Qu'est-ce que Warflex™ ?",
+          "answer": "Warflex™ est un pré-entraînement avancé au Citrate de Bore conçu par Promolecules pour les athlètes confirmés. Il contient de la Bêta-Alanine, de la Créatine Monohydrate, de la Créatine HCl, de la L-Citrulline, de la Taurine, de l'Alpha GPC, du Sulfate d'Agmatine, plusieurs sources de caféine, de l'Alpha Yohimbine et de l'Huperzine-A pour soutenir l'énergie, la concentration, la force et l'endurance."
+        },
+        {
+          "question": "À qui s'adresse Warflex™ ?",
+          "answer": "Warflex™ est destiné aux adultes en bonne santé de 18 ans et plus ayant déjà consommé des pré-entraînements stimulants. Il est déconseillé aux débutants ou aux personnes sensibles à la caféine."
+        },
+        {
+          "question": "Comment prendre Warflex™ ?",
+          "answer": "Commencez par ½ dose mélangée dans 120 à 180 ml d'eau 30 minutes avant l'exercice pour évaluer votre tolérance. Si bien toléré, prenez 1 dose complète dans 240 à 300 ml d'eau 30 minutes avant votre séance. Ne dépassez pas 1 dose par jour."
+        },
+        {
+          "question": "Quels ingrédients sont inclus dans Warflex™ ?",
+          "answer": "Chaque dose contient : Bêta-Alanine (2000 mg), Créatine Monohydrate (1000 mg), L-Citrulline (1000 mg), Créatine HCl (500 mg), Taurine (500 mg), Alpha GPC (50 %), Extrait d'Eria Jarensis, Sulfate d'Agmatine, Extrait de Betterave, Extrait de Baie de Genévrier, Caféine Anhydre, Dicafféine Malate, Citrate de Caféine, Caféine HCl, Extrait de Citrus Aurantium, L-Théanine, Alpha Yohimbine, Citrate de Bore et Huperzine-A."
+        },
+        {
+          "question": "Warflex™ contient-il de la caféine ?",
+          "answer": "Oui. Warflex™ contient plusieurs sources de caféine (Caféine Anhydre, Dicafféine Malate, Citrate de Caféine et Caféine HCl) pour favoriser la vigilance, la préparation à l'effort et l'énergie."
+        },
+        {
+          "question": "Warflex™ contient-il de la créatine ?",
+          "answer": "Oui. Warflex™ contient de la Créatine Monohydrate et de la Créatine HCl (CreaCCL®) pour soutenir les performances lors d'exercices à haute intensité."
+        },
+        {
+          "question": "Quels sont les bienfaits du Citrate de Bore dans Warflex™ ?",
+          "answer": "Le Citrate de Bore est un oligo-élément couramment intégré dans les formules de nutrition sportive. Il joue un rôle dans le métabolisme minéral normal."
+        },
+        {
+          "question": "Warflex™ convient-il aux débutants ?",
+          "answer": "Non. Warflex™ s'adresse aux utilisateurs avancés et l'étiquette précise clairement « Déconseillé aux débutants ». Les nouveaux utilisateurs devraient privilégier un pré-entraînement moins stimulant."
+        },
+        {
+          "question": "Puis-je prendre Warflex™ tous les jours ?",
+          "answer": "Prenez Warflex™ uniquement selon les directives de l'étiquette et ne dépassez pas 1 dose par jour. Consultez un professionnel de la santé pour toute question concernant un usage régulier."
+        },
+        {
+          "question": "Puis-je combiner Warflex™ avec d'autres compléments ?",
+          "answer": "Warflex™ peut être associé à d'autres produits de nutrition sportive compatibles, mais en raison de sa forte teneur en caféine et stimulants, ne le combinez pas avec d'autres compléments stimulants ou boissons énergisantes."
+        },
+        {
+          "question": "Warflex™ est-il fabriqué dans une usine certifiée ?",
+          "answer": "Oui. Selon l'étiquette du produit, Warflex™ est développé et fabriqué exclusivement pour Promolecules dans une installation certifiée cGMP."
+        },
+        {
+          "question": "Où puis-je acheter Warflex™ ?",
+          "answer": "Vous pouvez acheter Warflex™ directement sur le site officiel de Promolecules ou auprès de revendeurs agréés pour garantir l'authenticité du produit."
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Ryan Carter",
+          "country": "États-Unis",
+          "des": "Je m'entraîne depuis 12 ans. Une demi-dose avant le soulevé de terre et mon système nerveux s'est instantanément activé. La courbe d'énergie est fluide et l'intensité reste maîtrisée à chaque série."
+        },
+        {
+          "id": 2,
+          "name": "Arjun Mehta",
+          "country": "Inde",
+          "des": "La plupart des pré-entraînements en Inde semblent dilués. Celui-ci est différent. J'ai pris une demi-dose avant le jour des squats et la concentration était incroyable."
+        },
+        {
+          "id": 3,
+          "name": "Daniel Kovacs",
+          "country": "Hongrie",
+          "des": "En tant que coach de force athlétique, je suis prudent avec les stimulants. Étonnamment, cette formule offre une activation propre sans la nervosité de la plupart des produits ultra-stimulants."
+        },
+        {
+          "id": 4,
+          "name": "Jake Robinson",
+          "country": "Royaume-Uni",
+          "des": "Enfin un pré-entraînement qui respecte les amateurs de haute stimulation. L'énergie reste constante même pendant les séances polyarticulaires lourdes."
+        },
+        {
+          "id": 5,
+          "name": "Sandeep Rawat",
+          "country": "Inde",
+          "des": "En 20 minutes, le déclic s'est fait. Séance de développé couché intense et concentrée. Aucun coup de fatigue désagréable après."
+        },
+        {
+          "id": 6,
+          "name": "Miguel Santos",
+          "country": "Espagne",
+          "des": "J'ai essayé de nombreuses formules fortes mais celle-ci est vraiment bien pensée. Mon intensité le jour des jambes a nettement augmenté."
+        },
+        {
+          "id": 7,
+          "name": "Karan Singh",
+          "country": "Inde",
+          "des": "Je suis généralement sceptique face aux promesses ultra-stimulantes. Mais une demi-dose avant ma séance dos et l'influx nerveux était évident."
+        },
+        {
+          "id": 8,
+          "name": "Lucas Andrade",
+          "country": "Brésil",
+          "des": "Ce pré-entraînement aide vraiment quand on s'entraîne après une longue journée de travail. La concentration reste vive jusqu'à la dernière série."
+        },
+        {
+          "id": 9,
+          "name": "Ahmed Rashid",
+          "country": "Émirats arabes unis",
+          "des": "La courbe de stimulation est étonnamment équilibrée. De l'agressivité sous les barres mais un mental toujours maîtrisé."
+        },
+        {
+          "id": 10,
+          "name": "Tom Gallagher",
+          "country": "Irlande",
+          "des": "Utilisé avant une séance lourde de squat. L'activation musculaire semblait réelle, pas juste un pic de caféine."
+        },
+        {
+          "id": 11,
+          "name": "Rahul Verma",
+          "country": "Inde",
+          "des": "Honnêtement, je n'en attendais pas tant. Mais après 15 minutes, mon intensité a grimpé automatiquement."
+        },
+        {
+          "id": 12,
+          "name": "Mark Jensen",
+          "country": "Danemark",
+          "des": "Conçu pour les pratiquants sérieux. La production d'énergie reste stable tout au long des longues séances."
+        },
+        {
+          "id": 13,
+          "name": "Omar Hassan",
+          "country": "Égypte",
+          "des": "Formule puissante mais pas chaotique. La concentration reste verrouillée sur les mouvements de base."
+        },
+        {
+          "id": 14,
+          "name": "Jason Miller",
+          "country": "États-Unis",
+          "des": "Le protocole à demi-dose est logique. C'est puissant mais contrôlé."
+        },
+        {
+          "id": 15,
+          "name": "Nikhil Sharma",
+          "country": "Inde",
+          "des": "Le jour du soulevé de terre était complètement différent. Aucune fatigue mentale entre les séries."
+        },
+        {
+          "id": 16,
+          "name": "Ben Clarke",
+          "country": "Australie",
+          "des": "Stimulation propre. Pas de mains qui tremblent ni d'anxiété."
+        },
+        {
+          "id": 17,
+          "name": "Aditya Kapoor",
+          "country": "Inde",
+          "des": "La montée d'énergie est fluide. L'intensité aide à pousser jusqu'au bout des dernières séries."
+        },
+        {
+          "id": 18,
+          "name": "Carlos Fernandez",
+          "country": "Mexique",
+          "des": "J'ai vraiment remarqué une meilleure endurance lors des entraînements à haut volume."
+        },
+        {
+          "id": 19,
+          "name": "Rohit Chauhan",
+          "country": "Inde",
+          "des": "Les séances semblent plus longues et plus concentrées."
+        },
+        {
+          "id": 20,
+          "name": "Nathan Brooks",
+          "country": "Canada",
+          "des": "On sent que la formule a été créée par quelqu'un qui pratique vraiment la musculation."
+        },
+        {
+          "id": 21,
+          "name": "Imran Khan",
+          "country": "Pakistan",
+          "des": "L'amélioration de la concentration a été la plus grande différence pour moi."
+        },
+        {
+          "id": 22,
+          "name": "George Martin",
+          "country": "Royaume-Uni",
+          "des": "Haute stimulation mais étonnamment équilibré."
+        },
+        {
+          "id": 23,
+          "name": "Harsh Vardhan",
+          "country": "Inde",
+          "des": "Les mouvements polyarticulaires paraissent plus explosifs."
+        },
+        {
+          "id": 24,
+          "name": "Peter Novak",
+          "country": "Slovaquie",
+          "des": "Bonne activation nerveuse avant les charges lourdes."
+        },
+        {
+          "id": 25,
+          "name": "Arman Qureshi",
+          "country": "Inde",
+          "des": "L'énergie reste constante tout au long de l'entraînement."
+        },
+        {
+          "id": 26,
+          "name": "Sebastian Cruz",
+          "country": "Chili",
+          "des": "Très puissant mais stimulation facile à gérer."
+        },
+        {
+          "id": 27,
+          "name": "Jay Patel",
+          "country": "Inde",
+          "des": "Aide à surmonter les plateaux d'entraînement."
+        },
+        {
+          "id": 28,
+          "name": "Victor Petrov",
+          "country": "Bulgarie",
+          "des": "Pas un produit pour débutants, mais fonctionne à merveille pour les pratiquants confirmés."
+        },
+        {
+          "id": 29,
+          "name": "Daniel Park",
+          "country": "Corée du Sud",
+          "des": "La combinaison concentration et intensité est parfaite."
+        },
+        {
+          "id": 30,
+          "name": "Rakesh Kumar",
+          "country": "Inde",
+          "des": "Une demi-dose est déjà plus forte que la plupart des pré-entraînements."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "inopower-r",
+      "name": "INOPOWER-R",
+      "cost2cost": "https://www.cost2costsupplement.com/products/inopower-r",
+      "category": "ATP BOOSTER",
+      "title": "Formule d'endurance sans stimulants qui soutient l'énergie ATP, réduit la fatigue et maintient des performances stables sans caféine. Continuez quand les autres s'arrêtent.",
+      "description": "INOPOWER-R™ est une formule de performance ATP sans stimulants conçue pour améliorer l'endurance, réduire la fatigue et soutenir les longues séances d'entraînement sans solliciter votre système nerveux. Parfait pour les entraînements tard le soir, les pauses sans stimulants ou les athlètes recherchant une énergie propre et durable sans caféine.",
+      "seo": {
+        "title": "Promolecules Inopower-R | Complément Énergie ATP & Endurance",
+        "description": "Achetez Inopower-R par Promolecules™. Formule ATP avancée pour une énergie explosive, une endurance maximale et une récupération plus rapide. Commandez maintenant.",
+        "canonical": "https://www.promolecules.com/product/inopower-r/",
+        "og": {
+          "title": "Inopower-R | Énergie ATP & Endurance | Promolecules",
+          "type": "website",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "locale": "AE-DU",
+          "site_name": "Promolecules",
+          "description": "Énergie explosive. Endurance maximale. Récupération plus rapide. Découvrez Inopower-R par Promolecules™ – conçu pour la haute performance.",
+          "url": "https://www.promolecules.com/product/inopower-r/"
+        },
+        "author": "Promolecules",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "Dubaï"
+        },
+        "language": "fr",
+        "robots": "index,follow",
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "Promolecules",
+          "title": "Inopower-R | Boost d'Énergie ATP",
+          "description": "Propulsez vos entraînements avec Inopower-R. Formule ATP avancée pour l'énergie, l'endurance et la récupération.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp"
+        },
+        "ldjson": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Promolecules",
+          "url": "https://www.promolecules.com/product/inopower-r/",
+          "logo": "https://www.promolecules.com/promolecules-logo.webp",
+          "sameAs": [
+            "https://www.instagram.com/promolecules/",
+            "https://www.threads.com/@promolecules",
+            "https://x.com/promolecules",
+            "https://in.pinterest.com/promolecules/",
+            "https://www.youtube.com/@Promolecules",
+            "https://www.facebook.com/promolecules.official"
+          ],
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "contactType": "service client",
+              "email": "contact@promolecules.com"
+            }
+          ]
+        }
+      },
+      "servings": [
+        {
+          "size": "35",
+          "price": 45.99
+        }
+      ],
+      "variants": [
+        {
+          "flavour": "Sans arôme",
+          "size": "120 gélules",
+          "price": 45.99,
+          "image": "/Promolecules/inopower1.webp"
+        }
+      ],
+      "price": "43",
+      "discounted": "41.2",
+      "images": [
+        "/Promolecules/inopower1.webp",
+        "/Promolecules/inpower3/inpower-r-supplements.webp",
+        "/Promolecules/inpower3/promolecules-inpower-r-supplements.webp",
+        "/Promolecules/inpower3/inpower-r-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/inpower3/inopower-r-ultra-high-stimulant-pre-workout.webp",
+      "keyBenefits": [
+        "Production d'énergie ATP",
+        "Endurance soutenue et constante",
+        "Aucune surcharge du système nerveux central",
+        "Aucune perturbation du sommeil",
+        "Réduction de la fatigue et meilleure récupération"
+      ],
+      "whychooseus": [
+        "De l'énergie sans stimulants",
+        "Soutient la performance cellulaire, pas seulement la vigilance",
+        "Idéal pour être cumulé avec des produits haute stimulation"
+      ],
+      "howToUse": "Prenez-le avant votre séance d'entraînement pour soutenir la performance et la préparation physique. Il peut être utilisé quotidiennement selon vos objectifs sportifs. Vous pouvez l'associer à d'autres compléments pré-entraînement pour des résultats accrus ou l'utiliser seul pour une approche plus simple.",
+      "whatToAvoid": [
+        "Ne pas s'attendre à un « coup de fouet » de type stimulant",
+        "Éviter le surdosage"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Jason Miller",
+          "country": "États-Unis",
+          "des": "Ce que j'aime chez INOPOWER-R, c'est cette énergie propre. Pas de pic de caféine, juste une endurance régulière pendant les longues séances d'hypertrophie."
+        },
+        {
+          "id": 2,
+          "name": "Rahul Verma",
+          "country": "Inde",
+          "des": "Utilisé avant une séance dos, j'ai remarqué que je me fatiguais moins entre les séries. L'énergie semblait naturelle, sans surstimulation."
+        },
+        {
+          "id": 3,
+          "name": "Daniel Kovacs",
+          "country": "Hongrie",
+          "des": "Étant sensible aux stimulants, c'est exactement ce qu'il me fallait. Un soutien ATP sans surcharge de caféine."
+        },
+        {
+          "id": 4,
+          "name": "Arjun Mehta",
+          "country": "Inde",
+          "des": "Associé à ma formule congestion, le gain d'endurance était flagrant. J'ai terminé mon entraînement sans me sentir vidé."
+        },
+        {
+          "id": 5,
+          "name": "Carlos Rivera",
+          "country": "Mexique",
+          "des": "Bon soutien énergétique pendant l'effort. Les muscles fatiguent moins vite lors des séances à haut volume."
+        },
+        {
+          "id": 6,
+          "name": "Sandeep Rawat",
+          "country": "Inde",
+          "des": "S'entraîner tard le soir était compliqué à cause de la caféine. Ce produit donne de l'énergie sans nuire au sommeil."
+        },
+        {
+          "id": 7,
+          "name": "Oliver Grant",
+          "country": "Royaume-Uni",
+          "des": "Parfait pour les athlètes qui veulent un soutien à la performance tout en évitant les produits très stimulants."
+        },
+        {
+          "id": 8,
+          "name": "Imran Khan",
+          "country": "Pakistan",
+          "des": "L'endurance pendant le jour des jambes s'est améliorée. La récupération entre les séries semble plus rapide."
+        },
+        {
+          "id": 9,
+          "name": "Ryan Brooks",
+          "country": "États-Unis",
+          "des": "Un vrai booster d'ATP propre. L'énergie reste stable tout au long de la séance."
+        },
+        {
+          "id": 10,
+          "name": "Vikas Chauhan",
+          "country": "Inde",
+          "des": "Idéal pour ceux qui s'entraînent deux fois par jour. Pas de surstimulation, juste une énergie constante."
+        },
+        {
+          "id": 11,
+          "name": "Mateo Gonzalez",
+          "country": "Espagne",
+          "des": "Mes séances de cardio semblent plus longues et plus fluides avec ce produit."
+        },
+        {
+          "id": 12,
+          "name": "Aman Singh",
+          "country": "Inde",
+          "des": "Complément parfait pour les entraînements d'endurance."
+        },
+        {
+          "id": 13,
+          "name": "Daniel Park",
+          "country": "Corée du Sud",
+          "des": "La concentration reste stable sans la nervosité de la caféine."
+        },
+        {
+          "id": 14,
+          "name": "Victor Petrov",
+          "country": "Bulgarie",
+          "des": "Combiné à mon pré-workout, mon endurance s'est nettement améliorée."
+        },
+        {
+          "id": 15,
+          "name": "Aditya Sharma",
+          "country": "Inde",
+          "des": "La fatigue musculaire semble réduite sur les séries longues."
+        },
+        {
+          "id": 16,
+          "name": "Nathan Hughes",
+          "country": "Royaume-Uni",
+          "des": "Bon soutien énergétique sans aucun stimulant."
+        },
+        {
+          "id": 17,
+          "name": "Miguel Santos",
+          "country": "Portugal",
+          "des": "On ressent davantage une énergie métabolique qu'une stimulation nerveuse."
+        },
+        {
+          "id": 18,
+          "name": "Rohit Chatterjee",
+          "country": "Inde",
+          "des": "Parfait avant de longues séances d'hypertrophie."
+        },
+        {
+          "id": 19,
+          "name": "Ethan Carter",
+          "country": "États-Unis",
+          "des": "Mon endurance sur les exercices de base s'est nettement améliorée."
+        },
+        {
+          "id": 20,
+          "name": "Harsh Gupta",
+          "country": "Inde",
+          "des": "Aide à tenir le rythme pendant les longues séances de musculation."
+        },
+        {
+          "id": 21,
+          "name": "Lucas Andrade",
+          "country": "Brésil",
+          "des": "Le soutien énergétique est fluide et naturel."
+        },
+        {
+          "id": 22,
+          "name": "Rajeev Menon",
+          "country": "Inde",
+          "des": "Idéal pour les personnes qui évitent la caféine."
+        },
+        {
+          "id": 23,
+          "name": "Kevin Larson",
+          "country": "Canada",
+          "des": "L'intensité d'entraînement reste stable du début à la fin."
+        },
+        {
+          "id": 24,
+          "name": "Karan Malhotra",
+          "country": "Inde",
+          "des": "Aide à réduire la fatigue lors des séances à haut volume."
+        },
+        {
+          "id": 25,
+          "name": "Omar Hassan",
+          "country": "Émirats arabes unis",
+          "des": "Bonne formule énergétique facile à combiner."
+        },
+        {
+          "id": 26,
+          "name": "George Adams",
+          "country": "Royaume-Uni",
+          "des": "Fonctionne très bien pour les athlètes d'endurance."
+        },
+        {
+          "id": 27,
+          "name": "Akash Sharma",
+          "country": "Inde",
+          "des": "Parfait pour les séances tard le soir."
+        },
+        {
+          "id": 28,
+          "name": "Victor Cruz",
+          "country": "Chili",
+          "des": "Améliore l'endurance pendant l'effort."
+        },
+        {
+          "id": 29,
+          "name": "Daniel Novak",
+          "country": "Slovaquie",
+          "des": "Soutien énergétique ATP pur et efficace."
+        },
+        {
+          "id": 30,
+          "name": "Rakesh Kumar",
+          "country": "Inde",
+          "des": "Excellent complément énergétique sans stimulants."
+        }
+      ],
+      "supplementFacts": {
+        "servingSize": "1 Dose (30 g)",
+        "servingsPerContainer": "30",
+        "nutrients": [
+          {
+            "name": "Calories",
+            "amount": "120"
+          },
+          {
+            "name": "Protéines",
+            "amount": "24 g"
+          },
+          {
+            "name": "Glucides",
+            "amount": "3 g"
+          },
+          {
+            "name": "Lipides",
+            "amount": "1,5 g"
+          },
+          {
+            "name": "BCAA",
+            "amount": "5,5 g"
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "slug": "hydrapump",
+      "amazonLink": "https://www.amazon.in/Promolecules-Hydrapump-Hydration-Liquid-Supplement/dp/B0GTZNK5S2?ref_=ast_sto_dp&th=1",
+      "flipkartLink": "https://www.flipkart.com/promolecules-hydrapump-glycerol-liquid-pump-formula-muscle-hydration-x8tra-pump-blue-razz/p/itmd011fb75cb0b6?pid=VSLHHTAFXEEUHHUR&lid=LSTVSLHHTAFXEEUHHURKWWDS7&marketplace=FLIPKART&q=hydrapump+&store=search.flipkart.com&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_PY9yFY_mB0KHONWq8Wi1BwXjKQ7VYSMxYuKEM-VXvuhNy2Iz-vX5smQcoVfLgZm-vO8dbutioUNXCOlK0Rb8vw%3D%3D&ppt=sp&ppn=sp&ssid=6236rbg3xc0000001779782357625&qH=0496b440042c8a8a&ov_redirect=true&ov_redirect=true",
+      "cost2cost": "https://www.cost2costsupplement.com/products/hydrapump-muscle-fullness-vascularity-hydration-endurance-strength-performance",
+      "name": "HYDRAPUMP+",
+      "category": "MUSCLE HYDRATION",
+      "title": "Formule avancée d'hydratation et de congestion qui améliore le volume musculaire, l'endurance et la performance à chaque séance. Hydratez plus en profondeur. Congestionnez plus fort.",
+      "description": "HYDRAPUMP+™ est une matrice haute performance d'hydratation et de congestion conçue pour maximiser le volume musculaire, la vascularisation et l'endurance. Avec du glycérol liquide et des électrolytes, il assure une hydratation cellulaire profonde et des congestions intenses — particulièrement lors d'entraînements à haut volume ou par temps chaud.",
+      "seo": {
+        "title": "HydraPump+ – Maximisez Congestion, Hydratation & Performance | Promolecules™",
+        "description": "Maximisez vos congestions musculaires et votre hydratation avec HydraPump+ par Promolecules™. Formule avancée au glycérol, citrulline et électrolytes pour l'endurance et la récupération.",
+        "canonical": "https://www.promolecules.com/product/hydrapump/",
+        "og": {
+          "title": "HydraPump+ | Congestions Extrêmes, Hydratation & Performance",
+          "type": "website",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "locale": "AE-DU",
+          "site_name": "Promolecules",
+          "description": "Débloquez des congestions intenses, une hydratation optimale et une endurance accrue avec HydraPump+. Propulsé par le glycérol, la citrulline et les électrolytes.",
+          "url": "https://www.promolecules.com/product/hydrapump/"
+        },
+        "author": "Promolecules",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "Dubaï"
+        },
+        "language": "fr",
+        "robots": "index,follow",
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "Promolecules",
+          "title": "HydraPump+ | Formule Congestion Maximale & Hydratation",
+          "description": "Entraînez-vous plus dur avec une meilleure congestion, hydratation et endurance. HydraPump+ est conçu pour les athlètes sérieux.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp"
+        },
+        "ldjson": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Promolecules",
+          "url": "https://www.promolecules.com/product/hydrapump/",
+          "logo": "https://www.promolecules.com/promolecules-logo.webp",
+          "sameAs": [
+            "https://www.instagram.com/promolecules/",
+            "https://www.threads.com/@promolecules",
+            "https://x.com/promolecules",
+            "https://in.pinterest.com/promolecules/",
+            "https://www.youtube.com/@Promolecules",
+            "https://www.facebook.com/promolecules.official"
+          ],
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "contactType": "service client",
+              "email": "contact@promolecules.com"
+            }
+          ]
+        }
+      },
+      "servings": [
+        {
+          "size": "35",
+          "price": 48.99
+        },
+        {
+          "size": "65",
+          "price": 59.99
+        }
+      ],
+      "variants": [
+        {
+          "flavour": "Mojito Menthe",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/mintmojito.jpeg"
+        },
+        {
+          "flavour": "Framboise Bleue",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/bluerazz.webp"
+        },
+        {
+          "flavour": "Bubble-Gum",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/bubblegumhydra.webp"
+        },
+        {
+          "flavour": "Limonade Cerise",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/cherrylemon.webp"
+        },
+        {
+          "flavour": "Cola",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/cola.webp"
+        },
+        {
+          "flavour": "Raisin Juteux",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/juicygrapes.webp"
+        },
+        {
+          "flavour": "Mangue-Ananas",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/mangopineapple.webp"
+        },
+        {
+          "flavour": "Orange",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/oranges.webp"
+        },
+        {
+          "flavour": "Punch aux Fruits",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/fruitpunch.webp"
+        },
+        {
+          "flavour": "Pomme Acidulée",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/SOURAPPLE.webp"
+        },
+        {
+          "flavour": "Fraise",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/strawberry.webp"
+        }
+      ],
+      "price": "43",
+      "discounted": "41.2",
+      "images": [
+        "/Promolecules/hydrapump2/promolecules-hydrapump+.webp",
+        "/Promolecules/hydrapump2/promolecules-hydrapump+-pre-workout.webp",
+        "/Promolecules/hydrapump2/hydrapump1.webp",
+        "/Promolecules/hydrapump2/hydrapump-supplements-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/hydrapump2/hydrapump-liquid-glycerol.webp",
+      "keyBenefits": [
+        "Boost d'énergie extrême",
+        "Concentration ultra-précise",
+        "Force accrue",
+        "Endurance et résistance améliorées",
+        "Soutient l'endurance",
+        "Aide à améliorer les performances à l'entraînement"
+      ],
+      "whychooseus": [
+        "Système de glycérol liquide (meilleure absorption)",
+        "Pas seulement une congestion — un système complet d'hydratation et de performance"
+      ],
+      "howToUse": "À prendre avant votre entraînement ; peut être combiné avec n'importe quel pré-entraînement et s'avère idéal pour les séances longues ou à haut volume.",
+      "whatToAvoid": [
+        "Ne pas dépasser la dose recommandée",
+        "Éviter la sous-hydratation (boire suffisamment d'eau)"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Jake Reynolds",
+          "country": "États-Unis",
+          "des": "J'ai combiné Hydra Pump avec mon pré-entraînement et la vascularisation pendant la séance bras était folle."
+        },
+        {
+          "id": 2,
+          "name": "Rohit Sharma",
+          "country": "Inde",
+          "des": "Le volume musculaire pendant ma séance pectoraux est resté même après la fin de l'entraînement."
+        },
+        {
+          "id": 3,
+          "name": "Luis Garcia",
+          "country": "Espagne",
+          "des": "Le mécanisme d'hydratation se fait vraiment sentir. La congestion dure plus longtemps sans ballonnement."
+        },
+        {
+          "id": 4,
+          "name": "Arjun Bhatia",
+          "country": "Inde",
+          "des": "La congestion est dense plutôt que aqueuse."
+        },
+        {
+          "id": 5,
+          "name": "Daniel White",
+          "country": "Royaume-Uni",
+          "des": "Super formule congestion sans stimulants pour les entraînements du soir."
+        },
+        {
+          "id": 6,
+          "name": "Rahul Nair",
+          "country": "Inde",
+          "des": "Les muscles restent plus pleins tout au long de la séance."
+        },
+        {
+          "id": 7,
+          "name": "Victor Costa",
+          "country": "Brésil",
+          "des": "La congestion du jour des bras a duré presque une heure après l'entraînement."
+        },
+        {
+          "id": 8,
+          "name": "Karan Malhotra",
+          "country": "Inde",
+          "des": "Fonctionne parfaitement avec les pré-entraînements ultra-stimulants."
+        },
+        {
+          "id": 9,
+          "name": "Ahmed Karim",
+          "country": "Émirats arabes unis",
+          "des": "L'hydratation pendant les séances intenses est nettement améliorée."
+        },
+        {
+          "id": 10,
+          "name": "Chris Dawson",
+          "country": "États-Unis",
+          "des": "L'augmentation de la vascularisation était bien visible."
+        },
+        {
+          "id": 11,
+          "name": "Sahil Arora",
+          "country": "Inde",
+          "des": "Congestion ferme et maîtrisée."
+        },
+        {
+          "id": 12,
+          "name": "Mark Davies",
+          "country": "Royaume-Uni",
+          "des": "Formule combinable très efficace."
+        },
+        {
+          "id": 13,
+          "name": "Rajeev Singh",
+          "country": "Inde",
+          "des": "L'endurance musculaire sur les séries à haut volume s'est améliorée."
+        },
+        {
+          "id": 14,
+          "name": "Pedro Lopez",
+          "country": "Mexique",
+          "des": "Excellent produit congestion sans stimulants."
+        },
+        {
+          "id": 15,
+          "name": "Ankit Jain",
+          "country": "Inde",
+          "des": "Aide au volume musculaire pendant les séances d'hypertrophie."
+        },
+        {
+          "id": 16,
+          "name": "Tom Harris",
+          "country": "Australie",
+          "des": "L'une des meilleures formules d'hydratation et de congestion."
+        },
+        {
+          "id": 17,
+          "name": "Imran Siddiqui",
+          "country": "Pakistan",
+          "des": "Aucun ballonnement mais une forte congestion vasculaire."
+        },
+        {
+          "id": 18,
+          "name": "Aditya Raj",
+          "country": "Inde",
+          "des": "Parfait pour les entraînements axés sur la congestion."
+        },
+        {
+          "id": 19,
+          "name": "Carlos Silva",
+          "country": "Portugal",
+          "des": "Effet de plénitude musculaire très noticeable."
+        },
+        {
+          "id": 20,
+          "name": "Rahul Verghese",
+          "country": "Inde",
+          "des": "Aide énormément pendant les longues séances."
+        },
+        {
+          "id": 21,
+          "name": "Victor Sanchez",
+          "country": "Chili",
+          "des": "Super complément à combiner en pré-entraînement."
+        },
+        {
+          "id": 22,
+          "name": "Arvind Kumar",
+          "country": "Inde",
+          "des": "La congestion reste constante au fil des séries."
+        },
+        {
+          "id": 23,
+          "name": "Ben Foster",
+          "country": "Royaume-Uni",
+          "des": "Bonne formule volumisante."
+        },
+        {
+          "id": 24,
+          "name": "Arjun Gupta",
+          "country": "Inde",
+          "des": "Fonctionne à merveille le jour des bras."
+        },
+        {
+          "id": 25,
+          "name": "Luis Andrade",
+          "country": "Brésil",
+          "des": "La synergie hydratation et congestion fonctionne très bien."
+        },
+        {
+          "id": 26,
+          "name": "Rahul Yadav",
+          "country": "Inde",
+          "des": "Bon boost de vascularisation."
+        },
+        {
+          "id": 27,
+          "name": "George Adams",
+          "country": "États-Unis",
+          "des": "Formule congestion propre et efficace."
+        },
+        {
+          "id": 28,
+          "name": "Rohit Chatterjee",
+          "country": "Inde",
+          "des": "Les muscles paraissent plus pleins pendant l'entraînement."
+        },
+        {
+          "id": 29,
+          "name": "Daniel Novak",
+          "country": "Slovaquie",
+          "des": "Excellente congestion sans stimulants."
+        },
+        {
+          "id": 30,
+          "name": "Akshay Mehta",
+          "country": "Inde",
+          "des": "Association parfaite avec les pré-entraînements haute stimulation."
+        }
+      ],
+      "supplementFacts": {
+        "servingSize": "1 Dose (30 g)",
+        "servingsPerContainer": "30",
+        "nutrients": [
+          {
+            "name": "Calories",
+            "amount": "120"
+          },
+          {
+            "name": "Protéines",
+            "amount": "24 g"
+          },
+          {
+            "name": "Glucides",
+            "amount": "3 g"
+          },
+          {
+            "name": "Lipides",
+            "amount": "1,5 g"
+          },
+          {
+            "name": "BCAA",
+            "amount": "5,5 g"
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "slug": "thermo-nuke-xt",
+      "name": "THERMO NUKE XT ",
+      "cost2cost": "https://www.cost2costsupplement.com/products/thermo-nuke-xt-advanced-thermogenic-formula-for-fast-fat-loss",
+      "category": "FAT BURNER",
+      "title": "Formule brûle-graisses puissante qui stimule le métabolisme, augmente la thermogenèse et maintient l'énergie élevée en période de sèche. Brûlez plus intensément. Devenez plus sec.",
+      "description": "THERMO NUKE XT™ est conçu pour augmenter le rendement métabolique, élever la température corporelle et accélérer l'oxydation des graisses tout en maintenant l'énergie et la concentration. Ce n'est pas un brûleur de graisses léger — il est conçu pour les phases de sèche, les cycles de définition musculaire et les objectifs de transformation sérieux.",
+      "seo": {
+        "title": "Thermo Nuke XT par Promolecules™ | Brûleur de Graisses Haute Stimulation",
+        "description": "Achetez Thermo Nuke XT par Promolecules™ – un brûleur de graisses hautement stimulant conçu pour booster le métabolisme, augmenter l'énergie et soutenir une perte de graisse rapide.",
+        "canonical": "https://www.promolecules.com/product/thermo-nuke-xt/",
+        "og": {
+          "title": "Thermo Nuke XT par Promolecules™ | Brûleur de Graisses Haute Stimulation",
+          "type": "website",
+          "image": "https://www.promolecules.com/product-image.webp",
+          "locale": "AE-DU",
+          "site_name": "Promolecules",
+          "description": "Brûleur de graisses haute stimulation pour booster le métabolisme, l'énergie et la perte de poids. Conçu pour des résultats visibles.",
+          "url": "https://www.promolecules.com/product/thermo-nuke-xt/"
+        },
+        "author": "Promolecules",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "Dubaï"
+        },
+        "language": "fr",
+        "robots": "index,follow",
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "Promolecules",
+          "title": "Thermo Nuke XT | Brûleur de Graisses Haute Stimulation par Promolecules™",
+          "description": "Stimulez votre métabolisme, brûlez les graisses plus vite et augmentez votre énergie avec Thermo Nuke XT.",
+          "image": "https://www.promolecules.com/product-image.webp"
+        },
+        "ldjson": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Promolecules",
+          "url": "https://www.promolecules.com/product/thermo-nuke-xt/",
+          "logo": "https://www.promolecules.com/logo.webp",
+          "sameAs": [
+            "https://www.instagram.com/promolecules/",
+            "https://www.threads.com/@promolecules",
+            "https://x.com/promolecules",
+            "https://in.pinterest.com/promolecules/",
+            "https://www.youtube.com/@Promolecules",
+            "https://www.facebook.com/promolecules.official"
+          ],
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "contactType": "service client",
+              "email": "contact@promolecules.com"
+            }
+          ]
+        }
+      },
+      "variants": [
+        {
+          "flavour": "Sans arôme",
+          "size": "60 gélules",
+          "price": 35.99,
+          "image": "/Promolecules/thermo/promolecules-thermo-nuke-xt.webp"
+        }
+      ],
+      "discounted": 41.2,
+      "images": [
+        "/Promolecules/thermo/promolecules-thermo-nuke-xt.webp",
+        "/Promolecules/thermo/thermo-nuke-xt-fat-burner.webp",
+        "/Promolecules/thermo/thermo-nuke-xt-fat-burning-capsules.webp",
+        "/Promolecules/thermo/thermo-nuke-xt-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/thermo/promolecules-thermo-nuke-xt-img.webp",
+      "servings": [
+        {
+          "size": "60 gélules",
+          "price": 35.99
+        }
+      ],
+      "keyBenefits": [
+        "Combustion accélérée des graisses",
+        "Activation de la chaleur thermogénique",
+        "Production d'énergie élevée",
+        "Aide à la suppression de l'appétit",
+        "Concentration accrue en période de sèche",
+        "Réduction de l'aspect de rétention d'eau"
+      ],
+      "whychooseus": [
+        "Système thermogénique multi-stimulants",
+        "Conçu pour des résultats visibles de perte de graisse",
+        "Pas uniquement à base de plantes — une véritable formule de performance"
+      ],
+      "howToUse": "Prenez une portion le matin, avec une deuxième portion facultative avant votre entraînement ; idéalement utilisé pendant les phases de déficit calorique.",
+      "whatToAvoid": [
+        "Éviter d'utiliser avec d'autres produits fortement stimulants",
+        "Ne pas prendre peu avant l'heure du coucher",
+        "Déconseillé aux personnes sensibles aux stimulants"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "David Coleman",
+          "country": "États-Unis",
+          "des": "Je l'utilise pendant ma sèche et la réponse thermogénique est bien visible. Les séances de cardio sont plus productives."
+        },
+        {
+          "id": 2,
+          "name": "Rajat Malhotra",
+          "country": "Inde",
+          "des": "Le cardio à jeun le matin semble plus facile. Le métabolisme reste actif toute la journée."
+        },
+        {
+          "id": 3,
+          "name": "Luis Martinez",
+          "country": "Espagne",
+          "des": "Les brûleurs de graisses fonctionnent rarement sur moi mais celui-ci augmente réellement la chaleur corporelle pendant l'effort."
+        },
+        {
+          "id": 4,
+          "name": "Mohit Yadav",
+          "country": "Inde",
+          "des": "L'énergie pendant le déficit calorique est son plus grand avantage."
+        },
+        {
+          "id": 5,
+          "name": "Alex Grant",
+          "country": "Royaume-Uni",
+          "des": "Effet thermogénique propre sans me rendre anxieux."
+        },
+        {
+          "id": 6,
+          "name": "Rahul Patil",
+          "country": "Inde",
+          "des": "Aide à maintenir l'intensité à l'entraînement même en plein régime."
+        },
+        {
+          "id": 7,
+          "name": "Daniel Perez",
+          "country": "Mexique",
+          "des": "La transpiration augmente nettement pendant les séances de cardio."
+        },
+        {
+          "id": 8,
+          "name": "Siddharth Jain",
+          "country": "Inde",
+          "des": "Le boost métabolique se fait vraiment sentir pendant le HIIT."
+        },
+        {
+          "id": 9,
+          "name": "Omar Ali",
+          "country": "Émirats arabes unis",
+          "des": "Aide à surmonter les journées de baisse d'énergie en sèche."
+        },
+        {
+          "id": 10,
+          "name": "Chris Walker",
+          "country": "États-Unis",
+          "des": "Agit comme un véritable accélérateur métabolique plutôt que de la simple caféine."
+        },
+        {
+          "id": 11,
+          "name": "Kunal Thakur",
+          "country": "Inde",
+          "des": "Contrôle de l'appétit et énergie propre pendant la préparation."
+        },
+        {
+          "id": 12,
+          "name": "Victor Santos",
+          "country": "Brésil",
+          "des": "Fonctionne très bien avant les séances de cardio."
+        },
+        {
+          "id": 13,
+          "name": "James Porter",
+          "country": "Royaume-Uni",
+          "des": "Brûleur de graisses propre sans nervosité excessive."
+        },
+        {
+          "id": 14,
+          "name": "Rohit Das",
+          "country": "Inde",
+          "des": "Aide à rester concentré tout en réduisant les calories."
+        },
+        {
+          "id": 15,
+          "name": "Carlos Rivera",
+          "country": "Mexique",
+          "des": "Chaleur thermogénique perceptible pendant les entraînements."
+        },
+        {
+          "id": 16,
+          "name": "Ahmed Farooq",
+          "country": "Émirats arabes unis",
+          "des": "Excellent complément pour l'entraînement matinal."
+        },
+        {
+          "id": 17,
+          "name": "Aditya Menon",
+          "country": "Inde",
+          "des": "L'énergie reste stable pendant la phase de régime."
+        },
+        {
+          "id": 18,
+          "name": "Mark Lewis",
+          "country": "Canada",
+          "des": "L'effet thermogénique est constant."
+        },
+        {
+          "id": 19,
+          "name": "Rahul Sinha",
+          "country": "Inde",
+          "des": "Aide à prolonger les séances de cardio."
+        },
+        {
+          "id": 20,
+          "name": "Jake Turner",
+          "country": "Australie",
+          "des": "Énergie métabolique propre."
+        },
+        {
+          "id": 21,
+          "name": "Arjun Patel",
+          "country": "Inde",
+          "des": "Bon soutien pour l'entraînement axé sur la perte de graisse."
+        },
+        {
+          "id": 22,
+          "name": "Daniel Costa",
+          "country": "Portugal",
+          "des": "Effet brûle-graisses perceptible pendant le cardio."
+        },
+        {
+          "id": 23,
+          "name": "Sahil Gupta",
+          "country": "Inde",
+          "des": "Fonctionne très bien en déficit calorique."
+        },
+        {
+          "id": 24,
+          "name": "George Ivanov",
+          "country": "Bulgarie",
+          "des": "Améliore le rendement à l'entraînement pendant la sèche."
+        },
+        {
+          "id": 25,
+          "name": "Naveen Kumar",
+          "country": "Inde",
+          "des": "Regain d'énergie sans coup de fatigue."
+        },
+        {
+          "id": 26,
+          "name": "Tom Hughes",
+          "country": "Royaume-Uni",
+          "des": "Formule thermogénique équilibrée."
+        },
+        {
+          "id": 27,
+          "name": "Imran Sheikh",
+          "country": "Pakistan",
+          "des": "Les séances de cardio sont plus productives."
+        },
+        {
+          "id": 28,
+          "name": "Miguel Lopez",
+          "country": "Espagne",
+          "des": "Énergie propre et augmentation de la transpiration."
+        },
+        {
+          "id": 29,
+          "name": "Akash Sharma",
+          "country": "Inde",
+          "des": "Utile pour la phase des graisses tenaces."
+        },
+        {
+          "id": 30,
+          "name": "Kevin Hall",
+          "country": "États-Unis",
+          "des": "L'un des meilleurs compléments thermogéniques que j'aie utilisés."
+        }
+      ]
+    }
+  ]
+}

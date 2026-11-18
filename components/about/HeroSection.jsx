@@ -2,8 +2,10 @@
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
+import { useT } from "@/lib/i18n/client";
 
 export default function HeroSection() {
+  const t = useT("about")["who-we-are"]?.hero || {};
   return (
     <section className="relative max-w-full mx-auto min-h-[50vh] lg:min-h-[100vh] pt-8 overflow-hidden">
       {/* Background Image */}
@@ -19,9 +21,9 @@ export default function HeroSection() {
         <Link href={"/about"}>
           <button
             className="w-9 h-9 sm:w-10 sm:h-10 rounded-full bg-red-600 flex items-center justify-center hover:bg-red-700 transition"
-            aria-label="Go back to about page"
+            aria-label={t.backButton}
           >
-            <ArrowLeft size={16} className="text-white" />
+            <ArrowLeft size={16} className="text-white rtl:rotate-180" />
           </button>
         </Link>
       </div>
@@ -37,18 +39,14 @@ export default function HeroSection() {
                        text-3xl sm:text-5xl md:text-7xl lg:text-8xl 
                        text-red-700 font-bold tracking-wide"
         >
-          WE ARE PROMOLECULES
+          {t.title}
         </h1>
 
         <p
           className="global-text-style
                       leading-relaxed"
         >
-          a performance-driven nutrition brand built for individuals who refuse
-          average. We exist to fuel ambition, unlock physical potential, and
-          support those who train with purpose, discipline, and intensity. Our
-          identity is rooted in science-backed formulations, premium-quality
-          ingredients, and a relentless focus on results.
+          {t.description}
         </p>
       </div>
       

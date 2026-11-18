@@ -1,0 +1,169 @@
+{
+  "page": {
+    "title": "Politique relative aux cookies",
+    "brand": "Promolecules™",
+    "lastUpdated": "10-02-2026",
+    "description": "Cette politique relative aux cookies explique comment Promolecules™ (« nous », « notre », « nos ») utilise les cookies et les technologies de suivi similaires sur son site web. En utilisant notre site web, vous consentez à l'utilisation des cookies conformément à la présente politique.",
+    "contactNotice": "Si vous avez des questions, vous pouvez nous contacter à l'adresse suivante :",
+    "contactEmail": "info@promolecules.com",
+    "lastUpdatedLabel": "Dernière mise à jour :"
+  },
+  "sections": [
+    {
+      "id": "what-are-cookies",
+      "eyebrow": "Les notions essentielles",
+      "title": "1. Que sont les cookies ?",
+      "content": [
+        "Les cookies sont de petits fichiers texte stockés sur votre appareil (ordinateur, téléphone portable ou tablette) lorsque vous consultez un site web. Ils contribuent à améliorer l'expérience utilisateur et permettent aux sites web de mémoriser vos actions ou vos préférences au fil du temps."
+      ]
+    },
+    {
+      "id": "types-of-cookies",
+      "eyebrow": "Tous les cookies ne sont pas identiques",
+      "title": "2. Types de cookies que nous utilisons",
+      "subsections": [
+        {
+          "title": "2.1 Cookies essentiels / strictement nécessaires",
+          "items": [
+            "Paiement sécurisé",
+            "Navigation sur le site",
+            "Connexion des utilisateurs",
+            "Fonctionnement du panier d'achat"
+          ],
+          "notice": "Sans ces cookies, certaines fonctionnalités peuvent ne pas fonctionner correctement."
+        },
+        {
+          "title": "2.2 Cookies de performance et d'analyse",
+          "intro": "Nous utilisons :",
+          "items": [
+            "Google Analytics",
+            "Pixel Meta (Facebook)"
+          ],
+          "collectIntro": "Ces outils collectent des informations telles que :",
+          "collectItems": [
+            "Pages consultées",
+            "Temps passé sur le site",
+            "Comportement lors des clics",
+            "Informations sur l'appareil et le navigateur"
+          ]
+        },
+        {
+          "title": "2.3 Cookies de préférences",
+          "items": [
+            "Préférences linguistiques",
+            "Région",
+            "Préférences de connexion",
+            "Produits consultés précédemment"
+          ]
+        },
+        {
+          "title": "2.4 Cookies publicitaires et de reciblage",
+          "intro": "Nos partenaires publicitaires peuvent inclure :",
+          "items": [
+            "Google Ads",
+            "Meta (Facebook et Instagram)",
+            "Autres plateformes de remarketing"
+          ],
+          "collectIntro": "Ces cookies :",
+          "collectItems": [
+            "Suivent votre activité de navigation",
+            "Affichent des publicités personnalisées",
+            "Vous présentent à nouveau des produits que vous avez consultés"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "third-party-cookies",
+      "eyebrow": "Au-delà de notre contrôle",
+      "title": "3. Cookies tiers",
+      "content": [
+        "Certains cookies peuvent être placés sur notre site web par des tiers, tels que :",
+        "Passerelles de paiement (Razorpay, PayPal)",
+        "Services d'analyse",
+        "Intégrations de réseaux sociaux",
+        "Plateformes publicitaires",
+        "Ces partenaires disposent de leurs propres politiques de confidentialité et politiques relatives aux cookies. Nous ne contrôlons pas les cookies tiers."
+      ]
+    },
+    {
+      "id": "why-we-use-cookies",
+      "eyebrow": "Objectif",
+      "title": "4. Pourquoi utilisons-nous des cookies ?",
+      "items": [
+        "Améliorer le fonctionnement du site web",
+        "Améliorer l'expérience d'achat",
+        "Analyser les performances du site web",
+        "Personnaliser les recommandations de produits",
+        "Garantir des paiements sécurisés",
+        "Mener des campagnes marketing et de reciblage",
+        "Suivre les conversions et le trafic du site web"
+      ]
+    },
+    {
+      "id": "how-to-control-cookies",
+      "eyebrow": "Votre choix",
+      "title": "5. Comment gérer les cookies",
+      "content": [
+        "Vous pouvez gérer ou désactiver les cookies dans les paramètres de votre navigateur :",
+        "Chrome : Paramètres → Confidentialité → Cookies",
+        "Safari : Préférences → Confidentialité",
+        "Firefox : Paramètres → Vie privée et sécurité",
+        "Edge : Paramètres → Cookies et autorisations de site",
+        "Si vous désactivez les cookies :"
+      ],
+      "consequences": [
+        "Certaines parties du site web peuvent ne pas fonctionner correctement",
+        "Vous pourriez ne pas être en mesure de finaliser vos achats",
+        "Les recommandations de produits que vous voyez pourraient être moins pertinentes"
+      ]
+    },
+    {
+      "id": "cookie-consent",
+      "eyebrow": "Conformité au RGPD",
+      "title": "6. Consentement aux cookies (conformité au RGPD)",
+      "items": [
+        "Une bannière de consentement aux cookies s'affichera",
+        "Vous pouvez choisir d'accepter, de refuser ou de personnaliser l'utilisation des cookies",
+        "Nous enregistrons vos préférences en matière de cookies conformément aux exigences du RGPD"
+      ]
+    },
+    {
+      "id": "data-collected",
+      "eyebrow": "Données suivies",
+      "title": "7. Données collectées par le biais des cookies",
+      "intro": "Les cookies peuvent collecter :",
+      "items": [
+        "Informations sur l'appareil",
+        "Type de navigateur",
+        "Pays/ville",
+        "Pages consultées",
+        "Habitudes d'interaction",
+        "URL de provenance",
+        "Adresse IP (anonymisée lorsque la loi l'exige)"
+      ],
+      "neverCollectTitle": "Nous ne collectons jamais :",
+      "neverCollect": [
+        "Les informations relatives aux cartes de paiement",
+        "Les informations personnelles sensibles"
+      ]
+    },
+    {
+      "id": "updates-to-policy",
+      "eyebrow": "Restez informé",
+      "title": "8. Mises à jour de cette politique",
+      "content": [
+        "Nous pouvons mettre à jour occasionnellement cette politique relative aux cookies. Les modifications seront indiquées par une nouvelle date de « Dernière mise à jour ». La poursuite de l'utilisation de notre site web signifie que vous acceptez ces modifications."
+      ]
+    },
+    {
+      "id": "contact-us",
+      "eyebrow": "Nous sommes là pour vous aider",
+      "title": "9. Contactez-nous",
+      "content": [
+        "Pour toute question concernant nos pratiques en matière de cookies, veuillez nous contacter à l'adresse suivante :"
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

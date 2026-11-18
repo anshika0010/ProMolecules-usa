@@ -1,0 +1,129 @@
+{
+  "page": {
+    "title": "Políticas Legais da Promolecules",
+    "subtitle": "Termos e Condições",
+    "lastUpdated": "10-11-2025",
+    "intro": "Bem-vindo à Promolecules. Ao acessar ou utilizar nosso site, você concorda em cumprir e estar sujeito aos seguintes Termos e Condições. Leia-os atentamente antes de utilizar nossos serviços.",
+    "lastUpdatedLabel": "Última atualização:"
+  },
+  "sections": [
+    {
+      "id": "general-use",
+      "eyebrow": "Antes de Começar",
+      "title": "1. Uso Geral",
+      "content": [
+        "Ao utilizar este site, você confirma que tem pelo menos 18 anos de idade ou que está acessando o site sob a supervisão de um dos pais ou responsável legal. Você concorda em utilizar este site somente para fins legais e de maneira que não viole nenhuma lei ou regulamentação aplicável."
+      ]
+    },
+    {
+      "id": "products-information",
+      "eyebrow": "O Que Você Compra",
+      "title": "2. Produtos e Informações",
+      "content": [
+        "Todos os produtos listados neste site são destinados exclusivamente a adultos saudáveis. As informações fornecidas têm finalidade meramente informativa e são voltadas ao desempenho esportivo, não devendo ser consideradas aconselhamento médico.",
+        "A Promolecules reserva-se o direito de modificar as formulações, descrições, preços e disponibilidade dos produtos a qualquer momento, sem aviso prévio."
+      ]
+    },
+    {
+      "id": "health-disclaimer",
+      "eyebrow": "Leia Atentamente",
+      "title": "3. Aviso Legal sobre Saúde e Informações Médicas",
+      "content": [
+        "Nossos produtos foram desenvolvidos para auxiliar no desempenho atlético e não se destinam a diagnosticar, tratar, curar ou prevenir qualquer doença. Antes de utilizar qualquer suplemento, especialmente se você tiver alguma condição médica preexistente, estiver grávida ou amamentando, ou estiver tomando medicamentos, consulte um profissional de saúde qualificado."
+      ]
+    },
+    {
+      "id": "orders-payments",
+      "eyebrow": "Condições de Compra",
+      "title": "4. Pedidos e Pagamentos",
+      "content": [
+        "Todos os pedidos realizados por meio do nosso site estão sujeitos à confirmação e à disponibilidade dos produtos. Reservamo-nos o direito de recusar ou cancelar qualquer pedido a nosso critério.",
+        "Os preços são exibidos na moeda aplicável e podem estar sujeitos a impostos, taxas de envio ou encargos alfandegários, dependendo da sua localização."
+      ]
+    },
+    {
+      "id": "shipping-delivery",
+      "eyebrow": "Recebendo Seu Pedido",
+      "title": "5. Envio e Entrega",
+      "content": [
+        "Os prazos de entrega são estimativas e podem variar de acordo com sua localização, os serviços da transportadora ou fatores externos. A Promolecules não se responsabiliza por atrasos causados por prestadores de serviços logísticos terceirizados."
+      ]
+    },
+    {
+      "id": "returns-refunds",
+      "eyebrow": "Se Algo Der Errado",
+      "title": "6. Devoluções e Reembolsos",
+      "content": [
+        "Devido à natureza dos produtos suplementares, não aceitamos devoluções de itens abertos ou utilizados. Reembolsos ou trocas são oferecidos somente quando os produtos recebidos estiverem danificados, apresentarem defeito ou forem incorretos.",
+        "As solicitações devem ser enviadas dentro do prazo especificado após a entrega."
+      ]
+    },
+    {
+      "id": "intellectual-property",
+      "eyebrow": "Propriedade e Direitos de Uso",
+      "title": "7. Propriedade Intelectual",
+      "content": [
+        "Todo o conteúdo disponível neste site, incluindo textos, imagens, logotipos, identidade visual e designs de produtos, pertence à Promolecules e está protegido pelas leis de propriedade intelectual aplicáveis.",
+        "É proibido reproduzir, distribuir ou utilizar qualquer conteúdo sem autorização prévia por escrito."
+      ]
+    },
+    {
+      "id": "limitation-of-liability",
+      "eyebrow": "Limites de Responsabilidade",
+      "title": "8. Limitação de Responsabilidade",
+      "content": [
+        "A Promolecules não será responsabilizada por quaisquer danos diretos, indiretos, incidentais ou consequenciais decorrentes do uso ou uso indevido de nossos produtos ou site.",
+        "A utilização de nossos produtos é inteiramente de sua própria escolha e responsabilidade."
+      ]
+    },
+    {
+      "id": "user-conduct",
+      "eyebrow": "Cumprimento das Regras",
+      "title": "9. Conduta do Usuário",
+      "content": [
+        "Você concorda em não utilizar o site de forma indevida, tentar obter acesso não autorizado, transmitir códigos maliciosos ou realizar qualquer atividade que possa comprometer o funcionamento ou a segurança da plataforma."
+      ]
+    },
+    {
+      "id": "third-party-links",
+      "eyebrow": "Ao Sair do Nosso Site",
+      "title": "10. Links de Terceiros",
+      "content": [
+        "Nosso site pode conter links para sites de terceiros. Não nos responsabilizamos pelo conteúdo, pelas políticas ou pelas práticas desses sites."
+      ]
+    },
+    {
+      "id": "privacy",
+      "eyebrow": "Como Tratamos Seus Dados",
+      "title": "11. Privacidade",
+      "content": [
+        "O uso deste site também é regido pela nossa Política de Privacidade. Ao utilizar o site, você concorda com a coleta e o uso de informações conforme descrito nessa política."
+      ]
+    },
+    {
+      "id": "changes-to-terms",
+      "eyebrow": "Mantenha-se Atualizado",
+      "title": "12. Alterações nos Termos e Condições",
+      "content": [
+        "A Promolecules reserva-se o direito de atualizar ou modificar estes Termos e Condições a qualquer momento. A continuidade do uso do site após a realização de alterações constitui sua aceitação dos termos atualizados."
+      ]
+    },
+    {
+      "id": "governing-law",
+      "eyebrow": "Jurisdição Legal",
+      "title": "13. Legislação Aplicável",
+      "content": [
+        "Estes Termos e Condições serão regidos e interpretados de acordo com as leis aplicáveis da jurisdição em que a Promolecules opera."
+      ]
+    },
+    {
+      "id": "contact-information",
+      "eyebrow": "Estamos Aqui para Ajudar",
+      "title": "14. Informações de Contato",
+      "content": [
+        "Se você tiver alguma dúvida sobre estes Termos e Condições, entre em contato conosco pelo seguinte endereço de e-mail:"
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "page": {
+    "title": "Penghantaran dan Pemulangan",
+    "intro": "Suplemen asli berkualiti tinggi dihantar dengan selamat terus ke pintu anda. Ketahui segala yang perlu anda tahu tentang tempoh pemprosesan, penjejakan penghantaran, penghantaran antarabangsa dan cara memulangkan pesanan anda."
+  },
+  "navigation": [
+    {
+      "id": "processing",
+      "label": "Pemprosesan Pesanan"
+    },
+    {
+      "id": "rates",
+      "label": "Kadar Penghantaran dan Penghantaran"
+    },
+    {
+      "id": "tracking",
+      "label": "Penjejakan Penghantaran"
+    },
+    {
+      "id": "quality",
+      "label": "Jaminan Kualiti"
+    },
+    {
+      "id": "damages",
+      "label": "Bungkusan Rosak dan Hilang"
+    },
+    {
+      "id": "address",
+      "label": "Alamat Tidak Tepat"
+    },
+    {
+      "id": "international",
+      "label": "Penghantaran Antarabangsa"
+    },
+    {
+      "id": "returns",
+      "label": "Pemulangan"
+    },
+    {
+      "id": "contact",
+      "label": "Hubungi Kami"
+    }
+  ],
+  "sections": [
+    {
+      "id": "processing",
+      "eyebrow": "Sebelum Kami Menghantar",
+      "title": "Tempoh Pemprosesan Pesanan",
+      "items": [
+        "Semua pesanan diproses dalam tempoh 1–3 hari bekerja.",
+        "Pesanan tidak dihantar atau diserahkan pada hujung minggu atau cuti umum.",
+        "Semasa tempoh jumlah pesanan yang tinggi, penghantaran mungkin tertangguh selama beberapa hari. Jika pesanan anda mengalami kelewatan yang ketara, kami akan menghubungi anda melalui e-mel atau telefon."
+      ]
+    },
+    {
+      "id": "rates",
+      "eyebrow": "Penghantaran kepada Anda",
+      "title": "Kadar Penghantaran dan Anggaran Tempoh Penghantaran",
+      "content": [
+        "Kami berbangga dapat menghantar pesanan dengan pantas supaya anda menerima suplemen tanpa kelewatan yang tidak perlu."
+      ],
+      "items": [
+        "Tempoh penghantaran standard: 2–5 hari bekerja.",
+        "Kos penghantaran dikira dan dipaparkan semasa pembayaran. Penghantaran standard juga percuma untuk pesanan yang layak dan melebihi jumlah minimum yang ditetapkan dalam mata wang tempatan.",
+        "Penghantaran kadangkala mungkin tertangguh disebabkan keadaan cuaca, masalah berkaitan pihak pengangkut atau tempoh cuti puncak."
+      ]
+    },
+    {
+      "id": "tracking",
+      "eyebrow": "Kekal Dimaklumkan",
+      "title": "Pengesahan Penghantaran dan Penjejakan Pesanan",
+      "content": [
+        "Setelah pesanan anda dihantar, anda akan menerima e-mel pengesahan penghantaran yang mengandungi nombor penjejakan. Nombor penjejakan akan diaktifkan dalam tempoh 24 jam, membolehkan anda menjejaki bungkusan sehingga ia diterima."
+      ]
+    },
+    {
+      "id": "quality",
+      "eyebrow": "Apa yang Anda Terima",
+      "title": "Jenama AS yang Dipercayai dan Jaminan Kualiti",
+      "content": [
+        "Kami mendapatkan produk secara langsung daripada jenama suplemen terkemuka di Amerika Syarikat. Setiap produk disimpan dalam persekitaran terkawal suhu sebelum dibungkus dan dihantar kepada anda bagi mengekalkan keberkesanan dan kesegaran yang maksimum."
+      ]
+    },
+    {
+      "id": "damages",
+      "eyebrow": "Jika Berlaku Masalah",
+      "title": "Bungkusan Rosak dan Hilang",
+      "content": [
+        "Promolecules tidak bertanggungjawab terhadap produk yang rosak atau hilang semasa proses penghantaran. Walau bagaimanapun, kami tetap mahu memastikan anda mendapat pengalaman yang positif.",
+        "Jika pesanan anda tiba dalam keadaan rosak, sila hubungi pihak pengangkut atau pasukan sokongan kami untuk membuat tuntutan.",
+        "Sila simpan semua bahan pembungkusan dan barangan yang rosak sehingga tuntutan anda diselesaikan sepenuhnya.",
+        "Untuk mendapatkan bantuan, hubungi kami melalui e-mel di info@promolecules.com."
+      ]
+    },
+    {
+      "id": "address",
+      "eyebrow": "Semak Semula Sebelum Melengkapkan Pembelian",
+      "title": "Alamat Penghantaran Tidak Tepat",
+      "content": [
+        "Pelanggan bertanggungjawab memberikan alamat penghantaran yang tepat semasa proses pembayaran. Promolecules tidak akan bertanggungjawab terhadap bungkusan yang dihantar ke alamat tidak tepat yang diberikan oleh pelanggan.",
+        "Jika bungkusan dipulangkan kepada kami disebabkan alamat yang tidak tepat, pelanggan bertanggungjawab membayar sebarang kos penghantaran tambahan yang diperlukan untuk menghantar semula pesanan tersebut."
+      ]
+    },
+    {
+      "id": "international",
+      "eyebrow": "Merentasi Sempadan",
+      "title": "Penghantaran Antarabangsa",
+      "content": [
+        "Kami juga menawarkan penghantaran antarabangsa. Tempoh penghantaran standard (2–5 hari) hanya terpakai untuk pesanan domestik. Penghantaran antarabangsa biasanya mengambil masa 7–21 hari bekerja.",
+        "Pesanan anda mungkin tertakluk kepada duti kastam dan cukai, termasuk Cukai Nilai Tambah (VAT), apabila tiba di negara destinasi. Promolecules tidak bertanggungjawab untuk membayar caj tersebut."
+      ]
+    },
+    {
+      "id": "returns",
+      "eyebrow": "Berubah Fikiran?",
+      "title": "Cara Memohon Pemulangan",
+      "steps": [
+        "Hubungi Kami — E-mel kepada info@promolecules.com dengan menyertakan nombor pesanan dan sebab pemulangan.",
+        "Terima Kelulusan — Setelah diluluskan, kami akan menghantar nombor Kebenaran Pemulangan Barangan (RMA) berserta arahan tentang tempat untuk menghantar bungkusan anda.",
+        "Bungkus dan Hantar — Bungkus barangan yang belum dibuka dengan cermat dan selamat, kemudian tulis nombor RMA dengan jelas pada bahagian luar bungkusan."
+      ],
+      "note": "Sila Ambil Perhatian: Kos penghantaran pemulangan ditanggung oleh pelanggan (melainkan pemulangan tersebut disebabkan oleh kesilapan kami), dan kos penghantaran tidak akan dikembalikan. Kami mengesyorkan penggunaan perkhidmatan penghantaran yang boleh dijejaki atau insurans penghantaran kerana kami tidak dapat menjamin penerimaan barangan yang dipulangkan."
+    },
+    {
+      "id": "contact",
+      "eyebrow": "Kami Sedia Membantu",
+      "title": "Ada Pertanyaan tentang Penghantaran Anda?",
+      "content": [
+        "Jika anda mempunyai sebarang pertanyaan atau kebimbangan tentang status penghantaran pesanan anda, pasukan khidmat pelanggan kami sedia membantu."
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

@@ -5,13 +5,9 @@ import Image from "next/image";
 import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { Search, SlidersHorizontal } from "lucide-react";
-import productsData from "@/data/productsdetail.json";
+import { useT } from "@/lib/i18n/client";
 
-const products = productsData.products;
-
-const categories = ["ALL","PRE-WORKOUT","FAT BURNER", "ATP BOOSTER", "MUSCLE HYDRATION"];
-
-function ProductCard({ product }) {
+function ProductCard({ product, t, categoryLabel }) {
   return (
     <div className="relative group">
       <div className="relative bg-[#0d0d0d] border border-white/5 group-hover:border-red-600/40 rounded-2xl overflow-hidden transition-all duration-500">
@@ -32,7 +28,7 @@ function ProductCard({ product }) {
         <div className="p-3 sm:p-4 md:p-5 space-y-2 sm:space-y-3">
           <div>
             <p className="text-gray-500 text-[10px] sm:text-xs tracking-widest mt-1 font-bold text-center uppercase">
-              {product.category}
+              {categoryLabel(product.category)}
             </p>
 
             <Link href={`/product/${product.slug}`}>
@@ -56,7 +52,7 @@ function ProductCard({ product }) {
 
             <Link href={`/product/${product.slug}`}>
               <button className="bg-red-600 hover:bg-red-500 text-white text-[10px] sm:text-xs font-black tracking-widest px-3 sm:px-4 py-2 rounded-xl transition-all active:scale-95 whitespace-nowrap">
-                View
+                {t.view}
               </button>
             </Link>
           </div>
@@ -66,7 +62,12 @@ function ProductCard({ product }) {
   );
 }
 
-export default function ProductListClient() {
+export default function ProductListClient({ products = [] }) {
+  const t = useT("product");
+  const categoryOptions = t.categories || [];
+  const categories = categoryOptions.map((c) => c.value);
+  const categoryLabel = (value) =>
+    categoryOptions.find((c) => c.value === value)?.label || value;
   const router = useRouter();
   const searchParams = useSearchParams();
 
@@ -133,7 +134,7 @@ export default function ProductListClient() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-10">
         {/* Heading */}
         <h1 className="text-center heading creepster-regular mb-8 sm:mb-12">
-          PRODUCTS
+          {t.heading}
         </h1>
 
         {/* Category Filters */}
@@ -149,7 +150,7 @@ export default function ProductListClient() {
                   : "border-white/10 text-gray-500 hover:border-red-600 hover:text-white"
               }`}
             >
-              {category}
+              {categoryLabel(category)}
             </button>
           ))}
         </div>
@@ -160,15 +161,15 @@ export default function ProductListClient() {
           <div className="relative flex-1 max-w-xs sm:max-w-sm">
             <Search
               size={14}
-              className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-500"
+              className="absolute start-3 top-1/2 -translate-y-1/2 text-gray-500"
             />
 
             <input
               type="text"
-              placeholder="SEARCH..."
+              placeholder={t.search}
               value={searchQuery}
               onChange={(event) => setSearchQuery(event.target.value)}
-              className="w-full bg-gray-800 border border-white/10 pl-8 pr-4 py-2 rounded-lg text-xs sm:text-sm outline-none focus:border-red-600/50 transition-colors placeholder:text-gray-600"
+              className="w-full bg-gray-800 border border-white/10 ps-8 pe-4 py-2 rounded-lg text-xs sm:text-sm outline-none focus:border-red-600/50 transition-colors placeholder:text-gray-600"
             />
           </div>
 
@@ -176,17 +177,17 @@ export default function ProductListClient() {
           <div className="relative">
             <SlidersHorizontal
               size={14}
-              className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-500 pointer-events-none"
+              className="absolute start-3 top-1/2 -translate-y-1/2 text-gray-500 pointer-events-none"
             />
 
             <select
               value={sortBy}
               onChange={(event) => setSortBy(event.target.value)}
-              className="bg-black border border-white/10 pl-8 pr-3 py-2 rounded-lg text-xs sm:text-sm appearance-none cursor-pointer focus:border-red-600/50 transition-colors"
+              className="bg-black border border-white/10 ps-8 pe-3 py-2 rounded-lg text-xs sm:text-sm appearance-none cursor-pointer focus:border-red-600/50 transition-colors"
             >
-              <option value="DEFAULT">SORT</option>
-              <option value="PRICE_LOW">LOW → HIGH</option>
-              <option value="PRICE_HIGH">HIGH → LOW</option>
+              <option value="DEFAULT">{t.sortOptions?.default}</option>
+              <option value="PRICE_LOW">{t.sortOptions?.priceLow}</option>
+              <option value="PRICE_HIGH">{t.sortOptions?.priceHigh}</option>
             </select>
           </div>
         </div>
@@ -195,11 +196,11 @@ export default function ProductListClient() {
         {filtered.length === 0 ? (
           <div className="text-center py-20">
             <p className="text-red-600 text-4xl font-black creepster-regular">
-              NO RESULTS
+              {t.noResults}
             </p>
 
             <p className="text-gray-600 text-sm mt-2 tracking-widest">
-              TRY A DIFFERENT SEARCH
+              {t.tryDifferentSearch}
             </p>
           </div>
         ) : (
@@ -209,6 +210,8 @@ export default function ProductListClient() {
               <ProductCard
                 key={product.id ?? product.slug}
                 product={product}
+                t={t}
+                categoryLabel={categoryLabel}
               />
             ))}
           </div>

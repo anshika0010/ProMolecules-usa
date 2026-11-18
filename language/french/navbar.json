@@ -1,0 +1,65 @@
+{
+  "navbar": {
+    "navigation_links": [
+      {
+        "label": "Accueil",
+        "href": "/"
+      },
+      {
+        "label": "Boutique",
+        "href": "/shop"
+      },
+      {
+        "label": "À propos de nous",
+        "href": "/about"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "Contactez-nous",
+        "href": "/contact-us"
+      }
+    ],
+    "logo_alt": "Logo Promolecules",
+    "accessibility_labels": {
+      "search_products": "Rechercher des produits",
+      "view_shopping_cart": "Voir le panier",
+      "close_menu": "Fermer le menu",
+      "open_menu": "Ouvrir le menu",
+      "close_cart": "Fermer le panier"
+    },
+    "mobile_drawer": {
+      "search": "Recherche",
+      "cart": "Panier"
+    },
+    "cart_drawer": {
+      "title": "Votre panier",
+      "working_heading": "Nous y travaillons",
+      "description": "Notre section panier est actuellement en cours de développement. Revenez bientôt — de belles nouveautés arrivent.",
+      "coming_soon": "Bientôt disponible",
+      "browse_shop": "Parcourir la boutique"
+    },
+    "preserved": {
+      "technical_code": "Conservez les composants React/Next.js, les hooks, Framer Motion, les icônes, les états, les gestionnaires d'événements, le comportement de défilement, les classes CSS et SearchModal sans modification. Traduisez uniquement les textes statiques visibles par les utilisateurs.",
+      "routes": [
+        "/",
+        "/shop",
+        "/about",
+        "/blog",
+        "/contact-us"
+      ],
+      "logo_image": "/promolecules-logo.webp",
+      "cart_status": "L'interface du panier affiche actuellement un message « En construction » ; conservez son comportement existant.",
+      "scroll_behavior": "Masquez la barre de navigation lorsque l'utilisateur fait défiler la page vers le bas de plus de 60 pixels, et affichez-la à nouveau lorsqu'il fait défiler la page vers le haut.",
+      "body_scroll_lock": "Verrouillez le défilement du corps de la page lorsque le panier ou le menu mobile est ouvert."
+    },
+    "country_selector": {
+      "button": "PAYS",
+      "aria_label": "Sélectionnez votre pays",
+      "search_placeholder": "Rechercher un pays...",
+      "no_results": "Aucun pays trouvé"
+    }
+  }
+}

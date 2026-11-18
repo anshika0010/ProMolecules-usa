@@ -1,0 +1,44 @@
+{
+  "footer": {
+    "section_headings": {
+      "disclaimer": "إخلاء المسؤولية",
+      "quick_links": "روابط سريعة",
+      "categories": "الفئات",
+      "contact": "تواصل"
+    },
+    "disclaimer": "مخصّص للرياضيين الجادّين والبالغين الأصحّاء فقط. صُمّمت منتجات Promolecules لدعم الأداء في التدريب، وليست بديلًا عن الاستشارة الطبية المتخصصة. استشر دائمًا مقدّم الرعاية الصحية قبل الاستخدام، خاصةً إذا كنت تعاني من أي حالة صحية.\nاستخدمه بمسؤولية. ابدأ بالحصص الموصى بها وقيّم مدى تحمّلك. لا تتجاوز الجرعة المقترحة.",
+    "quick_links": [
+      { "label": "من نحن", "href": "/about" },
+      { "label": "تواصل معنا", "href": "/contact-us" },
+      { "label": "المنتجات", "href": "/product" },
+      { "label": "المدونة", "href": "/blog" },
+      { "label": "الأسئلة الشائعة", "href": "/about/faq/" },
+      { "label": "محلي", "href": "/domestic" },
+      { "label": "دولي", "href": "/international" }
+    ],
+    "categories": [
+      { "label": "مكملات ما قبل التمرين", "href": "/high-stim-pre-workout/" },
+      { "label": "Father of Insane V.2", "href": "https://www.fatherofinsane.com/" },
+      { "label": "HYDRAPUMP", "href": "/hydrapump-liquid-glycerol-pre-workout-supplement/" },
+      { "label": "حارق الدهون", "href": "/product?category=FAT%20BURNER" },
+      { "label": "معزّز ATP", "href": "/product?category=ATP%20BOOSTER" },
+      { "label": "الملابس والمنتجات", "href": "/merch" }
+    ],
+    "contact": {
+      "email_label": "البريد الإلكتروني",
+      "email": "info@promolecules.com",
+      "social_links_label": "حساباتنا على وسائل التواصل",
+      "social_links": [
+        { "label": "إنستغرام", "href": "https://www.instagram.com/promolecules/" },
+        { "label": "فيسبوك", "href": "https://www.facebook.com/promolecules.official" },
+        { "label": "يوتيوب", "href": "https://www.youtube.com/@Promolecules" },
+        { "label": "بنترست", "href": "https://in.pinterest.com/promolecules/" }
+      ]
+    },
+    "brand_text": "PROMOLECULES",
+    "trademark": "TM",
+    "copyright": "©2026 PROMOLECULES™ جميع الحقوق محفوظة.",
+  
+    "scroll_to_top_aria_label": "العودة إلى الأعلى"
+  }
+}

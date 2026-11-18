@@ -1,0 +1,154 @@
+{
+  "merchPage": {
+    "hero": {
+      "titleLine1": "Kuasa Yang Boleh Anda",
+      "titleLine2": "Pakai",
+      "description": "Pakaian kecergasan premium yang dihasilkan untuk kekuatan dan ketahanan. Direka untuk mereka yang sentiasa melangkaui batas dan menuntut prestasi terbaik."
+    },
+    "products": [
+      {
+        "id": 1,
+        "name": "Father Of Insane Skell",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt1.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Kehabisan Stok",
+        "buttonText": "KEHABISAN STOK",
+        "availableButtonText": "LIHAT SEKARANG"
+      },
+      {
+        "id": 2,
+        "name": "Father Of Insane Fusion",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt2.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Kehabisan Stok",
+        "buttonText": "KEHABISAN STOK",
+        "availableButtonText": "LIHAT SEKARANG"
+      },
+      {
+        "id": 3,
+        "name": "Father Of Insane Nitro",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt3.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Kehabisan Stok",
+        "buttonText": "KEHABISAN STOK",
+        "availableButtonText": "LIHAT SEKARANG"
+      }
+    ],
+    "collection": {
+      "subtitle": "Gothik Gelap",
+      "heading": "Koleksi",
+      "description": "Koleksi gothik gelap bukan sekadar fesyen — ia merupakan pemberontakan dalam bentuk fabrik. Lahir daripada bayang-bayang, diinspirasikan oleh kekacauan dan direka untuk mereka yang menguasai kegelapan mereka sendiri.",
+      "buttonText": "Terokai Sekarang"
+    }
+  },
+  "productDetail": {
+    "productTitle": "RETURN OF INSANE SKULL",
+    "ratingAlt": "Penilaian",
+    "descriptionHeading": "PENERANGAN",
+    "description": "Dihasilkan untuk mereka yang memimpin, bukan mengikut orang lain. T-shirt kapas premium ini memberikan keselesaan luar biasa dengan reka bentuk yang berani dan penuh keyakinan.",
+    "colorLabel": "WARNA - HITAM",
+    "colorName": "Hitam",
+    "quantityLabel": "KUANTITI",
+    "price": "$49.00",
+    "oldPrice": "$50.00",
+    "nextImage": "Imej seterusnya",
+    "prevImage": "Imej sebelumnya"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Father Of Insane Skell",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt1.webp",
+      "link": "/merch/detailpage"
+    },
+    {
+      "id": 2,
+      "name": "Father Of Insane Fusion",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt2.webp",
+      "link": "/merch/detailpage"
+    },
+    {
+      "id": 3,
+      "name": "Father Of Insane Nitro",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt3.webp",
+      "link": "/merch/detailpage"
+    }
+  ],
+  "trendingCollection": {
+    "introText": "Kekal mendahului trend dengan reka bentuk berani, keselesaan premium dan gaya yang menyerlah. Dicipta untuk mereka yang bukan sekadar mengikuti fesyen — tetapi menciptanya.",
+    "heading": "T-Shirt Trending",
+    "subheading": "Koleksi",
+    "description": "Kekal mendahului trend dengan reka bentuk berani, keselesaan premium dan gaya yang menyerlah. Dicipta untuk mereka yang bukan sekadar mengikuti fesyen — tetapi menciptanya.",
+    "viewNow": "LIHAT SEKARANG"
+  },
+  "productInformation": {
+    "heading": "MAKLUMAT PRODUK",
+    "items": [
+      {
+        "title": "GAYA",
+        "content": "Potongan streetwear bersaiz besar dengan cetakan grafik tengkorak yang berani. Direka untuk penampilan yang menyerlah dan penuh keyakinan."
+      },
+      {
+        "title": "BAHAN & PENJAGAAN",
+        "content": "100% Kapas Premium. Basuh menggunakan mesin dengan air sejuk. Jangan gunakan peluntur. Seterika pada bahagian dalam."
+      },
+      {
+        "title": "UKURAN",
+        "content": "Tersedia dalam saiz S, M, L dan XL. Potongan longgar. Sila rujuk carta saiz untuk ukuran yang tepat."
+      },
+      {
+        "title": "CIRI-CIRI & SPESIFIKASI",
+        "content": "Cetakan skrin berkualiti tinggi, fabrik yang membolehkan pengudaraan, jahitan tahan lama dan reka bentuk tahan luntur."
+      }
+    ],
+    "headingFirst": "MAKLUMAT",
+    "headingSecond": "PRODUK"
+  },
+  "customerReviews": {
+    "heading": "ULASAN PELANGGAN",
+    "rating": "4.7",
+    "ratingAlt": "Penilaian bintang",
+    "basedOn": "Berdasarkan 98 penilaian",
+    "ratingSince": "Penilaian sejak 7 Disember 2025",
+    "topOtherBrand": "Jenama lain terkemuka dengan penilaian 4.2",
+    "starsLabel": "Bintang",
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 42
+      },
+      {
+        "stars": 4,
+        "count": 32
+      },
+      {
+        "stars": 3,
+        "count": 17
+      },
+      {
+        "stars": 2,
+        "count": 4
+      },
+      {
+        "stars": 1,
+        "count": 2
+      }
+    ],
+    "totalRatings": 98
+  }
+}

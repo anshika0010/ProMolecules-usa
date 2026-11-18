@@ -4,41 +4,17 @@ import { ArrowRight } from "lucide-react";
 import Link from "next/link";
 import { getSEOMetadata, getJSONLD } from "@/lib/seo";
 import Image from "next/image";
+import { getT } from "@/lib/i18n/server";
 
 export const metadata = getSEOMetadata("merch");
 
-const PowerYouCanWear = () => {
+const PowerYouCanWear = async () => {
   const jsonld = getJSONLD("merch");
 
-  const products = [
-    {
-      id: 1,
-      name: "Father Of Insane Skell",
-       price: "$ 49.00",
-      oldPrice: "$50.00",
-      image: "/tshirt1.webp",
-      link: "/merch/detailpage",
-      outOfStock: true 
-    },
-    {
-      id: 2,
-      name: "Father Of Insane Fusion",
-    price: "$ 49.00",
-      oldPrice: "$50.00",
-      image: "/tshirt2.webp",
-      link: "/merch/detailpage",
-      outOfStock: true 
-    },
-    {
-      id: 3,
-      name: "Father Of Insane Nitro",
-     price: "$ 49.00",
-      oldPrice: "$50.00",
-      image: "/tshirt3.webp",
-      link: "/merch/detailpage",
-      outOfStock: true 
-    },
-  ];
+  const m = (await getT("merch")).merchPage || {};
+  const hero = m.hero || {};
+  const col = m.collection || {};
+  const products = m.products || [];
 
   return (
     <>
@@ -58,15 +34,14 @@ const PowerYouCanWear = () => {
           <div className="max-w-lg">
             <h1 className="leading-none mb-6">
               <span className="block text-red-600 text-4xl md:text-6xl creepster-regular uppercase tracking-widest">
-                Power You Can
+                {hero.titleLine1}
               </span>
               <span className="block text-white text-5xl md:text-7xl creepster-regular uppercase">
-                Wear
+                {hero.titleLine2}
               </span>
             </h1>
             <p className="text-gray-400 text-xs md:text-sm uppercase tracking-wide">
-              Premium fitness apparel crafted for strength and durability.
-              Designed for those who push limits and demand performance.
+              {hero.description}
             </p>
           </div>
         </div>
@@ -98,7 +73,7 @@ const PowerYouCanWear = () => {
               <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
                 <div className="bg-black/70 backdrop-blur-sm border border-red-600 px-6 py-3 rounded-xl">
                   <span className="text-red-500 font-extrabold uppercase tracking-widest text-lg">
-                    Out of Stock
+                    {product.stockText}
                   </span>
                 </div>
               </div>
@@ -121,7 +96,7 @@ const PowerYouCanWear = () => {
               }`}
               disabled={product.outOfStock}
             >
-              {product.outOfStock ? "OUT OF STOCK" : "VIEW NOW"}
+              {product.outOfStock ? product.buttonText : product.availableButtonText}
             </button>
           </Link>
         </div>
@@ -135,22 +110,20 @@ const PowerYouCanWear = () => {
           <div className="hidden md:flex items-end justify-center">
             <Image src="/father-of-insane-fusion-merchboy.webp" alt="father-of-insane-fusion-merchboy" fill className="left-0 bottom-0 object-cover" />
           </div>
-          <div className="w-full md:w-1/2 max-w-xl ml-auto">
+          <div className="w-full md:w-1/2 max-w-xl ms-auto">
             <p className="text-white text-xl md:text-2xl creepster-regular uppercase tracking-widest mb-2">
-              Dark Gothic
+              {col.subtitle}
             </p>
             <h2 className="text-red-600 text-5xl md:text-7xl creepster-regular font-bold uppercase leading-none drop-shadow-[0_0_15px_rgba(255,0,0,0.8)]">
-              Collection
+              {col.heading}
             </h2>
             <p className="mt-6 text-gray-400 text-sm uppercase tracking-wide leading-relaxed max-w-md">
-              Dark gothic collection is not fashion — it's rebellion in fabric.
-              Born from shadows, inspired by chaos, and designed for those who
-              rule their own darkness.
+              {col.description}
             </p>
             <button className="group mt-8 flex items-center gap-4 border border-gray-600 rounded-full px-6 py-3 hover:border-red-600 transition duration-300">
-              <span className="uppercase text-sm tracking-widest">Explore Now</span>
+              <span className="uppercase text-sm tracking-widest">{col.buttonText}</span>
               <span className="w-10 h-10 flex items-center justify-center rounded-full border border-gray-600 group-hover:border-red-600 transition">
-                <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
+                <ArrowRight size={18} className="group-hover:translate-x-1 rtl:rotate-180 rtl:group-hover:-translate-x-1 transition-transform" />
               </span>
             </button>
           </div>

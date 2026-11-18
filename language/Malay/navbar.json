@@ -1,0 +1,65 @@
+{
+  "navbar": {
+    "navigation_links": [
+      {
+        "label": "Laman Utama",
+        "href": "/"
+      },
+      {
+        "label": "Kedai",
+        "href": "/shop"
+      },
+      {
+        "label": "Tentang Kami",
+        "href": "/about"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "Hubungi Kami",
+        "href": "/contact-us"
+      }
+    ],
+    "logo_alt": "Logo Promolecules",
+    "accessibility_labels": {
+      "search_products": "Cari Produk",
+      "view_shopping_cart": "Lihat Troli Beli-belah",
+      "close_menu": "Tutup Menu",
+      "open_menu": "Buka Menu",
+      "close_cart": "Tutup Troli Beli-belah"
+    },
+    "mobile_drawer": {
+      "search": "Cari",
+      "cart": "Troli Beli-belah"
+    },
+    "cart_drawer": {
+      "title": "Troli Beli-belah Anda",
+      "working_heading": "Kami Sedang Mengusahakannya",
+      "description": "Bahagian troli beli-belah kami masih dalam pembangunan. Kembali lagi tidak lama lagi — sesuatu yang menarik bakal tiba.",
+      "coming_soon": "Akan Datang",
+      "browse_shop": "Terokai Kedai"
+    },
+    "preserved": {
+      "technical_code": "Kekalkan komponen React/Next.js, hooks, Framer Motion, ikon, state, pengendali acara, tingkah laku skrol, kelas CSS dan SearchModal tanpa sebarang perubahan. Terjemahkan teks statik yang dipaparkan kepada pengguna sahaja.",
+      "routes": [
+        "/",
+        "/shop",
+        "/about",
+        "/blog",
+        "/contact-us"
+      ],
+      "logo_image": "/promolecules-logo.webp",
+      "cart_status": "Antara muka troli beli-belah pada masa ini memaparkan mesej 'Dalam Pembinaan'; kekalkan tingkah laku sedia ada.",
+      "scroll_behavior": "Sembunyikan bar navigasi apabila pengguna menatal ke bawah melebihi 60 piksel, dan paparkan semula apabila pengguna menatal ke atas.",
+      "body_scroll_lock": "Kunci skrol badan halaman apabila troli atau menu mudah alih dibuka."
+    },
+    "country_selector": {
+      "button": "NEGARA",
+      "aria_label": "Pilih negara anda",
+      "search_placeholder": "Cari negara...",
+      "no_results": "Tiada negara ditemui"
+    }
+  }
+}

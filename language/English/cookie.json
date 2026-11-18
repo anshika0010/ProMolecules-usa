@@ -1,0 +1,169 @@
+{
+  "page": {
+    "title": "Cookies Policy",
+    "brand": "Promolecules™",
+    "lastUpdated": "10-02-2026",
+    "description": "This Cookies Policy explains how Promolecules™ (\"we\", \"our\", \"us\") uses cookies and similar tracking technologies on our website. By using our website, you consent to the use of cookies as described in this policy.",
+    "contactNotice": "If you have any questions, you may contact us at:",
+    "contactEmail": "info@promolecules.com",
+    "lastUpdatedLabel": "Last Updated:"
+  },
+  "sections": [
+    {
+      "id": "what-are-cookies",
+      "eyebrow": "The Basics",
+      "title": "1. What Are Cookies?",
+      "content": [
+        "Cookies are small text files stored on your device (computer, mobile, or tablet) when you visit a website. They help improve user experience and allow websites to remember your actions or preferences over time."
+      ]
+    },
+    {
+      "id": "types-of-cookies",
+      "eyebrow": "Not All Cookies Are the Same",
+      "title": "2. Types of Cookies We Use",
+      "subsections": [
+        {
+          "title": "2.1 Essential / Strictly Necessary Cookies",
+          "items": [
+            "Secure checkout",
+            "Site navigation",
+            "User login",
+            "Shopping cart functionality"
+          ],
+          "notice": "Without these cookies, some features may not work properly."
+        },
+        {
+          "title": "2.2 Performance & Analytics Cookies",
+          "intro": "We use:",
+          "items": [
+            "Google Analytics",
+            "Meta (Facebook) Pixel"
+          ],
+          "collectIntro": "These tools collect information such as:",
+          "collectItems": [
+            "Pages visited",
+            "Time spent on the site",
+            "Click behavior",
+            "Device/browser information"
+          ]
+        },
+        {
+          "title": "2.3 Preference Cookies",
+          "items": [
+            "Language preferences",
+            "Region",
+            "Login preferences",
+            "Previously viewed products"
+          ]
+        },
+        {
+          "title": "2.4 Advertising & Retargeting Cookies",
+          "intro": "Our advertising partners may include:",
+          "items": [
+            "Google Ads",
+            "Meta (Facebook & Instagram)",
+            "Other remarketing platforms"
+          ],
+          "collectIntro": "These cookies:",
+          "collectItems": [
+            "Track browsing activity",
+            "Show personalized ads",
+            "Retarget you with products you have viewed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "third-party-cookies",
+      "eyebrow": "Beyond Our Control",
+      "title": "3. Third-Party Cookies",
+      "content": [
+        "Some cookies may be placed by third parties on our website, such as:",
+        "Payment gateways (Razorpay, PayPal)",
+        "Analytics services",
+        "Social media embeds",
+        "Advertising platforms",
+        "These partners have their own privacy and cookie policies. We do not control third-party cookies."
+      ]
+    },
+    {
+      "id": "why-we-use-cookies",
+      "eyebrow": "Purpose",
+      "title": "4. Why We Use Cookies",
+      "items": [
+        "Improve website functionality",
+        "Enhance the shopping experience",
+        "Analyze website performance",
+        "Personalize product recommendations",
+        "Provide secure payments",
+        "Run marketing and retargeting campaigns",
+        "Track conversions and website traffic"
+      ]
+    },
+    {
+      "id": "how-to-control-cookies",
+      "eyebrow": "Your Choice",
+      "title": "5. How to Control Cookies",
+      "content": [
+        "You can manage or disable cookies through your browser settings:",
+        "Chrome: Settings → Privacy → Cookies",
+        "Safari: Preferences → Privacy",
+        "Firefox: Settings → Privacy & Security",
+        "Edge: Settings → Cookies & Site Permissions",
+        "If you disable cookies:"
+      ],
+      "consequences": [
+        "Some parts of the website may not function properly",
+        "You may not be able to complete purchases",
+        "You may see less relevant product recommendations"
+      ]
+    },
+    {
+      "id": "cookie-consent",
+      "eyebrow": "GDPR Compliance",
+      "title": "6. Cookie Consent (GDPR Compliance)",
+      "items": [
+        "You will see a cookie consent banner",
+        "You may choose to Accept, Reject, or Customize cookie usage",
+        "We store your cookie preferences as required under GDPR"
+      ]
+    },
+    {
+      "id": "data-collected",
+      "eyebrow": "What Gets Tracked",
+      "title": "7. Data Collected Through Cookies",
+      "intro": "Cookies may collect:",
+      "items": [
+        "Device information",
+        "Browser type",
+        "Country/city",
+        "Pages viewed",
+        "Interaction patterns",
+        "Referring URLs",
+        "IP address (anonymized where required by law)"
+      ],
+      "neverCollectTitle": "We Never Collect:",
+      "neverCollect": [
+        "Payment card details",
+        "Sensitive personal information"
+      ]
+    },
+    {
+      "id": "updates-to-policy",
+      "eyebrow": "Staying Current",
+      "title": "8. Updates to This Policy",
+      "content": [
+        "We may update this Cookies Policy occasionally. Changes will be reflected with a new \"Last Updated\" date. Continued use of our website means you accept these changes."
+      ]
+    },
+    {
+      "id": "contact-us",
+      "eyebrow": "We're Here to Help",
+      "title": "9. Contact Us",
+      "content": [
+        "For questions about our cookie practices, please contact us at:"
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

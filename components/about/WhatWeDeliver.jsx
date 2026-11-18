@@ -1,28 +1,12 @@
 "use client";
 
 import Image from "next/image";
+import { useT } from "@/lib/i18n/client";
+import Highlight from "@/lib/i18n/Highlight";
 
 export default function WhatWeDeliver() {
-  const services = [
-    {
-      number: "1",
-      title: "Performance Nutrition Solutions",
-      desc: "We develop and deliver science-backed supplements focused on muscle growth & strength, energy, focus & endurance, and recovery. Each product is formulated for real training demands.with premium ingredients.",
-      image: "/promolecules-whatwedeliverim.webp",
-    },
-    {
-      number: "2",
-      title: "Research & Innovation",
-      desc: "Our team continuously studies emerging sports nutrition science to improve formulations. We embrace advanced ingredients, enhanced absorption, and innovation is at the core of everything we create.",
-      image: "/promolecules-whatwedeliverimg.webp",
-    },
-    {
-      number: "3",
-      title: "Athlete & Trainers Support",
-      desc: "We support athletes, coaches, and fitness professionals by providing trusted performance nutrition, goal-specific supplement guidance, and ongoing product updates.",
-      image: "/promolecules-what-we-deliverim.webp",
-    },
-  ];
+  const t = useT("about")["what-we-deliver"] || {};
+  const services = t.services || [];
 
   return (
     <>
@@ -33,13 +17,7 @@ export default function WhatWeDeliver() {
         <p className="max-w-5xl mx-auto 
           text-base xs:text-sm sm:text-sm md:text-sm lg:text-md 
           font-bold leading-relaxed uppercase">
-          Promolecules is built for{" "}
-          <span className="text-red-600">Individuals</span> who take their{" "}
-          <span className="text-red-600">Fitness Seriously</span>. We serve a
-          wide spectrum of people united by one goal —{" "}
-          <span className="text-red-600">Better Performance</span>{" "}
-          and{" "}
-          <span className="text-red-600">Real Results</span>.
+          <Highlight text={t.middleStatement} phrases={t.middleStatementHighlights} />
         </p>
       </div>
       </section>
@@ -47,15 +25,13 @@ export default function WhatWeDeliver() {
       {/* OUR SERVICES TITLE */}
       <div className="border-b border-gray-800 py-3 sm:py-4 w-full text-center px-4">
         <h3 className="creepster-regular heading">
-          <span className="text-white">OUR</span>{" "}
-          <span className="text-red-600">SERVICES</span>
+          <span className="text-white">{t.servicesHeading?.first}</span>{" "}
+          <span className="text-red-600">{t.servicesHeading?.second}</span>
         </h3>
 
         <p className="global-text-style mt-4 sm:mt-6 max-w-3xl mx-auto uppercase tracking-wide
           text-[5px] sm:text-xs md:text-base px-2">
-          At Promolecules, our services go beyond selling supplements. We provide
-          performance-driven nutrition solutions designed to support every
-          stage of your fitness journey.
+          {t.servicesDescription}
         </p>
       </div>
 
@@ -70,7 +46,7 @@ export default function WhatWeDeliver() {
         border-b border-gray-800
         transition-all duration-500
         hover:bg-gradient-to-b hover:from-red-950/60 hover:via-red-900/30 hover:to-transparent
-        ${index < services.length - 1 ? "md:border-r" : ""}
+        ${index < services.length - 1 ? "md:border-e" : ""}
       `}
     >
       {/* Number + Title */}

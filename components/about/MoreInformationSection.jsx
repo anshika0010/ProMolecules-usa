@@ -4,32 +4,13 @@ import { useState } from "react";
 import Image from "next/image";
 import { ArrowRight } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
+import { useT } from "@/lib/i18n/client";
 
-const infoData = [
-  {
-    title: "OUR IDENTITY",
-    content:
-      "Promolecules™ is a performance-driven supplement brand engineered for serious athletes who demand structured stimulation, measurable strength, and disciplined formulation. We specialize in bio-engineered high-stim systems designed for controlled neurological activation, sustained performance output, and uncompromising intensity across advanced training environments.",
-  },
-  {
-    title: "OUR MISSION",
-    content:
-      "Our mission is to eliminate under-dosed formulas and reckless stimulant overload by delivering precision-built performance systems. Promolecules™ creates intelligently balanced, high-impact supplements that enhance energy, focus, strength, and endurance while respecting long-term neurological stability and athlete progression.",
-  },
-  {
-    title: "OUR VISION",
-    content:
-      "Our vision is to redefine global performance nutrition by setting new standards in stimulant architecture, ingredient transparency, and functional formulation. Promolecules™ aims to become the benchmark for serious high-performance athletes seeking progression without compromise or marketing illusion.",
-  },
-  {
-    title: "WHY PROMOLECULES",
-    content:
-      "Because intensity without structure leads to burnout. Promolecules™ designs layered, performance-calibrated formulas that activate, sustain, and stabilize output. From ultra high-stim pre-workouts to endurance systems, every product is engineered for results-driven athletes who expect measurable dominance, not temporary hype.",
-  },
-];
 
 export default function MoreInformationSection() {
   const [activeIndex, setActiveIndex] = useState(0);
+  const t = useT("about")["who-we-are"]?.moreInformation || {};
+  const infoData = t.items || [];
 
   const toggleItem = (index) => {
     setActiveIndex(activeIndex === index ? null : index);
@@ -62,7 +43,7 @@ export default function MoreInformationSection() {
         {/* RIGHT CONTENT */}
         <div className="w-full lg:w-1/2 text-white">
           <h2 className="text-3xl sm:text-3xl md:text-5xl lg:text-6xl font-extrabold creepster-regular tracking-wide uppercase mb-8 sm:mb-10">
-            MORE INFORMATION
+            {t.heading}
           </h2>
           <div className="space-y-6">
             {infoData.map((item, index) => (
@@ -79,7 +60,7 @@ export default function MoreInformationSection() {
                     <ArrowRight
                       size={16}
                       className={`text-white transition-transform duration-300 
-                        ${activeIndex === index ? "rotate-90 text-red-600" : ""}`}
+                        ${activeIndex === index ? "rotate-90 text-red-600" : "rtl:rotate-180"}`}
                     />
                   </div>
                 </div>

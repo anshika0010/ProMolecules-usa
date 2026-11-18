@@ -1,0 +1,126 @@
+{
+  "page": {
+    "title": "Maxfiylik siyosati",
+    "brand": "Promolecules",
+    "lastUpdated": "10-11-2025",
+    "description": "Ushbu Maxfiylik siyosati Promolecules™ (\"Kompaniya\", \"biz\", \"bizning\") veb-saytimizga tashrif buyurganingizda yoki undan xarid qilganingizda shaxsiy ma’lumotlaringizni qanday to‘plashimiz, foydalanishimiz va himoya qilishimizni tushuntiradi. Ma’lumotlaringiz xavfsizligini ta’minlash uchun GDPR va CCPA standartlariga rioya qilamiz.",
+    "contactNotice": "Maxfiylik bilan bog‘liq savollaringiz bo‘lsa, quyidagi manzil orqali biz bilan bog‘laning:",
+    "contactEmail": "info@promolecules.com",
+    "lastUpdatedLabel": "Oxirgi yangilanish:"
+  },
+  "sections": [
+    {
+      "id": "who-we-are",
+      "eyebrow": "Biz haqimizda",
+      "title": "1. Biz kimmiz?",
+      "content": [
+        "Ro‘yxatdan o‘tgan nomi: Promolecules™. Biz xalqaro miqyosda mahsulot yetkazib beramiz. Ushbu siyosat barcha veb-sayt foydalanuvchilari va mijozlariga taalluqlidir."
+      ]
+    },
+    {
+      "id": "information-we-collect",
+      "eyebrow": "Biz to‘playdigan ma’lumotlar",
+      "title": "2. Biz qanday ma’lumotlarni to‘playmiz?",
+      "subsections": [
+        {
+          "title": "Shaxsiy ma’lumotlar:",
+          "items": [
+            "Ism, elektron pochta manzili, telefon raqami",
+            "Hisob-kitob va yetkazib berish manzili",
+            "Buyurtma tafsilotlari va so‘rovlar"
+          ]
+        },
+        {
+          "title": "Avtomatik ravishda to‘planadigan ma’lumotlar:",
+          "items": [
+            "IP-manzil, brauzer va qurilma ma’lumotlari",
+            "Tashrif buyurilgan sahifalar va saytda o‘tkazilgan vaqt",
+            "Cookie-fayllar va kuzatuv ma’lumotlari"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "how-we-use-your-data",
+      "eyebrow": "Maqsad",
+      "title": "3. Ma’lumotlaringizdan qanday foydalanamiz?",
+      "items": [
+        "Buyurtmalarni qayta ishlash va yetkazib berish",
+        "To‘lovlarni tasdiqlash (Razorpay, PayPal, yetkazib berishda naqd to‘lov)",
+        "Mijozlarga yordam ko‘rsatish",
+        "Sayt samaradorligini yaxshilash",
+        "Yangiliklar va aksiyalar haqida xabar yuborish",
+        "Firibgarlikning oldini olish va qonun talablariga rioya qilish"
+      ],
+      "note": "Eslatma: Biz sizning shaxsiy ma’lumotlaringizni hech qachon sotmaymiz."
+    },
+    {
+      "id": "cookies-tracking",
+      "eyebrow": "Kuzatuv texnologiyalari",
+      "title": "4. Cookie-fayllar va kuzatuv",
+      "content": [
+        "Veb-sayt funksiyalarini yaxshilash, foydalanuvchi tajribasini shaxsiylashtirish va samaradorlikni o‘lchash uchun cookie-fayllar hamda tahlil vositalaridan (Google va Meta) foydalanamiz. Istalgan vaqtda brauzer sozlamalari orqali cookie-fayllarni o‘chirib qo‘yishingiz mumkin."
+      ]
+    },
+    {
+      "id": "payments-sharing",
+      "eyebrow": "Uchinchi tomonlar",
+      "title": "5. To‘lovlar va ma’lumotlarni ulashish",
+      "content": [
+        "To‘lovlar Razorpay, PayPal yoki yetkazib berishda naqd to‘lov (COD) orqali xavfsiz tarzda amalga oshiriladi. Biz cheklangan hajmdagi ma’lumotlarni quyidagi tomonlar bilan ulashishimiz mumkin:"
+      ],
+      "items": [
+        "Yetkazib berish hamkori (DTDC)",
+        "To‘lov shlyuzlari",
+        "Tahlil vositalari (Google, Meta)"
+      ],
+      "notice": "Barcha hamkorlar qat’iy maxfiylik va ma’lumotlarni himoya qilish qoidalariga amal qiladi."
+    },
+    {
+      "id": "data-security",
+      "eyebrow": "Ma’lumotlaringizni himoya qilish",
+      "title": "6. Ma’lumotlar xavfsizligi",
+      "items": [
+        "SSL shifrlash va xavfsizlik devori himoyasi",
+        "Cheklangan kirish huquqi va xavfsiz serverlar",
+        "Tizimni muntazam kuzatib borish",
+        "Biz kuchli xavfsizlik choralarini ko‘rsak-da, internetdagi hech bir tizim 100% xavfsiz emas."
+      ]
+    },
+    {
+      "id": "your-rights",
+      "eyebrow": "GDPR va CCPA",
+      "title": "7. Sizning huquqlaringiz",
+      "content": [
+        "GDPR va CCPA talablariga muvofiq, siz ma’lumotlaringiz bilan tanishish, ularni tuzatish, o‘chirish yoki qayta ishlashni cheklashni so‘rashingiz mumkin. Shuningdek, roziligingizni qaytarib olishingiz yoki ma’lumotlarni ulashishdan bosh tortishingiz mumkin.",
+        "Ushbu huquqlaringizdan foydalanish uchun quyidagi manzil orqali bog‘laning:"
+      ],
+      "email": "info@promolecules.com"
+    },
+    {
+      "id": "marketing-communications",
+      "eyebrow": "Aloqada qolish",
+      "title": "8. Marketing va xabarlar",
+      "content": [
+        "Aloqa ma’lumotlaringizni taqdim etish orqali siz buyurtma yangilanishlari, yangi mahsulotlar taqdimoti va reklama takliflarini olishga rozilik bildirasiz. Istalgan vaqtda obunani bekor qilishingiz mumkin."
+      ]
+    },
+    {
+      "id": "childrens-privacy",
+      "eyebrow": "Yosh talabi",
+      "title": "9. Bolalarning maxfiyligi",
+      "content": [
+        "Veb-saytimiz va mahsulotlarimiz 18 yoshga to‘lmagan shaxslar uchun mo‘ljallanmagan. Biz voyaga yetmaganlarning ma’lumotlarini bila turib to‘plamaymiz."
+      ]
+    },
+    {
+      "id": "updates-contact",
+      "eyebrow": "Biz yordam berishga tayyormiz",
+      "title": "10. Yangilanishlar va aloqa",
+      "content": [
+        "Biz ushbu Maxfiylik siyosatini vaqti-vaqti bilan yangilashimiz mumkin. Saytimizdan foydalanishda davom etishingiz ushbu yangilanishlarni qabul qilganingizni anglatadi."
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

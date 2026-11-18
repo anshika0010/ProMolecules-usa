@@ -1,0 +1,52 @@
+{
+  "contactHero": {
+    "heading": { "first": "ابقَ على", "second": "تواصل" },
+    "email": "CONTACT@PROMOLECULES.COM",
+    "tagline": "لنصنع شيئًا مذهلًا، معًا",
+    "features": [
+      { "title": "القوة", "description": "مصمَّم لتعزيز الدافع العصبي ورفع الأداء العضلي." },
+      { "title": "التصميم", "description": "تركيبة مكوّنات مدروسة توازن مستوى التحفيز." },
+      { "title": "التطوير", "description": "مبني على أبحاث واختبارات تضع الأداء أولًا." }
+    ]
+  },
+  "contactForm": {
+    "leftSection": {
+      "heading": ["فقط", "أرسلها."],
+      "descriptions": [
+        "تواصل مع Promolecules™ للحصول على إرشادات حول المنتجات أو للتعاون.",
+        "راسلنا عبر البريد الإلكتروني أو منصاتنا الرسمية على وسائل التواصل."
+      ],
+      "phone": "+1 (786) 789-2121",
+      "email": "info@promolecules.com"
+    },
+    "form": {
+      "heading": "تواصل معنا",
+      "fields": {
+        "name": {
+          "label": "الاسم الكامل",
+          "placeholder": "أدخل اسمك",
+          "validation": { "required": "الاسم مطلوب", "letters_only": "يُسمح بالحروف فقط" }
+        },
+        "phone": {
+          "label": "رقم الهاتف",
+          "placeholder": "أدخل رقم هاتفك",
+          "validation": { "required": "رقم الهاتف مطلوب", "invalid": "أدخل رقم هاتف صحيحًا" }
+        },
+        "email": {
+          "label": "البريد الإلكتروني",
+          "placeholder": "أدخل بريدك الإلكتروني",
+          "validation": { "required": "البريد الإلكتروني مطلوب", "invalid": "عنوان البريد الإلكتروني غير صالح" }
+        },
+        "subject": {
+          "label": "الموضوع",
+          "placeholder": "اكتب رسالتك",
+          "validation": { "required": "الرسالة مطلوبة", "min_length": "يجب ألا تقل الرسالة عن 10 أحرف" }
+        }
+      },
+      "submit_button": "إرسال الرسالة"
+    },
+    "successPopup": { "heading": "تم إرسال الرسالة", "description": "شكرًا لك! سنتواصل معك قريبًا." },
+    "errorPopup": { "description": "حدث خطأ ما. يُرجى المحاولة مرة أخرى." }
+  },
+  "ctaSection": { "heading": { "first": "لنبدأ", "second": "العمل" } }
+}

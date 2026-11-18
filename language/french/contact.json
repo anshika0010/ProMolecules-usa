@@ -1,0 +1,90 @@
+{
+  "contactHero": {
+    "heading": {
+      "first": "Prenez contact",
+      "second": "Contact"
+    },
+    "email": "contact@promolecules.com",
+    "tagline": "Créons ensemble quelque chose d'extraordinaire",
+    "features": [
+      {
+        "title": "Puissance",
+        "description": "Conçu pour améliorer l'activation neuronale et augmenter les performances musculaires."
+      },
+      {
+        "title": "Conception",
+        "description": "Une composition structurée d'ingrédients avec une stimulation équilibrée."
+      },
+      {
+        "title": "Développement",
+        "description": "Fondé sur la recherche et les tests, avec la performance comme priorité."
+      }
+    ]
+  },
+  "contactForm": {
+    "component": "ContactForm",
+    "leftSection": {
+      "heading": [
+        "ENVOYEZ",
+        "VOTRE MESSAGE."
+      ],
+      "descriptions": [
+        "Contactez Promolecules™ pour obtenir des conseils sur nos produits et discuter de collaborations.",
+        "Retrouvez-nous par e-mail ou sur nos plateformes sociales officielles."
+      ],
+      "phone": "+1 (786) 789-2121",
+      "email": "info@promolecules.com"
+    },
+    "form": {
+      "heading": "Contactez-nous",
+      "fields": {
+        "name": {
+          "label": "NOM COMPLET",
+          "placeholder": "Saisissez votre nom",
+          "validation": {
+            "required": "Le nom est obligatoire",
+            "letters_only": "Seules les lettres sont autorisées"
+          }
+        },
+        "phone": {
+          "label": "NUMÉRO DE TÉLÉPHONE",
+          "placeholder": "Saisissez votre numéro de téléphone",
+          "validation": {
+            "required": "Le numéro de téléphone est obligatoire",
+            "invalid": "Saisissez un numéro de téléphone valide"
+          }
+        },
+        "email": {
+          "label": "E-MAIL",
+          "placeholder": "Saisissez votre adresse e-mail",
+          "validation": {
+            "required": "L'adresse e-mail est obligatoire",
+            "invalid": "Adresse e-mail invalide"
+          }
+        },
+        "subject": {
+          "label": "SUJET",
+          "placeholder": "Saisissez votre message",
+          "validation": {
+            "required": "Le message est obligatoire",
+            "min_length": "Le message doit contenir au moins 10 caractères"
+          }
+        }
+      },
+      "submit_button": "Envoyer le message"
+    },
+    "successPopup": {
+      "heading": "Message envoyé",
+      "description": "Merci ! Nous vous contacterons bientôt."
+    },
+    "errorPopup": {
+      "description": "Une erreur s'est produite. Veuillez réessayer."
+    }
+  },
+  "ctaSection": {
+    "heading": {
+      "first": "Commençons",
+      "second": "Collaborons"
+    }
+  }
+}

@@ -2,10 +2,8 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import productsData from "@/data/productsdetail.json";
 
-export default function MoreProducts() {
-  const products = productsData.products;
+export default function MoreProducts({ products = [], heading }) {
 
   return (
     <section className="bg-black text-white py-10 px-4">
@@ -13,7 +11,7 @@ export default function MoreProducts() {
 
         {/* Heading */}
         <h2 className="text-red-600 creepster-regular text-2xl sm:text-3xl md:text-4xl mb-6">
-          Don’t Miss Out – Shop & Save
+          {heading}
         </h2>
 
         {/* Product List */}

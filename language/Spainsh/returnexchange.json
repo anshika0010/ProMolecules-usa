@@ -1,0 +1,124 @@
+{
+  "page": {
+    "title": "Política de devoluciones y cambios",
+    "intro": "En Promolecules, nos comprometemos a ofrecerte suplementos de alta calidad desde los Emiratos Árabes Unidos. Si no estás completamente satisfecho con tu compra, estamos aquí para ayudarte. Lee atentamente nuestras políticas para conocer las opciones disponibles de devoluciones, cambios y reembolsos."
+  },
+  "navigation": [
+    {
+      "id": "window",
+      "label": "Plazo de devolución"
+    },
+    {
+      "id": "eligibility",
+      "label": "Requisitos para las devoluciones"
+    },
+    {
+      "id": "non-returnable",
+      "label": "Artículos no retornables"
+    },
+    {
+      "id": "defective",
+      "label": "Artículos defectuosos, dañados o incorrectos"
+    },
+    {
+      "id": "exchanges",
+      "label": "Cambios"
+    },
+    {
+      "id": "how-to",
+      "label": "Cómo solicitar una devolución"
+    },
+    {
+      "id": "refunds",
+      "label": "Reembolsos"
+    },
+    {
+      "id": "contact",
+      "label": "¿Necesitas ayuda?"
+    }
+  ],
+  "sections": [
+    {
+      "id": "window",
+      "eyebrow": "Actúa rápidamente",
+      "title": "Plazo de devolución",
+      "content": [
+        "Dispones de 7 días desde la fecha de entrega para devolver un artículo. Lamentablemente, si han transcurrido 7 días desde la entrega de tu pedido, no podremos ofrecerte un reembolso ni un cambio."
+      ]
+    },
+    {
+      "id": "eligibility",
+      "eyebrow": "Se aplican normas estrictas",
+      "title": "Requisitos para las devoluciones",
+      "content": [
+        "Debido a la naturaleza de los suplementos dietéticos y a las normativas de salud y seguridad, aplicamos directrices estrictas para los productos devueltos:",
+        "Sin abrir y precintado: El artículo debe estar sin usar, sin abrir y exactamente en las mismas condiciones en las que lo recibiste. El precinto de seguridad original debe estar completamente intacto.",
+        "Embalaje original: El artículo debe devolverse en su embalaje original.",
+        "Justificante de compra: Para devolver un artículo, se requiere un recibo o justificante de compra (número de pedido o correo electrónico de confirmación del pedido)."
+      ]
+    },
+    {
+      "id": "non-returnable",
+      "eyebrow": "Por motivos de salud y seguridad",
+      "title": "Artículos no retornables",
+      "content": [
+        "Por motivos de salud y seguridad, los siguientes artículos no se pueden devolver ni cambiar:",
+        "Productos que hayan sido abiertos, cuyo precinto de seguridad esté roto o que hayan sido utilizados.",
+        "Artículos marcados como \"Venta final\" o \"Liquidación\".",
+        "Tarjetas regalo."
+      ]
+    },
+    {
+      "id": "defective",
+      "eyebrow": "Si cometemos un error, lo solucionaremos",
+      "title": "Artículos defectuosos, dañados o incorrectos",
+      "content": [
+        "Si recibes un artículo defectuoso, dañado o incorrecto (por ejemplo, de una marca o sabor equivocado), ponte en contacto con nosotros en un plazo de 3 días desde la entrega.",
+        "Estaremos encantados de sustituir el artículo o emitir un reembolso completo sin ningún coste adicional para ti.",
+        "Envía un correo electrónico a info@promolecules.com con tu número de pedido y fotografías del producto dañado o incorrecto para que podamos resolver el problema lo antes posible."
+      ]
+    },
+    {
+      "id": "exchanges",
+      "eyebrow": "Cómo funcionan los cambios",
+      "title": "Cambios",
+      "content": [
+        "Solo cambiamos artículos si son defectuosos, están dañados o si te hemos enviado un producto equivocado.",
+        "Si has pedido accidentalmente el artículo equivocado y deseas cambiarlo por otro producto, debes devolver el artículo original sin abrir (siguiendo el proceso de devolución indicado a continuación) y realizar un nuevo pedido del producto que deseas."
+      ]
+    },
+    {
+      "id": "how-to",
+      "eyebrow": "Paso a paso",
+      "title": "Cómo solicitar una devolución",
+      "content": [
+        "Para iniciar el proceso de devolución, sigue estos pasos:",
+        "Ponte en contacto con nosotros: Envía un correo electrónico a nuestro equipo de atención al cliente a info@promolecules.com e incluye tu número de pedido y el motivo de la devolución.",
+        "Aprobación: Si se aprueba tu solicitud de devolución, te enviaremos un número de autorización de devolución de mercancía (RMA) e instrucciones sobre dónde enviar tu paquete.",
+        "Prepara y envía el paquete: Embala cuidadosamente y de forma segura los artículos sin abrir. Escribe claramente el número RMA en el exterior del paquete."
+      ],
+      "importantNote": "Nota importante: Eres responsable de pagar los gastos de envío de la devolución (salvo que esta se deba a un error nuestro). Los gastos de envío no son reembolsables. Recomendamos encarecidamente utilizar un servicio de envío con seguimiento o asegurar tu paquete, ya que no podemos garantizar que recibamos el artículo devuelto."
+    },
+    {
+      "id": "refunds",
+      "eyebrow": "Recibe tu dinero de vuelta",
+      "title": "Reembolsos",
+      "content": [
+        "Una vez que recibamos el artículo devuelto, nuestro equipo lo inspeccionará para comprobar que cumple nuestros criterios de devolución (sin abrir y precintado).",
+        "Te notificaremos el estado del reembolso inmediatamente después de inspeccionar el artículo.",
+        "Si se aprueba tu devolución, iniciaremos el reembolso a tu tarjeta de crédito (o al método de pago original).",
+        "Según las políticas del emisor de tu tarjeta, el importe se abonará en tu cuenta en un plazo de 5 a 10 días hábiles."
+      ],
+      "note": "Ten en cuenta: Los gastos de envío originales no son reembolsables y se descontarán del importe total de tu reembolso."
+    },
+    {
+      "id": "contact",
+      "eyebrow": "Estamos aquí para ayudarte",
+      "title": "¿Necesitas ayuda?",
+      "content": [
+        "Si tienes alguna pregunta sobre la devolución de tu artículo, ponte en contacto con nuestro equipo de atención al cliente."
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

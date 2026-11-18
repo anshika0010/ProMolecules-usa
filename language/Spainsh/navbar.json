@@ -1,0 +1,65 @@
+{
+  "navbar": {
+    "navigation_links": [
+      {
+        "label": "Inicio",
+        "href": "/"
+      },
+      {
+        "label": "Tienda",
+        "href": "/shop"
+      },
+      {
+        "label": "Sobre nosotros",
+        "href": "/about"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "Contáctanos",
+        "href": "/contact-us"
+      }
+    ],
+    "logo_alt": "Logotipo de Promolecules",
+    "accessibility_labels": {
+      "search_products": "Buscar productos",
+      "view_shopping_cart": "Ver carrito de compras",
+      "close_menu": "Cerrar menú",
+      "open_menu": "Abrir menú",
+      "close_cart": "Cerrar carrito de compras"
+    },
+    "mobile_drawer": {
+      "search": "Buscar",
+      "cart": "Carrito de compras"
+    },
+    "cart_drawer": {
+      "title": "Tu carrito de compras",
+      "working_heading": "Estamos trabajando en ello",
+      "description": "La sección del carrito de compras está actualmente en desarrollo. Vuelve pronto: ¡tenemos novedades emocionantes en camino!",
+      "coming_soon": "Próximamente",
+      "browse_shop": "Explorar la tienda"
+    },
+    "preserved": {
+      "technical_code": "Mantén sin cambios los componentes de React/Next.js, hooks, Framer Motion, iconos, estados, controladores de eventos, comportamiento del desplazamiento, clases CSS y SearchModal. Traduce únicamente el texto estático visible para los usuarios.",
+      "routes": [
+        "/",
+        "/shop",
+        "/about",
+        "/blog",
+        "/contact-us"
+      ],
+      "logo_image": "/promolecules-logo.webp",
+      "cart_status": "La interfaz del carrito de compras muestra actualmente un mensaje de «En construcción»; conserva su comportamiento actual.",
+      "scroll_behavior": "Oculta la barra de navegación al desplazarse hacia abajo más de 60 píxeles y vuelve a mostrarla al desplazarse hacia arriba.",
+      "body_scroll_lock": "Bloquea el desplazamiento del cuerpo de la página mientras el carrito o el menú móvil estén abiertos."
+    },
+    "country_selector": {
+      "button": "PAÍS",
+      "aria_label": "Selecciona tu país",
+      "search_placeholder": "Buscar país...",
+      "no_results": "No se encontró ningún país"
+    }
+  }
+}

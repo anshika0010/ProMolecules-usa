@@ -1,0 +1,91 @@
+{
+  "heading": "Produtos",
+  "categories": [
+    {
+      "value": "ALL",
+      "label": "Todos"
+    },
+    {
+      "value": "PRE-WORKOUT",
+      "label": "Pré-Treino"
+    },
+    {
+      "value": "FAT BURNER",
+      "label": "Queimador de Gordura"
+    },
+    {
+      "value": "ATP BOOSTER",
+      "label": "Potencializador de ATP"
+    },
+    {
+      "value": "MUSCLE HYDRATION",
+      "label": "Hidratação Muscular"
+    }
+  ],
+  "search": "Pesquisar...",
+  "sort": "Ordenar",
+  "sortOptions": {
+    "default": "Ordenar",
+    "priceLow": "Preço: do Menor para o Maior",
+    "priceHigh": "Preço: do Maior para o Menor"
+  },
+  "view": "Visualizar",
+  "noResults": "Nenhum resultado encontrado",
+  "tryDifferentSearch": "Tente usar outro termo de pesquisa",
+  "detail": {
+    "flavours": "SABORES",
+    "servings": "PORÇÕES",
+    "buyNowOn": "COMPRE AGORA NA",
+    "buyOn": "Comprar na",
+    "launchingSoon": "Em breve...",
+    "launchingSoonText": "Este produto estará disponível online em breve.",
+    "whatsappEarlyAccess": "Fale conosco no WhatsApp para acesso antecipado",
+    "supplementFacts": "Tabela nutricional",
+    "productAlt": "produto",
+    "thumbnailAlt": "miniatura",
+    "sections": {
+      "description": "DESCRIÇÃO",
+      "keyBenefits": "PRINCIPAIS BENEFÍCIOS",
+      "whyChooseUs": "POR QUE NOS ESCOLHER?",
+      "howToUse": "MODO DE USO",
+      "safetyInformation": "INFORMAÇÕES DE SEGURANÇA",
+      "whoShouldUse": "PARA QUEM É INDICADO"
+    },
+    "moreProductsHeading": "Não perca – compre e economize",
+    "notFound": "Produto não encontrado"
+  },
+  "faq": {
+    "badge": "Perguntas frequentes",
+    "heading": "Tudo o que você precisa saber sobre",
+    "description": "Encontre respostas para as perguntas mais comuns sobre ingredientes, uso, benefícios, segurança e desempenho."
+  },
+  "reviews": {
+    "heading": "AVALIAÇÕES DE CLIENTES",
+    "basedOn": "Com base em",
+    "review": "avaliação",
+    "reviews": "avaliações",
+    "averageRating": "Avaliação média dos clientes",
+    "star": "ESTRELA",
+    "stars": "ESTRELAS",
+    "viewMore": "VER MAIS...",
+    "noReviews": "Nenhuma avaliação encontrada para este produto."
+  },
+  "reviewModal": {
+    "heading": "Escrever uma avaliação",
+    "name": "Seu nome",
+    "email": "Seu e-mail",
+    "review": "Escreva sua avaliação...",
+    "submit": "Enviar avaliação",
+    "close": "Fechar"
+  },
+  "searchModal": {
+    "placeholder": "Buscar produtos...",
+    "typeToSearch": "Digite para buscar produtos",
+    "noResults": "Nenhum produto encontrado para",
+    "result": "resultado",
+    "results": "resultados",
+    "escToClose": "ESC para fechar",
+    "clear": "Limpar busca",
+    "close": "Fechar busca"
+  }
+}

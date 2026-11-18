@@ -1,0 +1,154 @@
+{
+  "merchPage": {
+    "hero": {
+      "titleLine1": "قدرتی که می‌توانید",
+      "titleLine2": "بپوشید",
+      "description": "پوشاک ورزشی ممتاز با کیفیت بالا که برای قدرت و دوام طراحی شده است. مناسب افرادی که محدودیت‌ها را پشت سر می‌گذارند و به دنبال بهترین عملکرد هستند."
+    },
+    "products": [
+      {
+        "id": 1,
+        "name": "Father Of Insane Skell",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt1.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "ناموجود",
+        "buttonText": "ناموجود",
+        "availableButtonText": "مشاهده محصول"
+      },
+      {
+        "id": 2,
+        "name": "Father Of Insane Fusion",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt2.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "ناموجود",
+        "buttonText": "ناموجود",
+        "availableButtonText": "مشاهده محصول"
+      },
+      {
+        "id": 3,
+        "name": "Father Of Insane Nitro",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt3.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "ناموجود",
+        "buttonText": "ناموجود",
+        "availableButtonText": "مشاهده محصول"
+      }
+    ],
+    "collection": {
+      "subtitle": "گوتیک تاریک",
+      "heading": "مجموعه",
+      "description": "مجموعه گوتیک تاریک فقط مد نیست؛ بلکه نوعی شورش در قالب پارچه است. الهام‌گرفته از سایه‌ها و آشوب، برای کسانی طراحی شده که بر دنیای تاریک خود فرمانروایی می‌کنند.",
+      "buttonText": "اکنون کاوش کنید"
+    }
+  },
+  "productDetail": {
+    "productTitle": "RETURN OF INSANE SKULL",
+    "ratingAlt": "امتیاز",
+    "descriptionHeading": "توضیحات",
+    "description": "برای کسانی طراحی شده که رهبری می‌کنند، نه کسانی که پیروی می‌کنند. این تی‌شرت پنبه‌ای ممتاز، راحتی بی‌نظیری را با طراحی جسورانه و قدرتمند ارائه می‌دهد.",
+    "colorLabel": "رنگ - مشکی",
+    "colorName": "مشکی",
+    "quantityLabel": "تعداد",
+    "price": "$49.00",
+    "oldPrice": "$50.00",
+    "nextImage": "تصویر بعدی",
+    "prevImage": "تصویر قبلی"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Father Of Insane Skell",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt1.webp",
+      "link": "/merch/detailpage"
+    },
+    {
+      "id": 2,
+      "name": "Father Of Insane Fusion",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt2.webp",
+      "link": "/merch/detailpage"
+    },
+    {
+      "id": 3,
+      "name": "Father Of Insane Nitro",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt3.webp",
+      "link": "/merch/detailpage"
+    }
+  ],
+  "trendingCollection": {
+    "introText": "با طراحی‌های جسورانه، راحتی ممتاز و سبک‌های خاص، همیشه یک قدم جلوتر از مد باشید. برای کسانی ساخته شده که از مد پیروی نمی‌کنند، بلکه آن را می‌سازند.",
+    "heading": "تی‌شرت‌های پرطرفدار",
+    "subheading": "مجموعه",
+    "description": "با طراحی‌های جسورانه، راحتی ممتاز و سبک‌های خاص، همیشه یک قدم جلوتر از مد باشید. برای کسانی ساخته شده که از مد پیروی نمی‌کنند، بلکه آن را می‌سازند.",
+    "viewNow": "اکنون مشاهده کنید"
+  },
+  "productInformation": {
+    "heading": "اطلاعات محصول",
+    "items": [
+      {
+        "title": "سبک طراحی",
+        "content": "برش آزاد و اورسایز با سبک پوشاک خیابانی و طرح گرافیکی جسورانه جمجمه. طراحی‌شده برای ظاهری قدرتمند و بااعتمادبه‌نفس."
+      },
+      {
+        "title": "جنس و نحوه نگهداری",
+        "content": "۱۰۰٪ پنبه ممتاز. با ماشین لباس‌شویی و آب سرد بشویید. از سفیدکننده استفاده نکنید. لباس را از پشت اتو کنید."
+      },
+      {
+        "title": "اندازه‌ها",
+        "content": "موجود در سایزهای S، M، L و XL. دارای برش آزاد و راحت. برای مشاهده اندازه‌های دقیق، به جدول سایزبندی مراجعه کنید."
+      },
+      {
+        "title": "ویژگی‌ها و مشخصات",
+        "content": "چاپ سیلک باکیفیت، پارچه تنفس‌پذیر، دوخت بادوام و طراحی مقاوم در برابر محو شدن رنگ."
+      }
+    ],
+    "headingFirst": "اطلاعات",
+    "headingSecond": "محصول"
+  },
+  "customerReviews": {
+    "heading": "نظرات مشتریان",
+    "rating": "4.7",
+    "ratingAlt": "امتیاز ستاره‌ای",
+    "basedOn": "بر اساس ۹۸ امتیاز",
+    "ratingSince": "امتیازدهی از ۷ دسامبر ۲۰۲۵",
+    "topOtherBrand": "میانگین امتیاز سایر برندها 4.2",
+    "starsLabel": "ستاره",
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 42
+      },
+      {
+        "stars": 4,
+        "count": 32
+      },
+      {
+        "stars": 3,
+        "count": 17
+      },
+      {
+        "stars": 2,
+        "count": 4
+      },
+      {
+        "stars": 1,
+        "count": 2
+      }
+    ],
+    "totalRatings": 98
+  }
+}

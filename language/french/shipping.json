@@ -1,0 +1,134 @@
+{
+  "page": {
+    "title": "Livraison et retours",
+    "intro": "Des compléments alimentaires authentiques et de haute qualité, livrés en toute sécurité à votre porte. Retrouvez toutes les informations concernant les délais de traitement, le suivi des expéditions, la livraison internationale et les modalités de retour de votre commande."
+  },
+  "navigation": [
+    {
+      "id": "processing",
+      "label": "Traitement des commandes"
+    },
+    {
+      "id": "rates",
+      "label": "Frais et délais de livraison"
+    },
+    {
+      "id": "tracking",
+      "label": "Suivi des expéditions"
+    },
+    {
+      "id": "quality",
+      "label": "Assurance qualité"
+    },
+    {
+      "id": "damages",
+      "label": "Colis endommagés ou perdus"
+    },
+    {
+      "id": "address",
+      "label": "Adresses incorrectes"
+    },
+    {
+      "id": "international",
+      "label": "Livraison internationale"
+    },
+    {
+      "id": "returns",
+      "label": "Retours"
+    },
+    {
+      "id": "contact",
+      "label": "Contactez-nous"
+    }
+  ],
+  "sections": [
+    {
+      "id": "processing",
+      "eyebrow": "Avant l'expédition",
+      "title": "Délai de traitement des commandes",
+      "items": [
+        "Toutes les commandes sont traitées dans un délai de 1 à 3 jours ouvrables.",
+        "Les commandes ne sont ni expédiées ni livrées les week-ends et les jours fériés.",
+        "Pendant les périodes de forte activité, les expéditions peuvent subir quelques jours de retard. Si votre commande connaît un retard important, nous vous contacterons par e-mail ou par téléphone."
+      ]
+    },
+    {
+      "id": "rates",
+      "eyebrow": "Votre commande jusqu'à votre porte",
+      "title": "Frais de livraison et délais estimés",
+      "content": [
+        "Nous sommes fiers de livrer vos commandes rapidement afin que vous puissiez recevoir vos compléments alimentaires sans retards inutiles."
+      ],
+      "items": [
+        "Délai de livraison standard : 2 à 5 jours ouvrables.",
+        "Les frais de livraison sont calculés et affichés au moment du paiement. La livraison standard est également gratuite pour les commandes éligibles dépassant le montant minimum spécifié dans la devise locale.",
+        "Les livraisons peuvent occasionnellement être retardées en raison des conditions météorologiques, de problèmes liés au transporteur ou des périodes de forte activité pendant les fêtes."
+      ]
+    },
+    {
+      "id": "tracking",
+      "eyebrow": "Restez informé",
+      "title": "Confirmation d'expédition et suivi de commande",
+      "content": [
+        "Une fois votre commande expédiée, vous recevrez un e-mail de confirmation d'expédition contenant votre numéro de suivi. Les numéros de suivi deviennent actifs dans les 24 heures, ce qui vous permet de suivre votre colis jusqu'à sa livraison."
+      ]
+    },
+    {
+      "id": "quality",
+      "eyebrow": "Ce que vous recevez",
+      "title": "Marques américaines de confiance et assurance qualité",
+      "content": [
+        "Nous nous approvisionnons directement auprès des principales marques de compléments alimentaires aux États-Unis. Chaque produit est conservé dans un environnement à température contrôlée avant d'être emballé et expédié afin de préserver au maximum son efficacité et sa fraîcheur."
+      ]
+    },
+    {
+      "id": "damages",
+      "eyebrow": "En cas de problème",
+      "title": "Colis endommagés ou perdus",
+      "content": [
+        "Promolecules n'est pas responsable des produits endommagés ou perdus pendant le transport. Cependant, nous souhaitons tout de même vous offrir une expérience positive.",
+        "Si votre commande arrive endommagée, veuillez contacter le transporteur ou notre équipe d'assistance afin de déposer une réclamation.",
+        "Veuillez conserver tous les matériaux d'emballage ainsi que les articles endommagés jusqu'à la résolution complète de votre réclamation.",
+        "Pour obtenir de l'aide, contactez-nous par e-mail à l'adresse info@promolecules.com."
+      ]
+    },
+    {
+      "id": "address",
+      "eyebrow": "Vérifiez avant de finaliser votre achat",
+      "title": "Adresses de livraison incorrectes",
+      "content": [
+        "Les clients sont responsables de fournir une adresse de livraison exacte au moment du paiement. Promolecules ne pourra être tenu responsable des colis livrés à une adresse incorrecte fournie par le client.",
+        "Si un colis nous est retourné en raison d'une adresse incorrecte, le client devra prendre en charge les frais de livraison supplémentaires nécessaires à la réexpédition de la commande."
+      ]
+    },
+    {
+      "id": "international",
+      "eyebrow": "Au-delà de nos frontières",
+      "title": "Livraison internationale",
+      "content": [
+        "Nous proposons également la livraison internationale. Les délais de livraison standard (2 à 5 jours) s'appliquent uniquement aux commandes nationales. Les expéditions internationales prennent généralement entre 7 et 21 jours ouvrables.",
+        "À son arrivée dans le pays de destination, votre commande peut être soumise à des droits de douane et à des taxes, notamment à la taxe sur la valeur ajoutée (TVA). Promolecules n'est pas responsable du paiement de ces frais."
+      ]
+    },
+    {
+      "id": "returns",
+      "eyebrow": "Vous avez changé d'avis ?",
+      "title": "Comment demander un retour",
+      "steps": [
+        "Contactez-nous — Envoyez un e-mail à info@promolecules.com en indiquant votre numéro de commande et le motif du retour.",
+        "Recevez l'approbation — Une fois votre demande approuvée, nous vous communiquerons un numéro d'autorisation de retour de marchandise (RMA), ainsi que les instructions concernant l'adresse à laquelle envoyer votre colis.",
+        "Emballez et expédiez — Emballez soigneusement et en toute sécurité les articles non ouverts, puis inscrivez clairement le numéro RMA à l'extérieur du colis."
+      ],
+      "note": "Veuillez noter : Les frais de retour sont à la charge du client (sauf si le retour résulte d'une erreur de notre part) et les frais d'expédition ne sont pas remboursables. Nous vous recommandons d'utiliser un service d'expédition avec suivi ou une assurance transport, car nous ne pouvons pas garantir la réception des articles retournés."
+    },
+    {
+      "id": "contact",
+      "eyebrow": "Nous sommes là pour vous aider",
+      "title": "Des questions concernant votre livraison ?",
+      "content": [
+        "Si vous avez des questions ou des préoccupations concernant le statut de livraison de votre commande, notre équipe d'assistance clientèle se fera un plaisir de vous aider."
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

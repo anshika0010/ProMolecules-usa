@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "title": "Father of Insane",
+      "image": "/father-of-insane-pre-workout-65-Servings.webp",
+      "price": "$1599",
+      "description": "Nitrox ilg‘or azot oksidi texnologiyasi yordamida portlovchi kuch va chidamlilikni oshiradi.",
+      "thumbnail": "/father-of-insane.webp",
+      "link": "/product/father-of-insane"
+    },
+    {
+      "title": "Warflex",
+      "image": "/warflex-pre-workout-35-Servings.webp",
+      "price": "$1899",
+      "description": "Haqiqiy natijalar uchun yaratilgan gibrid mashg‘ulotoldi qo‘shimchasi. Energiya, mushak pompasi va diqqatni birlashtiradi. Muvozanatli, yuqori stimulyatorli formula.",
+      "thumbnail": "/warflex-thumbnail.webp",
+      "link": "/product/warflex"
+    },
+    {
+      "title": "Inopower-R",
+      "image": "/promolecules-inpower-r.webp",
+      "price": "$2099",
+      "description": "Kofeinga qaramliksiz toza energiya. ATP energiya tizimiga asoslangan. Hujayra darajasida chidamlilikni qo‘llab-quvvatlaydi.",
+      "thumbnail": "/inpower.webp",
+      "link": "/product/inopower-r/"
+    },
+    {
+      "title": "Thermo Nuke XT",
+      "image": "/thermonuke.png",
+      "price": "$1799",
+      "description": "Jiddiy yog‘ yo‘qotish bosqichlari uchun yaratilgan. Faqat stimulyatsiyaga emas, balki metabolizmga ta’sir qiladi. Tana haroratini oshiruvchi termogen formula.",
+      "thumbnail": "/thermo-thumbnail.webp",
+      "link": "/product/thermo-nuke-xt/"
+    },
+    {
+      "title": "Hydrapump+",
+      "image": "/hydra.webp",
+      "price": "$1799",
+      "description": "Hydrapump+ — mushaklar samaradorligi uchun yaratilgan, suyuq glitserin asosidagi mushak pompasi tizimi.",
+      "thumbnail": "/hydrapump-thumbnail.webp",
+      "link": "/product/hydrapump"
+    }
+  ],
+  "buttons": {
+    "viewDetails": "Batafsil ma’lumot"
+  },
+  "trending_category_section": {
+    "heading": "Ommabop kategoriyalar",
+    "description": "Bugungi fitnes bozorida qo‘shimchalar juda ko‘p, ammo ularning barchasi bir xil sifatga ega emas. Ko‘plab arzon brendlar ingredientlar tozaligiga putur yetkazadi, tarkibida faol moddalar miqdori yetarli bo‘lmagan aralashmalardan foydalanadi yoki haqiqiy natija bermaydigan, kelib chiqishi tasdiqlanmagan xomashyolarni xarid qiladi.",
+    "categories": [
+      {
+        "title": "mashgʻulotdan oldingi",
+        "desc": "Markaziy asab tizimini faollashtirish, diqqatni kuchaytirish va kuchni saqlab turish uchun turli manbalardan olingan kofein va nootropiklar kombinatsiyasi.",
+        "image": "/father-of-insane-warflex-products.webp",
+        "hoverImage": "/promolecules0father-of-insane-warflex-combo-offers.webp",
+        "link": "/product?category=PRE-WORKOUT"
+      },
+      {
+        "title": "Yog‘ yoquvchi",
+        "desc": "Metabolizmni faollashtirish, yog‘ yoqilishini qo‘llab-quvvatlash va energiya sarfini oshirish uchun kofein kombinatsiyasi, yohimbin va termogen moddalar.",
+        "image": "/product2.webp",
+        "hoverImage": "/hoverproduct.webp",
+        "link": "/product?category=FAT%20BURNER"
+      },
+      {
+        "title": "ATP kuchaytirgichi",
+        "desc": "Metabolizm va energiya sarfini qo‘llab-quvvatlash uchun kofein kombinatsiyasi, yohimbin va termogen moddalar.",
+        "image": "/product2.webp",
+        "hoverImage": "/hoverproduct.webp",
+        "link": "/product?category=ATP%20BOOSTER"
+      },
+      {
+        "title": "Mushaklar gidratatsiyasi",
+        "desc": "Chuqur gidratatsiya, mushaklarning to‘liq pompalanishi va chidamlilikni yaxshilash uchun suyuq glitserin, sitrullin va pushti tuz.",
+        "image": "/promolecules-hydrapump-new.webp",
+        "hoverImage": "/promolecules-hydrapump.webp",
+        "link": "/product?category=MUSCLE%20HYDRATION"
+      },
+      {
+        "title": "Brend mahsulotlari",
+        "desc": "Jiddiy sport zali madaniyatini aks ettiruvchi va sport intizomini ifodalovchi, yuqori natijalarga yo‘naltirilgan kiyim-kechak hamda mashg‘ulot uchun zarur mahsulotlar.",
+        "image": "/father-of-insane-fusion-merch-product.webp",
+        "hoverImage": "/father-of-insane-fusion.webp",
+        "link": "/merch"
+      }
+    ]
+  }
+}

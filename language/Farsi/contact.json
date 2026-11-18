@@ -1,0 +1,90 @@
+{
+  "contactHero": {
+    "heading": {
+      "first": "با ما در ارتباط باشید",
+      "second": "تماس"
+    },
+    "email": "contact@promolecules.com",
+    "tagline": "بیایید با هم چیزی شگفت‌انگیز خلق کنیم",
+    "features": [
+      {
+        "title": "قدرت",
+        "description": "طراحی‌شده برای تقویت تحریک عصبی و افزایش عملکرد عضلانی."
+      },
+      {
+        "title": "طراحی",
+        "description": "ترکیبی ساختارمند از مواد اولیه با تعادل در تحریک."
+      },
+      {
+        "title": "توسعه",
+        "description": "بر پایه پژوهش و آزمایش، با اولویت عملکرد."
+      }
+    ]
+  },
+  "contactForm": {
+    "component": "ContactForm",
+    "leftSection": {
+      "heading": [
+        "فقط",
+        "ارسالش کن."
+      ],
+      "descriptions": [
+        "برای دریافت راهنمایی درباره محصولات و فرصت‌های همکاری، با Promolecules™ در ارتباط باشید.",
+        "از طریق ایمیل یا شبکه‌های اجتماعی رسمی با ما تماس بگیرید."
+      ],
+      "phone": "+1 (786) 789-2121",
+      "email": "info@promolecules.com"
+    },
+    "form": {
+      "heading": "تماس با ما",
+      "fields": {
+        "name": {
+          "label": "نام کامل",
+          "placeholder": "نام خود را وارد کنید",
+          "validation": {
+            "required": "وارد کردن نام الزامی است",
+            "letters_only": "فقط استفاده از حروف مجاز است"
+          }
+        },
+        "phone": {
+          "label": "شماره تلفن",
+          "placeholder": "شماره تلفن خود را وارد کنید",
+          "validation": {
+            "required": "وارد کردن شماره تلفن الزامی است",
+            "invalid": "شماره تلفن معتبر وارد کنید"
+          }
+        },
+        "email": {
+          "label": "ایمیل",
+          "placeholder": "ایمیل خود را وارد کنید",
+          "validation": {
+            "required": "وارد کردن ایمیل الزامی است",
+            "invalid": "آدرس ایمیل معتبر نیست"
+          }
+        },
+        "subject": {
+          "label": "موضوع",
+          "placeholder": "پیام خود را وارد کنید",
+          "validation": {
+            "required": "وارد کردن پیام الزامی است",
+            "min_length": "پیام باید حداقل ۱۰ کاراکتر داشته باشد"
+          }
+        }
+      },
+      "submit_button": "ارسال پیام"
+    },
+    "successPopup": {
+      "heading": "پیام ارسال شد",
+      "description": "از شما سپاسگزاریم! به‌زودی با شما تماس خواهیم گرفت."
+    },
+    "errorPopup": {
+      "description": "مشکلی پیش آمد. لطفاً دوباره تلاش کنید."
+    }
+  },
+  "ctaSection": {
+    "heading": {
+      "first": "بیایید شروع کنیم",
+      "second": "همکاری"
+    }
+  }
+}

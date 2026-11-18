@@ -8,6 +8,7 @@ import ProductInformation from "@/components/ProductInformation";
 import { ArrowRight } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import Link from "next/link";
+import { useT } from "@/lib/i18n/client";
 
 export default function ProductDetail() {
   const [qty, setQty] = useState(1);
@@ -32,34 +33,10 @@ export default function ProductDetail() {
     setQty(qty + 1);
   };
 
-  const products = [
-    {
-      id: 1,
-      name: "Father Of Insane Skell",
-   price: "$ 49.00",
-      oldPrice: "$50.00",
-      image: "/tshirt1.webp",
-      link: "/merch/detailpage",
-    },
-
-    {
-      id: 2,
-      name: "Father Of Insane Fusion",
-       price: "$ 49.00",
-      oldPrice: "$50.00",
-      image: "/tshirt2.webp",
-      link: "/merch/detailpage",
-    },
-
-    {
-      id: 3,
-      name: "Father Of Insane Nitro",
-      price: "$ 49.00",
-      oldPrice: "$50.00",
-    image: "/tshirt3.webp",
-      link: "/merch/detailpage",
-    },
-  ];
+  const m = useT("merch");
+  const pd = m.productDetail || {};
+  const tc = m.trendingCollection || {};
+  const products = m.products || [];
   const tshirts = ["/tshirt1.webp", "/tshirtback.webp", "/tshirtside.webp"];
 
   return (
@@ -93,16 +70,18 @@ export default function ProductDetail() {
             <div className="flex gap-6 mt-4">
               <button
                 onClick={prevImage}
+                aria-label={pd.prevImage}
                 className="w-14 h-14 rounded-full bg-black/60 backdrop-blur-md flex items-center justify-center text-white text-2xl hover:bg-red-600 transition"
               >
-                <FiArrowLeft />
+                <FiArrowLeft className="rtl:rotate-180" />
               </button>
 
               <button
                 onClick={nextImage}
+                aria-label={pd.nextImage}
                 className="w-14 h-14 rounded-full bg-black/60 backdrop-blur-md flex items-center justify-center text-white text-2xl hover:bg-red-600 transition"
               >
-                <FiArrowRight />
+                <FiArrowRight className="rtl:rotate-180" />
               </button>
             </div>
           </div>
@@ -111,7 +90,7 @@ export default function ProductDetail() {
           <div className="bg-black/60 backdrop-blur-xl p-8 rounded-xl text-white shadow-2xl">
             {/* Title */}
             <h2 className="text-4xl md:text-5xl uppercase font-extrabold creepster-regular text-red-600 tracking-wider mb-3">
-              RETURN OF INSANE SKULL
+              {pd.productTitle}
             </h2>
 
             {/* Rating */}
@@ -123,38 +102,36 @@ export default function ProductDetail() {
 
             {/* Price */}
             <div className="flex items-center gap-4 mb-6">
-              <span className="text-3xl font-bold"> $49.00</span>
+              <span className="text-3xl font-bold">{pd.price}</span>
               <span className="line-through text-gray-400 text-xl">
-                $50.00
+                {pd.oldPrice}
               </span>
             </div>
 
             {/* Description */}
             <div className="mb-6">
               <h3 className="text-red-500 font-bold mb-2 uppercase">
-                DESCRIPTION
+                {pd.descriptionHeading}
               </h3>
               <p className="text-gray-300 text-sm leading-relaxed uppercase">
-                Crafted for those who lead, not follow. This premium cotton
-                T-shirt delivers unmatched comfort with a bold, confident
-                design.
+                {pd.description}
               </p>
             </div>
 
             {/* Color */}
             <div className="mb-6">
               <h3 className="text-gray-300 mb-2 font-semibold">
-                COLOUR - BLACK
+                {pd.colorLabel}
               </h3>
               <div className="w-full h-12 bg-black border border-gray-600 rounded-lg flex items-center justify-between px-4">
-                <span>Black</span>
+                <span>{pd.colorName}</span>
                 <span className="text-xl">+</span>
               </div>
             </div>
 
             {/* Quantity */}
             <div className="mb-8">
-              <h3 className="text-gray-300 mb-2 font-semibold">QUANTITY</h3>
+              <h3 className="text-gray-300 mb-2 font-semibold">{pd.quantityLabel}</h3>
 
               <div className="flex items-center bg-red-600 rounded-full w-fit px-4 py-2 gap-6">
                 <button onClick={decreaseQty} className="text-white text-xl">
@@ -192,24 +169,20 @@ export default function ProductDetail() {
         <div className="relative z-10 max-w-7xl mx-auto px-6 md:px-16">
           <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-16 gap-8">
             <p className="text-gray-400 text-xs uppercase tracking-wider max-w-sm">
-              Stay ahead of the trend with bold designs, premium comfort, and
-              statement styles. Made for those who don't follow fashion — they
-              create it.
+              {tc.introText}
             </p>
 
             {/* Right Heading */}
-            <div className="text-right">
+            <div className="text-end">
               <h2 className="text-red-600 text-4xl md:text-6xl creepster-regular uppercase drop-shadow-[0_0_15px_rgba(255,0,0,0.8)]">
-                Trending T-Shirts
+                {tc.heading}
               </h2>
               <h3 className="text-white text-3xl md:text-5xl creepster-regular uppercase">
-                Collection
+                {tc.subheading}
               </h3>
 
-              <p className="text-gray-400 text-xs uppercase tracking-wider mt-4 max-w-md ml-auto">
-                Stay ahead of the trend with bold designs, premium comfort, and
-                statement styles. Made for those who don't follow fashion — they
-                create it.
+              <p className="text-gray-400 text-xs uppercase tracking-wider mt-4 max-w-md ms-auto">
+                {tc.description}
               </p>
             </div>
           </div>
@@ -243,7 +216,7 @@ export default function ProductDetail() {
                 </div>
                 <Link href={product.link}>
                   <button className="px-4 py-2 bg-red-600 rounded-xl font-bold text-white rounded hover:bg-red-700 transition">
-                    VIEW NOW
+                    {tc.viewNow}
                   </button>
                 </Link>
               </div>

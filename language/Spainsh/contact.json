@@ -1,0 +1,90 @@
+{
+  "contactHero": {
+    "heading": {
+      "first": "Ponte en contacto",
+      "second": "Contacto"
+    },
+    "email": "contact@promolecules.com",
+    "tagline": "Creemos algo extraordinario juntos",
+    "features": [
+      {
+        "title": "Potencia",
+        "description": "Diseñado para mejorar la activación neuronal y aumentar el rendimiento muscular."
+      },
+      {
+        "title": "Diseño",
+        "description": "Una composición estructurada de ingredientes con una estimulación equilibrada."
+      },
+      {
+        "title": "Desarrollo",
+        "description": "Desarrollado a partir de investigación y pruebas, con el rendimiento como prioridad."
+      }
+    ]
+  },
+  "contactForm": {
+    "component": "ContactForm",
+    "leftSection": {
+      "heading": [
+        "SOLO",
+        "ENVÍALO."
+      ],
+      "descriptions": [
+        "Ponte en contacto con Promolecules™ para recibir orientación sobre productos y explorar colaboraciones.",
+        "Contáctanos por correo electrónico o a través de nuestras plataformas sociales oficiales."
+      ],
+      "phone": "+1 (786) 789-2121",
+      "email": "info@promolecules.com"
+    },
+    "form": {
+      "heading": "Contáctanos",
+      "fields": {
+        "name": {
+          "label": "NOMBRE COMPLETO",
+          "placeholder": "Introduce tu nombre",
+          "validation": {
+            "required": "El nombre es obligatorio",
+            "letters_only": "Solo se permiten letras"
+          }
+        },
+        "phone": {
+          "label": "NÚMERO DE TELÉFONO",
+          "placeholder": "Introduce tu número de teléfono",
+          "validation": {
+            "required": "El número de teléfono es obligatorio",
+            "invalid": "Introduce un número de teléfono válido"
+          }
+        },
+        "email": {
+          "label": "CORREO ELECTRÓNICO",
+          "placeholder": "Introduce tu correo electrónico",
+          "validation": {
+            "required": "El correo electrónico es obligatorio",
+            "invalid": "La dirección de correo electrónico no es válida"
+          }
+        },
+        "subject": {
+          "label": "ASUNTO",
+          "placeholder": "Escribe tu mensaje",
+          "validation": {
+            "required": "El mensaje es obligatorio",
+            "min_length": "El mensaje debe tener al menos 10 caracteres"
+          }
+        }
+      },
+      "submit_button": "Enviar mensaje"
+    },
+    "successPopup": {
+      "heading": "Mensaje enviado",
+      "description": "¡Gracias! Nos pondremos en contacto contigo pronto."
+    },
+    "errorPopup": {
+      "description": "Se ha producido un error. Inténtalo de nuevo."
+    }
+  },
+  "ctaSection": {
+    "heading": {
+      "first": "Comencemos",
+      "second": "Colaboremos"
+    }
+  }
+}

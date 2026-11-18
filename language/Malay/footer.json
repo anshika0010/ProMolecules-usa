@@ -1,0 +1,115 @@
+{
+  "footer": {
+    "section_headings": {
+      "disclaimer": "PENAFIAN",
+      "quick_links": "PAUTAN PANTAS",
+      "categories": "KATEGORI",
+      "contact": "HUBUNGI KAMI"
+    },
+    "disclaimer": "Dibangunkan khusus untuk atlet serius dan orang dewasa yang sihat sahaja. Produk Promolecules direka untuk menyokong prestasi latihan dan bukan untuk menggantikan nasihat perubatan profesional. Sentiasa dapatkan nasihat profesional kesihatan sebelum menggunakannya, terutamanya jika anda mempunyai sebarang masalah kesihatan sedia ada.\nGunakan dengan bertanggungjawab. Mulakan dengan dos hidangan yang disyorkan dan nilai tahap toleransi anda. Jangan melebihi dos yang dicadangkan.",
+    "quick_links": [
+      {
+        "label": "TENTANG KAMI",
+        "href": "/about"
+      },
+      {
+        "label": "HUBUNGI KAMI",
+        "href": "/contact-us"
+      },
+      {
+        "label": "PRODUK",
+        "href": "/product"
+      },
+      {
+        "label": "BLOG",
+        "href": "/blog"
+      },
+      {
+        "label": "SOALAN LAZIM",
+        "href": "/about/faq/"
+      },
+      {
+        "label": "DOMESTIK",
+        "href": "/domestic"
+      },
+      {
+        "label": "ANTARABANGSA",
+        "href": "/international"
+      }
+    ],
+    "categories": [
+      {
+        "label": "PRA-SENAMAN",
+        "href": "/high-stim-pre-workout/"
+      },
+      {
+        "label": "Father of Insane V.2",
+        "href": "https://www.fatherofinsane.com/"
+      },
+      {
+        "label": "HYDRAPUMP",
+        "href": "/hydrapump-liquid-glycerol-pre-workout-supplement/"
+      },
+      {
+        "label": "PEMBAKAR LEMAK",
+        "href": "/product?category=FAT%20BURNER"
+      },
+      {
+        "label": "PENGGALAK ATP",
+        "href": "/product?category=ATP%20BOOSTER"
+      },
+      {
+        "label": "BARANGAN JENAMA",
+        "href": "/merch"
+      }
+    ],
+    "contact": {
+      "email_label": "E-MEL",
+      "email": "info@promolecules.com",
+      "social_links_label": "PAUTAN MEDIA SOSIAL",
+      "social_links": [
+        {
+          "label": "INSTAGRAM",
+          "href": "https://www.instagram.com/promolecules/"
+        },
+        {
+          "label": "FACEBOOK",
+          "href": "https://www.facebook.com/promolecules.official"
+        },
+        {
+          "label": "YOUTUBE",
+          "href": "https://www.youtube.com/@Promolecules"
+        },
+        {
+          "label": "PINTEREST",
+          "href": "https://in.pinterest.com/promolecules/"
+        }
+      ]
+    },
+    "brand_text": "PROMOLECULES",
+    "trademark": "TM",
+    "copyright": "©2026 PROMOLECULES™ HAK CIPTA TERPELIHARA.",
+    
+    "scroll_to_top_aria_label": "Tatal ke atas"
+  },
+  "preserved": {
+    "technical_code": "Kekalkan komponen React/Next.js, hooks, animasi Framer Motion, ikon, kelas CSS, pengendali acara dan tingkah laku tatal tanpa sebarang perubahan. Terjemahkan hanya teks statik yang dipaparkan kepada pelanggan.",
+    "routes": [
+      "/about",
+      "/contact-us",
+      "/product",
+      "/blog",
+      "/about/faq/",
+      "/domestic",
+      "/international",
+      "/high-stim-pre-workout/",
+      "https://www.fatherofinsane.com/",
+      "/hydrapump-liquid-glycerol-pre-workout-supplement/",
+      "/product?category=FAT%20BURNER",
+      "/product?category=ATP%20BOOSTER",
+      "/merch"   ],
+    "email": "info@promolecules.com",
+    "brand_identifier": "PROMOLECULES",
+    "copyright_year": 2026
+  }
+}

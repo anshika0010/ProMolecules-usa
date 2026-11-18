@@ -1,0 +1,65 @@
+{
+  "navbar": {
+    "navigation_links": [
+      {
+        "label": "Início",
+        "href": "/"
+      },
+      {
+        "label": "Loja",
+        "href": "/shop"
+      },
+      {
+        "label": "Sobre Nós",
+        "href": "/about"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "Fale Conosco",
+        "href": "/contact-us"
+      }
+    ],
+    "logo_alt": "Logotipo da Promolecules",
+    "accessibility_labels": {
+      "search_products": "Pesquisar Produtos",
+      "view_shopping_cart": "Ver Carrinho de Compras",
+      "close_menu": "Fechar Menu",
+      "open_menu": "Abrir Menu",
+      "close_cart": "Fechar Carrinho de Compras"
+    },
+    "mobile_drawer": {
+      "search": "Pesquisar",
+      "cart": "Carrinho de Compras"
+    },
+    "cart_drawer": {
+      "title": "Seu Carrinho de Compras",
+      "working_heading": "Estamos Trabalhando Nisso",
+      "description": "Nossa seção de carrinho de compras está atualmente em desenvolvimento. Volte em breve — novidades incríveis estão a caminho.",
+      "coming_soon": "Em Breve",
+      "browse_shop": "Explorar Loja"
+    },
+    "preserved": {
+      "technical_code": "Mantenha os componentes React/Next.js, hooks, Framer Motion, ícones, estados, manipuladores de eventos, comportamento de rolagem, classes CSS e SearchModal inalterados. Traduza apenas os textos estáticos visíveis aos usuários.",
+      "routes": [
+        "/",
+        "/shop",
+        "/about",
+        "/blog",
+        "/contact-us"
+      ],
+      "logo_image": "/promolecules-logo.webp",
+      "cart_status": "A interface do carrinho de compras atualmente exibe uma mensagem de 'Em Construção'; preserve seu comportamento existente.",
+      "scroll_behavior": "Oculte a barra de navegação ao rolar a página para baixo mais de 60 pixels e exiba-a novamente ao rolar para cima.",
+      "body_scroll_lock": "Bloqueie a rolagem do body enquanto o carrinho ou o menu para dispositivos móveis estiver aberto."
+    },
+    "country_selector": {
+      "button": "PAÍS",
+      "aria_label": "Selecione seu país",
+      "search_placeholder": "Buscar país...",
+      "no_results": "Nenhum país encontrado"
+    }
+  }
+}

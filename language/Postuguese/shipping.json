@@ -1,0 +1,134 @@
+{
+  "page": {
+    "title": "Envio e Devoluções",
+    "intro": "Suplementos autênticos e de alta qualidade entregues com segurança à sua porta. Saiba tudo sobre prazos de processamento, rastreamento de envios, entregas internacionais e como devolver seu pedido."
+  },
+  "navigation": [
+    {
+      "id": "processing",
+      "label": "Processamento de Pedidos"
+    },
+    {
+      "id": "rates",
+      "label": "Taxas de Envio e Entrega"
+    },
+    {
+      "id": "tracking",
+      "label": "Rastreamento de Encomendas"
+    },
+    {
+      "id": "quality",
+      "label": "Garantia de Qualidade"
+    },
+    {
+      "id": "damages",
+      "label": "Encomendas Danificadas ou Perdidas"
+    },
+    {
+      "id": "address",
+      "label": "Endereços Incorretos"
+    },
+    {
+      "id": "international",
+      "label": "Envio Internacional"
+    },
+    {
+      "id": "returns",
+      "label": "Devoluções"
+    },
+    {
+      "id": "contact",
+      "label": "Fale Conosco"
+    }
+  ],
+  "sections": [
+    {
+      "id": "processing",
+      "eyebrow": "Antes do Envio",
+      "title": "Prazo de Processamento dos Pedidos",
+      "items": [
+        "Todos os pedidos são processados em até 1–3 dias úteis.",
+        "Os pedidos não são enviados nem entregues aos finais de semana ou feriados.",
+        "Durante períodos de grande volume de pedidos, os envios podem sofrer atrasos de alguns dias. Se houver um atraso significativo no seu pedido, entraremos em contato por e-mail ou telefone."
+      ]
+    },
+    {
+      "id": "rates",
+      "eyebrow": "Entrega até Você",
+      "title": "Taxas de Envio e Prazos Estimados de Entrega",
+      "content": [
+        "Temos orgulho de entregar os pedidos rapidamente, para que você receba seus suplementos sem atrasos desnecessários."
+      ],
+      "items": [
+        "Prazo de envio padrão: 2–5 dias úteis.",
+        "Os custos de envio são calculados e exibidos durante a finalização da compra. O envio padrão também é gratuito para pedidos elegíveis acima do valor mínimo especificado na moeda local.",
+        "Em algumas ocasiões, as entregas podem sofrer atrasos devido às condições climáticas, a problemas relacionados à transportadora ou a períodos de grande movimento durante feriados."
+      ]
+    },
+    {
+      "id": "tracking",
+      "eyebrow": "Acompanhe Seu Pedido",
+      "title": "Confirmação de Envio e Rastreamento do Pedido",
+      "content": [
+        "Assim que seu pedido for enviado, você receberá um e-mail de confirmação de envio contendo o número de rastreamento. Os números de rastreamento são ativados em até 24 horas, permitindo que você acompanhe sua encomenda até a entrega."
+      ]
+    },
+    {
+      "id": "quality",
+      "eyebrow": "O Que Você Recebe",
+      "title": "Marcas Americanas Confiáveis e Garantia de Qualidade",
+      "content": [
+        "Adquirimos produtos diretamente das principais marcas de suplementos dos Estados Unidos. Cada produto é armazenado em ambientes com temperatura controlada antes de ser embalado e enviado a você, preservando sua máxima eficácia e frescor."
+      ]
+    },
+    {
+      "id": "damages",
+      "eyebrow": "Se Algo Der Errado",
+      "title": "Encomendas Danificadas ou Perdidas",
+      "content": [
+        "A Promolecules não se responsabiliza por produtos danificados ou perdidos durante o transporte. No entanto, queremos garantir que você tenha uma experiência positiva.",
+        "Se seu pedido chegar danificado, entre em contato com a transportadora ou com nossa equipe de suporte para registrar uma reclamação.",
+        "Guarde todos os materiais da embalagem e os itens danificados até que sua reclamação seja totalmente resolvida.",
+        "Para obter ajuda, entre em contato conosco pelo e-mail info@promolecules.com."
+      ]
+    },
+    {
+      "id": "address",
+      "eyebrow": "Confira Antes de Finalizar Sua Compra",
+      "title": "Endereços de Entrega Incorretos",
+      "content": [
+        "Os clientes são responsáveis por fornecer um endereço de entrega correto durante a finalização da compra. A Promolecules não se responsabiliza por encomendas entregues em endereços incorretos informados pelo cliente.",
+        "Se uma encomenda for devolvida devido a um endereço incorreto, o cliente será responsável pelo pagamento de quaisquer custos adicionais de envio necessários para reenviar o pedido."
+      ]
+    },
+    {
+      "id": "international",
+      "eyebrow": "Além das Nossas Fronteiras",
+      "title": "Envio Internacional",
+      "content": [
+        "Também oferecemos envio internacional. Os prazos padrão de envio (2–5 dias) aplicam-se apenas a pedidos nacionais. Os envios internacionais geralmente levam de 7–21 dias úteis.",
+        "Seu pedido poderá estar sujeito a taxas alfandegárias e impostos, incluindo o Imposto sobre Valor Agregado (IVA), ao chegar ao país de destino. A Promolecules não se responsabiliza pelo pagamento dessas cobranças."
+      ]
+    },
+    {
+      "id": "returns",
+      "eyebrow": "Mudou de Ideia?",
+      "title": "Como Solicitar uma Devolução",
+      "steps": [
+        "Entre em Contato Conosco — Envie um e-mail para info@promolecules.com informando o número do seu pedido e o motivo da devolução.",
+        "Receba a Aprovação — Após a aprovação, enviaremos um número de Autorização de Devolução de Mercadoria (RMA), juntamente com as instruções sobre onde enviar sua encomenda.",
+        "Embale e Envie — Embale cuidadosamente e com segurança os itens fechados e sem uso. Escreva claramente o número RMA na parte externa do pacote."
+      ],
+      "note": "Atenção: Os custos de envio da devolução são de responsabilidade do cliente (exceto quando a devolução ocorrer devido a um erro nosso), e esses custos não são reembolsáveis. Recomendamos utilizar um serviço de envio com rastreamento ou contratar um seguro para a encomenda, pois não podemos garantir o recebimento dos itens devolvidos."
+    },
+    {
+      "id": "contact",
+      "eyebrow": "Estamos Aqui para Ajudar",
+      "title": "Tem Dúvidas Sobre Sua Entrega?",
+      "content": [
+        "Se você tiver dúvidas ou preocupações sobre o status do envio do seu pedido, nossa equipe de atendimento ao cliente terá prazer em ajudar."
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

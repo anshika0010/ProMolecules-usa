@@ -1,0 +1,169 @@
+{
+  "page": {
+    "title": "Cookie siyosati",
+    "brand": "Promolecules™",
+    "lastUpdated": "10-02-2026",
+    "description": "Ushbu Cookie siyosati Promolecules™ (\"biz\", \"bizning\") veb-saytimizda cookie-fayllar va shunga o‘xshash kuzatuv texnologiyalaridan qanday foydalanishini tushuntiradi. Veb-saytimizdan foydalanish orqali siz ushbu siyosatda bayon etilgan cookie-fayllardan foydalanishga rozilik bildirasiz.",
+    "contactNotice": "Agar savollaringiz bo‘lsa, quyidagi manzil orqali biz bilan bog‘lanishingiz mumkin:",
+    "contactEmail": "info@promolecules.com",
+    "lastUpdatedLabel": "Oxirgi yangilanish:"
+  },
+  "sections": [
+    {
+      "id": "what-are-cookies",
+      "eyebrow": "Asosiy ma’lumotlar",
+      "title": "1. Cookie-fayllar nima?",
+      "content": [
+        "Cookie-fayllar — veb-saytga tashrif buyurganingizda qurilmangizda (kompyuter, mobil telefon yoki planshet) saqlanadigan kichik matnli fayllardir. Ular foydalanuvchi tajribasini yaxshilashga hamda veb-saytlarga vaqt o‘tishi bilan harakatlaringiz yoki afzalliklaringizni eslab qolishga yordam beradi."
+      ]
+    },
+    {
+      "id": "types-of-cookies",
+      "eyebrow": "Barcha cookie-fayllar bir xil emas",
+      "title": "2. Biz foydalanadigan cookie-fayllar turlari",
+      "subsections": [
+        {
+          "title": "2.1 Muhim / Mutlaqo zarur cookie-fayllar",
+          "items": [
+            "Xavfsiz to‘lov jarayoni",
+            "Sayt bo‘ylab navigatsiya",
+            "Foydalanuvchi tizimga kirishi",
+            "Xarid savati funksiyalari"
+          ],
+          "notice": "Ushbu cookie-fayllarsiz ayrim funksiyalar to‘g‘ri ishlamasligi mumkin."
+        },
+        {
+          "title": "2.2 Samaradorlik va tahlil cookie-fayllari",
+          "intro": "Biz quyidagi vositalardan foydalanamiz:",
+          "items": [
+            "Google Analytics",
+            "Meta (Facebook) Pixel"
+          ],
+          "collectIntro": "Ushbu vositalar quyidagi kabi ma’lumotlarni to‘playdi:",
+          "collectItems": [
+            "Tashrif buyurilgan sahifalar",
+            "Saytda o‘tkazilgan vaqt",
+            "Bosishlar bilan bog‘liq harakatlar",
+            "Qurilma va brauzer haqidagi ma’lumotlar"
+          ]
+        },
+        {
+          "title": "2.3 Afzalliklarni saqlash cookie-fayllari",
+          "items": [
+            "Til sozlamalari",
+            "Hudud",
+            "Tizimga kirish sozlamalari",
+            "Avval ko‘rilgan mahsulotlar"
+          ]
+        },
+        {
+          "title": "2.4 Reklama va qayta yo‘naltirish cookie-fayllari",
+          "intro": "Bizning reklama hamkorlarimiz quyidagilarni o‘z ichiga olishi mumkin:",
+          "items": [
+            "Google Ads",
+            "Meta (Facebook va Instagram)",
+            "Boshqa qayta marketing platformalari"
+          ],
+          "collectIntro": "Ushbu cookie-fayllar:",
+          "collectItems": [
+            "Ko‘rib chiqish faoliyatingizni kuzatadi",
+            "Shaxsiylashtirilgan reklamalarni ko‘rsatadi",
+            "Siz avval ko‘rgan mahsulotlar reklamalarini qayta namoyish etadi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "third-party-cookies",
+      "eyebrow": "Bizning nazoratimizdan tashqarida",
+      "title": "3. Uchinchi tomon cookie-fayllari",
+      "content": [
+        "Ayrim cookie-fayllar veb-saytimizga uchinchi tomonlar tomonidan joylashtirilishi mumkin. Masalan:",
+        "To‘lov shlyuzlari (Razorpay, PayPal)",
+        "Tahlil xizmatlari",
+        "Ijtimoiy tarmoqlardan joylashtirilgan kontent",
+        "Reklama platformalari",
+        "Ushbu hamkorlarning o‘z maxfiylik va cookie siyosatlari mavjud. Biz uchinchi tomon cookie-fayllarini nazorat qilmaymiz."
+      ]
+    },
+    {
+      "id": "why-we-use-cookies",
+      "eyebrow": "Maqsad",
+      "title": "4. Nima uchun cookie-fayllardan foydalanamiz?",
+      "items": [
+        "Veb-sayt funksiyalarini yaxshilash",
+        "Xarid qilish tajribasini yanada qulay qilish",
+        "Veb-sayt samaradorligini tahlil qilish",
+        "Mahsulot tavsiyalarini shaxsiylashtirish",
+        "Xavfsiz to‘lovlarni ta’minlash",
+        "Marketing va qayta yo‘naltirish kampaniyalarini amalga oshirish",
+        "Konversiyalar va veb-sayt trafigini kuzatish"
+      ]
+    },
+    {
+      "id": "how-to-control-cookies",
+      "eyebrow": "Sizning tanlovingiz",
+      "title": "5. Cookie-fayllarni qanday boshqarish mumkin?",
+      "content": [
+        "Brauzer sozlamalari orqali cookie-fayllarni boshqarishingiz yoki o‘chirib qo‘yishingiz mumkin:",
+        "Chrome: Sozlamalar → Maxfiylik → Cookie-fayllar",
+        "Safari: Afzalliklar → Maxfiylik",
+        "Firefox: Sozlamalar → Maxfiylik va xavfsizlik",
+        "Edge: Sozlamalar → Cookie-fayllar va sayt ruxsatlari",
+        "Agar cookie-fayllarni o‘chirib qo‘ysangiz:"
+      ],
+      "consequences": [
+        "Veb-saytning ayrim qismlari to‘g‘ri ishlamasligi mumkin",
+        "Xaridni yakunlay olmasligingiz mumkin",
+        "Sizga kamroq mos keladigan mahsulot tavsiyalarini ko‘rishingiz mumkin"
+      ]
+    },
+    {
+      "id": "cookie-consent",
+      "eyebrow": "GDPR talablariga muvofiqlik",
+      "title": "6. Cookie-fayllardan foydalanishga rozilik (GDPR talablariga muvofiqlik)",
+      "items": [
+        "Sizga cookie-fayllardan foydalanishga rozilik berish oynasi ko‘rsatiladi",
+        "Cookie-fayllardan foydalanishni Qabul qilish, Rad etish yoki Sozlash imkoniyatiga ega bo‘lasiz",
+        "GDPR talablariga muvofiq cookie-fayllar bo‘yicha afzalliklaringizni saqlaymiz"
+      ]
+    },
+    {
+      "id": "data-collected",
+      "eyebrow": "Qanday ma’lumotlar kuzatiladi",
+      "title": "7. Cookie-fayllar orqali to‘planadigan ma’lumotlar",
+      "intro": "Cookie-fayllar quyidagi ma’lumotlarni to‘plashi mumkin:",
+      "items": [
+        "Qurilma haqidagi ma’lumotlar",
+        "Brauzer turi",
+        "Mamlakat/shahar",
+        "Ko‘rilgan sahifalar",
+        "Foydalanuvchi harakatlari namunalari",
+        "Yo‘naltiruvchi URL manzillari",
+        "IP-manzil (qonun talab qilgan hollarda anonimlashtiriladi)"
+      ],
+      "neverCollectTitle": "Biz hech qachon to‘plamaydigan ma’lumotlar:",
+      "neverCollect": [
+        "To‘lov kartasi ma’lumotlari",
+        "Maxfiy shaxsiy ma’lumotlar"
+      ]
+    },
+    {
+      "id": "updates-to-policy",
+      "eyebrow": "Yangilanishlardan xabardor bo‘ling",
+      "title": "8. Ushbu siyosatga kiritiladigan yangilanishlar",
+      "content": [
+        "Biz ushbu Cookie siyosatini vaqti-vaqti bilan yangilashimiz mumkin. O‘zgarishlar yangi \"Oxirgi yangilanish\" sanasi bilan aks ettiriladi. Veb-saytimizdan foydalanishda davom etishingiz ushbu o‘zgarishlarni qabul qilganingizni anglatadi."
+      ]
+    },
+    {
+      "id": "contact-us",
+      "eyebrow": "Biz yordam berishga tayyormiz",
+      "title": "9. Biz bilan bog‘laning",
+      "content": [
+        "Cookie-fayllardan foydalanish amaliyotimiz bo‘yicha savollaringiz bo‘lsa, quyidagi manzil orqali biz bilan bog‘laning:"
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

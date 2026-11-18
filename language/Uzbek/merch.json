@@ -1,0 +1,154 @@
+{
+  "merchPage": {
+    "hero": {
+      "titleLine1": "Siz kiyishingiz mumkin bo‘lgan",
+      "titleLine2": "kuch",
+      "description": "Kuch va chidamlilik uchun yaratilgan premium fitnes kiyimlari. Chegaralarni kengaytiradigan va yuqori samaradorlikni talab qiladiganlar uchun ishlab chiqilgan."
+    },
+    "products": [
+      {
+        "id": 1,
+        "name": "Father Of Insane Skell",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt1.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Sotuvda mavjud emas",
+        "buttonText": "SOTUVDA MAVJUD EMAS",
+        "availableButtonText": "HOZIR KO‘RISH"
+      },
+      {
+        "id": 2,
+        "name": "Father Of Insane Fusion",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt2.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Sotuvda mavjud emas",
+        "buttonText": "SOTUVDA MAVJUD EMAS",
+        "availableButtonText": "HOZIR KO‘RISH"
+      },
+      {
+        "id": 3,
+        "name": "Father Of Insane Nitro",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt3.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Sotuvda mavjud emas",
+        "buttonText": "SOTUVDA MAVJUD EMAS",
+        "availableButtonText": "HOZIR KO‘RISH"
+      }
+    ],
+    "collection": {
+      "subtitle": "Qorong‘i gotika uslubi",
+      "heading": "To‘plam",
+      "description": "Qorong‘i gotika uslubidagi kolleksiya shunchaki moda emas — u matoda aks etgan isyondir. U soyalar bag‘rida tug‘ilgan, tartibsizlikdan ilhomlangan va o‘z zulmatini boshqaradiganlar uchun yaratilgan.",
+      "buttonText": "Hozir kashf eting"
+    }
+  },
+  "productDetail": {
+    "productTitle": "TELBA BOSH SUYAGINING QAYTISHI",
+    "ratingAlt": "Reyting",
+    "descriptionHeading": "TAVSIF",
+    "description": "Boshqalarga ergashmay, ularga yetakchilik qiladiganlar uchun yaratilgan. Ushbu premium paxtali futbolka dadil va o‘ziga ishongan dizayni bilan tengsiz qulaylikni taqdim etadi.",
+    "colorLabel": "RANG - QORA",
+    "colorName": "Qora",
+    "quantityLabel": "MIQDOR",
+    "price": "$49.00",
+    "oldPrice": "$50.00",
+    "nextImage": "Keyingi rasm",
+    "prevImage": "Oldingi rasm"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Father Of Insane Skell",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt1.webp",
+      "link": "/merch/detailpage"
+    },
+    {
+      "id": 2,
+      "name": "Father Of Insane Fusion",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt2.webp",
+      "link": "/merch/detailpage"
+    },
+    {
+      "id": 3,
+      "name": "Father Of Insane Nitro",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt3.webp",
+      "link": "/merch/detailpage"
+    }
+  ],
+  "trendingCollection": {
+    "introText": "Dadil dizaynlar, premium qulaylik va o‘ziga xos uslublar bilan modadan bir qadam oldinda bo‘ling. Moda ortidan ergashmaydigan, balki uni yaratuvchilar uchun ishlab chiqilgan.",
+    "heading": "Urfdagi futbolkalar",
+    "subheading": "To‘plam",
+    "description": "Dadil dizaynlar, premium qulaylik va o‘ziga xos uslublar bilan modadan bir qadam oldinda bo‘ling. Moda ortidan ergashmaydigan, balki uni yaratuvchilar uchun ishlab chiqilgan.",
+    "viewNow": "HOZIR KO‘RISH"
+  },
+  "productInformation": {
+    "heading": "MAHSULOT HAQIDA MA’LUMOT",
+    "items": [
+      {
+        "title": "USLUB",
+        "content": "Bosh suyagi tasviri tushirilgan, keng bichimli streetwear uslubidagi kiyim. Kuchli va o‘ziga ishongan ko‘rinish uchun yaratilgan."
+      },
+      {
+        "title": "MATERIAL VA PARVARISH",
+        "content": "100% premium paxta. Kir yuvish mashinasida sovuq suvda yuving. Oqartirgich ishlatmang. Teskari tomonidan dazmollang."
+      },
+      {
+        "title": "O‘LCHAMLAR",
+        "content": "S, M, L, XL o‘lchamlarda mavjud. Erkin bichim. Aniq o‘lchamlar uchun o‘lchamlar jadvaliga qarang."
+      },
+      {
+        "title": "XUSUSIYATLAR VA TEXNIK TAVSIFLAR",
+        "content": "Yuqori sifatli ipak ekranli bosma, havo o‘tkazuvchi mato, mustahkam tikuvlar va rangini yo‘qotmaydigan dizayn."
+      }
+    ],
+    "headingFirst": "MAHSULOT",
+    "headingSecond": "HAQIDA MA’LUMOT"
+  },
+  "customerReviews": {
+    "heading": "MIJOZLAR SHARHLARI",
+    "rating": "4.7",
+    "ratingAlt": "Yulduzli reyting",
+    "basedOn": "98 ta baho asosida",
+    "ratingSince": "2025-yil 7-dekabrdan beri berilgan baholar",
+    "topOtherBrand": "Boshqa yetakchi brend reytingi: 4.2",
+    "starsLabel": "Yulduz",
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 42
+      },
+      {
+        "stars": 4,
+        "count": 32
+      },
+      {
+        "stars": 3,
+        "count": 17
+      },
+      {
+        "stars": 2,
+        "count": 4
+      },
+      {
+        "stars": 1,
+        "count": 2
+      }
+    ],
+    "totalRatings": 98
+  }
+}

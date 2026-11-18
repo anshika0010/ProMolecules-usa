@@ -3,34 +3,29 @@
 import React from "react";
 import Image from "next/image";
 import { motion } from "framer-motion";
+import { useT } from "@/lib/i18n/client";
 
-const UltraHighPerformanceSection = () => {
-  const features = [
+const FEATURE_IMAGES = [
     {
       id: 1,
-      title: " FOCUS",
-      description:
-        "Enhances clarity, reaction speed, and deep workout focus, designed to activate within 15 minutes.Stay locked in",
       image: "/focus.jpg",
       alt: "Razor Focus Skeleton",
     },
     {
       id: 2,
-      title: " ENERGY",
-      description:
-        "Multi-phase stimulation for fast activation and smooth, sustained energy without sudden drop-offs.Power every set",
       image: "/energy.jpg",
       alt: "Extreme Energy Skeleton",
     },
     {
       id: 3,
-      title: "StRENGTH ",
-      description:
-        "Supports explosive power, endurance, and stronger lifts while driving full-body activation that naturally pushes muscle output higher..",
       image: "/strength.jpg",
       alt: "Strength and Stamina Anatomy",
     },
-  ];
+];
+
+const UltraHighPerformanceSection = () => {
+  const t = useT("home").ultra_high_performance_section || {};
+  const features = (t.features || []).map((f, i) => ({ ...FEATURE_IMAGES[i], ...f }));
 
   return (
     <section className="relative bg-black max-w-7xl mx-auto overflow-hidden py-4  lg:py-6">
@@ -39,14 +34,14 @@ const UltraHighPerformanceSection = () => {
         <div className="flex justify-center text-center mb-12 sm:mb-16">
           <div className="relative flex flex-col items-center">
             <h1 className="creepster-regular heading">
-              ULTRA-HIGH-PERFORMANCE
+              {t.main_title}
             </h1>
 
             <div className="h-1 bg-red-600  w-24 sm:w-40 md:w-60 lg:w-full max-w-[900px] rounded-full" />
 
             <h3 className="creepster-regular heading"
             >
-              FORMULA
+              {t.subtitle}
             </h3>
 
             <div className="h-1 bg-red-600  w-16 sm:w-24 rounded-full" />

@@ -3,8 +3,10 @@ import { motion } from "framer-motion";
 import React from "react";
 import { ArrowRight } from "lucide-react";
 import Link from "next/link";
+import { useT } from "@/lib/i18n/client";
 
 const WhoWeAreSection = () => {
+  const t = useT("home").who_we_are_section || {};
   return (
     <section className="w-full bg-black overflow-hidden py-2 sm:py-4 md:py-16 px-4 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto">
@@ -15,7 +17,7 @@ const WhoWeAreSection = () => {
      
         className="creepster-regular heading text-3xl sm:text-4xl md:text-5xl lg:text-6xl"
       >
-        WHO-WE-ARE
+        {t.title}
       </p>
  
       <motion.div
@@ -35,7 +37,7 @@ const WhoWeAreSection = () => {
           text-xs sm:text-sm md:text-base
           leading-relaxed px-2 sm:px-4"
       >
-        Promolecules™ focuses on performance and helps you push limits.
+        {t.subtitle}
       </p>
     </div>
 
@@ -51,10 +53,10 @@ const WhoWeAreSection = () => {
           >
          <div className="hidden lg:block">
   <h2 className="text-red-600 font-extrabold uppercase text-xl mb-3">
-    Train. Fuel. Dominate.
+    {t.card_1?.heading}
   </h2>
   <p className="global-text-style leading-relaxed">
-    Promolecules™ is a high-end sports nutrition brand for serious athletes.
+    {t.card_1?.text}
   </p>
 </div>
           </motion.div>
@@ -76,7 +78,7 @@ const WhoWeAreSection = () => {
           w-full max-w-[200px] sm:max-w-fit justify-center"
       >
         <span className="font-bold text-[11px] sm:text-xs tracking-[0.15em] uppercase whitespace-nowrap">
-          View More
+          {t.cta}
         </span>
         <div className="bg-white/10 group-hover:bg-red-600 p-1.5 sm:p-2 rounded-full transition-colors duration-300 flex-shrink-0">
           <ArrowRight size={14} className="text-white sm:w-[18px] sm:h-[18px]" />
@@ -91,10 +93,10 @@ const WhoWeAreSection = () => {
   className="hidden lg:block hover:scale-[1.03] transition-transform duration-300 px-2"
 >
   <h2 className="text-red-600 font-extrabold uppercase text-xl mb-3">
-    No Secrets. Just Pure Power.
+    {t.card_2?.heading}
   </h2>
   <p className="global-text-style leading-relaxed">
-    Every product meets high USA quality standards and uses clear component lists and clinical doses.
+    {t.card_2?.text}
   </p>
 </motion.div>
 

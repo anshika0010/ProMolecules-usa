@@ -1,0 +1,154 @@
+{
+  "merchPage": {
+    "hero": {
+      "titleLine1": "El poder que puedes",
+      "titleLine2": "llevar puesto",
+      "description": "Ropa deportiva prémium diseñada para ofrecer resistencia y durabilidad. Creada para quienes superan sus límites y exigen el máximo rendimiento."
+    },
+    "products": [
+      {
+        "id": 1,
+        "name": "Father Of Insane Skell",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt1.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Agotado",
+        "buttonText": "AGOTADO",
+        "availableButtonText": "VER AHORA"
+      },
+      {
+        "id": 2,
+        "name": "Father Of Insane Fusion",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt2.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Agotado",
+        "buttonText": "AGOTADO",
+        "availableButtonText": "VER AHORA"
+      },
+      {
+        "id": 3,
+        "name": "Father Of Insane Nitro",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt3.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Agotado",
+        "buttonText": "AGOTADO",
+        "availableButtonText": "VER AHORA"
+      }
+    ],
+    "collection": {
+      "subtitle": "Gótico oscuro",
+      "heading": "Colección",
+      "description": "La colección de estilo gótico oscuro no es moda: es rebeldía hecha tejido. Nacida de las sombras, inspirada en el caos y diseñada para quienes dominan su propia oscuridad.",
+      "buttonText": "Explorar ahora"
+    }
+  },
+  "productDetail": {
+    "productTitle": "REGRESO DEL CRÁNEO INSANO",
+    "ratingAlt": "Valoración",
+    "descriptionHeading": "DESCRIPCIÓN",
+    "description": "Diseñada para quienes lideran, no siguen. Esta camiseta prémium de algodón ofrece una comodidad inigualable con un diseño atrevido y lleno de confianza.",
+    "colorLabel": "COLOR - NEGRO",
+    "colorName": "Negro",
+    "quantityLabel": "CANTIDAD",
+    "price": "$49.00",
+    "oldPrice": "$50.00",
+    "nextImage": "Imagen siguiente",
+    "prevImage": "Imagen anterior"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Father Of Insane Skell",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt1.webp",
+      "link": "/merch/detailpage"
+    },
+    {
+      "id": 2,
+      "name": "Father Of Insane Fusion",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt2.webp",
+      "link": "/merch/detailpage"
+    },
+    {
+      "id": 3,
+      "name": "Father Of Insane Nitro",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt3.webp",
+      "link": "/merch/detailpage"
+    }
+  ],
+  "trendingCollection": {
+    "introText": "Mantente a la vanguardia con diseños atrevidos, comodidad prémium y estilos que marcan tendencia. Hecha para quienes no siguen la moda, sino que la crean.",
+    "heading": "Camisetas en tendencia",
+    "subheading": "Colección",
+    "description": "Mantente a la vanguardia con diseños atrevidos, comodidad prémium y estilos que marcan tendencia. Hecha para quienes no siguen la moda, sino que la crean.",
+    "viewNow": "VER AHORA"
+  },
+  "productInformation": {
+    "heading": "INFORMACIÓN DEL PRODUCTO",
+    "items": [
+      {
+        "title": "ESTILO",
+        "content": "Corte holgado de estilo urbano con un llamativo estampado gráfico de calavera. Diseñada para ofrecer un aspecto fuerte y seguro."
+      },
+      {
+        "title": "MATERIAL Y CUIDADOS",
+        "content": "100 % algodón prémium. Lavar a máquina con agua fría. No usar lejía. Planchar del revés."
+      },
+      {
+        "title": "MEDIDAS",
+        "content": "Disponible en tallas S, M, L y XL. Corte holgado. Consulta la guía de tallas para conocer las medidas exactas."
+      },
+      {
+        "title": "CARACTERÍSTICAS Y ESPECIFICACIONES",
+        "content": "Estampado serigráfico de alta calidad, tejido transpirable, costuras resistentes y diseño que conserva su color."
+      }
+    ],
+    "headingFirst": "INFORMACIÓN",
+    "headingSecond": "DEL PRODUCTO"
+  },
+  "customerReviews": {
+    "heading": "OPINIONES DE LOS CLIENTES",
+    "rating": "4.7",
+    "ratingAlt": "Valoración por estrellas",
+    "basedOn": "Basado en 98 valoraciones",
+    "ratingSince": "Valoraciones desde el 7 de diciembre de 2025",
+    "topOtherBrand": "Otras marcas principales: valoración de 4.2",
+    "starsLabel": "Estrellas",
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 42
+      },
+      {
+        "stars": 4,
+        "count": 32
+      },
+      {
+        "stars": 3,
+        "count": 17
+      },
+      {
+        "stars": 2,
+        "count": 4
+      },
+      {
+        "stars": 1,
+        "count": 2
+      }
+    ],
+    "totalRatings": 98
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "heading": "Produk",
+  "categories": [
+    {
+      "value": "ALL",
+      "label": "Semua"
+    },
+    {
+      "value": "PRE-WORKOUT",
+      "label": "Pra-Senaman"
+    },
+    {
+      "value": "FAT BURNER",
+      "label": "Pembakar Lemak"
+    },
+    {
+      "value": "ATP BOOSTER",
+      "label": "Penggalak ATP"
+    },
+    {
+      "value": "MUSCLE HYDRATION",
+      "label": "Penghidratan Otot"
+    }
+  ],
+  "search": "Cari...",
+  "sort": "Susun",
+  "sortOptions": {
+    "default": "Susun",
+    "priceLow": "Harga: Rendah ke Tinggi",
+    "priceHigh": "Harga: Tinggi ke Rendah"
+  },
+  "view": "Paparan",
+  "noResults": "Tiada hasil ditemui",
+  "tryDifferentSearch": "Cuba istilah carian yang lain",
+  "detail": {
+    "flavours": "PERISA",
+    "servings": "HIDANGAN",
+    "buyNowOn": "BELI SEKARANG DI",
+    "buyOn": "Beli di",
+    "launchingSoon": "Akan Dilancarkan...",
+    "launchingSoonText": "Produk ini akan tersedia dalam talian tidak lama lagi.",
+    "whatsappEarlyAccess": "Hubungi kami di WhatsApp untuk akses awal",
+    "supplementFacts": "Fakta Suplemen",
+    "productAlt": "produk",
+    "thumbnailAlt": "gambar kecil",
+    "sections": {
+      "description": "PENERANGAN",
+      "keyBenefits": "MANFAAT UTAMA",
+      "whyChooseUs": "MENGAPA PILIH KAMI?",
+      "howToUse": "CARA PENGGUNAAN",
+      "safetyInformation": "MAKLUMAT KESELAMATAN",
+      "whoShouldUse": "SIAPA YANG SESUAI MENGGUNAKAN"
+    },
+    "moreProductsHeading": "Jangan Terlepas – Beli & Jimat",
+    "notFound": "Produk Tidak Ditemui"
+  },
+  "faq": {
+    "badge": "Soalan Lazim",
+    "heading": "Semua Yang Anda Perlu Tahu Tentang",
+    "description": "Dapatkan jawapan kepada soalan paling lazim tentang bahan, penggunaan, manfaat, keselamatan dan prestasi."
+  },
+  "reviews": {
+    "heading": "ULASAN PELANGGAN",
+    "basedOn": "Berdasarkan",
+    "review": "Ulasan",
+    "reviews": "Ulasan",
+    "averageRating": "Purata penilaian pelanggan",
+    "star": "BINTANG",
+    "stars": "BINTANG",
+    "viewMore": "LIHAT LAGI...",
+    "noReviews": "Tiada ulasan ditemui untuk produk ini."
+  },
+  "reviewModal": {
+    "heading": "Tulis Ulasan",
+    "name": "Nama Anda",
+    "email": "E-mel Anda",
+    "review": "Tulis ulasan anda...",
+    "submit": "Hantar Ulasan",
+    "close": "Tutup"
+  },
+  "searchModal": {
+    "placeholder": "Cari produk...",
+    "typeToSearch": "Taip untuk mencari produk",
+    "noResults": "Tiada produk ditemui untuk",
+    "result": "hasil",
+    "results": "hasil",
+    "escToClose": "ESC untuk tutup",
+    "clear": "Kosongkan carian",
+    "close": "Tutup carian"
+  }
+}

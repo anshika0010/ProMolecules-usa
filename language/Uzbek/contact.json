@@ -1,0 +1,90 @@
+{
+  "contactHero": {
+    "heading": {
+      "first": "Biz bilan bog‘laning",
+      "second": "Aloqa"
+    },
+    "email": "contact@promolecules.com",
+    "tagline": "Keling, birgalikda ajoyib narsalar yaratamiz",
+    "features": [
+      {
+        "title": "Quvvat",
+        "description": "Nerv impulslarini kuchaytirish va mushaklar samaradorligini oshirish uchun ishlab chiqilgan."
+      },
+      {
+        "title": "Tarkib",
+        "description": "Muvozanatli stimulyatsiyani ta’minlaydigan, puxta tuzilgan ingredientlar tarkibi."
+      },
+      {
+        "title": "Ishlab chiqish",
+        "description": "Tadqiqot va sinovlarga asoslangan, samaradorlikni ustuvor maqsad qilgan holda yaratilgan."
+      }
+    ]
+  },
+  "contactForm": {
+    "component": "ContactForm",
+    "leftSection": {
+      "heading": [
+        "SHUNCHAKI",
+        "YUBORING."
+      ],
+      "descriptions": [
+        "Mahsulotlar bo‘yicha maslahat va hamkorlik masalalarida Promolecules™ bilan bog‘laning.",
+        "Biz bilan elektron pochta yoki rasmiy ijtimoiy tarmoqlarimiz orqali bog‘lanishingiz mumkin."
+      ],
+      "phone": "+1 (786) 789-2121",
+      "email": "info@promolecules.com"
+    },
+    "form": {
+      "heading": "Biz bilan bog‘laning",
+      "fields": {
+        "name": {
+          "label": "TO‘LIQ ISM",
+          "placeholder": "Ismingizni kiriting",
+          "validation": {
+            "required": "Ism kiritilishi shart",
+            "letters_only": "Faqat harflardan foydalanish mumkin"
+          }
+        },
+        "phone": {
+          "label": "TELEFON RAQAMI",
+          "placeholder": "Telefon raqamingizni kiriting",
+          "validation": {
+            "required": "Telefon raqami kiritilishi shart",
+            "invalid": "Yaroqli telefon raqamini kiriting"
+          }
+        },
+        "email": {
+          "label": "ELEKTRON POCHTA",
+          "placeholder": "Elektron pochta manzilingizni kiriting",
+          "validation": {
+            "required": "Elektron pochta manzili kiritilishi shart",
+            "invalid": "Elektron pochta manzili noto‘g‘ri"
+          }
+        },
+        "subject": {
+          "label": "MAVZU",
+          "placeholder": "Xabaringizni kiriting",
+          "validation": {
+            "required": "Xabar kiritilishi shart",
+            "min_length": "Xabar kamida 10 ta belgidan iborat bo‘lishi kerak"
+          }
+        }
+      },
+      "submit_button": "Xabarni yuborish"
+    },
+    "successPopup": {
+      "heading": "Xabar yuborildi",
+      "description": "Rahmat! Tez orada siz bilan bog‘lanamiz."
+    },
+    "errorPopup": {
+      "description": "Nimadir xato ketdi. Iltimos, qayta urinib ko‘ring."
+    }
+  },
+  "ctaSection": {
+    "heading": {
+      "first": "Boshlash vaqti keldi",
+      "second": "Hamkorlik"
+    }
+  }
+}

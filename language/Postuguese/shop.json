@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "title": "Father of Insane",
+      "image": "/father-of-insane-pre-workout-65-Servings.webp",
+      "price": "$1599",
+      "description": "Nitrox aumenta a potência explosiva e a resistência com tecnologia avançada de óxido nítrico.",
+      "thumbnail": "/father-of-insane.webp",
+      "link": "/product/father-of-insane"
+    },
+    {
+      "title": "Warflex",
+      "image": "/warflex-pre-workout-35-Servings.webp",
+      "price": "$1899",
+      "description": "Pré-treino híbrido desenvolvido para desempenho de verdade. Combina energia, pump muscular e foco em uma fórmula equilibrada de alta estimulação.",
+      "thumbnail": "/warflex-thumbnail.webp",
+      "link": "/product/warflex"
+    },
+    {
+      "title": "Inopower-R",
+      "image": "/promolecules-inpower-r.webp",
+      "price": "$2099",
+      "description": "Energia limpa sem dependência de cafeína. Desenvolvido com base no sistema energético ATP. Auxilia na resistência em nível celular.",
+      "thumbnail": "/inpower.webp",
+      "link": "/product/inopower-r/"
+    },
+    {
+      "title": "Thermo Nuke XT",
+      "image": "/thermonuke.png",
+      "price": "$1799",
+      "description": "Desenvolvido para fases intensas de perda de gordura. Atua no metabolismo, não apenas na estimulação. Fórmula termogênica que aumenta a produção de calor.",
+      "thumbnail": "/thermo-thumbnail.webp",
+      "link": "/product/thermo-nuke-xt/"
+    },
+    {
+      "title": "Hydrapump+",
+      "image": "/hydra.webp",
+      "price": "$1799",
+      "description": "Hydrapump+ é um sistema líquido de pump muscular à base de glicerol, desenvolvido para melhorar o desempenho muscular.",
+      "thumbnail": "/hydrapump-thumbnail.webp",
+      "link": "/product/hydrapump"
+    }
+  ],
+  "buttons": {
+    "viewDetails": "Ver Detalhes"
+  },
+  "trending_category_section": {
+    "heading": "Categorias em Alta",
+    "description": "No mercado fitness atual, os suplementos estão por toda parte, mas nem todos são desenvolvidos com o mesmo padrão de qualidade. Muitas marcas de baixo custo comprometem a pureza dos ingredientes, utilizam combinações com dosagens insuficientes ou adquirem matérias-primas de procedência não verificada, que não oferecem resultados reais.",
+    "categories": [
+      {
+        "title": "Pré-Treino",
+        "desc": "Combinação de cafeína de múltiplas fontes e nootrópicos para ativar o sistema nervoso central, melhorar o foco e manter a força.",
+        "image": "/father-of-insane-warflex-products.webp",
+        "hoverImage": "/promolecules0father-of-insane-warflex-combo-offers.webp",
+        "link": "/product?category=PRE-WORKOUT"
+      },
+      {
+        "title": "Queimador de Gordura",
+        "desc": "Combinação de cafeína, ioimbina e agentes termogênicos para estimular o metabolismo, auxiliar na queima de gordura e aumentar a produção de energia.",
+        "image": "/product2.webp",
+        "hoverImage": "/hoverproduct.webp",
+        "link": "/product?category=FAT%20BURNER"
+      },
+      {
+        "title": "Potencializador de ATP",
+        "desc": "Combinação de cafeína, ioimbina e agentes termogênicos para auxiliar o metabolismo e aumentar a produção de energia.",
+        "image": "/product2.webp",
+        "hoverImage": "/hoverproduct.webp",
+        "link": "/product?category=ATP%20BOOSTER"
+      },
+      {
+        "title": "Hidratação Muscular",
+        "desc": "Glicerol líquido, citrulina e sal rosa para hidratação profunda, maior volume muscular e melhor resistência.",
+        "image": "/promolecules-hydrapump-new.webp",
+        "hoverImage": "/promolecules-hydrapump.webp",
+        "link": "/product?category=MUSCLE%20HYDRATION"
+      },
+      {
+        "title": "Produtos da Marca",
+        "desc": "Roupas esportivas e acessórios essenciais para o treino, desenvolvidos para quem leva a cultura da academia a sério e representa a disciplina atlética.",
+        "image": "/father-of-insane-fusion-merch-product.webp",
+        "hoverImage": "/father-of-insane-fusion.webp",
+        "link": "/merch"
+      }
+    ]
+  }
+}

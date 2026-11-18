@@ -1,0 +1,100 @@
+{
+  "blogsSection": {
+    "heading": "Блоги",
+    "description": "Добро пожаловать в Promolecules™ — новое поколение фитнес-науки, где каждая формула разработана с единственной целью: раскрыть весь потенциал вашего организма.",
+    "blogs": [
+      {
+        "id": 1,
+        "title": "Сила постоянства: как приверженность своим целям может изменить вашу жизнь",
+        "description": "Откройте для себя преобразующую силу постоянства в достижении целей, связанных со здоровьем и физической формой. Узнайте, как сформировать устойчивые привычки, ведущие к долгосрочному успеху.",
+        "image": "/blog1.png"
+      },
+      {
+        "id": 2,
+        "title": "Подпитывайте свой организм: секреты правильного питания",
+        "description": "Питание — это сила. Узнайте, как обеспечить организм необходимыми питательными веществами, повысить спортивные результаты и раскрыть весь свой потенциал с помощью научно обоснованных стратегий питания.",
+        "image": "/blog2.png"
+      },
+      {
+        "id": 3,
+        "title": "Высыпайтесь: важная часть вашего пути к успеху",
+        "description": "Секрет высоких спортивных результатов, о котором часто забывают, — качественный сон. Узнайте, как полноценный отдых влияет на восстановление, рост мышц и общую спортивную производительность.",
+        "image": "/blog3.png"
+      }
+    ],
+    "buttons": {
+      "readMore": "Читать далее",
+      "viewAll": "Посмотреть все"
+    }
+  },
+  "page": {
+    "blog_listing": {
+      "hero_tagline": "Блог Promolecules — место, где спортивные результаты встречаются с правильным мышлением.",
+      "hero_title": [
+        "Все блоги",
+        "о фитнесе"
+      ],
+      "categories": {
+        "view_all": "Посмотреть все"
+      },
+      "empty_state": "Статьи не найдены.",
+      "loading": "Загрузка дополнительных статей...",
+      "loaded": "Все статьи загружены ✓",
+      "by": "Автор:"
+    },
+    "blog_detail": {
+      "not_found_title": "Блог не найден",
+      "not_found_description": "Эта статья не существует или была удалена.",
+      "category_fallback": "Блог",
+      "author_label": "Автор",
+      "published_prefix": "Опубликовано",
+      "back_to_all_blogs": "Все блоги",
+      "brand": "Promolecules"
+    },
+    "seo_fallbacks": {
+      "not_found_title": "Блог не найден",
+      "not_found_description": "Не удалось найти эту запись в блоге.",
+      "default_title": "Блог",
+      "default_brand_author": "Earthmaa Foods"
+    },
+    "preserved": {
+      "format_date_locale": "en-GB",
+      "date_format_options": [
+        "year",
+        "month",
+        "day"
+      ],
+      "blog_detail_route": "/blog/[slug]",
+      "canonical_domain": "https://www.earthmaafoods.com",
+      "fallback_og_image": "https://www.earthmaafoods.com/images/earthmaalogo-blue.webp",
+      "listing_hero_image": "/promolecules-bloghero-benner-image.webp",
+      "detail_fallback_image": "/blogdummy.webp",
+      "dummy_image": "/dummyimage.webp",
+      "blogs_per_page": 9,
+      "category_filter_logic": "unchanged",
+      "infinite_scroll": "IntersectionObserver; rootMargin 100px; threshold 0.1",
+      "metadata_fields": [
+        "title",
+        "description",
+        "keywords",
+        "authors",
+        "robots",
+        "alternates.canonical",
+        "openGraph",
+        "twitter"
+      ],
+      "json_ld_schema": "blog.seo.schema",
+      "dynamic_blog_fields": [
+        "blog.name",
+        "blog.slug",
+        "blog.category.name",
+        "blog.publish_date",
+        "blog.author.name",
+        "blog.featured_image",
+        "blog.description",
+        "blog.tags"
+      ],
+      "technical_code": "Сохраняйте исходный код React/Next.js, импорты, хуки, компоненты, маршруты, API-вызовы, SEO-логику и CSS-классы без изменений. Переводите только статический текст пользовательского интерфейса, видимый посетителям сайта."
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "title": "Father of Insane",
+      "image": "/father-of-insane-pre-workout-65-Servings.webp",
+      "price": "$1599",
+      "description": "Nitrox améliore la puissance explosive et l'endurance grâce à une technologie avancée d'oxyde nitrique.",
+      "thumbnail": "/father-of-insane.webp",
+      "link": "/product/father-of-insane"
+    },
+    {
+      "title": "Warflex",
+      "image": "/warflex-pre-workout-35-Servings.webp",
+      "price": "$1899",
+      "description": "Un pré-entraînement hybride conçu pour des performances optimales. Combine énergie, congestion musculaire et concentration dans une formule équilibrée à forte stimulation.",
+      "thumbnail": "/warflex-thumbnail.webp",
+      "link": "/product/warflex"
+    },
+    {
+      "title": "Inopower-R",
+      "image": "/promolecules-inpower-r.webp",
+      "price": "$2099",
+      "description": "Une énergie pure sans dépendance à la caféine. Basé sur le système énergétique ATP. Favorise l'endurance au niveau cellulaire.",
+      "thumbnail": "/inpower.webp",
+      "link": "/product/inopower-r/"
+    },
+    {
+      "title": "Thermo Nuke XT",
+      "image": "/thermonuke.png",
+      "price": "$1799",
+      "description": "Conçu pour les phases de perte de graisse intensive. Cible le métabolisme, et pas seulement la stimulation. Une formule thermogénique qui augmente la production de chaleur.",
+      "thumbnail": "/thermo-thumbnail.webp",
+      "link": "/product/thermo-nuke-xt/"
+    },
+    {
+      "title": "Hydrapump+",
+      "image": "/hydra.webp",
+      "price": "$1799",
+      "description": "Hydrapump+ est un système de congestion musculaire à base de glycérol liquide, conçu pour optimiser les performances musculaires.",
+      "thumbnail": "/hydrapump-thumbnail.webp",
+      "link": "/product/hydrapump"
+    }
+  ],
+  "buttons": {
+    "viewDetails": "Voir les détails"
+  },
+  "trending_category_section": {
+    "heading": "Catégories tendance",
+    "description": "Sur le marché actuel du fitness, les compléments alimentaires sont partout, mais ils ne se valent pas tous. De nombreuses marques à bas prix font des compromis sur la pureté des ingrédients, utilisent des mélanges sous-dosés ou s'approvisionnent en matières premières non vérifiées qui n'offrent aucun résultat réel.",
+    "categories": [
+      {
+        "title": "Pré-entraînement",
+        "desc": "Association de plusieurs sources de caféine et de nootropiques pour activer le système nerveux central, améliorer la concentration et maintenir la force.",
+        "image": "/father-of-insane-warflex-products.webp",
+        "hoverImage": "/promolecules0father-of-insane-warflex-combo-offers.webp",
+        "link": "/product?category=PRE-WORKOUT"
+      },
+      {
+        "title": "Brûle-graisses",
+        "desc": "Association de caféine, de yohimbine et d'ingrédients thermogéniques pour stimuler le métabolisme, favoriser la combustion des graisses et augmenter la production d'énergie.",
+        "image": "/product2.webp",
+        "hoverImage": "/hoverproduct.webp",
+        "link": "/product?category=FAT%20BURNER"
+      },
+      {
+        "title": "Booster d'ATP",
+        "desc": "Association de caféine, de yohimbine et d'ingrédients thermogéniques pour soutenir le métabolisme et la production d'énergie.",
+        "image": "/product2.webp",
+        "hoverImage": "/hoverproduct.webp",
+        "link": "/product?category=ATP%20BOOSTER"
+      },
+      {
+        "title": "Hydratation musculaire",
+        "desc": "Association de glycérol liquide, de citrulline et de sel rose pour une hydratation profonde, une meilleure congestion musculaire et une endurance accrue.",
+        "image": "/promolecules-hydrapump-new.webp",
+        "hoverImage": "/promolecules-hydrapump.webp",
+        "link": "/product?category=MUSCLE%20HYDRATION"
+      },
+      {
+        "title": "Articles et accessoires",
+        "desc": "Des vêtements axés sur la performance et des essentiels d'entraînement conçus pour la culture de la salle de sport et incarnant la discipline sportive.",
+        "image": "/father-of-insane-fusion-merch-product.webp",
+        "hoverImage": "/father-of-insane-fusion.webp",
+        "link": "/merch"
+      }
+    ]
+  }
+}

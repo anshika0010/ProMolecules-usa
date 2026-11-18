@@ -1,5 +1,6 @@
 import BlogServer from "./BlogServer";
 import { getSEOMetadata, getJSONLD } from "@/lib/seo";
+import Messages from "@/lib/i18n/Messages";
 export const metadata = getSEOMetadata("blog");
 export default function BlogPage() {
      const jsonld = getJSONLD("blog");
@@ -12,5 +13,5 @@ export default function BlogPage() {
           dangerouslySetInnerHTML={{ __html: jsonld }}
         />
       )}
-  <BlogServer /> </>;
+  <Messages ns={["blog"]} locale="en"><BlogServer /></Messages> </>;
 }

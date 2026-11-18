@@ -1,0 +1,100 @@
+{
+  "blogsSection": {
+    "heading": "Bloglar",
+    "description": "Promolecules™ ga xush kelibsiz! Bu fitnes ilm-fanining yangi avlodi bo‘lib, har bir formulamiz tanangizning to‘liq salohiyatini ochib berish uchun maxsus ishlab chiqilgan.",
+    "blogs": [
+      {
+        "id": 1,
+        "title": "Izchillik kuchi: Qat’iyatli bo‘lish hayotingizni qanday o‘zgartirishi mumkin",
+        "description": "Salomatlik va fitnes maqsadlaringizga erishishda izchillikning o‘zgartiruvchi kuchini kashf eting. Uzoq muddatli muvaffaqiyatga olib keladigan barqaror odatlarni qanday shakllantirishni o‘rganing.",
+        "image": "/blog1.png"
+      },
+      {
+        "id": 2,
+        "title": "Tanangizni quvvatlantiring: To‘g‘ri ovqatlanish sirlari",
+        "description": "Oziqlanish — bu kuch. Tanangizni kerakli ozuqa moddalari bilan qanday ta’minlash, samaradorlikni oshirish va ilmiy asoslangan ovqatlanish strategiyalari orqali to‘liq salohiyatingizni ochishni o‘rganing.",
+        "image": "/blog2.png"
+      },
+      {
+        "id": 3,
+        "title": "Yetarlicha uxlang: Yo‘lingizdagi muhim omil",
+        "description": "Yuqori sport natijalarining yashirin siri — sifatli uyqu. To‘g‘ri dam olish tiklanish, mushaklar o‘sishi va umumiy sport samaradorligingizga qanday ta’sir qilishini kashf eting.",
+        "image": "/blog3.png"
+      }
+    ],
+    "buttons": {
+      "readMore": "Batafsil o‘qish",
+      "viewAll": "Barchasini ko‘rish"
+    }
+  },
+  "page": {
+    "blog_listing": {
+      "hero_tagline": "Promolecules blogi — bu sport samaradorligi va fikrlash tarzi uchrashadigan maskan.",
+      "hero_title": [
+        "Barcha fitnes",
+        "bloglari"
+      ],
+      "categories": {
+        "view_all": "Barchasini ko‘rish"
+      },
+      "empty_state": "Hech qanday maqola topilmadi.",
+      "loading": "Ko‘proq maqolalar yuklanmoqda...",
+      "loaded": "Barcha maqolalar yuklandi ✓",
+      "by": "Muallif:"
+    },
+    "blog_detail": {
+      "not_found_title": "Blog topilmadi",
+      "not_found_description": "Bu maqola mavjud emas yoki o‘chirib tashlangan.",
+      "category_fallback": "Blog",
+      "author_label": "Muallif",
+      "published_prefix": "Nashr qilingan",
+      "back_to_all_blogs": "Barcha bloglar",
+      "brand": "Promolecules"
+    },
+    "seo_fallbacks": {
+      "not_found_title": "Blog topilmadi",
+      "not_found_description": "Ushbu blog maqolasini topib bo‘lmadi.",
+      "default_title": "Blog",
+      "default_brand_author": "Earthmaa Foods"
+    },
+    "preserved": {
+      "format_date_locale": "en-GB",
+      "date_format_options": [
+        "year",
+        "month",
+        "day"
+      ],
+      "blog_detail_route": "/blog/[slug]",
+      "canonical_domain": "https://www.earthmaafoods.com",
+      "fallback_og_image": "https://www.earthmaafoods.com/images/earthmaalogo-blue.webp",
+      "listing_hero_image": "/promolecules-bloghero-benner-image.webp",
+      "detail_fallback_image": "/blogdummy.webp",
+      "dummy_image": "/dummyimage.webp",
+      "blogs_per_page": 9,
+      "category_filter_logic": "unchanged",
+      "infinite_scroll": "IntersectionObserver; rootMargin 100px; threshold 0.1",
+      "metadata_fields": [
+        "title",
+        "description",
+        "keywords",
+        "authors",
+        "robots",
+        "alternates.canonical",
+        "openGraph",
+        "twitter"
+      ],
+      "json_ld_schema": "blog.seo.schema",
+      "dynamic_blog_fields": [
+        "blog.name",
+        "blog.slug",
+        "blog.category.name",
+        "blog.publish_date",
+        "blog.author.name",
+        "blog.featured_image",
+        "blog.description",
+        "blog.tags"
+      ],
+      "technical_code": "Asl React/Next.js kodi, importlar, hooklar, komponentlar, marshrutlar, API chaqiruvlari, SEO logikasi va CSS klasslarini o‘zgartirmasdan saqlang. Faqat mijozlarga ko‘rinadigan statik UI matnlarini ingliz tiliga tarjima qiling."
+    }
+  }
+}

@@ -1,23 +1,19 @@
 "use client";
 
 import Image from "next/image";
+import { useT } from "@/lib/i18n/client";
 
-export default function PerformanceShowcase() {
-  const data = [
+const LAYOUT = [
     {
       id: 1,
       image: "/promolecules-about.webp",
       alt: "Left Performance",
-      text: `Stop chasing the "clown energy" of over-caffeinated gimmicks. Promolecules is performance-engineered CNS activation, not just a chaotic stimulant spike.`,
-      tag: "— We Are Performance First Nutrition",
-      align: "text-left",
+      align: "text-start",
     },
     {
       id: 2,
       image: "/promolecules-about-background-image.webp",
       alt: "Center Athlete",
-      text: `Engineered for the disciplined. This is the Father of performance architecture — built for those who demand more from every session.`,
-      tag: "— Committed To Performance, Quality & Real Results",
       align: "text-center",
       center: true,
     },
@@ -25,12 +21,14 @@ export default function PerformanceShowcase() {
       id: 3,
       image: "/promolecules-aboutimage.webp",
       alt: "promolecules-aboutimage",
-      text: `More than a product — a culture of strength. Join a community built on discipline, grit, and the relentless pursuit of elite performance.`,
-      tag: "— We Are A Strength Driven Community",
-      align: "text-right md:text-right sm:text-left",
+      align: "text-end md:text-end sm:text-start",
       hex: true,
     },
-  ];
+];
+
+export default function PerformanceShowcase() {
+  const items = useT("about")["who-we-are"]?.performanceShowcase || [];
+  const data = items.map((item, i) => ({ ...LAYOUT[i], ...item }));
 
   return (
     <section className="relative  bg-black overflow-hidden">

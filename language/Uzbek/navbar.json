@@ -1,0 +1,65 @@
+{
+  "navbar": {
+    "navigation_links": [
+      {
+        "label": "Bosh sahifa",
+        "href": "/"
+      },
+      {
+        "label": "Do‘kon",
+        "href": "/shop"
+      },
+      {
+        "label": "Biz haqimizda",
+        "href": "/about"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "Biz bilan bog‘laning",
+        "href": "/contact-us"
+      }
+    ],
+    "logo_alt": "Promolecules logotipi",
+    "accessibility_labels": {
+      "search_products": "Mahsulotlarni qidirish",
+      "view_shopping_cart": "Xarid savatini ko‘rish",
+      "close_menu": "Menyuni yopish",
+      "open_menu": "Menyuni ochish",
+      "close_cart": "Xarid savatini yopish"
+    },
+    "mobile_drawer": {
+      "search": "Qidirish",
+      "cart": "Xarid savati"
+    },
+    "cart_drawer": {
+      "title": "Xarid savatingiz",
+      "working_heading": "Biz bu ustida ishlayapmiz",
+      "description": "Xarid savati bo‘limimiz hozirda ishlab chiqilmoqda. Tez orada yana tashrif buyuring — sizni ajoyib yangiliklar kutmoqda.",
+      "coming_soon": "Tez orada",
+      "browse_shop": "Do‘konni ko‘rish"
+    },
+    "preserved": {
+      "technical_code": "React/Next.js komponentlari, hooklar, Framer Motion, ikonlar, holatlar, hodisa ishlov beruvchilari, sahifani aylantirish xatti-harakatlari, CSS klasslari va SearchModal o‘zgartirilmasdan saqlansin. Faqat foydalanuvchilarga ko‘rinadigan statik matnlar tarjima qilinsin.",
+      "routes": [
+        "/",
+        "/shop",
+        "/about",
+        "/blog",
+        "/contact-us"
+      ],
+      "logo_image": "/promolecules-logo.webp",
+      "cart_status": "Xarid savati interfeysida hozirda 'Ishlab chiqilmoqda' xabari ko‘rsatiladi; uning mavjud ishlash tartibi saqlansin.",
+      "scroll_behavior": "Sahifa 60 pikseldan ko‘proq pastga aylantirilganda navigatsiya paneli yashirilsin, yuqoriga aylantirilganda esa yana ko‘rsatilsin.",
+      "body_scroll_lock": "Xarid savati yoki mobil menyu ochiq bo‘lganida sahifaning aylantirilishi bloklansin."
+    },
+    "country_selector": {
+      "button": "DAVLAT",
+      "aria_label": "Davlatingizni tanlang",
+      "search_placeholder": "Davlatni qidirish...",
+      "no_results": "Davlat topilmadi"
+    }
+  }
+}

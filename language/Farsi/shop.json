@@ -1,0 +1,88 @@
+{
+    "products": [
+        {
+            "title": "Father of Insane",
+            "image": "/father-of-insane-pre-workout-65-Servings.webp",
+            "price": "$1599",
+            "description": "نیتروکس با بهره‌گیری از فناوری پیشرفته نیتریک اکسید، قدرت و استقامت انفجاری را افزایش می‌دهد.",
+            "thumbnail": "/father-of-insane.webp",
+            "link": "/product/father-of-insane"
+        },
+        {
+            "title": "Warflex",
+            "image": "/warflex-pre-workout-35-Servings.webp",
+            "price": "$1899",
+            "description": "مکمل پری‌ورک‌اوتترکیبی ساخته‌شده برای عملکرد واقعی. ترکیبی از انرژی، پمپاژ عضلانی (پمپ) و تمرکز با فرمولاسیون محرک بالا و متعادل.",
+            "thumbnail": "/warflex-thumbnail.webp",
+            "link": "/product/warflex"
+        },
+        {
+            "title": "Inopower R",
+            "image": "/promolecules-inpower-r.webp",
+            "price": "$2099",
+            "description": "انرژی پاک بدون وابستگی به کافئین. مبتنی بر سیستم انرژی ATP برای ایجاد استقامت ورزشی در سطح سلولی.",
+            "thumbnail": "/inpower.webp",
+            "link": "/product/inopower-r/"
+        },
+        {
+            "title": "Thermo Nuke XT",
+            "image": "/thermonuke.png",
+            "price": "$1799",
+            "description": "طراحی‌شده برای دوره‌های چربی‌سوزی جدی. متابولیسم را هدف قرار می‌دهد، نه فقط تحریک عصبی را؛ فرمول ترموژنیک برای افزایش تولید حرارت بدن.",
+            "thumbnail": "/thermo-thumbnail.webp",
+            "link": "/product/thermo-nuke-xt/"
+        },
+        {
+            "title": "Hydra Pump+",
+            "image": "/hydra.webp",
+            "price": "$1799",
+            "description": "هایدرا پمپ پلاس یک سیستم پمپاژ عضلانی بر پایه گلیسرول مایع است که برای عملکرد واقعی عضلات ساخته شده است.",
+            "thumbnail": "/hydrapump-thumbnail.webp",
+            "link": "/product/hydrapump"
+        }
+    ],
+    "buttons": {
+        "viewDetails": "مشاهده جزئیات"
+    },
+    "trending_category_section": {
+        "heading": "دسته‌بندی‌های پرطرفدار",
+        "description": "در بازار تناسب اندام امروز، مکمل‌ها همه‌جا هستند، اما همه آن‌ها یکسان ساخته نشده‌اند. بسیاری از برندهای ارزان‌قیمت کیفیت و خلوص مواد اولیه را فدا می‌کنند، از ترکیبات با دوز پایین استفاده می‌کنند یا مواد خام تأییدنشده‌ای را به کار می‌برند که هیچ نتیجه واقعی به همراه ندارند.",
+        "categories": [
+            {
+                "title": "پری‌ورک‌اوت",
+                "desc": "کافئین چندمنبعی + تقویت‌کننده‌های ذهنی (نوتروپیک‌ها) برای فعال‌سازی سیستم عصبی مرکزی، تمرکز بالا و حفظ قدرت.",
+                "image": "/father-of-insane-warflex-products.webp",
+                "hoverImage": "/promolecules0father-of-insane-warflex-combo-offers.webp",
+                "link": "/product?category=PRE-WORKOUT"
+            },
+            {
+                "title": "چربی‌سوز",
+                "desc": "ترکیب کافئین + یوهمبین + ترموژنیک‌ها برای افزایش متابولیسم، چربی‌سوزی و سطح انرژی.",
+                "image": "/product2.webp",
+                "hoverImage": "/hoverproduct.webp",
+                "link": "/product?category=FAT%20BURNER"
+            },
+            {
+                "title": "تقویت‌کننده ATP",
+                "desc": "ترکیب کافئین + یوهمبین + ترموژنیک‌ها برای افزایش متابولیسم، چربی‌سوزی و سطح انرژی.",
+                "image": "/product2.webp",
+                "hoverImage": "/hoverproduct.webp",
+                "link": "/product?category=ATP%20BOOSTER"
+            },
+            {
+                "title": "آبرسانی عضلات",
+                "desc": "گلیسرول مایع + سیترولین + نمک صورتی برای آبرسانی عمیق، پمپاژ عضلانی حجیم‌تر و افزایش استقامت.",
+                "image": "/promolecules-hydrapump-new.webp",
+                "hoverImage": "/promolecules-hydrapump.webp",
+                "link": "/product?category=MUSCLE%20HYDRATION"
+            },
+            {
+                "title": "مرچندایز",
+                "desc": "پوشاک عملکردمحور و ملزومات تمرینی طراحی‌شده برای فرهنگ جدی باشگاه و نمایش نظم و انضباط ورزشی.",
+                "image": "/father-of-insane-fusion-merch-product.webp",
+                "hoverImage": "/father-of-insane-fusion.webp",
+                "link": "/merch"
+            }
+        ]
+    }
+}

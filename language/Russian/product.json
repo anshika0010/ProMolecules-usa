@@ -1,0 +1,91 @@
+{
+  "heading": "Продукты",
+  "categories": [
+    {
+      "value": "ALL",
+      "label": "Все"
+    },
+    {
+      "value": "PRE-WORKOUT",
+      "label": "Предтренировочные комплексы"
+    },
+    {
+      "value": "FAT BURNER",
+      "label": "Жиросжигатели"
+    },
+    {
+      "value": "ATP BOOSTER",
+      "label": "Бустеры АТФ"
+    },
+    {
+      "value": "MUSCLE HYDRATION",
+      "label": "Гидратация мышц"
+    }
+  ],
+  "search": "Поиск...",
+  "sort": "Сортировка",
+  "sortOptions": {
+    "default": "Сортировка",
+    "priceLow": "Цена: от низкой к высокой",
+    "priceHigh": "Цена: от высокой к низкой"
+  },
+  "view": "Вид",
+  "noResults": "Результаты не найдены",
+  "tryDifferentSearch": "Попробуйте другой поисковый запрос",
+  "detail": {
+    "flavours": "ВКУСЫ",
+    "servings": "ПОРЦИИ",
+    "buyNowOn": "КУПИТЬ НА",
+    "buyOn": "Купить на",
+    "launchingSoon": "Скоро в продаже...",
+    "launchingSoonText": "Этот продукт скоро появится в продаже онлайн.",
+    "whatsappEarlyAccess": "Напишите нам в WhatsApp для раннего доступа",
+    "supplementFacts": "Пищевая ценность",
+    "productAlt": "товар",
+    "thumbnailAlt": "миниатюра",
+    "sections": {
+      "description": "ОПИСАНИЕ",
+      "keyBenefits": "КЛЮЧЕВЫЕ ПРЕИМУЩЕСТВА",
+      "whyChooseUs": "ПОЧЕМУ ВЫБИРАЮТ НАС?",
+      "howToUse": "СПОСОБ ПРИМЕНЕНИЯ",
+      "safetyInformation": "ИНФОРМАЦИЯ О БЕЗОПАСНОСТИ",
+      "whoShouldUse": "КОМУ ПОДХОДИТ"
+    },
+    "moreProductsHeading": "Не упустите — покупайте и экономьте",
+    "notFound": "Товар не найден"
+  },
+  "faq": {
+    "badge": "Часто задаваемые вопросы",
+    "heading": "Всё, что нужно знать о",
+    "description": "Ответы на самые частые вопросы: ингредиенты, применение, польза, безопасность и эффективность."
+  },
+  "reviews": {
+    "heading": "ОТЗЫВЫ ПОКУПАТЕЛЕЙ",
+    "basedOn": "На основе",
+    "review": "отзыва",
+    "reviews": "отзывов",
+    "averageRating": "Средняя оценка покупателей",
+    "star": "ЗВЕЗДА",
+    "stars": "ЗВЁЗД",
+    "viewMore": "ПОКАЗАТЬ ЕЩЁ...",
+    "noReviews": "Для этого товара пока нет отзывов."
+  },
+  "reviewModal": {
+    "heading": "Написать отзыв",
+    "name": "Ваше имя",
+    "email": "Ваш e-mail",
+    "review": "Напишите свой отзыв...",
+    "submit": "Отправить отзыв",
+    "close": "Закрыть"
+  },
+  "searchModal": {
+    "placeholder": "Поиск товаров...",
+    "typeToSearch": "Введите запрос для поиска товаров",
+    "noResults": "Товары не найдены по запросу",
+    "result": "результат",
+    "results": "результатов",
+    "escToClose": "ESC — закрыть",
+    "clear": "Очистить поиск",
+    "close": "Закрыть поиск"
+  }
+}

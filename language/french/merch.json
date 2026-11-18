@@ -1,0 +1,154 @@
+{
+  "merchPage": {
+    "hero": {
+      "titleLine1": "La puissance que vous pouvez",
+      "titleLine2": "porter",
+      "description": "Des vêtements de fitness haut de gamme, conçus pour offrir force et durabilité. Pensés pour ceux qui repoussent leurs limites et exigent des performances optimales."
+    },
+    "products": [
+      {
+        "id": 1,
+        "name": "Father Of Insane Skell",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt1.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Rupture de stock",
+        "buttonText": "ÉPUISÉ",
+        "availableButtonText": "VOIR MAINTENANT"
+      },
+      {
+        "id": 2,
+        "name": "Father Of Insane Fusion",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt2.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Rupture de stock",
+        "buttonText": "ÉPUISÉ",
+        "availableButtonText": "VOIR MAINTENANT"
+      },
+      {
+        "id": 3,
+        "name": "Father Of Insane Nitro",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt3.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Rupture de stock",
+        "buttonText": "ÉPUISÉ",
+        "availableButtonText": "VOIR MAINTENANT"
+      }
+    ],
+    "collection": {
+      "subtitle": "Gothique sombre",
+      "heading": "Collection",
+      "description": "La collection gothique sombre n'est pas une simple tendance — c'est une rébellion qui s'exprime à travers le tissu. Née des ombres, inspirée par le chaos et conçue pour ceux qui règnent sur leur propre obscurité.",
+      "buttonText": "Découvrir maintenant"
+    }
+  },
+  "productDetail": {
+    "productTitle": "LE RETOUR DU CRÂNE INSENSÉ",
+    "ratingAlt": "Évaluation",
+    "descriptionHeading": "DESCRIPTION",
+    "description": "Conçu pour ceux qui dirigent, et non pour ceux qui suivent. Ce T-shirt en coton haut de gamme offre un confort inégalé grâce à un design audacieux et affirmé.",
+    "colorLabel": "COULEUR - NOIR",
+    "colorName": "Noir",
+    "quantityLabel": "QUANTITÉ",
+    "price": "$49.00",
+    "oldPrice": "$50.00",
+    "nextImage": "Image suivante",
+    "prevImage": "Image précédente"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Father Of Insane Skell",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt1.webp",
+      "link": "/merch/detailpage"
+    },
+    {
+      "id": 2,
+      "name": "Father Of Insane Fusion",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt2.webp",
+      "link": "/merch/detailpage"
+    },
+    {
+      "id": 3,
+      "name": "Father Of Insane Nitro",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt3.webp",
+      "link": "/merch/detailpage"
+    }
+  ],
+  "trendingCollection": {
+    "introText": "Gardez une longueur d'avance sur les tendances grâce à des designs audacieux, un confort haut de gamme et des styles qui affirment votre personnalité. Créés pour ceux qui ne suivent pas la mode, mais qui la créent.",
+    "heading": "T-shirts tendance",
+    "subheading": "Collection",
+    "description": "Gardez une longueur d'avance sur les tendances grâce à des designs audacieux, un confort haut de gamme et des styles qui affirment votre personnalité. Créés pour ceux qui ne suivent pas la mode, mais qui la créent.",
+    "viewNow": "VOIR MAINTENANT"
+  },
+  "productInformation": {
+    "heading": "INFORMATIONS SUR LE PRODUIT",
+    "items": [
+      {
+        "title": "STYLE",
+        "content": "Coupe streetwear oversize avec un imprimé graphique audacieux représentant un crâne. Conçu pour un look affirmé et plein d'assurance."
+      },
+      {
+        "title": "MATIÈRE ET ENTRETIEN",
+        "content": "100 % coton haut de gamme. Lavage en machine à froid. Ne pas utiliser d'eau de Javel. Repasser sur l'envers."
+      },
+      {
+        "title": "MESURES",
+        "content": "Disponible en tailles S, M, L et XL. Coupe décontractée. Veuillez consulter le guide des tailles pour connaître les mesures exactes."
+      },
+      {
+        "title": "CARACTÉRISTIQUES ET SPÉCIFICATIONS",
+        "content": "Impression sérigraphique de haute qualité, tissu respirant, coutures résistantes et design qui résiste à la décoloration."
+      }
+    ],
+    "headingFirst": "INFORMATIONS",
+    "headingSecond": "PRODUIT"
+  },
+  "customerReviews": {
+    "heading": "AVIS DES CLIENTS",
+    "rating": "4.7",
+    "ratingAlt": "Note en étoiles",
+    "basedOn": "Basé sur 98 évaluations",
+    "ratingSince": "Évaluations depuis le 7 décembre 2025",
+    "topOtherBrand": "Note de 4,2 pour la meilleure autre marque",
+    "starsLabel": "Étoiles",
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 42
+      },
+      {
+        "stars": 4,
+        "count": 32
+      },
+      {
+        "stars": 3,
+        "count": 17
+      },
+      {
+        "stars": 2,
+        "count": 4
+      },
+      {
+        "stars": 1,
+        "count": 2
+      }
+    ],
+    "totalRatings": 98
+  }
+}

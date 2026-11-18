@@ -1,0 +1,154 @@
+{
+  "merchPage": {
+    "hero": {
+      "titleLine1": "Сила, которую можно",
+      "titleLine2": "носить",
+      "description": "Спортивная одежда премиального качества, созданная для силы и долговечности. Разработана для тех, кто выходит за пределы своих возможностей и стремится к максимальным результатам."
+    },
+    "products": [
+      {
+        "id": 1,
+        "name": "Father Of Insane Skell",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt1.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Нет в наличии",
+        "buttonText": "НЕТ В НАЛИЧИИ",
+        "availableButtonText": "ПОСМОТРЕТЬ"
+      },
+      {
+        "id": 2,
+        "name": "Father Of Insane Fusion",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt2.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Нет в наличии",
+        "buttonText": "НЕТ В НАЛИЧИИ",
+        "availableButtonText": "ПОСМОТРЕТЬ"
+      },
+      {
+        "id": 3,
+        "name": "Father Of Insane Nitro",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt3.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Нет в наличии",
+        "buttonText": "НЕТ В НАЛИЧИИ",
+        "availableButtonText": "ПОСМОТРЕТЬ"
+      }
+    ],
+    "collection": {
+      "subtitle": "Тёмная готика",
+      "heading": "Коллекция",
+      "description": "Коллекция в тёмном готическом стиле — это не просто мода, а бунтарство, воплощённое в ткани. Рождённая во мраке, вдохновлённая хаосом и созданная для тех, кто сам управляет своей тьмой.",
+      "buttonText": "Исследовать коллекцию"
+    }
+  },
+  "productDetail": {
+    "productTitle": "ВОЗВРАЩЕНИЕ БЕЗУМНОГО ЧЕРЕПА",
+    "ratingAlt": "Рейтинг",
+    "descriptionHeading": "ОПИСАНИЕ",
+    "description": "Создана для тех, кто ведёт за собой, а не следует за другими. Эта футболка из хлопка премиального качества обеспечивает непревзойдённый комфорт благодаря смелому и уверенному дизайну.",
+    "colorLabel": "ЦВЕТ — ЧЁРНЫЙ",
+    "colorName": "Чёрный",
+    "quantityLabel": "КОЛИЧЕСТВО",
+    "price": "$49.00",
+    "oldPrice": "$50.00",
+    "nextImage": "Следующее изображение",
+    "prevImage": "Предыдущее изображение"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Father Of Insane Skell",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt1.webp",
+      "link": "/merch/detailpage"
+    },
+    {
+      "id": 2,
+      "name": "Father Of Insane Fusion",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt2.webp",
+      "link": "/merch/detailpage"
+    },
+    {
+      "id": 3,
+      "name": "Father Of Insane Nitro",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt3.webp",
+      "link": "/merch/detailpage"
+    }
+  ],
+  "trendingCollection": {
+    "introText": "Будьте впереди модных тенденций благодаря смелому дизайну, премиальному комфорту и выразительному стилю. Создано для тех, кто не следует моде, а задаёт её.",
+    "heading": "ПОПУЛЯРНЫЕ ФУТБОЛКИ",
+    "subheading": "Коллекция",
+    "description": "Будьте впереди модных тенденций благодаря смелому дизайну, премиальному комфорту и выразительному стилю. Создано для тех, кто не следует моде, а задаёт её.",
+    "viewNow": "ПОСМОТРЕТЬ"
+  },
+  "productInformation": {
+    "heading": "ИНФОРМАЦИЯ О ТОВАРЕ",
+    "items": [
+      {
+        "title": "СТИЛЬ",
+        "content": "Свободный уличный крой oversize с выразительным принтом черепа. Создана для смелого и уверенного образа."
+      },
+      {
+        "title": "МАТЕРИАЛ И УХОД",
+        "content": "100% хлопок премиального качества. Машинная стирка в холодной воде. Не отбеливать. Гладить с изнаночной стороны."
+      },
+      {
+        "title": "РАЗМЕРЫ",
+        "content": "Доступные размеры: S, M, L, XL. Свободная посадка. Точные измерения смотрите в таблице размеров."
+      },
+      {
+        "title": "ОСОБЕННОСТИ И ХАРАКТЕРИСТИКИ",
+        "content": "Высококачественная шелкографическая печать, дышащая ткань, прочные швы и устойчивый к выцветанию дизайн."
+      }
+    ],
+    "headingFirst": "ИНФОРМАЦИЯ",
+    "headingSecond": "О ТОВАРЕ"
+  },
+  "customerReviews": {
+    "heading": "ОТЗЫВЫ ПОКУПАТЕЛЕЙ",
+    "rating": "4.7",
+    "ratingAlt": "Рейтинг в звёздах",
+    "basedOn": "На основании 98 оценок",
+    "ratingSince": "Рейтинг с 7 декабря 2025 года",
+    "topOtherBrand": "Рейтинг ведущего другого бренда — 4.2",
+    "starsLabel": "Звёзды",
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 42
+      },
+      {
+        "stars": 4,
+        "count": 32
+      },
+      {
+        "stars": 3,
+        "count": 17
+      },
+      {
+        "stars": 2,
+        "count": 4
+      },
+      {
+        "stars": 1,
+        "count": 2
+      }
+    ],
+    "totalRatings": 98
+  }
+}

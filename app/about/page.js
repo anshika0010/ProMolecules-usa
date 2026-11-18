@@ -1,5 +1,6 @@
 import AboutPage from "@/components/AboutPage";
 import { getSEOMetadata, getJSONLD } from "@/lib/seo";
+import Messages from "@/lib/i18n/Messages";
 export const metadata = getSEOMetadata("about");
 
 
@@ -16,7 +17,7 @@ export default function Page() {
         />
       )}
       
-        <AboutPage/>
+        <Messages ns={["about"]}><AboutPage/></Messages>
     </>
   );
 }

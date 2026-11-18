@@ -1,0 +1,126 @@
+{
+  "page": {
+    "title": "Privacy Policy",
+    "brand": "Promolecules™",
+    "lastUpdated": "10-11-2025",
+    "description": "This Privacy Policy explains how Promolecules™ (\"Company\", \"we\", \"our\", \"us\") collects, uses, and protects your personal data when you visit or make a purchase from our website. We comply with GDPR and CCPA standards to keep your information safe.",
+    "contactNotice": "For any privacy-related questions, reach us at",
+    "contactEmail": "info@promolecules.com",
+    "lastUpdatedLabel": "Last Updated:"
+  },
+  "sections": [
+    {
+      "id": "who-we-are",
+      "eyebrow": "About Us",
+      "title": "1. Who We Are",
+      "content": [
+        "Registered Name: Promolecules™. We ship internationally. This policy applies to all website users and customers."
+      ]
+    },
+    {
+      "id": "information-we-collect",
+      "eyebrow": "What We Gather",
+      "title": "2. Information We Collect",
+      "subsections": [
+        {
+          "title": "Personal Information:",
+          "items": [
+            "Name, email, phone number",
+            "Billing/shipping address",
+            "Order details & inquiries"
+          ]
+        },
+        {
+          "title": "Automatically Collected:",
+          "items": [
+            "IP address, browser, device info",
+            "Pages visited, time spent",
+            "Cookies & tracking data"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "how-we-use-your-data",
+      "eyebrow": "Purpose",
+      "title": "3. How We Use Your Data",
+      "items": [
+        "Process and deliver orders",
+        "Verify payments (Razorpay, PayPal, COD)",
+        "Provide customer support",
+        "Improve site performance",
+        "Send updates & promotions",
+        "Prevent fraud and comply with law"
+      ],
+      "note": "Note: We never sell your personal data."
+    },
+    {
+      "id": "cookies-tracking",
+      "eyebrow": "Tracking Technology",
+      "title": "4. Cookies & Tracking",
+      "content": [
+        "We use cookies and analytics tools (Google & Meta) to improve website functionality, personalize the experience, and measure performance. You can disable cookies in your browser settings anytime."
+      ]
+    },
+    {
+      "id": "payments-sharing",
+      "eyebrow": "Third Parties",
+      "title": "5. Payments & Sharing",
+      "content": [
+        "Payments are securely processed by Razorpay, PayPal, or COD. We may share limited information with:"
+      ],
+      "items": [
+        "Shipping partner (DTDC)",
+        "Payment gateways",
+        "Analytics tools (Google, Meta)"
+      ],
+      "notice": "All partners follow strict confidentiality and data protection rules."
+    },
+    {
+      "id": "data-security",
+      "eyebrow": "Keeping It Safe",
+      "title": "6. Data Security",
+      "items": [
+        "SSL encryption & firewall protection",
+        "Limited access and secure servers",
+        "Regular system monitoring",
+        "While we take strong precautions, no online system is 100% secure."
+      ]
+    },
+    {
+      "id": "your-rights",
+      "eyebrow": "GDPR & CCPA",
+      "title": "7. Your Rights",
+      "content": [
+        "Under GDPR & CCPA, you can request to access, correct, delete, or restrict your data. You may also withdraw consent or opt out of data sharing.",
+        "To exercise your rights, contact:"
+      ],
+      "email": "info@promolecules.com"
+    },
+    {
+      "id": "marketing-communications",
+      "eyebrow": "Staying in Touch",
+      "title": "8. Marketing & Communications",
+      "content": [
+        "By providing your contact information, you agree to receive order updates, product launches, and promotional offers. You can unsubscribe anytime."
+      ]
+    },
+    {
+      "id": "childrens-privacy",
+      "eyebrow": "Age Requirement",
+      "title": "9. Children's Privacy",
+      "content": [
+        "Our website and products are not intended for individuals under 18. We do not knowingly collect data from minors."
+      ]
+    },
+    {
+      "id": "updates-contact",
+      "eyebrow": "We're Here to Help",
+      "title": "10. Updates & Contact",
+      "content": [
+        "We may update this Privacy Policy occasionally. Continued use of our site means you accept these updates."
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "slider": [
+    {
+      "id": 1,
+      "productImage": "/thermo.webp",
+      "title": "Thermo Nuke XT",
+      "backgroundImage": "/thermoo nuke xt new banner .jpg",
+      "mobileBackgroundImage": "/thermo mobile.webp",
+      "link": "/product/thermo-nuke-xt/",
+      "description": "Bakar lemak degil dengan lebih pantas melalui kuasa termogenik, meningkatkan metabolisme, merangsang peluh, mengekalkan tenaga dan menguasai setiap sesi latihan fasa pemotongan lemak."
+    },
+    {
+      "id": 2,
+      "productImage": "/hydra.webp",
+      "title": "HydraPump+",
+      "backgroundImage": "/bannnerrr.jpg",
+      "mobileBackgroundImage": "/hydra-mobile.webp",
+      "link": "/product/hydrapump/",
+      "description": "Nikmati pam otot berasaskan gliserol cecair, kepadatan otot yang maksimum, penghidratan pantas, vaskulariti yang lebih baik dan daya tahan tanpa kafein untuk prestasi terbaik dalam setiap sesi senaman."
+    },
+    {
+      "id": 3,
+      "productImage": "/father-of-insane-pre-workout-65-Servings.webp",
+      "title": "Father of Insane",
+      "backgroundImage": "/Father-of-insane.webp",
+      "mobileBackgroundImage": "/father-of-insane-mob.webp",
+      "link": "/product/father-of-insane/",
+      "description": "Father of Insane™ direka untuk atlet yang memerlukan lebih daripada sekadar tenaga. Ia mengaktifkan sistem saraf pusat, meningkatkan fokus sehingga anda benar-benar tertumpu, dan menghasilkan kuasa letupan yang tinggi sejak set pertama."
+    }
+  ],
+  "who_we_are_section": {
+    "title": "SIAPA KAMI",
+    "subtitle": "Promolecules™ memberi tumpuan kepada prestasi dan membantu anda melangkaui had kemampuan.",
+    "card_1": {
+      "heading": "Berlatih. Bekalkan Tenaga. Kuasai.",
+      "text": "Promolecules™ ialah jenama pemakanan sukan premium untuk atlet yang serius."
+    },
+    "cta": "Lihat Lagi",
+    "card_2": {
+      "heading": "Tiada Rahsia. Hanya Kuasa Tulen.",
+      "text": "Setiap produk memenuhi piawaian kualiti tinggi Amerika Syarikat serta menggunakan senarai ramuan yang telus dan dos yang dikaji secara klinikal."
+    }
+  },
+  "video_hero_alt": "Pelayar anda tidak menyokong tag video ini.",
+  "ultra_high_performance_section": {
+    "main_title": "PRESTASI ULTRA TINGGI",
+    "subtitle": "FORMULA",
+    "features": [
+      {
+        "id": 1,
+        "title": "FOKUS",
+        "description": "Meningkatkan kejernihan mental, kelajuan tindak balas dan fokus mendalam semasa bersenam, dengan kesan yang direka untuk bermula dalam masa 15 minit. Kekalkan tumpuan sepenuhnya."
+      },
+      {
+        "id": 2,
+        "title": "TENAGA",
+        "description": "Rangsangan berbilang fasa untuk pengaktifan pantas dan tenaga yang lancar serta berpanjangan tanpa penurunan mendadak. Berikan tenaga pada setiap set."
+      },
+      {
+        "id": 3,
+        "title": "KEKUATAN",
+        "description": "Menyokong kuasa letupan, daya tahan dan angkatan yang lebih kuat sambil merangsang pengaktifan seluruh badan untuk membantu meningkatkan prestasi otot secara semula jadi."
+      }
+    ]
+  },
+  "warning_tape_section": {
+    "mobile": {
+      "safety_heading": "Maklumat Keselamatan Penting",
+      "safety_text": "PRODUK INI HANYA UNTUK ORANG DEWASA. TIDAK DISYORKAN UNTUK KANAK-KANAK, WANITA HAMIL ATAU WANITA YANG SEDANG MENYUSUKAN BAYI."
+    },
+    "desktop": {
+      "crisis_heading": "Krisis Suplemen Tersembunyi",
+      "crisis_text": "Industri suplemen menghadapi krisis yang tidak disedari: pencemaran dan pemalsuan kandungan. Kajian menunjukkan bahawa hampir 70% suplemen bajet mengandungi bahan aktif yang lebih rendah daripada jumlah yang dinyatakan.",
+      "safety_heading": "Maklumat Keselamatan Penting",
+      "safety_text": "PRODUK INI HANYA UNTUK ORANG DEWASA. TIDAK DISYORKAN UNTUK KANAK-KANAK, WANITA HAMIL ATAU WANITA YANG SEDANG MENYUSUKAN BAYI."
+    },
+    "tape_text": {
+      "item_1": "Father of Insane",
+      "item_2": "Amaran",
+      "item_3": "Thermo Nuke XT",
+      "item_4": "Warflex",
+      "item_5": "HydraPump"
+    }
+  },
+  "trending_category_section": {
+    "heading": "KATEGORI TRENDING",
+    "description": "Dalam pasaran kecergasan hari ini, suplemen boleh didapati di mana-mana, tetapi bukan semua suplemen dihasilkan dengan kualiti yang sama. Banyak jenama kos rendah mengorbankan ketulenan ramuan, menggunakan campuran dengan dos yang tidak mencukupi atau mendapatkan bahan mentah daripada sumber yang tidak disahkan sehingga tidak memberikan hasil sebenar.",
+    "categories": [
+      {
+        "title": "PRA-SENAMAN",
+        "desc": "Gabungan kafein daripada pelbagai sumber dan nootropik untuk mengaktifkan sistem saraf pusat, meningkatkan fokus dan mengekalkan kekuatan.",
+        "image": "/father-of-insane-warflex-products.webp",
+        "hoverImage": "/promolecules0father-of-insane-warflex-combo-offers.webp",
+        "link": "/product?category=PRE-WORKOUT"
+      },
+      {
+        "title": "PEMBAKAR LEMAK",
+        "desc": "Gabungan kafein, yohimbine dan bahan termogenik untuk menyokong metabolisme, pembakaran lemak dan penghasilan tenaga.",
+        "image": "/product2.webp",
+        "hoverImage": "/hoverproduct.webp",
+        "link": "/product?category=FAT%20BURNER"
+      },
+      {
+        "title": "PENGGALAK ATP",
+        "desc": "Gabungan kafein, yohimbine dan bahan termogenik untuk menyokong metabolisme dan penghasilan tenaga.",
+        "image": "/product2.webp",
+        "hoverImage": "/hoverproduct.webp",
+        "link": "/product?category=ATP%20BOOSTER"
+      },
+      {
+        "title": "PENGHIDRATAN OTOT",
+        "desc": "Gliserol cecair, citrulline dan garam merah jambu untuk penghidratan mendalam, pam otot yang lebih penuh dan daya tahan yang lebih baik.",
+        "image": "/promolecules-hydrapump-new.webp",
+        "hoverImage": "/promolecules-hydrapump.webp",
+        "link": "/product?category=MUSCLE%20HYDRATION"
+      },
+      {
+        "title": "BARANGAN JENAMA",
+        "desc": "Pakaian berorientasikan prestasi dan keperluan latihan yang direka untuk budaya gim yang serius serta melambangkan disiplin.",
+        "image": "/father-of-insane-fusion-merch-product.webp",
+        "hoverImage": "/father-of-insane-fusion.webp",
+        "link": "/merch"
+      }
+    ]
+  },
+  "blog": {
+    "heading": "BLOG",
+    "readMore": "Baca Lagi",
+    "noBlogsFound": "Tiada blog ditemui.",
+    "viewAll": "LIHAT SEMUA",
+    "by": "Oleh"
+  },
+  "testimonialsSection": {
+    "heading": "APA KATA PELANGGAN KAMI",
+    "subheading": "PROMOLECULES™ MENJADI SUMBER TENAGA RUTIN LATIHAN — DIREKA UNTUK MEREKA YANG BERLATIH LEBIH KERAS, MELANGKAU LEBIH JAUH DAN TIDAK PERNAH MENGALAH.",
+    "testimonials": [
+      {
+        "quote": "Tenaga bersih, fokus luar biasa dan tiada keletihan mendadak. Promolecules benar-benar terasa direka dengan teliti, bukannya sekadar dibesar-besarkan seperti kebanyakan suplemen gim yang terdapat di pasaran hari ini.",
+        "author": "ROHIT S.",
+        "role": "PEMINAT GIM"
+      },
+      {
+        "quote": "Setengah sudu sudah mencukupi untuk sesi latihan saya. Pengaktifan yang kuat tanpa rasa gelisah. Ini sememangnya bukan untuk pemula — formula prestasi yang serius.",
+        "author": "FAUZAN K.",
+        "role": "ATLET"
+      },
+      {
+        "quote": "Pam otot terasa padat dan terkawal, bukannya kembung. Kekuatan kekal konsisten sehingga set terakhir. Saya sangat kagum dengan kualiti formulasinya.",
+        "author": "SARAH M.",
+        "role": "ATLET ANGKAT BERAT"
+      },
+      {
+        "quote": "Rangsangan yang tinggi tetapi seimbang secara mengejutkan. Tiada peningkatan keresahan dan tiada keletihan mendadak. Intensiti senaman kekal tajam dan fokus sepanjang sesi.",
+        "author": "JAMES T.",
+        "role": "ATLET CROSSFIT"
+      },
+      {
+        "quote": "Saya pernah mencuba banyak produk pra-senaman sebelum ini, tetapi formula ini terasa lebih tersusun. Tenaganya berperingkat, lancar dan berkuasa. Direka khas untuk mereka yang berlatih dengan disiplin.",
+        "author": "MIKE R.",
+        "role": "AHLI BINA BADAN"
+      }
+    ],
+    "previous": "Sebelumnya",
+    "next": "Seterusnya"
+  },
+  "promoleculesSection": {
+    "certifications": [
+      "Pengilangan Bertauliah USA GMP",
+      "Ramuan Berkualiti Premium",
+      "Formula Seimbang dengan Teliti",
+      "Pengujian Kualiti oleh Pihak Ketiga",
+      "Pengujian Logam Berat bagi Bahan Mentah",
+      "Ramuan yang Dilabel dengan Jelas",
+      "Tiada Campuran Proprietari yang Tidak Diperlukan",
+      "Proses Pengilangan yang Diseragamkan"
+    ],
+    "ingredients": [
+      "L-Citrulline",
+      "Beta Alanine",
+      "Creatine",
+      "Taurine",
+      "Alpha GPC",
+      "L-Theanine",
+      "Elektrolit",
+      "Vitamin B6 & B12",
+      "Glycerol",
+      "Ekstrak Teh Hijau",
+      "Sumber Kafein",
+      "Asid Amino"
+    ],
+    "products": [
+      {
+        "tag": "PRA-SENAMAN",
+        "name": "Father of Insane™",
+        "desc": "Tenaga maksimum, fokus dan intensiti latihan untuk mereka yang terus memberikan usaha maksimum sejak set pertama."
+      },
+      {
+        "tag": "PRA-SENAMAN",
+        "name": "Warflex™",
+        "desc": "Dorongan tenaga berpanjangan dan fokus mental yang mantap, direka untuk sesi latihan yang lebih lama dan lebih mencabar."
+      },
+      {
+        "tag": "PAM OTOT & PENGHIDRATAN",
+        "name": "HydraPump+™",
+        "desc": "Pam otot yang lebih penuh dan penghidratan stabil supaya prestasi tidak merosot di pertengahan sesi."
+      },
+      {
+        "tag": "ATP & DAYA TAHAN",
+        "name": "INOPOWER R™",
+        "desc": "Diformulasikan untuk menyokong penghasilan ATP selular semasa latihan daya tahan."
+      },
+      {
+        "tag": "TERMOGENIK",
+        "name": "Thermo Nuke XT™",
+        "desc": "Direka untuk melengkapi pelan pemakanan dan latihan yang tersusun, bukannya menggantikannya."
+      }
+    ],
+    "audience": [
+      "Ahli Bina Badan",
+      "Atlet Kekuatan",
+      "Atlet Angkat Berat",
+      "Pengangkat Berat",
+      "Atlet CrossFit",
+      "Atlet Kecergasan Fungsian",
+      "Atlet Fizikal",
+      "Atlet Daya Tahan",
+      "Peminat Gim yang Serius"
+    ],
+    "faq": [
+      {
+        "q": "Apakah Promolecules™?",
+        "a": "Rangkaian pemakanan sukan yang merangkumi produk pra-senaman, campuran penghidratan, sokongan ATP dan produk termogenik, direka untuk atlet serta peminat kecergasan yang mahukan prestasi yang boleh diharapkan."
+      },
+      {
+        "q": "Di manakah suplemen ini dihasilkan?",
+        "a": "Setiap produk Promolecules™ dihasilkan di kemudahan pengilangan di Amerika Syarikat yang diperakui GMP."
+      },
+      {
+        "q": "Untuk siapakah suplemen ini sesuai?",
+        "a": "Orang dewasa yang serius dalam latihan, termasuk angkat berat, larian, acara daya tahan atau senaman berstruktur. Sentiasa ikuti arahan pada label produk dan dapatkan nasihat doktor jika anda mempunyai kebimbangan berkaitan kesihatan."
+      },
+      {
+        "q": "Adakah Promolecules™ menguji produknya?",
+        "a": "Ya. Setiap kelompok produk mematuhi garis panduan GMP, dengan analisis kualiti serta pengujian logam berat terhadap bahan mentah."
+      },
+      {
+        "q": "Adakah produk ini sesuai untuk pemula?",
+        "a": "Sesetengah produk mengandungi tahap bahan perangsang yang tinggi dan mungkin tidak sesuai untuk pemula. Baca label dan mulakan penggunaan hanya jika anda mempunyai toleransi serta pengalaman yang diperlukan."
+      },
+      {
+        "q": "Di manakah saya boleh membeli produk Promolecules™ yang asli?",
+        "a": "Laman web rasmi Promolecules™, Cost to Cost Supplement, Flipkart dan Amazon ialah saluran pembelian yang disahkan untuk mendapatkan produk asli."
+      }
+    ],
+    "section": {
+      "brand": "Promolecules™",
+      "teaser": "Pemakanan sukan bio-kejuruteraan — tekan untuk meneroka rangkaian penuh",
+      "collapse": "Tutup Bahagian",
+      "heroSubtitle": "PEMAKANAN SUKAN BIO-KEJURUTERAAN",
+      "heroDescription": "Suplemen prestasi yang direka khas untuk atlet, ahli bina badan, atlet angkat berat dan sesiapa sahaja yang berlatih dengan matlamat yang jelas. Ramuan premium. Dos berkesan. Tiada bahan tambahan yang hanya bertujuan memanjangkan senarai ramuan.",
+      "shopRange": "Beli Rangkaian Produk",
+      "qualityFirst": "KUALITI DIUTAMAKAN",
+      "range": "RANGKAIAN PRODUK",
+      "rangeDescription": "Setiap produk dibangunkan berdasarkan satu matlamat prestasi — bukannya gabungan formula yang bertindih.",
+      "fullCatalog": "KATALOG PENUH",
+      "catalogDescription": "Produk pra-senaman, penghidratan, sokongan ATP dan termogenik — semuanya di satu tempat.",
+      "builtFrom": "DIBANGUNKAN DARIPADA",
+      "whatWorks": "APA YANG BERKESAN",
+      "ingredientsDescription": "Setiap ramuan dipilih berdasarkan kesan yang dihasilkannya dalam formula — bukan sekadar untuk memanjangkan senarai ramuan.",
+      "audienceHeading": "SIAPA YANG MENGGUNAKANNYA",
+      "questions": "SOALAN",
+      "footerHeading": "Berlatih dengan matlamat. Bekalkan tenaga dengan cara yang sama.",
+      "footerButton": "Beli Promolecules™"
+    }
+  },
+  "preserved": {
+    "technical_code": "Kekalkan komponen React/Next.js, hooks, animasi Framer Motion, ikon, kelas CSS, pengendali acara, panggilan API, laluan dan tingkah laku interaksi tanpa sebarang perubahan. Terjemahkan teks statik yang dipaparkan kepada pelanggan sahaja.",
+    "routes": [
+      "/product/thermo-nuke-xt/",
+      "/product/hydrapump/",
+      "/product/father-of-insane/",
+      "/product?category=PRE-WORKOUT",
+      "/product?category=FAT%20BURNER",
+      "/product?category=ATP%20BOOSTER",
+      "/product?category=MUSCLE%20HYDRATION",
+      "/merch",
+      "/product",
+      "/shop"
+    ],
+    "video": "/video.mp4",
+    "warning_tape_background": "/promolecules-tape.webp",
+    "blog_api": "/api/blogs?page=1",
+    "blog_route": "/blog/[slug]",
+    "blog_dynamic_fields": [
+      "blog.id",
+      "blog.slug",
+      "blog.featured_image",
+      "blog.name",
+      "blog.category.name",
+      "blog.author.name",
+      "blog.publish_date"
+    ],
+    "slider_interval_ms": 3000,
+    "testimonial_visible_cards": 2,
+    "testimonial_navigation_step": 2
+  }
+}

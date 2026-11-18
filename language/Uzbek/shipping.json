@@ -1,0 +1,134 @@
+{
+  "page": {
+    "title": "Yetkazib berish va qaytarish",
+    "intro": "Haqiqiy va yuqori sifatli qo‘shimchalar xavfsiz tarzda eshigingizgacha yetkazib beriladi. Buyurtmalarni qayta ishlash muddati, jo‘natmani kuzatish, xalqaro yetkazib berish va buyurtmangizni qaytarish tartibi haqida bilishingiz kerak bo‘lgan barcha ma’lumotlar."
+  },
+  "navigation": [
+    {
+      "id": "processing",
+      "label": "Buyurtmani qayta ishlash"
+    },
+    {
+      "id": "rates",
+      "label": "Yetkazib berish narxlari va muddatlari"
+    },
+    {
+      "id": "tracking",
+      "label": "Jo‘natmani kuzatish"
+    },
+    {
+      "id": "quality",
+      "label": "Sifat kafolati"
+    },
+    {
+      "id": "damages",
+      "label": "Shikastlangan va yo‘qolgan jo‘natmalar"
+    },
+    {
+      "id": "address",
+      "label": "Noto‘g‘ri manzillar"
+    },
+    {
+      "id": "international",
+      "label": "Xalqaro yetkazib berish"
+    },
+    {
+      "id": "returns",
+      "label": "Mahsulotlarni qaytarish"
+    },
+    {
+      "id": "contact",
+      "label": "Biz bilan bog‘lanish"
+    }
+  ],
+  "sections": [
+    {
+      "id": "processing",
+      "eyebrow": "Jo‘natishdan oldin",
+      "title": "Buyurtmani qayta ishlash muddati",
+      "items": [
+        "Barcha buyurtmalar 1–3 ish kuni ichida qayta ishlanadi.",
+        "Dam olish kunlari va rasmiy bayramlarda buyurtmalar jo‘natilmaydi yoki yetkazib berilmaydi.",
+        "Buyurtmalar soni ko‘paygan davrlarda jo‘natmalar bir necha kunga kechikishi mumkin. Agar buyurtmangiz sezilarli darajada kechiksa, siz bilan elektron pochta yoki telefon orqali bog‘lanamiz."
+      ]
+    },
+    {
+      "id": "rates",
+      "eyebrow": "Mahsulotingizni yetkazib berish",
+      "title": "Yetkazib berish narxlari va taxminiy muddatlar",
+      "content": [
+        "Qo‘shimchalaringizni ortiqcha kechikishlarsiz olishingiz uchun buyurtmalarni imkon qadar tez yetkazib berishga intilamiz."
+      ],
+      "items": [
+        "Standart yetkazib berish muddati: 2–5 ish kuni.",
+        "Yetkazib berish xarajatlari buyurtmani rasmiylashtirish vaqtida hisoblanadi va ko‘rsatiladi. Shuningdek, belgilangan minimal summadan yuqori buyurtmalar uchun standart yetkazib berish bepul amalga oshiriladi.",
+        "Ba’zan ob-havo sharoiti, yetkazib beruvchi kompaniya bilan bog‘liq muammolar yoki bayram kunlaridagi yuqori yuklama sababli yetkazib berish kechikishi mumkin."
+      ]
+    },
+    {
+      "id": "tracking",
+      "eyebrow": "Xabardor bo‘lib turing",
+      "title": "Jo‘natma tasdig‘i va buyurtmani kuzatish",
+      "content": [
+        "Buyurtmangiz jo‘natilgandan so‘ng, kuzatuv raqami ko‘rsatilgan tasdiqlovchi elektron xat olasiz. Kuzatuv raqamlari 24 soat ichida faollashadi va mahsulotingiz yetkazib berilguniga qadar uning harakatini kuzatishingiz mumkin."
+      ]
+    },
+    {
+      "id": "quality",
+      "eyebrow": "Siz nima olasiz?",
+      "title": "Ishonchli AQSH brendlari va sifat kafolati",
+      "content": [
+        "Biz mahsulotlarni bevosita AQSHdagi yetakchi sport qo‘shimchalari brendlaridan xarid qilamiz. Har bir mahsulot maksimal samaradorligi va yangiligini saqlab qolish uchun qadoqlash va jo‘natishdan oldin harorat nazorat qilinadigan sharoitlarda saqlanadi."
+      ]
+    },
+    {
+      "id": "damages",
+      "eyebrow": "Biror muammo yuzaga kelsa",
+      "title": "Shikastlangan va yo‘qolgan jo‘natmalar",
+      "content": [
+        "Promolecules tashish jarayonida shikastlangan yoki yo‘qolgan mahsulotlar uchun javobgar emas. Shunga qaramay, sizga ijobiy xarid tajribasini taqdim etishni istaymiz.",
+        "Agar buyurtmangiz shikastlangan holatda yetib kelsa, da’vo arizasini topshirish uchun yetkazib beruvchi kompaniya yoki qo‘llab-quvvatlash guruhimiz bilan bog‘laning.",
+        "Da’vo masalasi to‘liq hal etilguniga qadar barcha qadoqlash materiallari va shikastlangan mahsulotlarni saqlab qo‘ying.",
+        "Yordam olish uchun info@promolecules.com manziliga elektron xat yuboring."
+      ]
+    },
+    {
+      "id": "address",
+      "eyebrow": "Xaridni yakunlashdan oldin manzilni tekshiring",
+      "title": "Noto‘g‘ri yetkazib berish manzillari",
+      "content": [
+        "Buyurtmani rasmiylashtirish vaqtida to‘g‘ri yetkazib berish manzilini ko‘rsatish mijozning mas’uliyatidir. Promolecules mijoz tomonidan noto‘g‘ri ko‘rsatilgan manzilga yetkazib berilgan jo‘natmalar uchun javobgar bo‘lmaydi.",
+        "Agar jo‘natma noto‘g‘ri manzil sababli bizga qaytarilsa, buyurtmani qayta jo‘natish uchun talab qilinadigan qo‘shimcha yetkazib berish xarajatlarini mijoz to‘lashi kerak."
+      ]
+    },
+    {
+      "id": "international",
+      "eyebrow": "Xalqaro chegaralardan tashqariga",
+      "title": "Xalqaro yetkazib berish",
+      "content": [
+        "Biz xalqaro yetkazib berish xizmatini ham taklif qilamiz. Standart yetkazib berish muddati (2–5 kun) faqat mamlakat ichidagi buyurtmalarga tegishli. Xalqaro jo‘natmalar odatda 7–21 ish kunini oladi.",
+        "Buyurtmangiz belgilangan mamlakatga yetib kelganida, undan bojxona bojlari va qo‘shilgan qiymat solig‘i (VAT) kabi soliqlar undirilishi mumkin. Promolecules ushbu to‘lovlarni amalga oshirish uchun javobgar emas."
+      ]
+    },
+    {
+      "id": "returns",
+      "eyebrow": "Fikringizni o‘zgartirdingizmi?",
+      "title": "Mahsulotni qaytarish tartibi",
+      "steps": [
+        "Biz bilan bog‘laning — Buyurtma raqamingiz va qaytarish sababini ko‘rsatgan holda info@promolecules.com manziliga elektron xat yuboring.",
+        "Tasdiqni oling — So‘rovingiz ma’qullangach, biz sizga RMA (Mahsulotni qaytarishga ruxsat) raqami va jo‘natmani qayerga yuborish bo‘yicha ko‘rsatmalarni jo‘natamiz.",
+        "Qadoqlang va jo‘nating — Ochilmagan mahsulotlarni ehtiyotkorlik bilan va xavfsiz tarzda qadoqlang hamda RMA raqamini qadoqning tashqi tomoniga aniq yozing."
+      ],
+      "note": "Eslatma: Qaytarib jo‘natish xarajatlari mijoz zimmasida bo‘ladi (qaytarish bizning xatomiz sababli yuzaga kelgan holatlar bundan mustasno). Yetkazib berish xarajatlari qaytarilmaydi. Qaytarilgan mahsulotlar bizga yetib kelishini kafolatlay olmaganimiz sababli, jo‘natmani kuzatish imkonini beruvchi xizmatdan yoki yuk sug‘urtasidan foydalanishni tavsiya qilamiz."
+    },
+    {
+      "id": "contact",
+      "eyebrow": "Biz yordam berishga tayyormiz",
+      "title": "Jo‘natmangiz haqida savollaringiz bormi?",
+      "content": [
+        "Buyurtmangizning yetkazib berilish holati bo‘yicha savollaringiz yoki xavotirlaringiz bo‘lsa, mijozlarni qo‘llab-quvvatlash guruhimiz sizga mamnuniyat bilan yordam beradi."
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

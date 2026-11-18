@@ -1,4 +1,4 @@
-import { Geist, Geist_Mono } from "next/font/google";
+import { Geist, Geist_Mono, Cairo } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -8,6 +8,9 @@ import PreloaderWrapper from "@/components/PreloaderWrapper";
 import localFont from "next/font/local";
 import CountryPopup from "@/components/CountryPopup";
 import SupportChatBot from "@/components/SupportChatBot";
+import Messages from "@/lib/i18n/Messages";
+import { getLocale } from "@/lib/i18n/server";
+import { LANGUAGES } from "@/lib/i18n/config";
 
 
 const geistSans = Geist({
@@ -20,6 +23,13 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+
+// Arabic-capable font, used only when the page is in Arabic (see globals.css)
+const arabicFont = Cairo({
+  variable: "--font-arabic",
+  subsets: ["arabic", "latin"],
+  display: "swap",
+});
 
 const gloomyFont = localFont({
   src: "./fonts/GloomyThings.otf",
@@ -38,11 +48,14 @@ export const metadata = {
   },
 };
 
-export default function RootLayout({ children }) {
+export default async function RootLayout({ children }) {
+  const locale = await getLocale();
   return (
-    <html lang="en">
+    // suppressHydrationWarning: browser translators (Chrome/Google Translate) rewrite
+    // <html lang/class> before React loads; this only silences that one element.
+    <html lang={locale} dir={LANGUAGES[locale].dir} suppressHydrationWarning>
       {/* ❌ No manual <head> tag here */}
-      <body   suppressHydrationWarning className={`${geistSans.variable} ${geistMono.variable} ${gloomyFont.variable} antialiased`}>
+      <body   suppressHydrationWarning className={`${geistSans.variable} ${geistMono.variable} ${gloomyFont.variable} ${arabicFont.variable} antialiased`}>
 
         {/* ── Google Tag Manager Script ── */}
         <Script
@@ -66,6 +79,7 @@ export default function RootLayout({ children }) {
             style={{ display: "none", visibility: "hidden" }}
           />
         </noscript>
+<Messages ns={["navbar", "footer", "product"]}>
 <CountryPopup/>
         <PreloaderWrapper>
           <div className="pt-[50px] bg-black">
@@ -76,6 +90,7 @@ export default function RootLayout({ children }) {
             <Footer />
           </div>
         </PreloaderWrapper>
+</Messages>
 
       </body>
     </html>

@@ -1,0 +1,124 @@
+{
+  "page": {
+    "title": "Política de Devolução e Troca",
+    "intro": "Na Promolecules, estamos comprometidos em oferecer suplementos de alta qualidade, com base nos Emirados Árabes Unidos. Se você não estiver completamente satisfeito com sua compra, estamos aqui para ajudar. Leia atentamente nossas políticas para entender suas opções de devolução, troca e reembolso."
+  },
+  "navigation": [
+    {
+      "id": "window",
+      "label": "Prazo para Devolução"
+    },
+    {
+      "id": "eligibility",
+      "label": "Condições para Devolução"
+    },
+    {
+      "id": "non-returnable",
+      "label": "Itens Não Devolvíveis"
+    },
+    {
+      "id": "defective",
+      "label": "Itens com Defeito, Danificados ou Incorretos"
+    },
+    {
+      "id": "exchanges",
+      "label": "Trocas"
+    },
+    {
+      "id": "how-to",
+      "label": "Como Solicitar uma Devolução"
+    },
+    {
+      "id": "refunds",
+      "label": "Reembolsos"
+    },
+    {
+      "id": "contact",
+      "label": "Precisa de Ajuda?"
+    }
+  ],
+  "sections": [
+    {
+      "id": "window",
+      "eyebrow": "Aja Rapidamente",
+      "title": "Prazo para Devolução",
+      "content": [
+        "Você tem 7 dias a partir da data de entrega para devolver um item. Infelizmente, se já tiverem passado 7 dias desde a entrega do seu pedido, não poderemos oferecer reembolso ou troca."
+      ]
+    },
+    {
+      "id": "eligibility",
+      "eyebrow": "Regras Estritas se Aplicam",
+      "title": "Condições para Devolução",
+      "content": [
+        "Devido à natureza dos suplementos alimentares e às normas de saúde e segurança, seguimos diretrizes rigorosas para a devolução de produtos:",
+        "Não Aberto e Lacrado: O item deve estar sem uso, fechado e exatamente nas mesmas condições em que foi recebido. O lacre de segurança original deve estar completamente intacto.",
+        "Embalagem Original: O item deve ser devolvido em sua embalagem original.",
+        "Comprovante de Compra: É necessário apresentar um recibo ou comprovante de compra (número do pedido ou e-mail de confirmação do pedido) para devolver um item."
+      ]
+    },
+    {
+      "id": "non-returnable",
+      "eyebrow": "Por Motivos de Saúde e Segurança",
+      "title": "Itens Não Devolvíveis",
+      "content": [
+        "Por motivos de saúde e segurança, os seguintes itens não podem ser devolvidos ou trocados:",
+        "Produtos que tenham sido abertos, cujo lacre de segurança esteja rompido ou que tenham sido utilizados.",
+        "Itens identificados como \"Venda Final\" ou \"Liquidação\".",
+        "Cartões-presente."
+      ]
+    },
+    {
+      "id": "defective",
+      "eyebrow": "Se Cometermos um Erro, Vamos Corrigi-lo",
+      "title": "Itens com Defeito, Danificados ou Incorretos",
+      "content": [
+        "Se você receber um item com defeito, danificado ou incorreto (por exemplo, da marca ou sabor errado), entre em contato conosco em até 3 dias após a entrega.",
+        "Teremos prazer em substituir o item ou emitir um reembolso integral, sem nenhum custo adicional para você.",
+        "Envie um e-mail para info@promolecules.com com o número do seu pedido e fotos do produto danificado ou incorreto, para que possamos resolver o problema o mais rápido possível."
+      ]
+    },
+    {
+      "id": "exchanges",
+      "eyebrow": "Como Funcionam as Trocas",
+      "title": "Trocas",
+      "content": [
+        "Só realizamos trocas de itens com defeito, danificados ou quando o produto enviado não corresponde ao pedido.",
+        "Se você pediu o item errado por engano e deseja trocá-lo por outro produto, deverá devolver o item original, fechado e sem uso (seguindo o processo de devolução descrito abaixo) e fazer um novo pedido do produto desejado."
+      ]
+    },
+    {
+      "id": "how-to",
+      "eyebrow": "Passo a Passo",
+      "title": "Como Solicitar uma Devolução",
+      "content": [
+        "Para iniciar o processo de devolução, siga estas etapas:",
+        "Entre em Contato Conosco: Envie um e-mail para nossa equipe de suporte pelo endereço info@promolecules.com, incluindo o número do seu pedido e o motivo da devolução.",
+        "Aprovação: Se sua solicitação de devolução for aprovada, enviaremos um número de Autorização de Devolução de Mercadoria (RMA) e as instruções sobre onde enviar seu pacote.",
+        "Embale e Envie: Embale cuidadosamente e com segurança os itens fechados e sem uso. Escreva claramente o número RMA na parte externa do pacote."
+      ],
+      "importantNote": "Observação Importante: Você é responsável pelo pagamento dos custos de envio da devolução (exceto quando a devolução ocorrer devido a um erro nosso). Os custos de envio não são reembolsáveis. Recomendamos fortemente utilizar um serviço de envio com rastreamento ou contratar um seguro para o pacote, pois não podemos garantir o recebimento do item devolvido."
+    },
+    {
+      "id": "refunds",
+      "eyebrow": "Receba Seu Dinheiro de Volta",
+      "title": "Reembolsos",
+      "content": [
+        "Assim que recebermos o item devolvido, nossa equipe irá inspecioná-lo para verificar se atende aos nossos critérios de devolução (fechado e lacrado).",
+        "Informaremos você sobre o status do reembolso imediatamente após a inspeção do item.",
+        "Se sua devolução for aprovada, iniciaremos o reembolso no seu cartão de crédito (ou no método de pagamento original).",
+        "Dependendo das políticas da administradora do seu cartão, o valor será creditado em sua conta em até 5 a 10 dias úteis."
+      ],
+      "note": "Atenção: Os custos de envio originais não são reembolsáveis e serão descontados do valor total do seu reembolso."
+    },
+    {
+      "id": "contact",
+      "eyebrow": "Estamos Aqui para Ajudar",
+      "title": "Precisa de Ajuda?",
+      "content": [
+        "Se você tiver alguma dúvida sobre a devolução do seu item, entre em contato com nossa equipe de atendimento ao cliente."
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

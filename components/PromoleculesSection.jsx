@@ -1,106 +1,14 @@
 'use client';
 import Link from "next/link";
 import { useState } from "react";
-
-const CERTS = [
-  "USA GMP Certified Manufacturing",
-  "Premium Quality Ingredients",
-  "Carefully Balanced Formulae",
-  "Third-Party Quality Testing",
-  "Raw Material Heavy Metal Testing",
-  "Clearly Labeled Ingredients",
-  "No Pointless Proprietary Blends",
-  "Standardized Manufacturing",
-];
-
-const INGREDIENTS = [
-  "L-Citrulline",
-  "Beta Alanine",
-  "Creatine",
-  "Taurine",
-  "Alpha GPC",
-  "L-Theanine",
-  "Electrolytes",
-  "Vitamin B6 & B12",
-  "Glycerol",
-  "Green Tea Extract",
-  "Caffeine Sources",
-  "Amino Acids",
-];
-
-const PRODUCTS = [
-  {
-    tag: "PRE-WORKOUT",
-    name: "Father of Insane™",
-    desc: "Maximum energy, focus, and training intensity for lifters who don't ease into a set.",
-  },
-  {
-    tag: "PRE-WORKOUT",
-    name: "Warflex™",
-    desc: "Sustained drive and mental lock-in, built for longer, harder training blocks.",
-  },
-  {
-    tag: "PUMP & HYDRATION",
-    name: "HydraPump+™",
-    desc: "Fuller pumps and steady hydration so output doesn't fall off mid-session.",
-  },
-  {
-    tag: "ATP & ENDURANCE",
-    name: "INOPOWER R™",
-    desc: "Formulated to support cellular ATP production through endurance work.",
-  },
-  {
-    tag: "THERMOGENIC",
-    name: "Thermo Nuke XT™",
-    desc: "Built into a structured diet and training plan, not a substitute for one.",
-  },
-];
-
-const AUDIENCE = [
-  "Bodybuilders",
-  "Strength Athletes",
-  "Powerlifters",
-  "Weight Lifters",
-  "CrossFit Athletes",
-  "Functional Fitness Athletes",
-  "Physique Athletes",
-  "Endurance Athletes",
-  "Serious Gym Enthusiasts",
-];
-
-const FAQS = [
-  {
-    q: "What is Promolecules™?",
-    a: "A sports nutrition line covering pre-workouts, hydration mixes, ATP support, and thermogenic products, built for athletes and fitness lovers who want reliable performance.",
-  },
-  {
-    q: "Where are these supplements manufactured?",
-    a: "Every Promolecules™ product is manufactured in USA GMP-certified facilities.",
-  },
-  {
-    q: "Who are these supplements for?",
-    a: "Adults serious about their training — lifting, running, endurance events, or structured workouts. Always follow the label and talk to your doctor if you have health concerns.",
-  },
-  {
-    q: "Does Promolecules™ test its products?",
-    a: "Yes. Every batch follows GMP guidelines, with quality analysis and heavy-metals testing on raw materials.",
-  },
-  {
-    q: "Are these products beginner-friendly?",
-    a: "Some carry a high stimulant load and may not suit a beginner. Read the label and only start a regimen if you have the tolerance and experience for it.",
-  },
-  {
-    q: "Where can I buy genuine Promolecules™ products?",
-    a: "The official Promolecules™ site, along with cost2costsupplement, Flipkart, and Amazon, are the verified places to buy — this is what guarantees authentic product.",
-  },
-];
+import { useT } from "@/lib/i18n/client";
 
 function FaqRow({ item, isOpen, onToggle }) {
   return (
     <div className="border-b border-white/10">
       <button
         onClick={onToggle}
-        className="w-full flex items-center justify-between gap-4 py-5 text-left group"
+        className="w-full flex items-center justify-between gap-4 py-5 text-start group"
       >
         <span className="text-[15px] sm:text-base font-semibold tracking-tight text-white group-hover:text-[#E4141A] transition-colors">
           {item.q}
@@ -119,7 +27,7 @@ function FaqRow({ item, isOpen, onToggle }) {
         }`}
       >
         <div className="overflow-hidden">
-          <p className="text-sm text-white/60 leading-relaxed pr-8">{item.a}</p>
+          <p className="text-sm text-white/60 leading-relaxed pe-8">{item.a}</p>
         </div>
       </div>
     </div>
@@ -129,6 +37,13 @@ function FaqRow({ item, isOpen, onToggle }) {
 export default function PromoleculesSection() {
   const [openFaq, setOpenFaq] = useState(0);
   const [expanded, setExpanded] = useState(false);
+  const d = useT("home").promoleculesSection || {};
+  const t = d.section || {};
+  const CERTS = d.certifications || [];
+  const INGREDIENTS = d.ingredients || [];
+  const PRODUCTS = d.products || [];
+  const AUDIENCE = d.audience || [];
+  const FAQS = d.faq || [];
 
   // COLLAPSED / TEASER STATE — tap anywhere on the bar to open the full section
   if (!expanded) {
@@ -136,17 +51,17 @@ export default function PromoleculesSection() {
       <section className="bg-black text-white">
         <button
           onClick={() => setExpanded(true)}
-          className="group w-full text-left border border-white/15 hover:border-[#E4141A] transition-colors px-6 sm:px-10 py-6 flex items-center justify-between gap-6"
+          className="group w-full text-start border border-white/15 hover:border-[#E4141A] transition-colors px-6 sm:px-10 py-6 flex items-center justify-between gap-6"
         >
           <div className="flex items-center gap-4 min-w-0">
             <span className="h-2 w-2 bg-[#E4141A] shrink-0" />
             <div className="min-w-0">
-              <p className="font-black uppercase tracking-tighter text-xl sm:text-2xl truncate">
+              <p dir="ltr" className="font-black uppercase tracking-tighter text-xl sm:text-2xl truncate text-start rtl:text-end">
                 Promo<span className="text-[#E4141A]">lecules</span>
                 <sup className="text-xs align-super">™</sup>
               </p>
               <p className="text-xs sm:text-sm text-white/50 truncate">
-                Bio-engineered sports nutrition — tap to view the full range
+                {t.teaser}
               </p>
             </div>
           </div>
@@ -165,10 +80,10 @@ export default function PromoleculesSection() {
         <div className="max-w-6xl mx-auto px-6 sm:px-10">
           <button
             onClick={() => setExpanded(false)}
-            className="w-full flex items-center justify-between gap-4 py-4 text-left group"
+            className="w-full flex items-center justify-between gap-4 py-4 text-start group"
           >
             <span className="text-xs font-bold tracking-[0.3em] text-white/40 uppercase group-hover:text-[#E4141A] transition-colors">
-              Collapse Section
+              {t.collapse}
             </span>
             <span className="text-[#E4141A] text-2xl leading-none font-light rotate-45">
               +
@@ -183,23 +98,21 @@ export default function PromoleculesSection() {
           <div className="flex items-center gap-3 mb-6">
             <span className="h-2 w-2 bg-[#E4141A]" />
             <span className="text-xs font-bold tracking-[0.3em] text-white/50 uppercase">
-              Bio-Engineered Sports Nutrition
+              {t.heroSubtitle}
             </span>
           </div>
-          <h1 className="font-black uppercase leading-[0.88] tracking-tighter text-[15vw] sm:text-7xl md:text-8xl max-w-4xl">
+          <h1 dir="ltr" className="rtl:text-end font-black uppercase leading-[0.88] tracking-tighter text-[15vw] sm:text-7xl md:text-8xl max-w-4xl">
             Promo
             <span className="text-[#E4141A]">lecules</span>
             <sup className="text-lg align-super">™</sup>
           </h1>
           <p className="mt-8 max-w-xl text-white/60 text-base sm:text-lg leading-relaxed">
-            Performance supplements engineered for athletes, bodybuilders, powerlifters, and
-            anyone training with intent. Premium ingredients. Effective dosing. Nothing added
-            just to pad a label.
+            {t.heroDescription}
           </p>
           <div className="mt-10 flex flex-wrap gap-4">
             <Link href={"/product"}>
             <button className="bg-[#E4141A] text-white font-bold uppercase text-sm tracking-wide px-8 py-4 hover:bg-white hover:text-black transition-colors">
-              Shop the Range
+              {t.shopRange}
             </button>
             </Link>
 
@@ -211,7 +124,7 @@ export default function PromoleculesSection() {
       <div className="border-b border-white/10 bg-[#0A0A0A]">
         <div className="max-w-6xl mx-auto px-6 sm:px-10 py-10">
           <p className="text-xs font-bold tracking-[0.3em] text-[#E4141A] uppercase mb-6">
-            Quality First
+            {t.qualityFirst}
           </p>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-x-6 gap-y-4">
             {CERTS.map((c) => (
@@ -228,11 +141,10 @@ export default function PromoleculesSection() {
       <div className="max-w-6xl mx-auto px-6 sm:px-10 py-20">
         <div className="flex items-end justify-between mb-12 flex-wrap gap-4">
           <h2 className="font-black uppercase tracking-tighter text-4xl sm:text-5xl">
-            The Range
+            {t.range}
           </h2>
           <p className="text-white/40 text-sm max-w-xs">
-            Every product is built around one performance goal — not a shelf of overlapping
-            formulas.
+            {t.rangeDescription}
           </p>
         </div>
 
@@ -253,10 +165,10 @@ export default function PromoleculesSection() {
           ))}
           <div className="bg-[#E4141A] p-8 flex flex-col justify-center min-h-[220px]">
             <p className="text-xs font-bold tracking-[0.2em] uppercase text-black/70">
-              Full Catalog
+              {t.fullCatalog}
             </p>
             <p className="mt-3 text-xl font-black tracking-tight leading-tight">
-              Pre-workouts, hydration, ATP support, and thermogenics — all in one place.
+              {t.catalogDescription}
             </p>
           </div>
         </div>
@@ -267,13 +179,12 @@ export default function PromoleculesSection() {
         <div className="max-w-6xl mx-auto px-6 sm:px-10 py-20 grid lg:grid-cols-[1fr_1.2fr] gap-12">
           <div>
             <h2 className="font-black uppercase tracking-tighter text-4xl sm:text-5xl">
-              Built From
+              {t.builtFrom}
               <br />
-              <span className="text-[#E4141A]">What Works</span>
+              <span className="text-[#E4141A]">{t.whatWorks}</span>
             </h2>
             <p className="mt-6 text-white/50 text-sm leading-relaxed max-w-sm">
-              Every ingredient earns its place in the formula for the effect it produces —
-              never to inflate a label.
+              {t.ingredientsDescription}
             </p>
           </div>
           <div className="flex flex-wrap gap-3 content-start">
@@ -292,7 +203,7 @@ export default function PromoleculesSection() {
       {/* AUDIENCE */}
       <div className="max-w-6xl mx-auto px-6 sm:px-10 py-20">
         <h2 className="font-black uppercase tracking-tighter text-4xl sm:text-5xl mb-10">
-          Who Trains With It
+          {t.audienceHeading}
         </h2>
         <div className="flex flex-wrap gap-x-8 gap-y-4">
           {AUDIENCE.map((a, idx) => (
@@ -308,7 +219,7 @@ export default function PromoleculesSection() {
       <div className="border-t border-white/10 bg-[#0A0A0A]">
         <div className="max-w-3xl mx-auto px-6 sm:px-10 py-20">
           <h2 className="font-black uppercase tracking-tighter text-4xl sm:text-5xl mb-10">
-            Questions
+            {t.questions}
           </h2>
           <div>
             {FAQS.map((item, idx) => (
@@ -327,11 +238,11 @@ export default function PromoleculesSection() {
       <div className="relative bg-[#E4141A] text-black">
         <div className="max-w-6xl mx-auto px-6 sm:px-10 py-16 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-8">
           <h3 className="font-black uppercase tracking-tighter text-3xl sm:text-4xl max-w-md leading-[0.95]">
-            Train with purpose. Fuel the same way.
+            {t.footerHeading}
           </h3>
           <Link href={"/shop"}>
           <button className="bg-black text-white font-bold uppercase text-sm tracking-wide px-8 py-4 hover:bg-white hover:text-black transition-colors shrink-0">
-            Shop Promolecules™
+            {t.footerButton}
           </button>
           </Link>
         </div>

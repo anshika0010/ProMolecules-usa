@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "title": "Father of Insane",
+      "image": "/father-of-insane-pre-workout-65-Servings.webp",
+      "price": "$1599",
+      "description": "Nitrox повышает взрывную силу и выносливость благодаря передовой технологии оксида азота.",
+      "thumbnail": "/father-of-insane.webp",
+      "link": "/product/father-of-insane"
+    },
+    {
+      "title": "Warflex",
+      "image": "/warflex-pre-workout-35-Servings.webp",
+      "price": "$1899",
+      "description": "Гибридный предтренировочный комплекс для достижения высоких спортивных результатов. Сочетает энергию, мышечный памп и концентрацию. Сбалансированная формула с высоким содержанием стимуляторов.",
+      "thumbnail": "/warflex-thumbnail.webp",
+      "link": "/product/warflex"
+    },
+    {
+      "title": "Inopower-R",
+      "image": "/promolecules-inpower-r.webp",
+      "price": "$2099",
+      "description": "Чистая энергия без зависимости от кофеина. Создан на основе энергетической системы ATP. Поддерживает выносливость на клеточном уровне.",
+      "thumbnail": "/inpower.webp",
+      "link": "/product/inopower-r/"
+    },
+    {
+      "title": "Thermo Nuke XT",
+      "image": "/thermonuke.png",
+      "price": "$1799",
+      "description": "Разработан для интенсивных этапов снижения жировой массы. Воздействует на метаболизм, а не только обеспечивает стимулирующий эффект. Термогенная формула, повышающая выработку тепла.",
+      "thumbnail": "/thermo-thumbnail.webp",
+      "link": "/product/thermo-nuke-xt/"
+    },
+    {
+      "title": "Hydrapump+",
+      "image": "/hydra.webp",
+      "price": "$1799",
+      "description": "Hydrapump+ — это жидкая система для мышечного пампа на основе глицерола, разработанная для повышения реальной эффективности мышц.",
+      "thumbnail": "/hydrapump-thumbnail.webp",
+      "link": "/product/hydrapump"
+    }
+  ],
+  "buttons": {
+    "viewDetails": "Подробнее"
+  },
+  "trending_category_section": {
+    "heading": "Популярные категории",
+    "description": "На современном рынке фитнеса пищевые добавки встречаются повсюду, но не все они одинаково качественные. Многие недорогие бренды жертвуют чистотой ингредиентов, используют смеси с недостаточной дозировкой или закупают непроверенное сырьё, которое не обеспечивает реальных результатов.",
+    "categories": [
+      {
+        "title": "Предтренировочные комплексы",
+        "desc": "Сочетание кофеина из нескольких источников и ноотропов для активации центральной нервной системы, повышения концентрации и поддержания силы.",
+        "image": "/father-of-insane-warflex-products.webp",
+        "hoverImage": "/promolecules0father-of-insane-warflex-combo-offers.webp",
+        "link": "/product?category=PRE-WORKOUT"
+      },
+      {
+        "title": "Жиросжигатели",
+        "desc": "Комплекс кофеина, йохимбина и термогенных компонентов для ускорения метаболизма, поддержки сжигания жира и повышения уровня энергии.",
+        "image": "/product2.webp",
+        "hoverImage": "/hoverproduct.webp",
+        "link": "/product?category=FAT%20BURNER"
+      },
+      {
+        "title": "Бустеры ATP",
+        "desc": "Комплекс кофеина, йохимбина и термогенных компонентов для поддержки метаболизма и повышения уровня энергии.",
+        "image": "/product2.webp",
+        "hoverImage": "/hoverproduct.webp",
+        "link": "/product?category=ATP%20BOOSTER"
+      },
+      {
+        "title": "Гидратация мышц",
+        "desc": "Жидкий глицерол, цитруллин и розовая соль для глубокого увлажнения, более выраженного мышечного пампа и повышения выносливости.",
+        "image": "/promolecules-hydrapump-new.webp",
+        "hoverImage": "/promolecules-hydrapump.webp",
+        "link": "/product?category=MUSCLE%20HYDRATION"
+      },
+      {
+        "title": "Мерчандайз",
+        "desc": "Одежда для спорта и необходимые аксессуары для тренировок, созданные для настоящей фитнес-культуры и отражающие дисциплину спортсменов.",
+        "image": "/father-of-insane-fusion-merch-product.webp",
+        "hoverImage": "/father-of-insane-fusion.webp",
+        "link": "/merch"
+      }
+    ]
+  }
+}

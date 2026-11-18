@@ -1,0 +1,2003 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "slug": "father-of-insane",
+      "name": "FATHER OF INSANE",
+      "flipkartLink": "https://www.flipkart.com/promolecules-father-insane-ultra-high-stim-5200mg-power-blend-70-serv-half-scoop-35-full-pre-workout/p/itmb96e27fc7e10d",
+      "amazonLink": "https://www.amazon.in/Promolecules-Father-Performance-Supplement-Enthusiasts/dp/B0GM15FD9N?ref_=ast_sto_dp",
+      "cost2cost": "https://www.cost2costsupplement.com/products/father-of-insane-high-stim-pre-workout",
+      "category": "PRE-WORKOUT",
+      "title": "Jiddiy sportchilar uchun yaratilgan o'ta kuchli stimulyatorli mashg'ulotdan oldingi qo'shimcha. Tezkor faollashuv, yuqori diqqat va charchoqsiz barqaror energiya beradi. Tugmani bosing. Haqiqiy maqsad bilan mashq qiling.",
+      "description": "Elita darajasidagi energiya, o'tkir diqqat va mashg'ulot samaradorligini oching. Agar siz o'ta kuchli stimulyatorli mashg'ulotdan oldingi qo'shimchani qidirayotgan tajribali sportchi bo'lsangiz, Promolecules™ tomonidan ishlab chiqarilgan Father of Insane™ intensiv mashg'ulotlarni qo'llab-quvvatlash uchun yaratilgan. Ushbu pre-workout ilg'or foydalanuvchilar uchun mo'ljallangan bo'lib, konsentrlangan maxsus aralashmada Beta-Alanin, Kreatin Monogidrat, Kreatin HCl, L-Sitrullin, Betain Angidrid va bir nechta kofein manbalari kabi samaradorlikka yo'naltirilgan tarkibiy qismlarni o'z ichiga oladi. Bodibilding, kuch mashqlari, pauerlifting, CrossFit uslubidagi yoki yuqori intensivlikdagi zal mashg'ulotlari bo'ladimi, Father of Insane sizni mashg'ulotdan oldin ruhiy va jismoniy jihatdan tayyorlash uchun ishlab chiqilgan.",
+      "seo": {
+        "title": "Father of Insane O'ta Kuchli Stimulyatorli Pre Workout | Promolecules",
+        "description": "Father of Insane™ Ultra High Stim Pre Workoutni onlayn xarid qiling. Energiya, diqqat, ajoyib mushak pampi, chidamlilik va zal samaradorligi uchun portlovchi pre-workoutni sinab ko'ring.",
+        "keywords": "Ultra High Stim Pre Workout, Father of Insane, Father of Insane Pre Workout, O'ta kuchli pre-workout sotib olish, Eng yaxshi pre-workout, Yuqori stimulyatorli pre-workout, Pre-workout qo'shimchasi, Pre-workout kukuni, Zal qo'shimchasi, Sport ovqatlanishi, Mashg'ulot energiyasi qo'shimchasi, Yuqori kofeinli pre-workout, Mushak pampi qo'shimchasi, Chidamlilik qo'shimchasi, Diqqat qo'shimchasi",
+        "canonical": "https://www.promolecules.com/product/father-of-insane/",
+        "author": "Promolecules™",
+        "publisher": "Promolecules™",
+        "language": "O'zbek",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "googlebot": "index, follow",
+        "bingbot": "index, follow",
+        "revisit_after": "7 days",
+        "distribution": "global",
+        "rating": "general",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "Dubay"
+        },
+        "og": {
+          "title": "Father of Insane Pre Workout | Yuqori Stimulyatorli Formula",
+          "type": "website",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "Father of Insane O'ta Kuchli Stimulyatorli Pre Workout",
+          "locale": "uz_UZ",
+          "site_name": "Promolecules™",
+          "description": "Father of Insane yuqori stimulyatorli pre-workout bilan portlovchi energiya, kuchli diqqat, mushak pampi va chidamlilikni his eting. Jiddiy sportchilar va zal samaradorligi uchun yaratilgan.",
+          "url": "https://www.promolecules.com/product/father-of-insane/"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "Promolecules™",
+          "title": "Father of Insane™ O'ta Kuchli Stimulyatorli Pre Workout",
+          "description": "Ekstremal energiya, lazerdek diqqat, kuchli mushak pampi va chidamlilik. Father of Insane™ Ultra High Stim Pre Workoutni onlayn xarid qiling.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "Father of Insane O'ta Kuchli Stimulyatorli Pre Workout"
+        },
+        "ldjson": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Promolecules",
+            "alternateName": "Promolecules",
+            "url": "https://www.promolecules.com/",
+            "logo": "https://www.promolecules.com/promolecules-logo.webp",
+            "sameAs": [
+              "https://www.facebook.com/promolecules.official",
+              "https://x.com/promolecules",
+              "https://www.instagram.com/promolecules/",
+              "https://www.youtube.com/@Promolecules",
+              "https://www.pinterest.com/promolecules/"
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Father of Insane™ O'ta Kuchli Stimulyatorli Pre Workout",
+            "image": "https://promolecules.com/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-35-Servings.webp",
+            "description": "Father of Insane™ Ultra High Stim Pre Workoutni onlayn xarid qiling. Energiya, diqqat, ajoyib mushak pampi, chidamlilik va zal samaradorligi uchun portlovchi pre-workoutni sinab ko'ring.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Promolecules™"
+            },
+            "sku": "father-of-insane-35",
+            "offers": {
+              "@type": "Offer",
+              "url": "https://www.promolecules.com/product/father-of-insane/",
+              "priceCurrency": "USD",
+              "price": "41.99",
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "247"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": []
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "promolecules",
+                "item": "https://www.promolecules.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "mahsulot",
+                "item": "https://www.promolecules.com/product/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Pre Workout",
+                "item": "https://www.promolecules.com/product-category/pre-workout/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "name": "Father of Insane",
+                "item": "https://www.promolecules.com/product/father-of-insane/"
+              }
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Review",
+            "@id": "https://www.promolecules.com/product/father-of-insane/#review",
+            "itemReviewed": {
+              "@type": "Product",
+              "name": "Father of Insane™ O'ta Kuchli Stimulyatorli Pre Workout",
+              "url": "https://www.promolecules.com/product/father-of-insane/"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tasdiqlangan xaridor"
+            },
+            "datePublished": "2026-07-03",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "name": "Ajoyib Yuqori Stimulyatorli Pre Workout",
+            "reviewBody": "Father of Insane™ yaxshi eriydi va mashg'ulot uchun ajoyib energiya, diqqat va intensivlik beradi. Aniq foydalanish ko'rsatmalari va yuqori stimulyatorli formulasi menga juda yoqdi."
+          }
+        ]
+      },
+      "images": [
+        "/Promolecules/fatherofinsane/frontside.webp",
+        "/Promolecules/fatherofinsane/backside.webp",
+        "/Promolecules/fatherofinsane/father-of-insane.webp",
+        "/Promolecules/fatherofinsane/father-of-insane-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/fatherofinsane/father-of-insane-pre-workout.webp",
+      "variants": [
+        {
+          "flavour": "Mevali punsh",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Mevali punsh",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Gummies-Bliss",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/gummies-bliss-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Gummies-Bliss",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/gummies-bliss-father-of-insane-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Ko'k malina",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/blue-rasberry-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Ko'k malina",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/blue-rasberry-father-of-insane-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Purple-Pulse",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/purple-pulse-gummies-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Purple-Pulse",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/purple-pulse-gummies-father-of-insane-pre-workout-65-Servings.webp"
+        }
+      ],
+      "price": "43",
+      "discounted": "41.2",
+      "servings": [
+        {
+          "size": "35",
+          "price": 41.99
+        },
+        {
+          "size": "65",
+          "price": 59.99
+        }
+      ],
+      "flavours": [
+        {
+          "name": "Mevali punsh",
+          "images": [
+            "/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        },
+        {
+          "name": "Gummy Bliss",
+          "images": [
+            "/Promolecules/fatherofinsane/gummies-bliss-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        },
+        {
+          "name": "Purple Pulse Gummies",
+          "images": [
+            "/Promolecules/fatherofinsane/purple-pulse-gummies-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        },
+        {
+          "name": "Ko'k malina",
+          "images": [
+            "/Promolecules/fatherofinsane/blue-rasberry-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        }
+      ],
+      "keyBenefits": [
+        "Mashg'ulot energiyasini qo'llab-quvvatlaydi - Formula Kofein Angidrid, Dikofein Malat (2XCAFF®) va Kofein Sitrat (Citra Caff®) kabi bir nechta kofein manbalarini o'z ichiga oladi. Ushbu tarkibiy qismlar sport ovqatlanishida hushyor va mashqlarga tayyor turishga yordam beradi.",
+        "Mashq paytida aqliy diqqatni qo'llab-quvvatlaydi - Mashg'ulot sifati og'ir mashqlar paytida diqqatni jamlashga bog'liq. Kofein va boshqa samaradorlik tarkibiy qismlari konsentratsiya va aqliy hushyorlikni saqlashga yordam beradi.",
+        "Mushak pampi kuchaytiruvchisi - L-Sitrullin azot oksidi ishlab chiqarish va qon aylanishini yaxshilashda ishtirok etishi tufayli pre-workout qo'shimchalaridagi eng mashhur tarkibiy qismlardan biri bo'lib, ajoyib mushak pampiga hissa qo'shadi.",
+        "Kuch va quvvat kuchaytiruvchisi - Formula takroriy yuqori intensivlikdagi mashqlar paytida samaradorlikni oshirishni tasdiqlovchi keng ko'lamli tadqiqotlarga ega Kreatin Monogidrat va Kreatin HCl ni o'z ichiga oladi.",
+        "Mushak chidamliligi - Beta-Alanin mushaklardagi karnozin darajasini oshirishga yordam beradi, kislotani buferlash qobiliyatini ta'minlaydi va intensiv mashqlar paytida chidamlilikni qo'llab-quvvatlaydi.",
+        "Samaradorlikka yo'naltirilgan formula - Father of Insane jiddiy mashg'ulot dasturlarini qo'llab-quvvatlash uchun aminokislotalar, bir nechta kreatin manbalari, azot oksidi kuchaytiruvchilari, stimulyatorlar va nootropiklarni birlashtiradi.",
+        "Samaradorlik aminokislotalari - Tanangizni jismoniy faollikka tayyorlashga yordam beradi va mushaklar faoliyatini qo'llab-quvvatlaydi.",
+        "Kreatin matritsasi - Yuqori intensivlikdagi mashqlar samaradorligini qo'llab-quvvatlaydi.",
+        "Azot oksidi - L-Sitrullin azot oksidi ishlab chiqarishga yordam beradi va mashq paytida sog'lom qon aylanishini ta'minlaydi.",
+        "Stimulyatorlar kompleksi - Mashg'ulotdan oldin hushyor turishingizga yordam berish uchun tarkibida kofein bo'lgan bir nechta ingredientlar kiritilgan.",
+        "Beta-Alanin - Sportchilar Beta-Alanindan foydalanadilar, chunki u mushaklardagi karnozin darajasini oshirishga yordam beradi. Yuqori karnozin darajasi intensiv mashg'ulot paytida kislota to'planishini kamaytirishga yordam beradi va uzoqroq mashq qilish imkonini beradi.",
+        "Kreatin Monogidrat - Sport ovqatlanishida eng ko'p o'rganilgan tarkibiy qismlardan biri. Kuch mashqlari bilan birgalikda muntazam iste'mol qilish kuch, quvvat chiqishi va takroriy yuqori intensivlikdagi mashqlarni qo'llab-quvvatlaydi.",
+        "Kreatin HCl (CreaCCL®) - Kreatin Gidroxlorid formuladagi kreatin matritsasini to'ldiruvchi yuqori eruvchan kreatin shaklidir.",
+        "L-Sitrullin - L-Sitrullin organizmda argininga aylanadi, bu esa azot oksidi ishlab chiqarishni qo'llab-quvvatlaydi. Bu jarayon mashq paytida qon oqimini yaxshilashga va mushak pampini kuchaytirishga yordam beradi.",
+        "Betain Angidrid - Betain kuch, quvvat va umumiy mashqlar samaradorligini qo'llab-quvvatlash uchun samaradorlik formulalariga kiritiladi.",
+        "Kofein Angidrid - Hushyorlik, reaksiya vaqti va mashg'ulotga tayyorlikni qo'llab-quvvatlaydigan tez so'riladigan kofein manbai.",
+        "Dikofein Malat (2XCAFF®) - Energiyaning sekinroq va barqarorroq ajralib chiqishini ta'minlaydigan kofein va olma kislotasi birikmasi.",
+        "Kofein Sitrat (Citra Caff®) - Muvozanatli energiya aralashmasini yaratish uchun kiritilgan qo'shimcha kofein manbai.",
+        "Citrus Aurantium ekstrakti (Citrusyn® 30) - Termogenik va stimulyatorga asoslangan sport ovqatlanish mahsulotlariga kiritiladigan o'simlik ekstrakti."
+      ],
+      "whychooseus": [
+        "Kam dozali formulalar yo'q. Yashirin aralashmalar yo'q.",
+        "Ko'p qatlamli stimulyator arxitekturasi — shunchaki kofeinning haddan tashqari yuklanishi emas",
+        "Oddiy foydalanuvchilar uchun emas, balki ilg'or sportchilar uchun yaratilgan",
+        "Shov-shuv uchun emas, balki natija uchun ishlab chiqilgan",
+        "Markaziy asab tizimi (MAT) va mushaklar faoliyatini birgalikda faollashtirish uchun mo'ljallangan"
+      ],
+      "whoShouldUse": [
+        "Tajribali zal ishqibozlari",
+        "Bodibilderlar",
+        "Kuch sportchilari",
+        "Pauerlifterlar",
+        "Kross-trening ishqibozlari",
+        "Stimulyatorli pre-workoutlarning tajribali foydalanuvchilari",
+        "Yangi boshlanuvchilar yoki stimulyatorlarga sezgir shaxslar uchun tavsiya etilmaydi."
+      ],
+      "howToUse": [
+        "Ta'sirchanlikni baholash uchun mashg'ulotdan taxminan 30 daqiqa oldin ½ qoshiqni (skup) 120–180 ml (4–6 oz) suv bilan aralashtiring.",
+        "Agar organizm yaxshi qabul qilsa, mashg'ulotdan taxminan 30 daqiqa oldin 1 to'liq qoshiqni 240–300 ml (8–10 oz) suv bilan aralashtiring.",
+        "Kuniga bir qoshiqdan ortiq iste'mol qilmang."
+      ],
+      "whatToAvoid": [
+        "Agar yangi boshlovchi bo'lsangiz, foydalanmang",
+        "Boshqa yuqori stimulyatorli mahsulotlar bilan birgalikda iste'mol qilishdan saqlaning",
+        "Uyqu vaqtiga yaqin iste'mol qilmang",
+        "Tavsiya etilgan dozadan oshirmang",
+        "Stimulyatorlarga sezgir shaxslar uchun mos emas"
+      ],
+      "safetyInformation": [
+        "Faqat sog'lom kattalar uchun mo'ljallangan.",
+        "Yangi boshlanuvchilar uchun emas.",
+        "Tavsiya etilgan porsiyadan oshirmang.",
+        "Tarkibida kofein bo'lgan boshqa mahsulotlar bilan birgalikda iste'mol qilishdan saqlaning.",
+        "Agar sizda biror kasallik bo'lsa yoki dori-darmon qabul qilayotgan bo'lsangiz, ishlatishdan oldin shifokor bilan maslahatlashing.",
+        "Homiladorlik yoki emizish davrida foydalanish uchun mo'ljallanmagan.",
+        "Bolalar qo'li yetmaydigan joyda saqlang.",
+        "Salqin va quruq joyda saqlang."
+      ],
+      "faqs": [
+        {
+          "question": "Father of Insane™ nima?",
+          "answer": "Father of Insane™ — bu stimulyatorli sport ovqatlanish mahsulotlari bilan tajribaga ega bo'lgan sog'lom kattalar uchun ishlab chiqilgan o'ta kuchli stimulyatorli pre-workout qo'shimchasi. 5200 mg li maxsus Father of Insane aralashmasi og'ir mashg'ulotlar paytida energiya, diqqat, azot oksidi, kuch, mushak chidamliligi va samaradorlikni qo'llab-quvvatlovchi ingredientlarni birlashtiradi. Tarkibida bir nechta stimulyatorlar mavjudligi sababli, yorliqda ta'sirchanlikni tekshirish uchun ½ qoshiqdan boshlash tavsiya etiladi."
+        },
+        {
+          "question": "Father of Insane™ dan kimlar foydalanishi kerak?",
+          "answer": "Father of Insane™ stimulyatorli pre-workout qo'shimchalaridan foydalanish tajribasiga ega sog'lom kattalar uchun mo'ljallangan. U yangi boshlanuvchilar yoki kofein va boshqa stimulyatorlarga sezgir odamlar uchun tavsiya etilmaydi."
+        },
+        {
+          "question": "Father of Insane™ ni qanday qabul qilish kerak?",
+          "answer": "Ta'sirchanlikni baholash uchun mashg'ulotdan taxminan 30 daqiqa oldin ½ qoshiqni 120–180 ml (4–6 oz) suv bilan aralashtirib ichishdan boshlang. Agar yaxshi qabul qilinsa, mashg'ulotdan 30 daqiqa oldin 1 to'liq qoshiqni 240–300 ml (8–10 oz) suv bilan aralashtiring. Kuniga bir qoshiqdan oshirmang."
+        },
+        {
+          "question": "Father of Insane™ tarkibiga qanday ingredientlar kiradi?",
+          "answer": "5200 mg li maxsus aralashma tarkibida Beta-Alanin, Kreatin Monogidrat, Kreatin HCl (CreaCCL®), L-Sitrullin, Betain Angidrid, Kofein Angidrid, Citrus Aurantium ekstrakti (Citrusyn® 30), Dikofein Malat (2XCAFF®) va Kofein Sitrat (Citra Caff®) mavjud."
+        },
+        {
+          "question": "Father of Insane™ yangi boshlanuvchilar uchun mosmi?",
+          "answer": "Yo'q. Yorliqda Father of Insane™ yangi boshlanuvchilar uchun emasligi aniq ko'rsatilgan. Tarkibida ko'plab stimulyatorlar bo'lgani sababli, yangi foydalanuvchilar ushbu mahsulotdan saqlanishlari va kamroq stimulyatorli muqobil variantni tanlashlari kerak."
+        },
+        {
+          "question": "Father of Insane™ ning asosiy afzalliklari nimada?",
+          "answer": "Formula mashg'ulot energiyasi, aqliy diqqat, mushak pampi, chidamlilik, kuch mashqlari va yuqori intensivlikdagi mashg'ulotlarni qo'llab-quvvatlash uchun yaratilgan. Natijalar shaxsga, mashg'ulot dasturiga, ovqatlanishga va muntazamlikka bog'liq."
+        },
+        {
+          "question": "Father of Insane™ tarkibida kreatin bormi?",
+          "answer": "Ha. Uning tarkibida yuqori intensivlikdagi mashqlar samaradorligini qo'llab-quvvatlash uchun sport ovqatlanishida keng qo'llaniladigan Kreatin Monogidrat va Kreatin HCl (CreaCCL®) mavjud."
+        },
+        {
+          "question": "Father of Insane™ tarkibida kofein bormi?",
+          "answer": "Ha. Mahsulot Kofein Angidrid, Dikofein Malat (2XCAFF®) va Kofein Sitrat (Citra Caff®) kabi bir nechta kofein manbalarini o'z ichiga oladi. Yorliqda har bir porsiyada jami 450 mg kofein borligi ko'rsatilgan."
+        },
+        {
+          "question": "Father of Insane™ ni har kuni ichish mumkinmi?",
+          "answer": "Yorliqdagi ko'rsatmalarga amal qiling va kuniga bir porsiyadan oshirmang. Ko'pgina sportchilar mashg'ulot intensivligi va individual chidamlilikka qarab qo'shimchalarni qabul qilish tartibini moslashtiradilar. Muntazam foydalanish bo'yicha savollaringiz bo'lsa, shifokor bilan maslahatlashing."
+        },
+        {
+          "question": "Father of Insane™ ni boshqa qo'shimchalar bilan birga ichish mumkinmi?",
+          "answer": "Father of Insane™ mos keladigan sport ovqatlanish mahsulotlari bilan birga ishlatilishi mumkin, ammo tarkibida yuqori darajadagi stimulyatorlar bo'lgani sababli, shifokor maslahatisiz uni kofeinli boshqa qo'shimchalar bilan birlashtirmang."
+        },
+        {
+          "question": "Father of Insane™ sifati tekshirilganmi?",
+          "answer": "Yorliqda mahsulot Promolecules uchun maxsus ravishda cGMP sertifikatiga ega korxonada ishlab chiqarilganligi ko'rsatilgan, bu esa amaldagi Yaxshi Ishlab Chiqarish Amaliyotlariga rioya qilinishini tasdiqlaydi."
+        },
+        {
+          "question": "Father of Insane™ ni qayerdan sotib olsam bo'ladi?",
+          "answer": "Father of Insane™ ni Promolecules rasmiy veb-sayti, Cost2Cost Supplement, Amazon, Flipkart va tanlangan rasmiy chakana hamkorlar orqali xarid qilish mumkin. Rasmiy sotuvchilardan xarid qilish mahsulotning asl ekanligini kafolatlaydi."
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Ethan Parker",
+          "country": "AQSH",
+          "des": "Yillar davomida kuchli stimulyatorli pre-workoutlardan foydalanib kelaman. Bunisi meni hayratda qoldirdi. Og'ir jim leja mashqidan oldin yarim qoshiq ichdim va neyron impuls a'lo darajada ishladi."
+        },
+        {
+          "id": 2,
+          "name": "Vikas Chauhan",
+          "country": "Hindiston",
+          "des": "Energiyaning ortishi nazorat ostida seziladi. Qo'llar titramaydi, har bir yondashuvda faqat mustahkam diqqat bor."
+        },
+        {
+          "id": 3,
+          "name": "Marco Bellini",
+          "country": "Italiya",
+          "des": "Men kechqurunlari mashq qilaman va odatda o'zimni charchagan his qilaman. Ushbu pre-workout bilan hatto oyoq mashg'ulotlari kunida ham ishtiyoq va intensivlik yuqori bo'lib qoladi."
+        },
+        {
+          "id": 4,
+          "name": "Deepak Rana",
+          "country": "Hindiston",
+          "des": "Odamlar MAT (CNS) faollashuvi deganda nimani nazarda tutishini birinchi marta tushundim. Stanovaya tyaga mashg'ulotim portlovchi o'tdi."
+        },
+        {
+          "id": 5,
+          "name": "Oliver Scott",
+          "country": "Buyuk Britaniya",
+          "des": "Yarim qoshiq protokoli o'zini oqlaydi. Bu formula ko'pchilik ikki qoshiqli pre-workoutlardan kuchliroq ta'sir qiladi."
+        },
+        {
+          "id": 6,
+          "name": "Ravi Mehta",
+          "country": "Hindiston",
+          "des": "Bazaviy mashqlar paytida diqqat darhol yaxshilandi. Shunchaki haddan tashqari yuklangan emas, balki aniq hisob-kitob bilan yaratilgandek tuyuladi."
+        },
+        {
+          "id": 7,
+          "name": "Jason Ward",
+          "country": "AQSH",
+          "des": "Meni hayratga solgan narsa — toza stimulyatsiya. Hatto 90 daqiqalik mashg'ulotdan keyin ham holsizlik kuzatilmadi."
+        },
+        {
+          "id": 8,
+          "name": "Abhishek Tripathi",
+          "country": "Hindiston",
+          "des": "O'tirib-turish (prised) kunidan oldin ichdim. Kuch ko'rsatkichi oxirgi yondashuvgacha barqaror saqlandi."
+        },
+        {
+          "id": 9,
+          "name": "Nicolas Romero",
+          "country": "Argentina",
+          "des": "Bu shiddat haqiqatan ham nazorat ostida seziladigan birinchi pre-workout."
+        },
+        {
+          "id": 10,
+          "name": "Faizan Khan",
+          "country": "BAA",
+          "des": "Push mashg'ulotidan oldin yarim qoshiq ichdim. Energiya ko'tarilishi silliq va barqaror bo'ldi."
+        },
+        {
+          "id": 11,
+          "name": "Andrew Foster",
+          "country": "Avstraliya",
+          "des": "Yangi boshlanuvchilar uchun emas, lekin tajribali atletlar uchun juda mos."
+        },
+        {
+          "id": 12,
+          "name": "Aman Verma",
+          "country": "Hindiston",
+          "des": "20 daqiqa ichida fikrim to'liq mashg'ulotga qaratildi."
+        },
+        {
+          "id": 13,
+          "name": "Carlos Rivera",
+          "country": "Meksika",
+          "des": "Og'ir bazaviy mashqlar paytida diqqatni ajoyib tarzda kuchaytiradi."
+        },
+        {
+          "id": 14,
+          "name": "Rahul Thakur",
+          "country": "Hindiston",
+          "des": "Men ishlatgan ko'pchilik import pre-workoutlardan kuchliroq tuyuladi."
+        },
+        {
+          "id": 15,
+          "name": "Daniel Moore",
+          "country": "AQSH",
+          "des": "Kofein ta'siri o'tgandan keyingi charchoqsiz energiya barqaror saqlanadi."
+        },
+        {
+          "id": 16,
+          "name": "Sanjay Deshmukh",
+          "country": "Hindiston",
+          "des": "Kuch platosidan (to'xtab qolishdan) o'tishga yordam beradi."
+        },
+        {
+          "id": 17,
+          "name": "Mateo Gonzalez",
+          "country": "Ispaniya",
+          "des": "Yuqori intensivlikdagi mashg'ulot kunlari uchun juda mos."
+        },
+        {
+          "id": 18,
+          "name": "Imran Malik",
+          "country": "Pokiston",
+          "des": "Stimulyatsiya toza va nazorat ostida seziladi."
+        },
+        {
+          "id": 19,
+          "name": "Nathan Hughes",
+          "country": "Buyuk Britaniya",
+          "des": "Kuchli formula, lekin tartibsiz emas."
+        },
+        {
+          "id": 20,
+          "name": "Kunal Aggarwal",
+          "country": "Hindiston",
+          "des": "Oxirgi bir nechta yondashuvlarni bajarishga yordam beradi."
+        },
+        {
+          "id": 21,
+          "name": "Victor Almeida",
+          "country": "Braziliya",
+          "des": "Diqqatni jamlash ta'siri sezilarli."
+        },
+        {
+          "id": 22,
+          "name": "Aditya Saxena",
+          "country": "Hindiston",
+          "des": "Mashg'ulotlarni yanada shiddatli qiladi."
+        },
+        {
+          "id": 23,
+          "name": "Eric Larson",
+          "country": "AQSH",
+          "des": "Men ishlatgan eng kuchli pre-workoutlardan biri."
+        },
+        {
+          "id": 24,
+          "name": "Rahul Khanna",
+          "country": "Hindiston",
+          "des": "Uzoq mashg'ulotlar uchun energiya barqaror qoladi."
+        },
+        {
+          "id": 25,
+          "name": "Dmitry Ivanov",
+          "country": "Rossiya",
+          "des": "Yarim qoshiqning o'ziyoq kuchli ta'sir qiladi."
+        },
+        {
+          "id": 26,
+          "name": "Armaan Sheikh",
+          "country": "Hindiston",
+          "des": "Titroqsiz yaxshi stimulyatsiya."
+        },
+        {
+          "id": 27,
+          "name": "Peter Wallace",
+          "country": "Kanada",
+          "des": "Intensivlikni saqlashga yordam beradi."
+        },
+        {
+          "id": 28,
+          "name": "Harshit Arora",
+          "country": "Hindiston",
+          "des": "Og'ir mashg'ulot kunlari uchun ayni muddao."
+        },
+        {
+          "id": 29,
+          "name": "Antonio Ruiz",
+          "country": "Ispaniya",
+          "des": "Mashg'ulot davomida diqqat bir joyda jamlanadi."
+        },
+        {
+          "id": 30,
+          "name": "Suresh Kumar",
+          "country": "Hindiston",
+          "des": "Kuchli, ammo muvozanatli formula."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "warflex",
+      "flipkartLink": "https://www.flipkart.com/promolecules-warflex-high-stim-pre-workout-caffeine-strength-pump-focus-formula-35-servings/p/itm855c7c69787ee?pid=PSLHKNVKCWGH6HRK&lid=LSTPSLHKNVKCWGH6HRKJSOMI5&marketplace=FLIPKART&q=preworkout&store=hlc%2Fetg%2F1rx&srno=s_1_4&otracker=AS_QueryStore_OrganicAutoSuggest_1_8_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_8_na_na_na&fm=search-autosuggest&iid=a7b10f9a-b5f9-4612-bb69-bd7eb8b52db5.PSLHKNVKCWGH6HRK.SEARCH&ppt=sp&ppn=sp&ssid=5rrj430ryo0000001779782323988&qH=c27d997028a56b71&ov_redirect=true&ov_redirect=true",
+      "cost2cost": "https://www.cost2costsupplement.com/products/warflex-high-stim-test-booster-preworkout",
+      "category": "PRE-WORKOUT",
+      "name": "WARFLEX",
+      "title": "Warflex™ — bu Boron Sitratli yuqori stimulyatorli test-buster pre-workout. Warflex™ stimulyatorga asoslangan sport ovqatlanish mahsulotlariga o'rgangan sog'lom kattalar uchun yaratilgan. Har bir porsiyada aminokislotalarning aniq nisbati, kreatin manbalari, azot oksidini qo'llab-quvvatlovchi tarkibiy qismlar, o'simlik ekstraktlari, nootropiklar va bir nechta kofein manbalari mavjud. U tajribali foydalanuvchilarga intensiv mashg'ulotlarga ko'proq diqqat va tayyorgarlik bilan kirishishga yordam berish uchun mo'ljallangan. Formula kuchli stimulyatorlarni o'z ichiga olganligi sababli, foydalanuvchilar to'liq porsiyani ishlatishdan oldin individual ta'sirchanlikni baholash uchun yarim qoshiqdan boshlashlari kerak.",
+      "description": "Maksimal Energiya. Yuqori Diqqat. Ilg'or Kuch Samaradorligi. Agar sizga oddiy pre-workoutdan ko'proq narsa kerak bo'lsa, Warflex™ ni sinab ko'ring — ilg'or sportchilar uchun mos bo'lgan turli samaradorlik tarkibiy qismlarining ilmiy asoslangan aralashmasi. Kreatin Monogidrat, Kreatin HCl (CreaCCL®), Beta-Alanin, L-Sitrullin, Taurin, Alpha GPC, Boron Sitrat, Agmatin Sulfat, turli kofein birikmalari, Alfa Yoximbin, L-Teanin va Guperzin-A mashg'ulotlardan oldin ruhiy va jismoniy tayyorgarlik ko'rishga yordam beradi. Warflex formulasi kuch mashqlari, bodibilding, pauerlifting, funksional fitnes va og'ir zal mashg'ulotlarini to'ldirish uchun yuqori stimulyatorli pre-workoutdan foydalanishni istagan tajribali sportchilarga qaratilgan. Ushbu mahsulot cGMP sertifikatiga ega korxonada ishlab chiqarilgan.",
+      "canonical": "https://www.promolecules.com/product/warflex/",
+      "seo": {
+        "title": "Warflex High Stim Pre Workout | Promolecules'da Eng Yaxshi Pre Workoutni Onlayn Xarid Qiling",
+        "description": "Promolecules'da Warflex High Stim Pre Workoutni onlayn xarid qiling. Jiddiy mashg'ulotlar uchun portlovchi energiya kuchaytirgichi, aql bovar qilmas mushak pampi, lazerdek diqqat, kuch va chidamlilik qo'shimchasini oling.",
+        "keywords": "WARFLEX Pre Workout, Warflex High Stim Pre Workout, Eng yaxshi pre-workout, Pre-workout onlayn sotib olish, Yuqori stimulyatorli pre-workout, Pre-workout qo'shimchasi, Zal pre-workout, Mashg'ulot energiya kuchaytirgichi, Mushak pampi qo'shimchasi, Kuch qo'shimchasi, Diqqat qo'shimchasi, Chidamlilik qo'shimchasi, Yuqori kofeinli pre-workout, Ilg'or pre-workout, Samaradorlik qo'shimchasi, Azot oksidi kuchaytirgichi",
+        "canonical": "https://www.promolecules.com/product/warflex/",
+        "author": "Promolecules™",
+        "publisher": "Promolecules™",
+        "language": "O'zbek",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "googlebot": "index, follow",
+        "bingbot": "index, follow",
+        "revisit_after": "7 days",
+        "distribution": "global",
+        "rating": "general",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "Dubay"
+        },
+        "og": {
+          "title": "Warflex High Stim Pre Workout | Energiya va Samaradorlik",
+          "type": "product",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "Warflex High Stim Pre Workout",
+          "locale": "uz_UZ",
+          "site_name": "Promolecules™",
+          "description": "Warflex™ High Stim Pre Workout bilan zalda yangi darajadagi samaradorlikni his eting. Portlovchi energiya, diqqat, pamp, kuch va chidamlilik uchun yaratilgan. Bugunoq onlayn buyurtma bering.",
+          "url": "https://www.promolecules.com/product/warflex/"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "title": "Warflex High Stim Pre Workout | Energiya va Samaradorlik",
+          "description": "Warflex™ High Stim Pre Workout bilan zalda yangi darajadagi samaradorlikni his eting. Portlovchi energiya, diqqat, pamp, kuch va chidamlilik uchun yaratilgan. Bugunoq onlayn buyurtma bering.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "Warflex High Stim Pre Workout | Energiya va Samaradorlik"
+        },
+        "ldjson": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Promolecules",
+            "alternateName": "Promolecules",
+            "url": "https://www.promolecules.com/",
+            "logo": "https://www.promolecules.com/promolecules-logo.webp",
+            "sameAs": [
+              "https://www.facebook.com/promolecules.official",
+              "https://x.com/promolecules",
+              "https://www.instagram.com/promolecules/",
+              "https://www.youtube.com/@Promolecules",
+              "https://www.pinterest.com/promolecules/"
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Warflex High Stim Pre Workout",
+            "image": "https://www.promolecules.com/Promolecules/warflexnew/fruit-punch-warflex-pre-workout-35-Servings.webp",
+            "description": "Promolecules'da Warflex High Stim Pre Workoutni onlayn xarid qiling. Jiddiy mashg'ulotlar uchun portlovchi energiya kuchaytirgichi, aql bovar qilmas mushak pampi, lazerdek diqqat, kuch va chidamlilik qo'shimchasini oling.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Promolecules™"
+            },
+            "sku": "father-of-insane-35",
+            "offers": {
+              "@type": "Offer",
+              "url": "https://www.promolecules.com/product/warflex/",
+              "priceCurrency": "USD",
+              "price": "41.99",
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "247"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "promolecules",
+                "item": "https://www.promolecules.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "mahsulot",
+                "item": "https://www.promolecules.com/product/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Pre Workout",
+                "item": "https://www.promolecules.com/product-category/pre-workout/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "name": "warflex",
+                "item": "https://www.promolecules.com/product/warflex/"
+              }
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Review",
+            "@id": "https://www.promolecules.com/product/warflex/#review",
+            "itemReviewed": {
+              "@type": "Product",
+              "name": "Warflex High Stim Pre Workout",
+              "url": "https://www.promolecules.com/product/warflex/"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tasdiqlangan xaridor"
+            },
+            "datePublished": "2026-07-03",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "name": "Warflex™ Yuqori Stimulyatorli Pre Workout",
+            "reviewBody": "Promolecules'da Warflex™ High Stim Pre Workoutni onlayn xarid qiling. Jiddiy mashg'ulotlar uchun portlovchi energiya, ajoyib mushak pampi, lazerdek diqqat, kuch va chidamlilikka ega bo'ling."
+          }
+        ]
+      },
+      "price": "43",
+      "servings": [
+        {
+          "size": "35",
+          "price": 41.99
+        },
+        {
+          "size": "65",
+          "price": 59.99
+        }
+      ],
+      "discounted": "41.2",
+      "images": [
+        "/Promolecules/warflexnew/promolecules-warflex-pre-workout_11zon.webp",
+        "/Promolecules/warflexnew/promolecules-warflex-supplements_11zon.webp",
+        "/Promolecules/warflex3.webp",
+        "/Promolecules/warflexnew/Warflex-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/warflexnew/warfle-pre-workout.webp",
+      "variants": [
+        {
+          "flavour": "Mevali punsh",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/fruit-punch-warflex-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Mevali punsh",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/fruit-punch-warflex-pre-workout-65-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Gummies-Bliss",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/gummies-candy-warflex-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Gummies-Bliss",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/gummies-candy-warflex-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Ko'k malina",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/blue-rasberry-warflex-pre-workout-35-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Ko'k malina",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/blue-rasberry-warflex-pre-workout-65-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Purple-Pulse",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/purple-pulse-gummies-warflex-pre-workout-35-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Purple-Pulse",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/purple-pulse-gummies-warflex-pre-workout-65-Servings_11zon.webp"
+        }
+      ],
+      "keyBenefits": [
+        "Yuqori mashg'ulot energiyasini qo'llab-quvvatlaydi - Warflex Kofein Angidrid, Dikofein Malat, Kofein Sitrat va Kofein HCl ni o'z ichiga olgan kofein manbaidir. Bular sport ovqatlanishida hushyorlik va mashqlarga tayyorlikni ta'minlovchi keng tarqalgan tarkibiy qismlardir.",
+        "Aqliy diqqatni qo'llab-quvvatlaydi - Alpha GPC, L-Teanin va Guperzin-A kabi tarkibiy qismlar og'ir mashg'ulotlar paytida konsentratsiya va kognitiv funksiyani qo'llab-quvvatlash uchun samaradorlik formulalariga kiritiladi.",
+        "Kuch samaradorligini qo'llab-quvvatlaydi - Kreatin Monogidrat va Kreatin HCl yuqori intensivlikdagi mashqlarda kuch mashqlari bilan yaxshi ishlaydigan tarkibiy qismlardir.",
+        "Mushak pampiga yordam beradi - L-Sitrullin va Agmatin Sulfat azot oksidi ishlab chiqarishni va mashq paytida sog'lom qon aylanishini rag'batlantirishi tufayli sportchilarga kuchliroq mushak pampi olish imkonini beradi.",
+        "Mushak chidamliligini oshiradi - Beta-Alanin takroriy yuqori intensivlikdagi mashqlar paytida kislotalilikni buferlashga yordam berish uchun vaqt o'tishi bilan mushaklardagi karnozin darajasini oshiradi.",
+        "Boron Sitrat qo'shilishi - Warflex sport ovqatlanishida keng qo'llaniladigan mikroelement — Boron Sitratni o'z ichiga oladi. Bor normal mineral almashinuvida rol o'ynaydi va ilg'or samaradorlik formulalariga tez-tez kiritiladi.",
+        "Niatsin (35 mg) - Niatsin (B3 vitamini) energiya almashinuvini qo'llab-quvvatlaydi va organizm tomonidan oziq-ovqatning energiyaga aylanishini ta'minlaydi.",
+        "Natriy (150 mg) - Natriy jismoniy faollik paytida tana suyuqliklari va elektrolitlar muvozanatini saqlashda muhim rol o'ynaydi.",
+        "Beta-Alanin (2000 mg) - Mushak to'qimalarida karnozin miqdorini oshirish orqali mushak chidamliligini yaxshilaydi, bu esa intensiv mashqlar paytida kislota to'planishi ta'sirini kamaytirishga yordam beradi.",
+        "Kreatin Monogidrat (1000 mg) - Sport ovqatlanishidagi eng chuqur o'rganilgan tarkibiy qismlardan biri bo'lib, muntazam qabul qilinganda kuch, quvvat va takroriy yuqori intensivlikdagi mashqlarni qo'llab-quvvatlaydi.",
+        "L-Sitrullin (1000 mg) - Organizmda argininga aylanib, azot oksidi ishlab chiqarishni qo'llab-quvvatlaydi, bu esa mashq paytida qon oqimini yaxshilash va mushak pampini his qilishga yordam beradi.",
+        "Kreatin HCl (500 mg) - Kreatin Gidroxlorid mahsulotning kreatin matritsasini to'ldiruvchi yuqori eruvchan kreatin shaklidir.",
+        "Taurin (500 mg) - Mushaklar faoliyati, gidratatsiya va mashqlar samaradorligini qo'llab-quvvatlash uchun sport ovqatlanish mahsulotlariga qo'shiladi.",
+        "Alpha GPC (50%) - Diqqat va aqliy samaradorlikni qo'llab-quvvatlash uchun nootropik va sport qo'shimchalariga kiritiladigan xolin shaklidir.",
+        "Eria Jarensis ekstrakti - Umumiy stimulyator va diqqat aralashmasining bir qismi sifatida premium pre-workout formulalariga kiritiladi.",
+        "XBTRA Pump® aralashmasi - Azot oksidi va mashqlar samaradorligini qo'llab-quvvatlash uchun Agmatin Sulfat va lavlagi ildizi ekstraktini o'z ichiga oladi.",
+        "Archa mevasi (Juniper Berry) ekstrakti - Maxsus samaradorlik aralashmasining bir qismi bo'lib, mahsulotning umumiy formulasiga kiritilgan.",
+        "Xan Caf™ aralashmasi - Kofein Angidrid, Dikofein Malat, Kofein Sitrat va Kofein HCl ni o'z ichiga oladi. Ushbu tarkibiy qismlar Warflex-ga yuqori stimulyatorli profil beradi hamda hushyorlik va mashg'ulotga tayyorlikni oshiradi.",
+        "Citrus Aurantium (Citrus Syn 50®) - Termogenik va stimulyatorga asoslangan sport ovqatlanish mahsulotlaridagi mashhur tarkibiy qism.",
+        "L-Teanin (100 mg) - Har tomonlama muvozanatli diqqat tajribasini berish uchun ko'pincha kofein bilan birlashtiriladi.",
+        "Alfa Yoximbin (2,5 mg) - Ilg'or sportchilar uchun mo'ljallangan kuchli stimulyator; foydalanuvchilarning ta'sirchanligi turlicha bo'lgani uchun yorliq ko'rsatmalariga muvofiq yarim qoshiqdan boshlash kerak.",
+        "Boron Sitrat (3 mg) - Ilg'or sport ovqatlanish formulalariga kiritilgan va normal mineral almashinuvi bilan bog'liq mikroelement.",
+        "Guperzin-A (200 mkg) - Konsentratsiya va aqliy funksiyani qo'llab-quvvatlash uchun ishlatiladigan nootropik tarkibiy qism."
+      ],
+      "whoShouldUse": [
+        "Tajribali bodibilderlar",
+        "Kuch sportchilari",
+        "Pauerlifterlar",
+        "Kross-trening sportchilari",
+        "Ilg'or zal ishqibozlari",
+        "Tajribali pre-workout foydalanuvchilari",
+        "Yangi boshlanuvchilar yoki stimulyatorlarga sezgir shaxslar uchun tavsiya etilmaydi."
+      ],
+      "whychooseus": [
+        "Stimulyatorlar, kuchni qo'llab-quvvatlovchi ingredientlar, azot oksidi kuchaytiruvchilari va kognitiv kuchaytiruvchilarga ega ilg'or formula",
+        "Og'ir mashg'ulotlarga tayyorgarlikni qo'llab-quvvatlaydi",
+        "Mashq paytida diqqat va konsentratsiyani oshiradi",
+        "Kuchga yo'naltirilgan mashg'ulotlarni qo'llab-quvvatlaydi",
+        "Mushak chidamliligini yaxshilashga yordam beradi",
+        "Yaxshiroq mushak pampini rag'batlantiradi",
+        "Mashg'ulotga bo'lgan ishtiyoqni oshiradi",
+        "Ilg'or sportchilar va tajribali pre-workout foydalanuvchilari uchun yaratilgan",
+        "Samaradorlikka yo'naltirilgan mashg'ulotlar uchun ideal"
+      ],
+      "howToUse": [
+        "Ta'sirchanlikni baholash uchun mashg'ulotdan taxminan 30 daqiqa oldin ½ qoshiqni 120–180 ml (4–6 oz) suv bilan aralashtiring.",
+        "Agar organizm yaxshi qabul qilsa, mashg'ulotdan taxminan 30 daqiqa oldin 1 to'liq qoshiqni 240–300 ml (8–10 oz) suv bilan aralashtiring.",
+        "Kuniga bir qoshiqdan ortiq iste'mol qilmang."
+      ],
+      "safetyInformation": [
+        "18 yosh va undan katta sog'lom kattalar foydalanishi uchun.",
+        "Har bir porsiyada taxminan 395 mg kofein mavjud.",
+        "Agar siz kofein yoki boshqa stimulyatorlarga sezgir bo'lsangiz, ehtiyotkorlik bilan foydalaning.",
+        "Tarkibida stimulyatorlar bo'lgan boshqa mahsulotlar bilan birlashtirmang.",
+        "Agar siz retsept bo'yicha dori-darmon qabul qilsangiz yoki biror kasalligingiz bo'lsa, ishlatishdan oldin shifokor bilan maslahatlashing.",
+        "Homiladorlik yoki emizish davrida ishlatilmasligi kerak.",
+        "Bolalar qo'li yetmaydigan joyda saqlang.",
+        "Salqin va quruq joyda saqlang."
+      ],
+      "faqs": [
+        {
+          "question": "Warflex™ nima?",
+          "answer": "Warflex™ — bu Promolecules kompaniyasining ilg'or sportchilar uchun mo'ljallangan Boron Sitratli pre-workout qo'shimchasi. U mashg'ulot energiyasi, diqqat, kuch, chidamlilik va samaradorlikni qo'llab-quvvatlash uchun Beta-Alanin, Kreatin Monogidrat, Kreatin HCl, L-Sitrullin, Taurin, Alpha GPC, Agmatin Sulfat, bir nechta kofein manbalari, Alfa Yoximbin va Guperzin-A ni o'z ichiga oladi."
+        },
+        {
+          "question": "Warflex™ dan kimlar foydalanishi kerak?",
+          "answer": "Warflex™ ilgari stimulyatorli pre-workout qo'shimchalarini qabul qilgan 18 yoshdan oshgan sog'lom kattalar uchun mo'ljallangan va yuqori stimulyator miqdori tufayli yangi boshlanuvchilar yoki kofeinga sezgir shaxslar uchun tavsiya etilmaydi."
+        },
+        {
+          "question": "Warflex™ ni qanday qabul qilish kerak?",
+          "answer": "Ta'sirchanlikni baholash uchun mashg'ulotdan 30 daqiqa oldin ½ qoshiqni 120–180 ml (4–6 oz) suvda aralashtirib boshlang. Agar yaxshi qabul qilinsa, mashg'ulotdan 30 daqiqa oldin 1 to'liq qoshiqni 240–300 ml (8–10 oz) suvda aralashtirib iching. Kuniga 1 porsiyadan oshirmang."
+        },
+        {
+          "question": "Warflex™ tarkibiga qanday ingredientlar kiradi?",
+          "answer": "Har bir porsiyaga Beta-Alanin (2000 mg), Kreatin Monogidrat (1000 mg), L-Sitrullin (1000 mg), Kreatin HCl (500 mg), Taurin (500 mg), Alpha GPC (50%), Eria Jarensis ekstrakti, Agmatin Sulfat, lavlagi ildizi ekstrakti, archa mevasi ekstrakti, Kofein Angidrid, Dikofein Malat, Kofein Sitrat, Kofein HCl, Citrus Aurantium ekstrakti, L-Teanin, Alfa Yoximbin, Boron Sitrat va Guperzin-A kiradi."
+        },
+        {
+          "question": "Warflex™ tarkibida kofein bormi?",
+          "answer": "Ha. Warflex™ hushyorlik, mashg'ulotga tayyorlik va energiyani qo'llab-quvvatlash uchun Kofein Angidrid, Dikofein Malat, Kofein Sitrat va Kofein HCl kabi bir nechta kofein manbalarini o'z ichiga oladi."
+        },
+        {
+          "question": "Warflex™ tarkibida kreatin bormi?",
+          "answer": "Ha. Warflex™ muntazam kuch mashqlari bilan yuqori intensivlikdagi mashqlar samaradorligini qo'llab-quvvatlash uchun Kreatin Monogidrat va Kreatin HCl (CreaCCL®) ni o'z ichiga oladi."
+        },
+        {
+          "question": "Warflex™ tarkibidagi Boron Sitratning qanday foydalari bor?",
+          "answer": "Boron Sitrat sport ovqatlanish formulalariga kiritiladigan mikroelementdir. U normal mineral almashinuvida rol o'ynaydi va ilg'or samaradorlik qo'shimchalarida tez-tez qo'llaniladi."
+        },
+        {
+          "question": "Warflex™ yangi boshlanuvchilar uchun mosmi?",
+          "answer": "Yo'q. Warflex™ ilg'or foydalanuvchilar uchun mo'ljallangan va yorliqda 'Yangi boshlanuvchilar uchun emas' deb aniq ko'rsatilgan. Yangi foydalanuvchilar kamroq stimulyatorli pre-workoutni tanlashlari va doimo o'z ta'sirchanliklarini baholashlari kerak."
+        },
+        {
+          "question": "Warflex™ ni har kuni ichish mumkinmi?",
+          "answer": "Warflex™ ni faqat mahsulot yorlig'ida ko'rsatilganidek qabul qiling va kuniga 1 porsiyadan oshirmang. Muntazam foydalanish bo'yicha savollaringiz bo'lsa, malakali shifokor bilan maslahatlashing."
+        },
+        {
+          "question": "Warflex™ ni boshqa qo'shimchalar bilan birlashtirish mumkinmi?",
+          "answer": "Warflex™ boshqa mos keladigan sport ovqatlanish mahsulotlari bilan ishlatilishi mumkin. Biroq, tarkibida kofein va stimulyatorlar ko'p bo'lgani sababli, uni boshqa stimulyatorli qo'shimchalar yoki energetik ichimliklar bilan aralashtirmang."
+        },
+        {
+          "question": "Warflex™ sifat sertifikatiga ega korxonada ishlab chiqarilganmi?",
+          "answer": "Ha. Mahsulot yorlig'iga ko'ra, Warflex™ izchil ishlab chiqarish standartlarini ta'minlovchi cGMP sertifikatiga ega korxonada Promolecules uchun maxsus ishlab chiqilgan va tayyorlangan."
+        },
+        {
+          "question": "Warflex™ ni qayerdan sotib olsam bo'ladi?",
+          "answer": "Mahsulotning asl ekanligiga ishonch hosil qilish uchun Warflex™ ni to'g'ridan-to'g'ri Promolecules rasmiy veb-saytidan yoki vakolatli chakana hamkorlar orqali xarid qilishingiz mumkin."
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Ryan Carter",
+          "country": "AQSH",
+          "des": "12 yildan beri og'ir atletika bilan shug'ullanaman. Stanovaya tyagadan oldin yarim qoshiq ichdim va MAT (CNS) darhol ishga tushdi. Energiya egri chizig'i silliq va shiddat har bir yondashuvda nazorat ostida qoladi."
+        },
+        {
+          "id": 2,
+          "name": "Arjun Mehta",
+          "country": "Hindiston",
+          "des": "Hindistondagi ko'pchilik pre-workoutlar kuchsiz tuyuladi. Bunisi boshqacha. Prised kunidan oldin yarim qoshiq ichdim va diqqat aql bovar qilmas darajada edi."
+        },
+        {
+          "id": 3,
+          "name": "Daniel Kovacs",
+          "country": "Vengriya",
+          "des": "Pauerlifting murabbiyi sifatida stimulyatorlarga ehtiyotkorlik bilan qarayman. Ajablanarlisi, bu formula ko'pchilik yuqori stimulyatorli mahsulotlardagi titroqsiz toza faollashuv beradi."
+        },
+        {
+          "id": 4,
+          "name": "Jake Robinson",
+          "country": "Buyuk Britaniya",
+          "des": "Nihoyat yuqori stimulyator foydalanuvchilarini hurmat qiladigan pre-workout. Og'ir bazaviy mashg'ulotlar paytida ham energiya barqaror saqlanadi."
+        },
+        {
+          "id": 5,
+          "name": "Sandeep Rawat",
+          "country": "Hindiston",
+          "des": "20 daqiqa ichida tugma bosilgandek bo'ldi. Jim leja mashg'uloti shiddatli va diqqatli o'tdi. Keyin esa kofeinning yoqimsiz charchog'i sezilmadi."
+        },
+        {
+          "id": 6,
+          "name": "Miguel Santos",
+          "country": "Ispaniya",
+          "des": "Ko'p yuqori stimulyatorli formulalarni sinab ko'rdim, lekin bunisi mukammal ishlangandek tuyuladi. Oyoq mashg'ulotlari kunida intensivligim sezilarli darajada oshdi."
+        },
+        {
+          "id": 7,
+          "name": "Karan Singh",
+          "country": "Hindiston",
+          "des": "Odatda o'ta kuchli stimulyator da'volariga shubha bilan qarayman. Lekin pull kunidan oldin yarim qoshiq ichdim va neyron impuls yaqqol sezildi."
+        },
+        {
+          "id": 8,
+          "name": "Lucas Andrade",
+          "country": "Braziliya",
+          "des": "Uzoq ish kunidan keyin mashq qilganda bu pre-workout haqiqatan ham yordam beradi. Bazaviy mashqlarning oxirgi yondashuvida ham diqqat o'tkir qoladi."
+        },
+        {
+          "id": 9,
+          "name": "Ahmed Rashid",
+          "country": "BAA",
+          "des": "Stimulyatsiya egri chizig'i hayratlanarli darajada muvozanatli. Ko'tarish paytida shiddat bor, lekin aqlan nazorat saqlanadi."
+        },
+        {
+          "id": 10,
+          "name": "Tom Gallagher",
+          "country": "Irlandiya",
+          "des": "Og'ir prised mashg'ulotidan oldin ishlatdim. Mushaklarning faollashuvi shunchaki kofein ta'siri emas, haqiqiy tuyuldi."
+        },
+        {
+          "id": 11,
+          "name": "Rahul Verma",
+          "country": "Hindiston",
+          "des": "Rostini aytsam, ko'p narsa kutmagandim. Ammo 15 daqiqadan so'ng mashg'ulot intensivligim o'z-o'zidan ko'tarildi."
+        },
+        {
+          "id": 12,
+          "name": "Mark Jensen",
+          "country": "Daniya",
+          "des": "Bunisi jiddiy atletlar uchun yaratilgandek. Uzoq mashg'ulotlar davomida energiya barqaror qoladi."
+        },
+        {
+          "id": 13,
+          "name": "Omar Hassan",
+          "country": "Misr",
+          "des": "Kuchli formula, lekin tartibsiz emas. Bazaviy mashqlar paytida diqqat bir joyda turadi."
+        },
+        {
+          "id": 14,
+          "name": "Jason Miller",
+          "country": "AQSH",
+          "des": "Yarim qoshiq protokoli mantiqiy. Kuchli, ammo nazorat ostida."
+        },
+        {
+          "id": 15,
+          "name": "Nikhil Sharma",
+          "country": "Hindiston",
+          "des": "Stanovaya tyaga kuni butunlay boshqacha o'tdi. Yondashuvlar orasida aqliy charchoq bo'lmadi."
+        },
+        {
+          "id": 16,
+          "name": "Ben Clarke",
+          "country": "Avstraliya",
+          "des": "Toza stimulyatsiya. Qo'l titrashi yoki xavotir yo'q."
+        },
+        {
+          "id": 17,
+          "name": "Aditya Kapoor",
+          "country": "Hindiston",
+          "des": "Energiya ko'tarilishi silliq. Shiddat oxirgi yondashuvlarni yengib o'tishga yordam beradi."
+        },
+        {
+          "id": 18,
+          "name": "Carlos Fernandez",
+          "country": "Meksika",
+          "des": "Yuqori hajmli mashg'ulotlar paytida chidamlilik yaxshilanganini haqiqatan ham sezdim."
+        },
+        {
+          "id": 19,
+          "name": "Rohit Chauhan",
+          "country": "Hindiston",
+          "des": "Mashg'ulotlar uzoqroq va diqqatliroq o'tmoqda."
+        },
+        {
+          "id": 20,
+          "name": "Nathan Brooks",
+          "country": "Kanada",
+          "des": "Formula haqiqatan ham temir ko'taradigan odam tomonidan yaratilgandek tuyuladi."
+        },
+        {
+          "id": 21,
+          "name": "Imran Khan",
+          "country": "Pokiston",
+          "des": "Diqqatning yaxshilanishi men uchun eng katta farq bo'ldi."
+        },
+        {
+          "id": 22,
+          "name": "George Martin",
+          "country": "Buyuk Britaniya",
+          "des": "Yuqori stimulyatorli, ammo hayratlanarli darajada muvozanatli."
+        },
+        {
+          "id": 23,
+          "name": "Harsh Vardhan",
+          "country": "Hindiston",
+          "des": "Bazaviy mashqlar yanada portlovchi tuyuladi."
+        },
+        {
+          "id": 24,
+          "name": "Peter Novak",
+          "country": "Slovakiya",
+          "des": "Og'ir ko'tarishlardan oldin yaxshi neyron faollashuv."
+        },
+        {
+          "id": 25,
+          "name": "Arman Qureshi",
+          "country": "Hindiston",
+          "des": "Mashg'ulot davomida energiya barqaror qoladi."
+        },
+        {
+          "id": 26,
+          "name": "Sebastian Cruz",
+          "country": "Chili",
+          "des": "Juda kuchli, ammo boshqariladigan stimulyatsiya."
+        },
+        {
+          "id": 27,
+          "name": "Jay Patel",
+          "country": "Hindiston",
+          "des": "Mashg'ulot platosini yengib o'tishga yordam beradi."
+        },
+        {
+          "id": 28,
+          "name": "Victor Petrov",
+          "country": "Bolgariya",
+          "des": "Yangi boshlanuvchilar mahsuloti emas, lekin tajribali atletlar uchun ajoyib ishlaydi."
+        },
+        {
+          "id": 29,
+          "name": "Daniel Park",
+          "country": "Janubiy Koreya",
+          "des": "Diqqat va shiddat uyg'unligi mukammal tuyuladi."
+        },
+        {
+          "id": 30,
+          "name": "Rakesh Kumar",
+          "country": "Hindiston",
+          "des": "Yarim qoshiqning o'zi ko'pchilik pre-workoutlardan kuchliroq ta'sir qiladi."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "inopower-r",
+      "name": "INOPOWER-R",
+      "cost2cost": "https://www.cost2costsupplement.com/products/inopower-r",
+      "category": "ATP BOOSTER",
+      "title": "ATP energiyasini qo'llab-quvvatlaydigan, charchoqni kamaytiradigan va kofeinsiz samaradorlikni barqaror saqlaydigan stimulyatorsiz chidamlilik formulasi. Boshqalar to'xtaganda davom eting.",
+      "description": "INOPOWER-R™ — bu asab tizimingizga ta'sir qilmasdan chidamlilikni oshirish, charchoqni kamaytirish va uzoq mashg'ulotlarni qo'llab-quvvatlash uchun mo'ljallangan stimulyatorsiz ATP samaradorlik formulasi. Kechki mashg'ulotlar, stimulyatorsiz davrlar (off-stim) yoki kofeinsiz toza, barqaror energiyaga muhtoj sportchilar uchun juda mos keladi.",
+      "seo": {
+        "title": "Promolecules Inopower-R | ATP Energiya va Chidamlilik Qo'shimchasi",
+        "description": "Promolecules™ tomonidan Inopower-R ni xarid qiling. Portlovchi energiya, chidamlilik va tezroq tiklanish uchun ilg'or ATP formulasi. Jiddiy sportchilar uchun yuqori samarali qo'shimcha. Hoziroq buyurtma bering.",
+        "canonical": "https://www.promolecules.com/product/inopower-r/",
+        "og": {
+          "title": "Inopower-R | ATP Energiya va Chidamlilik | Promolecules",
+          "type": "website",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "locale": "uz_UZ",
+          "site_name": "Promolecules",
+          "description": "Portlovchi energiya. Maksimal chidamlilik. Tezroq tiklanish. Promolecules™ tomonidan Inopower-R ni kashf eting — jiddiy natijalar uchun yaratilgan.",
+          "url": "https://www.promolecules.com/product/inopower-r/"
+        },
+        "author": "Promolecules",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "Dubay"
+        },
+        "language": "uz",
+        "robots": "index,follow",
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "Promolecules",
+          "title": "Inopower-R | ATP Energiya Kuchaytirgichi",
+          "description": "Inopower-R bilan mashg'ulotlaringizni kuchaytiring. Energiya, chidamlilik va tiklanish uchun ilg'or ATP formulasi.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp"
+        },
+        "ldjson": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Promolecules",
+          "url": "https://www.promolecules.com/product/inopower-r/",
+          "logo": "https://www.promolecules.com/promolecules-logo.webp",
+          "sameAs": [
+            "https://www.instagram.com/promolecules/",
+            "https://www.threads.com/@promolecules",
+            "https://x.com/promolecules",
+            "https://in.pinterest.com/promolecules/",
+            "https://www.youtube.com/@Promolecules",
+            "https://www.facebook.com/promolecules.official"
+          ],
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "contactType": "mijozlarga xizmat ko'rsatish",
+              "email": "contact@promolecules.com"
+            }
+          ]
+        }
+      },
+      "servings": [
+        {
+          "size": "35",
+          "price": 45.99
+        }
+      ],
+      "variants": [
+        {
+          "flavour": "Ta'msiz",
+          "size": "120 kapsula",
+          "price": 45.99,
+          "image": "/Promolecules/inopower1.webp"
+        }
+      ],
+      "price": "43",
+      "discounted": "41.2",
+      "images": [
+        "/Promolecules/inopower1.webp",
+        "/Promolecules/inpower3/inpower-r-supplements.webp",
+        "/Promolecules/inpower3/promolecules-inpower-r-supplements.webp",
+        "/Promolecules/inpower3/inpower-r-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/inpower3/inopower-r-ultra-high-stimulant-pre-workout.webp",
+      "keyBenefits": [
+        "ATP Energiya Ishlab Chiqarish",
+        "Barqaror Chidamlilik Chiqishi",
+        "MAT (CNS) Ortig'icha Yuklanishisiz",
+        "Uyqu Buzilishisiz",
+        "Charchoqning Kamayishi va Yaxshiroq Tiklanish"
+      ],
+      "whychooseus": [
+        "Stimulyatorlarsiz energiya",
+        "Shunchaki hushyorlikni emas, hujayra samaradorligini qo'llab-quvvatlaydi",
+        "Yuqori stimulyatorli mahsulotlar bilan birlashtirish (stek qilish) uchun ideal"
+      ],
+      "howToUse": "Samaradorlik va tayyorgarlikni qo'llab-quvvatlash uchun mashg'ulotdan oldin qabul qiling. Fitnes maqsadlaringizga qarab kundalik tartibingizning bir qismi sifatida har kuni ishlatilishi mumkin. Yaxshiroq natijalar uchun uni boshqa pre-workout qo'shimchalari bilan birlashtirishingiz yoki oddiyroq yondashuv uchun alohida ishlatishingiz mumkin.",
+      "whatToAvoid": [
+        "Stimulyatorlarga xos keskin 'to'lqin' kutmang",
+        "Dozani oshirib yuborishdan saqlaning"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Jason Miller",
+          "country": "AQSH",
+          "des": "INOPOWER-R da menga yoqadigan narsa — toza energiya. Kofein sakrashisiz, uzoq gipertrofiya mashg'ulotlari paytida shunchaki barqaror chidamlilik."
+        },
+        {
+          "id": 2,
+          "name": "Rahul Verma",
+          "country": "Hindiston",
+          "des": "Orqa mushaklari mashg'ulotidan oldin ishlatdim va yondashuvlar orasida charchamayotganimni sezdim. Energiya tabiiy, ortiqcha stimulyatsiyasiz tuyuldi."
+        },
+        {
+          "id": 3,
+          "name": "Daniel Kovacs",
+          "country": "Vengriya",
+          "des": "Stimulyatorlarga sezgir odam sifatida menga aynan shu narsa kerak edi. Kofein yuklamasisiz ATP qo'llab-quvvatlashi."
+        },
+        {
+          "id": 4,
+          "name": "Arjun Mehta",
+          "country": "Hindiston",
+          "des": "Uni pamp formulam bilan birlashtirdim va chidamlilik oshgani yaqqol sezildi. Mashg'ulotni holsizlanmasdan tugatdim."
+        },
+        {
+          "id": 5,
+          "name": "Carlos Rivera",
+          "country": "Meksika",
+          "des": "Intra-style energiya uchun yaxshi yordam. Yuqori hajmli mashg'ulotlar paytida mushaklar tez charchamaydi."
+        },
+        {
+          "id": 6,
+          "name": "Sandeep Rawat",
+          "country": "Hindiston",
+          "des": "Kofein tufayli kechqurunlari mashq qilish qiyin edi. Bu uyquga ta'sir qilmasdan energiya beradi."
+        },
+        {
+          "id": 7,
+          "name": "Oliver Grant",
+          "country": "Buyuk Britaniya",
+          "des": "Samaradorlikni qo'llab-quvvatlashni xohlaydigan, lekin yuqori stimulyatorli mahsulotlardan qochadigan sportchilar uchun juda mos."
+        },
+        {
+          "id": 8,
+          "name": "Imran Khan",
+          "country": "Pokiston",
+          "des": "Oyoq mashg'ulotlari kunida chidamlilik yaxshilandi. Yondashuvlar orasida tiklanish tezroq seziladi."
+        },
+        {
+          "id": 9,
+          "name": "Ryan Brooks",
+          "country": "AQSH",
+          "des": "Toza ATP kuchaytirgichidek tuyuladi. Mashg'ulot davomida energiya barqaror qoladi."
+        },
+        {
+          "id": 10,
+          "name": "Vikas Chauhan",
+          "country": "Hindiston",
+          "des": "Kuniga ikki marta mashq qiladiganlar uchun ajoyib. Ortiqcha stimulyatsiyasiz, shunchaki barqaror energiya."
+        },
+        {
+          "id": 11,
+          "name": "Mateo Gonzalez",
+          "country": "Ispaniya",
+          "des": "Buning yordamida kardio mashg'ulotlarim uzoqroq va silliqroq o'tmoqda."
+        },
+        {
+          "id": 12,
+          "name": "Aman Singh",
+          "country": "Hindiston",
+          "des": "Chidamlilik mashqlari uchun mukammal qo'shimcha."
+        },
+        {
+          "id": 13,
+          "name": "Daniel Park",
+          "country": "Janubiy Koreya",
+          "des": "Kofein titroqlarisiz diqqat barqaror saqlanadi."
+        },
+        {
+          "id": 14,
+          "name": "Victor Petrov",
+          "country": "Bolgariya",
+          "des": "Uni pre-workout bilan birlashtirdim va chidamlilik yaxshilandi."
+        },
+        {
+          "id": 15,
+          "name": "Aditya Sharma",
+          "country": "Hindiston",
+          "des": "Ko'p takrorlanishli mashqlar paytida mushak charchog'i kamaygani seziladi."
+        },
+        {
+          "id": 16,
+          "name": "Nathan Hughes",
+          "country": "Buyuk Britaniya",
+          "des": "Stimulyatorlarsiz yaxshi energiya tizimi qo'llab-quvvatlashi."
+        },
+        {
+          "id": 17,
+          "name": "Miguel Santos",
+          "country": "Portugaliya",
+          "des": "Stimulyatsiyadan ko'ra ko'proq metabolik energiyaga o'xshaydi."
+        },
+        {
+          "id": 18,
+          "name": "Rohit Chatterjee",
+          "country": "Hindiston",
+          "des": "Uzoq gipertrofiya mashg'ulotlaridan oldin juda mos."
+        },
+        {
+          "id": 19,
+          "name": "Ethan Carter",
+          "country": "AQSH",
+          "des": "Bazaviy mashqlar paytida chidamliligim sezilarli darajada oshdi."
+        },
+        {
+          "id": 20,
+          "name": "Harsh Gupta",
+          "country": "Hindiston",
+          "des": "Uzoq zal mashg'ulotlarini yengib o'tishga yordam beradi."
+        },
+        {
+          "id": 21,
+          "name": "Lucas Andrade",
+          "country": "Braziliya",
+          "des": "Energiya qo'llab-quvvatlashi silliq va tabiiy seziladi."
+        },
+        {
+          "id": 22,
+          "name": "Rajeev Menon",
+          "country": "Hindiston",
+          "des": "Kofeindan saqlanadigan odamlar uchun ajoyib."
+        },
+        {
+          "id": 23,
+          "name": "Kevin Larson",
+          "country": "Kanada",
+          "des": "Mashg'ulot davomida intensivlik barqaror saqlanadi."
+        },
+        {
+          "id": 24,
+          "name": "Karan Malhotra",
+          "country": "Hindiston",
+          "des": "Yuqori hajmli mashg'ulotlar paytida charchoqni kamaytirishga yordam beradi."
+        },
+        {
+          "id": 25,
+          "name": "Omar Hassan",
+          "country": "BAA",
+          "des": "Boshqa qo'shimchalar bilan birlashtirish uchun yaxshi energiya formulasi."
+        },
+        {
+          "id": 26,
+          "name": "George Adams",
+          "country": "Buyuk Britaniya",
+          "des": "Chidamlilik sportchilari uchun yaxshi ishlaydi."
+        },
+        {
+          "id": 27,
+          "name": "Akash Sharma",
+          "country": "Hindiston",
+          "des": "Kechki mashg'ulotlar uchun juda mos."
+        },
+        {
+          "id": 28,
+          "name": "Victor Cruz",
+          "country": "Chili",
+          "des": "Mashg'ulotlar paytida chidamlilikni oshiradi."
+        },
+        {
+          "id": 29,
+          "name": "Daniel Novak",
+          "country": "Slovakiya",
+          "des": "Toza ATP energiya qo'llab-quvvatlashi."
+        },
+        {
+          "id": 30,
+          "name": "Rakesh Kumar",
+          "country": "Hindiston",
+          "des": "Ajoyib stimulyatorsiz energiya qo'shimchasi."
+        }
+      ],
+      "supplementFacts": {
+        "servingSize": "1 qoshiq (30g)",
+        "servingsPerContainer": "30",
+        "nutrients": [
+          {
+            "name": "Kaloriya",
+            "amount": "120"
+          },
+          {
+            "name": "Oqsil",
+            "amount": "24g"
+          },
+          {
+            "name": "Uglevodlar",
+            "amount": "3g"
+          },
+          {
+            "name": "Yog'",
+            "amount": "1.5g"
+          },
+          {
+            "name": "BCAA",
+            "amount": "5.5g"
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "slug": "hydrapump",
+      "amazonLink": "https://www.amazon.in/Promolecules-Hydrapump-Hydration-Liquid-Supplement/dp/B0GTZNK5S2?ref_=ast_sto_dp&th=1",
+      "flipkartLink": "https://www.flipkart.com/promolecules-hydrapump-glycerol-liquid-pump-formula-muscle-hydration-x8tra-pump-blue-razz/p/itmd011fb75cb0b6?pid=VSLHHTAFXEEUHHUR&lid=LSTVSLHHTAFXEEUHHURKWWDS7&marketplace=FLIPKART&q=hydrapump+&store=search.flipkart.com&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_PY9yFY_mB0KHONWq8Wi1BwXjKQ7VYSMxYuKEM-VXvuhNy2Iz-vX5smQcoVfLgZm-vO8dbutioUNXCOlK0Rb8vw%3D%3D&ppt=sp&ppn=sp&ssid=6236rbg3xc0000001779782357625&qH=0496b440042c8a8a&ov_redirect=true&ov_redirect=true",
+      "cost2cost": "https://www.cost2costsupplement.com/products/hydrapump-muscle-fullness-vascularity-hydration-endurance-strength-performance",
+      "name": "HYDRAPUMP+",
+      "category": "MUSCLE HYDRATION",
+      "title": "Har bir mashg'ulotda mushaklarning to'liqligi, chidamliligi va samaradorligini oshiradigan ilg'or gidratatsiya va pamp formulasi. Chuqurroq gidratatsiya qiling. Kuchliroq pamp oling.",
+      "description": "HYDRAPUMP+™ — bu mushaklarning to'liqligi, tomirlarning bo'rtib chiqishi (vaskulyarlik) va chidamliligini maksimal darajada oshirish uchun yaratilgan yuqori samarali gidratatsiya va pamp matritsasi. Suyuq glitserin va elektrolitlar bilan u chuqur hujayra gidratatsiyasini va aql bovar qilmas pampni ta'minlaydi — ayniqsa yuqori hajmli yoki issiq sharoitdagi mashg'ulotlarda.",
+      "seo": {
+        "title": "HydraPump+ – Pamp, Gidratatsiya va Mashg'ulot Samaradorligini Maksimal Darajaga Ko'taring | Promolecules™",
+        "description": "Promolecules™ tomonidan HydraPump+ bilan mushak pampi va gidratatsiyani maksimal darajaga oshiring. Chidamlilik, tiklanish va ekstremal samaradorlik uchun ilg'or glitserin, sitrullin va elektrolitlar formulasi. Hoziroq xarid qiling.",
+        "canonical": "https://www.promolecules.com/product/hydrapump/",
+        "og": {
+          "title": "HydraPump+ | Ekstremal Pamp, Gidratatsiya va Samaradorlik",
+          "type": "website",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "locale": "uz_UZ",
+          "site_name": "Promolecules",
+          "description": "HydraPump+ bilan aql bovar qilmas pamp, gidratatsiya va chidamlilikni oching. Jiddiy sportchilar uchun glitserin, sitrullin va elektrolitlar bilan quvvatlantirilgan.",
+          "url": "https://www.promolecules.com/product/hydrapump/"
+        },
+        "author": "Promolecules",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "Dubay"
+        },
+        "language": "uz",
+        "robots": "index,follow",
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "Promolecules",
+          "title": "HydraPump+ | Maksimal Pamp va Gidratatsiya Formulasi",
+          "description": "Yaxshiroq pamp, gidratatsiya va chidamlilik bilan qattiqroq mashq qiling. HydraPump+ jiddiy samaradorlik uchun yaratilgan.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp"
+        },
+        "ldjson": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Promolecules",
+          "url": "https://www.promolecules.com/product/hydrapump/",
+          "logo": "https://www.promolecules.com/promolecules-logo.webp",
+          "sameAs": [
+            "https://www.instagram.com/promolecules/",
+            "https://www.threads.com/@promolecules",
+            "https://x.com/promolecules",
+            "https://in.pinterest.com/promolecules/",
+            "https://www.youtube.com/@Promolecules",
+            "https://www.facebook.com/promolecules.official"
+          ],
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "contactType": "mijozlarga xizmat ko'rsatish",
+              "email": "contact@promolecules.com"
+            }
+          ]
+        }
+      },
+      "servings": [
+        {
+          "size": "35",
+          "price": 48.99
+        },
+        {
+          "size": "65",
+          "price": 59.99
+        }
+      ],
+      "variants": [
+        {
+          "flavour": "Yalpizli Moxito",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/mintmojito.jpeg"
+        },
+        {
+          "flavour": "Blue-Razz",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/bluerazz.webp"
+        },
+        {
+          "flavour": "Saqich (BubbleGum)",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/bubblegumhydra.webp"
+        },
+        {
+          "flavour": "Olchali limonad",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/cherrylemon.webp"
+        },
+        {
+          "flavour": "Kola",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/cola.webp"
+        },
+        {
+          "flavour": "Shirali uzum",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/juicygrapes.webp"
+        },
+        {
+          "flavour": "Mango-Ananas",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/mangopineapple.webp"
+        },
+        {
+          "flavour": "Apelsin",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/oranges.webp"
+        },
+        {
+          "flavour": "Mevali punsh",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/fruitpunch.webp"
+        },
+        {
+          "flavour": "Nordon olma",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/SOURAPPLE.webp"
+        },
+        {
+          "flavour": "Qulupnay",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/strawberry.webp"
+        }
+      ],
+      "price": "43",
+      "discounted": "41.2",
+      "images": [
+        "/Promolecules/hydrapump2/promolecules-hydrapump+.webp",
+        "/Promolecules/hydrapump2/promolecules-hydrapump+-pre-workout.webp",
+        "/Promolecules/hydrapump2/hydrapump1.webp",
+        "/Promolecules/hydrapump2/hydrapump-supplements-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/hydrapump2/hydrapump-liquid-glycerol.webp",
+      "keyBenefits": [
+        "Ekstremal Energiya Ko'tarilishi",
+        "Lazerdek O'tkir Diqqat",
+        "Kuchning Ortishi",
+        "Yaxshilangan Chidamlilik",
+        "Bardoshlilikni Qo'llab-quvvatlaydi",
+        "Mashg'ulot Samaradorligini Oshirishga Yordam Beradi"
+      ],
+      "whychooseus": [
+        "Suyuq glitserin tizimi (yaxshiroq so'rilish)",
+        "Shunchaki pamp emas — gidratatsiya + samaradorlik tizimi"
+      ],
+      "howToUse": "Mashg'ulotdan oldin qabul qiling, uni har qanday pre-workout bilan birlashtirish mumkin va uzoq yoki yuqori hajmli mashg'ulotlar uchun juda mos keladi.",
+      "whatToAvoid": [
+        "Dozadan oshirmang",
+        "Suvsizlanishdan saqlaning (yetarli miqdorda suv iching)"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Jake Reynolds",
+          "country": "AQSH",
+          "des": "Hydra Pump ni pre-workoutim bilan birlashtirdim va qo'l mashg'ulotlari kunida tomirlarning bo'rtib chiqishi aql bovar qilmas darajada bo'ldi."
+        },
+        {
+          "id": 2,
+          "name": "Rohit Sharma",
+          "country": "Hindiston",
+          "des": "Ko'krak mashg'uloti paytida mushaklarning to'liqligi mashg'ulot tugagandan keyin ham saqlanib qoldi."
+        },
+        {
+          "id": 3,
+          "name": "Luis Garcia",
+          "country": "Ispaniya",
+          "des": "Gidratatsiya mexanizmi sezilarli. Qorin shishishisiz pamp uzoqroq saqlanadi."
+        },
+        {
+          "id": 4,
+          "name": "Arjun Bhatia",
+          "country": "Hindiston",
+          "des": "Pamp suvli emas, balki zich tuyuladi."
+        },
+        {
+          "id": 5,
+          "name": "Daniel White",
+          "country": "Buyuk Britaniya",
+          "des": "Kechki mashg'ulotlar uchun ajoyib stimulyatorsiz pamp formulasi."
+        },
+        {
+          "id": 6,
+          "name": "Rahul Nair",
+          "country": "Hindiston",
+          "des": "Butun mashg'ulot davomida mushaklar to'laroq bo'lib turadi."
+        },
+        {
+          "id": 7,
+          "name": "Victor Costa",
+          "country": "Braziliya",
+          "des": "Qo'l mashg'uloti pampi mashqdan keyin deyarli bir soat davom etdi."
+        },
+        {
+          "id": 8,
+          "name": "Karan Malhotra",
+          "country": "Hindiston",
+          "des": "Yuqori stimulyatorli pre-workoutlar bilan mukammal ishlaydi."
+        },
+        {
+          "id": 9,
+          "name": "Ahmed Karim",
+          "country": "BAA",
+          "des": "Intensiv mashg'ulotlar paytida gidratatsiya yaxshilangani seziladi."
+        },
+        {
+          "id": 10,
+          "name": "Chris Dawson",
+          "country": "AQSH",
+          "des": "Tomirlarning ko'rinishi sezilarli darajada oshdi."
+        },
+        {
+          "id": 11,
+          "name": "Sahil Arora",
+          "country": "Hindiston",
+          "des": "Pamp tarang va nazorat ostida seziladi."
+        },
+        {
+          "id": 12,
+          "name": "Mark Davies",
+          "country": "Buyuk Britaniya",
+          "des": "Boshqa qo'shimchalar bilan birlashtiriladigan formula yaxshi ishlaydi."
+        },
+        {
+          "id": 13,
+          "name": "Rajeev Singh",
+          "country": "Hindiston",
+          "des": "Yuqori hajmli yondashuvlar paytida mushak chidamliligi yaxshilandi."
+        },
+        {
+          "id": 14,
+          "name": "Pedro Lopez",
+          "country": "Meksika",
+          "des": "Stimulyatorlarsiz ajoyib pamp mahsuloti."
+        },
+        {
+          "id": 15,
+          "name": "Ankit Jain",
+          "country": "Hindiston",
+          "des": "Gipertrofiya mashg'ulotlari paytida mushaklarning to'liqligiga yordam beradi."
+        },
+        {
+          "id": 16,
+          "name": "Tom Harris",
+          "country": "Avstraliya",
+          "des": "Eng yaxshi gidratatsiya pamp formulalaridan biri."
+        },
+        {
+          "id": 17,
+          "name": "Imran Siddiqui",
+          "country": "Pokiston",
+          "des": "Shishish yo'q, lekin kuchli vaskulyar pamp bor."
+        },
+        {
+          "id": 18,
+          "name": "Aditya Raj",
+          "country": "Hindiston",
+          "des": "Pampga yo'naltirilgan mashg'ulotlar uchun juda mos."
+        },
+        {
+          "id": 19,
+          "name": "Carlos Silva",
+          "country": "Portugaliya",
+          "des": "Mushak to'liqligi effekti sezilarli."
+        },
+        {
+          "id": 20,
+          "name": "Rahul Verghese",
+          "country": "Hindiston",
+          "des": "Uzoq mashg'ulotlar paytida yordam beradi."
+        },
+        {
+          "id": 21,
+          "name": "Victor Sanchez",
+          "country": "Chili",
+          "des": "Ajoyib pre-workout steki."
+        },
+        {
+          "id": 22,
+          "name": "Arvind Kumar",
+          "country": "Hindiston",
+          "des": "Yondashuvlar davomida pamp barqaror saqlanadi."
+        },
+        {
+          "id": 23,
+          "name": "Ben Foster",
+          "country": "Buyuk Britaniya",
+          "des": "Yaxshi hajm beruvchi formula."
+        },
+        {
+          "id": 24,
+          "name": "Arjun Gupta",
+          "country": "Hindiston",
+          "des": "Qo'l mashg'ulotlari kunida eng yaxshi natija beradi."
+        },
+        {
+          "id": 25,
+          "name": "Luis Andrade",
+          "country": "Braziliya",
+          "des": "Gidratatsiya va pamp sinergiyasi yaxshi ishlaydi."
+        },
+        {
+          "id": 26,
+          "name": "Rahul Yadav",
+          "country": "Hindiston",
+          "des": "Tomirlarni kengaytirish uchun yaxshi vosita."
+        },
+        {
+          "id": 27,
+          "name": "George Adams",
+          "country": "AQSH",
+          "des": "Toza pamp formulasi."
+        },
+        {
+          "id": 28,
+          "name": "Rohit Chatterjee",
+          "country": "Hindiston",
+          "des": "Mashg'ulot paytida mushaklar to'laroq seziladi."
+        },
+        {
+          "id": 29,
+          "name": "Daniel Novak",
+          "country": "Slovakiya",
+          "des": "Stimulyatorlarsiz ajoyib pamp."
+        },
+        {
+          "id": 30,
+          "name": "Akshay Mehta",
+          "country": "Hindiston",
+          "des": "Yuqori stimulyatorli pre-workoutlar bilan mukammal uyg'unlik."
+        }
+      ],
+      "supplementFacts": {
+        "servingSize": "1 qoshiq (30g)",
+        "servingsPerContainer": "30",
+        "nutrients": [
+          {
+            "name": "Kaloriya",
+            "amount": "120"
+          },
+          {
+            "name": "Oqsil",
+            "amount": "24g"
+          },
+          {
+            "name": "Uglevodlar",
+            "amount": "3g"
+          },
+          {
+            "name": "Yog'",
+            "amount": "1.5g"
+          },
+          {
+            "name": "BCAA",
+            "amount": "5.5g"
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "slug": "thermo-nuke-xt",
+      "name": "THERMO NUKE XT",
+      "cost2cost": "https://www.cost2costsupplement.com/products/thermo-nuke-xt-advanced-thermogenic-formula-for-fast-fat-loss",
+      "category": "FAT BURNER",
+      "title": "Metabolizmni tezlashtiradigan, tana haroratini oshiradigan va quritish (cutting) bosqichlarida energiyani yuqori darajada ushlab turadigan kuchli yog' erituvchi formula. Qattiqroq yondiring. Ozg'inroq bo'ling.",
+      "description": "THERMO NUKE XT™ energiya va diqqatni saqlab qolgan holda metabolik chiqishni oshirish, tana haroratini ko'tarish va yog' oksidlanishini tezlashtirish uchun yaratilgan. Bu yengil yog' erituvchi emas — u quritish bosqichlari (cutting), vazn tashlash sikllari va jiddiy tana o'zgarishi maqsadlari uchun ishlab chiqilgan.",
+      "seo": {
+        "title": "Promolecules™ tomonidan Thermo Nuke XT | Tezkor Yog' Yo'qotish uchun Yuqori Stimulyatorli Yog' Erituvchi",
+        "description": "Promolecules™ tomonidan Thermo Nuke XT ni xarid qiling — metabolizmni tezlashtirish, energiyani oshirish va intensiv yog' yo'qotishni qo'llab-quvvatlash uchun yaratilgan yuqori stimulyatorli yog' erituvchi. Tezroq natijalar uchun hoziroq xarid qiling.",
+        "canonical": "https://www.promolecules.com/product/thermo-nuke-xt/",
+        "og": {
+          "title": "Promolecules™ tomonidan Thermo Nuke XT | Yuqori Stimulyatorli Yog' Erituvchi",
+          "type": "website",
+          "image": "https://www.promolecules.com/product-image.webp",
+          "locale": "uz_UZ",
+          "site_name": "Promolecules",
+          "description": "Metabolizm, energiya va yog' yo'qotishni kuchaytiruvchi yuqori stimulyatorli yog' erituvchi. Jiddiy natijalar uchun yaratilgan. Thermo Nuke XT ni hoziroq xarid qiling.",
+          "url": "https://www.promolecules.com/product/thermo-nuke-xt/"
+        },
+        "author": "Promolecules",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "Dubay"
+        },
+        "language": "uz",
+        "robots": "index,follow",
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "Promolecules",
+          "title": "Thermo Nuke XT | Promolecules™ tomonidan Yuqori Stimulyatorli Yog' Erituvchi",
+          "description": "Thermo Nuke XT bilan metabolizmni tezlashtiring, yog'ni tezroq eriting va energiyani oshiring. Intensiv yog' yo'qotish uchun mo'ljallangan.",
+          "image": "https://www.promolecules.com/product-image.webp"
+        },
+        "ldjson": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Promolecules",
+          "url": "https://www.promolecules.com/product/thermo-nuke-xt/",
+          "logo": "https://www.promolecules.com/logo.webp",
+          "sameAs": [
+            "https://www.instagram.com/promolecules/",
+            "https://www.threads.com/@promolecules",
+            "https://x.com/promolecules",
+            "https://in.pinterest.com/promolecules/",
+            "https://www.youtube.com/@Promolecules",
+            "https://www.facebook.com/promolecules.official"
+          ],
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "contactType": "mijozlarga xizmat ko'rsatish",
+              "email": "contact@promolecules.com"
+            }
+          ]
+        }
+      },
+      "variants": [
+        {
+          "flavour": "Ta'msiz",
+          "size": "60 kapsula",
+          "price": 35.99,
+          "image": "/Promolecules/thermo/promolecules-thermo-nuke-xt.webp"
+        }
+      ],
+      "discounted": 41.2,
+      "images": [
+        "/Promolecules/thermo/promolecules-thermo-nuke-xt.webp",
+        "/Promolecules/thermo/thermo-nuke-xt-fat-burner.webp",
+        "/Promolecules/thermo/thermo-nuke-xt-fat-burning-capsules.webp",
+        "/Promolecules/thermo/thermo-nuke-xt-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/thermo/promolecules-thermo-nuke-xt-img.webp",
+      "servings": [
+        {
+          "size": "60 kapsula",
+          "price": 35.99
+        }
+      ],
+      "keyBenefits": [
+        "Tezlashtirilgan Yog' Eritish",
+        "Termogenik Issiqlik Faollashuvi",
+        "Yuqori Energiya Chiqishi",
+        "Ishtahani Bo'g'ishni Qo'llab-quvvatlash",
+        "Quritish (Cutting) Paytida Kuchaytirilgan Diqqat",
+        "Suv Ushlanib Qolishi Ko'rinishining Kamayishi"
+      ],
+      "whychooseus": [
+        "Ko'p stimulyatorli termogenik tizim",
+        "Ko'zga ko'rinadigan yog' yo'qotish natijalari uchun yaratilgan",
+        "Faqat o'simliklardan iborat emas — haqiqiy samaradorlik formulasi"
+      ],
+      "howToUse": "Ertalab bir porsiya va ixtiyoriy ravishda mashg'ulotdan oldin ikkinchi porsiyani qabul qiling; kaloriya tanqisligi bosqichlarida foydalanish eng yaxshi samara beradi.",
+      "whatToAvoid": [
+        "Boshqa og'ir stimulyatorli mahsulotlar bilan birga ishlatishdan saqlaning",
+        "Uyqu vaqtiga yaqin qabul qilmang",
+        "Stimulyatorlarga sezgir foydalanuvchilar uchun emas"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "David Coleman",
+          "country": "AQSH",
+          "des": "Quritish (cut) bosqichimda foydalanmoqdaman va termogenik reaksiya sezilarli. Kardio mashg'ulotlari samaraliroq o'tmoqda."
+        },
+        {
+          "id": 2,
+          "name": "Rajat Malhotra",
+          "country": "Hindiston",
+          "des": "Ertalabki och qoringa kardio osonroq o'tmoqda. Kun davomida metabolizm faol ekanligi seziladi."
+        },
+        {
+          "id": 3,
+          "name": "Luis Martinez",
+          "country": "Ispaniya",
+          "des": "Yog' erituvchilar menga kamdan-kam ta'sir qiladi, lekin bunisi mashg'ulot paytida tana haroratini haqiqatan ham oshiradi."
+        },
+        {
+          "id": 4,
+          "name": "Mohit Yadav",
+          "country": "Hindiston",
+          "des": "Kaloriya tanqisligi paytidagi energiya — bu eng katta foyda."
+        },
+        {
+          "id": 5,
+          "name": "Alex Grant",
+          "country": "Buyuk Britaniya",
+          "des": "Meni bezovta qilmasdan toza termogenik ta'sir beradi."
+        },
+        {
+          "id": 6,
+          "name": "Rahul Patil",
+          "country": "Hindiston",
+          "des": "Parhez paytida ham mashg'ulot intensivligini saqlashga yordam beradi."
+        },
+        {
+          "id": 7,
+          "name": "Daniel Perez",
+          "country": "Meksika",
+          "des": "Kardio mashg'ulotlari paytida terlash darajasi ortadi."
+        },
+        {
+          "id": 8,
+          "name": "Siddharth Jain",
+          "country": "Hindiston",
+          "des": "HIIT paytida metabolik ko'tarilish sezilarli."
+        },
+        {
+          "id": 9,
+          "name": "Omar Ali",
+          "country": "BAA",
+          "des": "Quritish paytidagi kam energiyali kunlarni yengib o'tishga yordam beradi."
+        },
+        {
+          "id": 10,
+          "name": "Chris Walker",
+          "country": "AQSH",
+          "des": "Shunchaki kofein emas, balki metabolik tezlatgichdek tuyuladi."
+        },
+        {
+          "id": 11,
+          "name": "Kunal Thakur",
+          "country": "Hindiston",
+          "des": "Tayyorgarlik davrida ishtahani nazorat qilish va toza energiya."
+        },
+        {
+          "id": 12,
+          "name": "Victor Santos",
+          "country": "Braziliya",
+          "des": "Kardio mashg'ulotlaridan oldin yaxshi ishlaydi."
+        },
+        {
+          "id": 13,
+          "name": "James Porter",
+          "country": "Buyuk Britaniya",
+          "des": "Kuchli titroqlarsiz toza yog' erituvchi."
+        },
+        {
+          "id": 14,
+          "name": "Rohit Das",
+          "country": "Hindiston",
+          "des": "Kaloriyalarni kamaytirish paytida diqqatni saqlashga yordam beradi."
+        },
+        {
+          "id": 15,
+          "name": "Carlos Rivera",
+          "country": "Meksika",
+          "des": "Mashg'ulotlar paytida sezilarli termogenik issiqlik."
+        },
+        {
+          "id": 16,
+          "name": "Ahmed Farooq",
+          "country": "BAA",
+          "des": "Ertalabki mashg'ulotlar uchun ajoyib qo'shimcha."
+        },
+        {
+          "id": 17,
+          "name": "Aditya Menon",
+          "country": "Hindiston",
+          "des": "Parhez bosqichida energiya barqaror qoladi."
+        },
+        {
+          "id": 18,
+          "name": "Mark Lewis",
+          "country": "Kanada",
+          "des": "Termogenik ta'sir doimiy va barqaror."
+        },
+        {
+          "id": 19,
+          "name": "Rahul Sinha",
+          "country": "Hindiston",
+          "des": "Kardio mashg'ulotlarini uzoqroq davom ettirishga yordam beradi."
+        },
+        {
+          "id": 20,
+          "name": "Jake Turner",
+          "country": "Avstraliya",
+          "des": "Toza metabolik energiya."
+        },
+        {
+          "id": 21,
+          "name": "Arjun Patel",
+          "country": "Hindiston",
+          "des": "Yog' yo'qotish mashg'ulotlari uchun yaxshi yordam."
+        },
+        {
+          "id": 22,
+          "name": "Daniel Costa",
+          "country": "Portugaliya",
+          "des": "Kardio paytida yog' erish effekti sezilarli."
+        },
+        {
+          "id": 23,
+          "name": "Sahil Gupta",
+          "country": "Hindiston",
+          "des": "Kaloriya tanqisligi paytida yaxshi ishlaydi."
+        },
+        {
+          "id": 24,
+          "name": "George Ivanov",
+          "country": "Bolgariya",
+          "des": "Quritish paytida mashg'ulot samaradorligini oshiradi."
+        },
+        {
+          "id": 25,
+          "name": "Naveen Kumar",
+          "country": "Hindiston",
+          "des": "Charchoqsiz energiya ko'tarilishi."
+        },
+        {
+          "id": 26,
+          "name": "Tom Hughes",
+          "country": "Buyuk Britaniya",
+          "des": "Muvozanatli termogenik formula."
+        },
+        {
+          "id": 27,
+          "name": "Imran Sheikh",
+          "country": "Pokiston",
+          "des": "Kardio mashg'ulotlari samaraliroq o'tmoqda."
+        },
+        {
+          "id": 28,
+          "name": "Miguel Lopez",
+          "country": "Ispaniya",
+          "des": "Toza energiya va terlashning ortishi."
+        },
+        {
+          "id": 29,
+          "name": "Akash Sharma",
+          "country": "Hindiston",
+          "des": "Qiyin ketadigan yog' bosqichi uchun foydali."
+        },
+        {
+          "id": 30,
+          "name": "Kevin Hall",
+          "country": "AQSH",
+          "des": "Men ishlatgan eng yaxshi termogenik qo'shimchalardan biri."
+        }
+      ]
+    }
+  ]
+}

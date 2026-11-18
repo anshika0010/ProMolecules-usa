@@ -1,6 +1,10 @@
+"use client";
 import Image from "next/image";
+import { useT } from "@/lib/i18n/client";
 
 export default function WarningTape() {
+  const t = useT("home").warning_tape_section || {};
+  const items = Object.values(t.tape_text || {});
   return (
 <section className="relative min-h-[320px] sm:min-h-[600px] lg:min-h-[530px] max-w-9xl mx-auto bg-black overflow-hidden">
 
@@ -11,21 +15,20 @@ export default function WarningTape() {
 
     {/* Tape */}
     <div className="rotate-[-5deg]">
-      <Tape />
+      <Tape items={items} />
     </div>
 
     <div className="rotate-[5deg]">
-      <Tape reverse />
+      <Tape items={items} reverse />
     </div>
 
     {/* Bottom Content */}
     <div className="text-center">
       <p className="text-red-600 font-bold text-xl text-base mb-1 ">
-        Important Safety Information
+        {t.mobile?.safety_heading}
       </p>
       <p className="global-text-style  leading-relaxed">
-        THIS PRODUCT IS INTENDED FOR ADULTS ONLY. NOT RECOMMENDED FOR CHILDREN,
-        PREGNANT & LACTATING WOMEN.
+        {t.mobile?.safety_text}
       </p>
     </div>
 
@@ -37,32 +40,30 @@ export default function WarningTape() {
     {/* Top Right Text */}
     <div className="absolute top-40 right-8 lg:top-50 lg:right-30 max-w-md text-right z-20">
       <h4 className="text-red-600 font-bold text-xl text-base  ">
-        The Hidden Supplement Crisis
+        {t.desktop?.crisis_heading}
       </h4>
       <p className="global-text-style  text-white/70 leading-relaxed">
-        The supplement industry faces a silent crisis—adulteration. Studies reveal
-        that nearly 70% of budget supplements contain less active ingredient than claimed.
+        {t.desktop?.crisis_text}
       </p>
     </div>
 
     {/* Bottom Left Text */}
     <div className="absolute bottom-30 left-40 max-w-md z-20">
       <p className="text-red-600 font-bold text-xl text-base mb-1 ">
-        Important Safety Information
+        {t.desktop?.safety_heading}
       </p>
       <p className="global-text-style text-white/70 leading-relaxed">
-        THIS PRODUCT IS INTENDED FOR ADULTS ONLY. NOT RECOMMENDED FOR CHILDREN,
-        PREGNANT & LACTATING WOMEN.
+        {t.desktop?.safety_text}
       </p>
     </div>
 
     {/* Tapes */}
     <div className="absolute right-0 top-[30%] w-[130%] rotate-[-5deg]">
-      <Tape />
+      <Tape items={items} />
     </div>
 
     <div className="absolute right-0 top-[50%] w-[130%] rotate-[5deg]">
-      <Tape reverse />
+      <Tape items={items} reverse />
     </div>
 
   </div>
@@ -71,7 +72,7 @@ export default function WarningTape() {
 }
 
 /* Tape Component */
-function Tape({ reverse = false }) {
+function Tape({ items, reverse = false }) {
   return (
     <div
       className="
@@ -98,26 +99,19 @@ function Tape({ reverse = false }) {
             : "animate-[marquee_18s_linear_infinite]"
         }`}
       >
-        <TapeText />
-        <TapeText />
+        <TapeText items={items} />
+        <TapeText items={items} />
       </div>
     </div>
   );
 }
 
-function TapeText() {
+function TapeText({ items }) {
   return (
     <div className="flex creepster-regular text-base sm:text-lg lg:text-2xl font-bold gap-8 sm:gap-12 lg:gap-16 px-6 sm:px-8 lg:px-10">
-      <span>Father of Insane</span>
-      <span>Warning</span>
-      <span>Thermo Nuke XT</span>
-      <span>Warflex</span>
-      <span>Hydra Pump</span>
-          <span>Father of Insane</span>
-      <span>Warning</span>
-      <span>Thermo Nuke XT</span>
-      <span>Warflex</span>
-      <span>Hydra Pump</span>
+      {[...items, ...items].map((item, i) => (
+        <span key={i}>{item}</span>
+      ))}
     </div>
   );
 }

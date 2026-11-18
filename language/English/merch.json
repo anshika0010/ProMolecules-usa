@@ -1,0 +1,154 @@
+{
+  "merchPage": {
+    "hero": {
+      "titleLine1": "Power You Can",
+      "titleLine2": "Wear",
+      "description": "Premium fitness apparel crafted for strength and durability. Designed for those who push limits and demand performance."
+    },
+    "products": [
+      {
+        "id": 1,
+        "name": "Father Of Insane Skell",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt1.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Out of Stock",
+        "buttonText": "OUT OF STOCK",
+        "availableButtonText": "VIEW NOW"
+      },
+      {
+        "id": 2,
+        "name": "Father Of Insane Fusion",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt2.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Out of Stock",
+        "buttonText": "OUT OF STOCK",
+        "availableButtonText": "VIEW NOW"
+      },
+      {
+        "id": 3,
+        "name": "Father Of Insane Nitro",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt3.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Out of Stock",
+        "buttonText": "OUT OF STOCK",
+        "availableButtonText": "VIEW NOW"
+      }
+    ],
+    "collection": {
+      "subtitle": "Dark Gothic",
+      "heading": "Collection",
+      "description": "Dark gothic collection is not fashion — it's rebellion in fabric. Born from shadows, inspired by chaos, and designed for those who rule their own darkness.",
+      "buttonText": "Explore Now"
+    }
+  },
+  "productDetail": {
+    "productTitle": "RETURN OF INSANE SKULL",
+    "ratingAlt": "Rating",
+    "descriptionHeading": "DESCRIPTION",
+    "description": "Crafted for those who lead, not follow. This premium cotton T-shirt delivers unmatched comfort with a bold, confident design.",
+    "colorLabel": "COLOUR - BLACK",
+    "colorName": "Black",
+    "quantityLabel": "QUANTITY",
+    "price": "$49.00",
+    "oldPrice": "$50.00",
+    "prevImage": "Previous image",
+    "nextImage": "Next image"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Father Of Insane Skell",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt1.webp",
+      "link": "/merch/detailpage"
+    },
+    {
+      "id": 2,
+      "name": "Father Of Insane Fusion",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt2.webp",
+      "link": "/merch/detailpage"
+    },
+    {
+      "id": 3,
+      "name": "Father Of Insane Nitro",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt3.webp",
+      "link": "/merch/detailpage"
+    }
+  ],
+  "trendingCollection": {
+    "introText": "Stay ahead of the trend with bold designs, premium comfort, and statement styles. Made for those who don't follow fashion — they create it.",
+    "heading": "Trending T-Shirts",
+    "subheading": "Collection",
+    "description": "Stay ahead of the trend with bold designs, premium comfort, and statement styles. Made for those who don't follow fashion — they create it.",
+    "viewNow": "VIEW NOW"
+  },
+  "productInformation": {
+    "heading": "PRODUCT INFORMATION",
+    "items": [
+      {
+        "title": "STYLE",
+        "content": "Oversized streetwear fit with bold skull graphic print. Designed for a strong and confident look."
+      },
+      {
+        "title": "MATERIAL & CARE",
+        "content": "100% Premium Cotton. Machine wash cold. Do not bleach. Iron inside out."
+      },
+      {
+        "title": "MEASUREMENTS",
+        "content": "Available in S, M, L, XL. Relaxed fit. Please refer to size chart for exact measurements."
+      },
+      {
+        "title": "FEATURES & SPECS",
+        "content": "High-quality screen print, breathable fabric, durable stitching, and fade-resistant design."
+      }
+    ],
+    "headingFirst": "PRODUCT",
+    "headingSecond": "INFORMATION"
+  },
+  "customerReviews": {
+    "heading": "CUSTOMER REVIEWS",
+    "rating": "4.7",
+    "ratingAlt": "Star rating",
+    "basedOn": "Based on 98 ratings",
+    "ratingSince": "Rating since Dec 7, 2025",
+    "topOtherBrand": "Top other Brand 4.2 Rating",
+    "starsLabel": "Stars",
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 42
+      },
+      {
+        "stars": 4,
+        "count": 32
+      },
+      {
+        "stars": 3,
+        "count": 17
+      },
+      {
+        "stars": 2,
+        "count": 4
+      },
+      {
+        "stars": 1,
+        "count": 2
+      }
+    ],
+    "totalRatings": 98
+  }
+}

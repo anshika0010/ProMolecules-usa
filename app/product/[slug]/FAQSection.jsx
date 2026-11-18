@@ -1,8 +1,11 @@
+"use client";
 import { useState } from "react";
 import { ChevronDown } from "lucide-react";
+import { useT } from "@/lib/i18n/client";
 
 export default function FAQSection({ faqs }) {
   const [open, setOpen] = useState(0);
+  const t = useT("product").faq || {};
 
   return (
     <section className="py-20 bg-black">
@@ -11,16 +14,15 @@ export default function FAQSection({ faqs }) {
         {/* Heading */}
         <div className="text-center mb-14">
           <span className="inline-block px-4 py-1 rounded-full bg-red-100 text-red-600 font-semibold text-sm uppercase tracking-wider">
-            Frequently Asked Questions
+            {t.badge}
           </span>
 
           <h2 className="mt-5 text-4xl font-bold text-gray-100">
-            Everything You Need to Know About{" "}
+            {t.heading}
           </h2>
 
           <p className="mt-4 text-gray-200 max-w-3xl mx-auto">
-            Find answers to the most common questions ,
-            ingredients, usage, benefits, safety, and performance.
+            {t.description}
           </p>
         </div>
 
@@ -33,9 +35,9 @@ export default function FAQSection({ faqs }) {
             >
               <button
                 onClick={() => setOpen(open === index ? -1 : index)}
-                className="w-full flex items-center justify-between p-6 text-left"
+                className="w-full flex items-center justify-between p-6 text-start"
               >
-                <h3 className="font-semibold text-lg text-gray-900 pr-5">
+                <h3 className="font-semibold text-lg text-gray-900 pe-5">
                   {faq.question}
                 </h3>
 

@@ -1,0 +1,100 @@
+{
+  "blogsSection": {
+    "heading": "مقالات",
+    "description": "به پرومولکولز™ خوش آمدید؛ نسل بعدی علم تناسب‌اندام، جایی که هر فرمول با یک هدف مهندسی شده است: آزادسازی تمام ظرفیت بدن شما.",
+    "blogs": [
+      {
+        "id": 1,
+        "title": "قدرت تداوم: چگونه پایبندی به مسیر می‌تواند زندگی شما را متحول کند",
+        "description": "با قدرت تحول‌آفرین استمرار در دستیابی به اهداف سلامت و تناسب‌اندام آشنا شوید. یاد بگیرید چگونه عادت‌های پایدار بسازید که به موفقیت بلندمدت منجر می‌شوند.",
+        "image": "/blog1.png"
+      },
+      {
+        "id": 2,
+        "title": "به بدن خود سوخت‌رسانی کنید: رازهای تغذیه صحیح",
+        "description": "تغذیه یعنی قدرت. بیاموزید چگونه با مواد مغذی مناسب به بدن خود سوخت‌رسانی کنید، عملکرد را به حداکثر برسانید و با راهبردهای تغذیه‌ای مبتنی بر علم، تمام ظرفیت خود را شکوفا کنید.",
+        "image": "/blog2.png"
+      },
+      {
+        "id": 3,
+        "title": "خواب کافی داشته باشید: بخشی حیاتی از مسیر",
+        "description": "راز پنهان عملکرد ورزشی در سطح بالا، خواب باکیفیت است. کشف کنید که استراحت مناسب چگونه بر ریکاوری، رشد عضلات و عملکرد کلی شما تأثیر می‌گذارد.",
+        "image": "/blog3.png"
+      }
+    ],
+    "buttons": {
+      "readMore": "بیشتر بخوانید",
+      "viewAll": "مشاهده همه"
+    }
+  },
+  "page": {
+    "blog_listing": {
+      "hero_tagline": "وبلاگ پرومولکولز جایی است که عملکرد با طرز فکر تلاقی می‌کند.",
+      "hero_title": [
+        "همه مطالب تناسب‌اندام",
+        "وبلاگ‌ها"
+      ],
+      "categories": {
+        "view_all": "مشاهده همه"
+      },
+      "empty_state": "مقاله‌ای یافت نشد.",
+      "loading": "در حال بارگذاری مطالب بیشتر...",
+      "loaded": "همه مقالات بارگذاری شدند ✓",
+      "by": "توسط"
+    },
+    "blog_detail": {
+      "not_found_title": "وبلاگ یافت نشد",
+      "not_found_description": "این مقاله وجود ندارد یا حذف شده است.",
+      "category_fallback": "وبلاگ",
+      "author_label": "نویسنده",
+      "published_prefix": "منتشرشده در",
+      "back_to_all_blogs": "همه مقالات",
+      "brand": "Promolecules"
+    },
+    "seo_fallbacks": {
+      "not_found_title": "وبلاگ یافت نشد",
+      "not_found_description": "این مطلب وبلاگ پیدا نشد.",
+      "default_title": "وبلاگ",
+      "default_brand_author": "Earthmaa Foods"
+    },
+    "preserved": {
+      "format_date_locale": "en-GB",
+      "date_format_options": [
+        "year",
+        "month",
+        "day"
+      ],
+      "blog_detail_route": "/blog/[slug]",
+      "canonical_domain": "https://www.earthmaafoods.com",
+      "fallback_og_image": "https://www.earthmaafoods.com/images/earthmaalogo-blue.webp",
+      "listing_hero_image": "/promolecules-bloghero-benner-image.webp",
+      "detail_fallback_image": "/blogdummy.webp",
+      "dummy_image": "/dummyimage.webp",
+      "blogs_per_page": 9,
+      "category_filter_logic": "unchanged",
+      "infinite_scroll": "IntersectionObserver; rootMargin 100px; threshold 0.1",
+      "metadata_fields": [
+        "title",
+        "description",
+        "keywords",
+        "authors",
+        "robots",
+        "alternates.canonical",
+        "openGraph",
+        "twitter"
+      ],
+      "json_ld_schema": "blog.seo.schema",
+      "dynamic_blog_fields": [
+        "blog.name",
+        "blog.slug",
+        "blog.category.name",
+        "blog.publish_date",
+        "blog.author.name",
+        "blog.featured_image",
+        "blog.description",
+        "blog.tags"
+      ],
+      "technical_code": "Preserve original React/Next.js code, imports, hooks, components, routes, API calls, SEO logic, and CSS classes. Translate only customer-facing static UI text into Persian."
+    }
+  }
+}

@@ -1,6 +1,8 @@
 "use client";
+import { useT } from "@/lib/i18n/client";
 
 export default function VideoHeroSection() {
+  const t = useT("home");
   return (
     <section
       className="
@@ -26,7 +28,7 @@ export default function VideoHeroSection() {
         preload="auto"
       >
         <source src="/video.mp4" type="video/mp4" />
-        Your browser does not support the video tag.
+        {t.video_hero_alt}
       </video>
 
       {/* Optional Dark Overlay */}

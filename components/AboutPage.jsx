@@ -3,31 +3,22 @@
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
+import { useT } from "@/lib/i18n/client";
 
-const headings = [
-  { title: "WHO WE ARE", url: "/about/who-we-are" },
-  { title: "WHAT WE DELIVER", url: "/about/what-we-deliver" },
-  { title: "HISTORY", url: "/about/history" },
-  { title: "FAQ", url: "/about/faq" },
-];
 
-const socials = [
-  { name: "Instagram", url: "https://www.instagram.com/promolecules/" },
-  { name: "Facebook", url: "https://www.facebook.com/promolecules.official" },
-  { name: "Twitter", url: "https://x.com/promolecules" },
-  { name: "YouTube", url: "https://www.youtube.com/@Promolecules" },
-  { name: "Pinterest", url: "https://www.pinterest.com/promolecules/" },
-];
 
 const AboutPage = () => {
+  const t = useT("about");
+  const headings = t.headings || [];
+  const socials = t.socials || [];
   return (
     // NOTE: min-h-screen (not a fixed 50vh) so the section always grows to
     // fit its content instead of clipping on short/mobile viewports.
     <section className="relative w-full min-h-screen overflow-hidden">
       {/* Background Image */}
       <Image
-        src="/promolecules-about-banner.webp"
-        alt="About Background"
+        src={t.backgroundImage}
+        alt={t.backgroundAlt}
         fill
         priority
         sizes="100vw"
@@ -53,7 +44,7 @@ const AboutPage = () => {
         {/* Title + Nav headings */}
         <div className="flex flex-col gap-6 sm:gap-8 md:gap-12 lg:gap-14">
           <h1 className="text-black text-start text-3xl sm:text-4xl md:text-5xl creepster-regular font-bold uppercase">
-            About Promolecules™
+            {t.title}
           </h1>
 
           <div className="flex flex-col gap-6 sm:gap-8 md:gap-12 lg:gap-14">
@@ -94,7 +85,7 @@ const AboutPage = () => {
                     md:text-[56px]
                     lg:text-[80px]
                     xl:text-[100px]
-                    text-center md:text-left
+                    text-center md:text-start
                     break-words
                     transition-all duration-300
                     group-hover:text-white
@@ -108,7 +99,7 @@ const AboutPage = () => {
                   {/* Arrow Icon (desktop only, keeps mobile rows compact) */}
                   <ArrowRight
                     size={60}
-                    className="text-red-600 hidden md:block shrink-0 group-hover:text-white"
+                    className="text-red-600 hidden md:block shrink-0 group-hover:text-white rtl:rotate-180"
                   />
                 </Link>
               </div>

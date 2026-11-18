@@ -5,51 +5,21 @@ import Image from "next/image";
 import { ChevronRight } from "lucide-react";
 import { motion } from "framer-motion";
 import Link from "next/link";
-
-const slides = [
-  {
-    id: 1,
-    productImage: "/thermo.webp",
-    title: "Thermo-nuke-xt",
-    backgroundImage: "/thermoo nuke xt new banner .jpg",
-    mobileBackgroundImage: "/thermo mobile.webp",
-    link: "/product/thermo-nuke-xt/",
-    description:
-      "Burn stubborn fat faster with thermogenic power, boost metabolism, increase sweat, maintain energy, and dominate cutting phase workouts daily.",
-  },
-  {
-    id: 2,
-    productImage: "/hydra.webp",
-    title: "Hydrapump+",
-    backgroundImage: "/bannnerrr.jpg",
-    mobileBackgroundImage: "/hydra-mobile.webp",
-    link: "/product/hydrapump/",
-    description:
-      "Experience liquid glycerol pump, extreme muscle fullness, rapid hydration, enhanced vascularity, and endurance without caffeine for peak performance every workout",
-  },
-      {
-    id: 3,
-    productImage: "/father-of-insane-pre-workout-65-Servings.webp",
-    title: "Father of Insane",
-    backgroundImage: "/Father-of-insane.webp",
-    mobileBackgroundImage: "/father-of-insane-mob.webp",
-    link: "/product/father-of-insane/",
-    description:
-      "Father of Insane™ is built for athletes who need more than just energy. It activates your central nervous system, sharpens focus into tunnel vision, and drives explosive strength output from your very first set.",
-  }, 
-];
+import { useT } from "@/lib/i18n/client";
 
 const HeroSlider = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
+  const slides = useT("home").slider || [];
 
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentSlide((prev) => (prev + 1) % slides.length);
     }, 3000);
     return () => clearInterval(interval);
-  }, []);
+  }, [slides.length]);
 
   const slide = slides[currentSlide];
+  if (!slide) return null;
 
   /* ── Shared sub-components ───────────────────────────── */
 
@@ -104,7 +74,7 @@ const HeroSlider = () => {
                   <p className="creepster-regular text-red-500 text-sm sm:text-base font-bold uppercase tracking-wide truncate">
                     {s.title}
                   </p>
-                  <p className="text-white/55 text-[11px] sm:text-xs leading-snug line-clamp-2 mt-0.5">
+                  <p className="text-white/55 text-[11px] sm:text-xs leading-snug line-clamp-2 mt-0.5 text-left [unicode-bidi:plaintext]">
                     {s.description}
                   </p>
                 </div>
@@ -119,7 +89,9 @@ const HeroSlider = () => {
   );
 
   return (
-    <>
+    // Same layout in every language: on RTL sites (Arabic, Farsi) only the text is translated,
+    // the hero is not mirrored. `bidi` keeps punctuation of RTL sentences in the right place.
+    <div dir="ltr">
       {/* ═══════════════════════════════════════════════════
           MOBILE  — portrait phones  (< 640px)
       ═══════════════════════════════════════════════════ */}
@@ -207,7 +179,7 @@ const HeroSlider = () => {
             initial={{ x: -40, opacity: 0 }}
             animate={{ x: 0, opacity: 1 }}
             transition={{ duration: 0.7, delay: 0.08, ease: [0.22, 1, 0.36, 1] }}
-            className="global-text-style max-w-md mb-5 text-sm sm:text-base"
+            className="global-text-style max-w-md mb-5 text-sm sm:text-base text-left [unicode-bidi:plaintext]"
           >
             {slide.description}
           </motion.p>
@@ -240,7 +212,7 @@ const HeroSlider = () => {
                       <p className="creepster-regular text-red-500 text-xs font-bold uppercase tracking-wide truncate">
                         {s.title}
                       </p>
-                      <p className="text-white/50 text-[10px] leading-snug line-clamp-2 mt-0.5 hidden sm:block">
+                      <p className="text-white/50 text-[10px] leading-snug line-clamp-2 mt-0.5 hidden sm:block text-left [unicode-bidi:plaintext]">
                         {s.description}
                       </p>
                     </div>
@@ -294,7 +266,7 @@ const HeroSlider = () => {
                   {slide.title}
                 </motion.p>
 
-                <p className="global-text-style max-w-xl xl:max-w-2xl mx-auto lg:mx-0">
+                <p className="global-text-style max-w-xl xl:max-w-2xl mx-auto lg:mx-0 text-left [unicode-bidi:plaintext]">
                   {slide.description}
                 </p>
 
@@ -311,7 +283,7 @@ const HeroSlider = () => {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 

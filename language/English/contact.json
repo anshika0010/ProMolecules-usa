@@ -1,0 +1,89 @@
+{
+  "contactHero": {
+    "heading": {
+      "first": "Get In",
+      "second": "Touch"
+    },
+    "email": "CONTACT@PROMOLECULES.COM",
+    "tagline": "Let’s Make Something Amazing, Together",
+    "features": [
+      {
+        "title": "Strength",
+        "description": "Engineered to amplify neurological drive and muscular output."
+      },
+      {
+        "title": "Design",
+        "description": "Structured ingredient architecture balancing stimulation."
+      },
+      {
+        "title": "Development",
+        "description": "Built through performance-first research & testing."
+      }
+    ]
+  },
+  "contactForm": {
+    "leftSection": {
+      "heading": [
+        "JUST",
+        "SEND IT."
+      ],
+      "descriptions": [
+        "Connect with Promolecules™ for product guidance and collab.",
+        "Reach us via email or official social platforms."
+      ],
+      "phone": "+1 (786) 789-2121",
+      "email": "info@promolecules.com"
+    },
+    "form": {
+      "heading": "Contact Us",
+      "fields": {
+        "name": {
+          "label": "FULL NAME",
+          "placeholder": "Enter your name",
+          "validation": {
+            "required": "Name is required",
+            "letters_only": "Only letters allowed"
+          }
+        },
+        "phone": {
+          "label": "PHONE NO.",
+          "placeholder": "Enter your phone number",
+          "validation": {
+            "required": "Phone number is required",
+            "invalid": "Enter valid phone number"
+          }
+        },
+        "email": {
+          "label": "EMAIL",
+          "placeholder": "Enter email",
+          "validation": {
+            "required": "Email is required",
+            "invalid": "Invalid email address"
+          }
+        },
+        "subject": {
+          "label": "SUBJECT",
+          "placeholder": "Enter message",
+          "validation": {
+            "required": "Message is required",
+            "min_length": "Message must be at least 10 characters"
+          }
+        }
+      },
+      "submit_button": "Send Message"
+    },
+    "successPopup": {
+      "heading": "Message Sent",
+      "description": "Thank you! We will contact you soon."
+    },
+    "errorPopup": {
+      "description": "Something went wrong. Please try again."
+    }
+  },
+  "ctaSection": {
+    "heading": {
+      "first": "Lets Start To",
+      "second": "Work"
+    }
+  }
+}

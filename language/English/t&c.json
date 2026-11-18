@@ -1,0 +1,129 @@
+{
+  "page": {
+    "title": "Promolecules™ Legal Policies",
+    "subtitle": "Terms & Conditions",
+    "lastUpdated": "10-11-2025",
+    "intro": "Welcome to Promolecules. By accessing or using our website, you agree to comply with and be bound by the following Terms & Conditions. Please read them carefully before using our services.",
+    "lastUpdatedLabel": "Last Updated:"
+  },
+  "sections": [
+    {
+      "id": "general-use",
+      "eyebrow": "Before You Begin",
+      "title": "1. General Use",
+      "content": [
+        "By using this website, you confirm that you are at least 18 years old or are accessing the website under the supervision of a parent or legal guardian. You agree to use this website only for lawful purposes and in a manner that does not violate any applicable laws or regulations."
+      ]
+    },
+    {
+      "id": "products-information",
+      "eyebrow": "What You Purchase",
+      "title": "2. Products & Information",
+      "content": [
+        "All products listed on this website are intended for healthy adults only. The information provided is for general informational and sports performance purposes and should not be considered medical advice.",
+        "Promolecules reserves the right to modify product formulations, descriptions, prices, and availability at any time without prior notice."
+      ]
+    },
+    {
+      "id": "health-disclaimer",
+      "eyebrow": "Please Read Carefully",
+      "title": "3. Medical & Health Disclaimer",
+      "content": [
+        "Our products are designed to support athletic performance and are not intended to diagnose, treat, cure, or prevent any disease. Before using any supplement, especially if you have an underlying medical condition, are pregnant or breastfeeding, or are taking medication, you should consult a qualified healthcare professional."
+      ]
+    },
+    {
+      "id": "orders-payments",
+      "eyebrow": "Checkout Conditions",
+      "title": "4. Orders & Payments",
+      "content": [
+        "All orders placed through our website are subject to confirmation and product availability. We reserve the right to refuse or cancel any order at our discretion.",
+        "Prices are displayed in the applicable currency and may be subject to taxes, shipping charges, or customs duties depending on your location."
+      ]
+    },
+    {
+      "id": "shipping-delivery",
+      "eyebrow": "Getting Your Order to You",
+      "title": "5. Shipping & Delivery",
+      "content": [
+        "Delivery times are estimates and may vary depending on your location, carrier services, or external factors. Promolecules is not responsible for delays caused by third-party logistics providers."
+      ]
+    },
+    {
+      "id": "returns-refunds",
+      "eyebrow": "If Something Goes Wrong",
+      "title": "6. Returns & Refunds",
+      "content": [
+        "Due to the nature of supplement products, we do not accept returns of opened or used items. Refunds or exchanges are only offered when the products received are damaged, defective, or incorrect.",
+        "Requests must be submitted within the specified period after delivery."
+      ]
+    },
+    {
+      "id": "intellectual-property",
+      "eyebrow": "Ownership & Usage Rights",
+      "title": "7. Intellectual Property",
+      "content": [
+        "All content available on this website, including text, images, logos, branding, and product designs, belongs to Promolecules and is protected by applicable intellectual property laws.",
+        "You may not reproduce, distribute, or use any content without prior written permission."
+      ]
+    },
+    {
+      "id": "limitation-of-liability",
+      "eyebrow": "Limits of Responsibility",
+      "title": "8. Limitation of Liability",
+      "content": [
+        "Promolecules shall not be held liable for any direct, indirect, incidental, or consequential damages arising from the use or misuse of our products or website.",
+        "Use of our products is entirely at your own discretion and responsibility."
+      ]
+    },
+    {
+      "id": "user-conduct",
+      "eyebrow": "Following the Rules",
+      "title": "9. User Conduct",
+      "content": [
+        "You agree not to misuse the website, attempt unauthorized access, transmit malicious code, or engage in any activity that may disrupt the functionality or security of the platform."
+      ]
+    },
+    {
+      "id": "third-party-links",
+      "eyebrow": "Leaving Our Website",
+      "title": "10. Third-Party Links",
+      "content": [
+        "Our website may contain links to third-party websites. We are not responsible for the content, policies, or practices of those websites."
+      ]
+    },
+    {
+      "id": "privacy",
+      "eyebrow": "How We Handle Your Data",
+      "title": "11. Privacy",
+      "content": [
+        "Your use of this website is also governed by our Privacy Policy. By using the website, you agree to the collection and use of information as described in that policy."
+      ]
+    },
+    {
+      "id": "changes-to-terms",
+      "eyebrow": "Staying Up to Date",
+      "title": "12. Changes to Terms & Conditions",
+      "content": [
+        "Promolecules reserves the right to update or modify these Terms & Conditions at any time. Your continued use of the website after changes have been made constitutes your acceptance of the updated terms."
+      ]
+    },
+    {
+      "id": "governing-law",
+      "eyebrow": "Legal Jurisdiction",
+      "title": "13. Governing Law",
+      "content": [
+        "These Terms & Conditions shall be governed by and interpreted in accordance with the applicable laws of the jurisdiction in which Promolecules operates."
+      ]
+    },
+    {
+      "id": "contact-information",
+      "eyebrow": "We're Here to Help",
+      "title": "14. Contact Information",
+      "content": [
+        "If you have any questions regarding these Terms & Conditions, you can contact us at the following email address:"
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

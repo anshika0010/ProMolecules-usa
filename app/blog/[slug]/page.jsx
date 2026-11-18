@@ -2,6 +2,7 @@
 
 import { fetchAllBlogs } from "@/lib/api";
 import BlogDetailClient from "./BlogDetailClient";
+import Messages from "@/lib/i18n/Messages";
 
 async function getBlog(slug) {
   try {
@@ -96,7 +97,9 @@ export default async function BlogDetailPage({ params }) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
         />
       )}
-      <BlogDetailClient blog={blog} />
+      <Messages ns={["blog"]} locale="en">
+        <BlogDetailClient blog={blog} />
+      </Messages>
     </>
   );
 }

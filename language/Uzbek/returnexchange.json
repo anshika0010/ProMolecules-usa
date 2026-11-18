@@ -1,0 +1,124 @@
+{
+  "page": {
+    "title": "Qaytarish va almashtirish siyosati",
+    "intro": "Promolecules kompaniyasida biz sizga BAAda ishlab chiqarilgan yuqori sifatli qo‘shimchalarni taqdim etishga intilamiz. Agar xaridingizdan to‘liq mamnun bo‘lmasangiz, sizga yordam berishga tayyormiz. Mahsulotlarni qaytarish, almashtirish va pulni qaytarib olish imkoniyatlarini tushunish uchun siyosatimizni diqqat bilan o‘qib chiqing."
+  },
+  "navigation": [
+    {
+      "id": "window",
+      "label": "Qaytarish muddati"
+    },
+    {
+      "id": "eligibility",
+      "label": "Qaytarish shartlari"
+    },
+    {
+      "id": "non-returnable",
+      "label": "Qaytarilmaydigan mahsulotlar"
+    },
+    {
+      "id": "defective",
+      "label": "Nuqsonli / Shikastlangan / Noto‘g‘ri mahsulotlar"
+    },
+    {
+      "id": "exchanges",
+      "label": "Almashtirish"
+    },
+    {
+      "id": "how-to",
+      "label": "Mahsulotni qaytarish tartibi"
+    },
+    {
+      "id": "refunds",
+      "label": "Pulni qaytarish"
+    },
+    {
+      "id": "contact",
+      "label": "Yordam kerakmi?"
+    }
+  ],
+  "sections": [
+    {
+      "id": "window",
+      "eyebrow": "O‘z vaqtida harakat qiling",
+      "title": "Qaytarish muddati",
+      "content": [
+        "Mahsulotni yetkazib berilgan kundan boshlab 7 kun ichida qaytarishingiz mumkin. Afsuski, buyurtmangiz yetkazib berilganidan keyin 7 kundan ortiq vaqt o‘tgan bo‘lsa, pulni qaytarish yoki mahsulotni almashtirish imkoniyatini taqdim eta olmaymiz."
+      ]
+    },
+    {
+      "id": "eligibility",
+      "eyebrow": "Qat’iy qoidalar amal qiladi",
+      "title": "Qaytarish shartlari",
+      "content": [
+        "Oziq-ovqat qo‘shimchalari xususiyati hamda sog‘liq va xavfsizlik qoidalari sababli qaytariladigan mahsulotlarga nisbatan qat’iy talablarimiz mavjud:",
+        "Ochilmagan va muhrlangan: Mahsulotingiz foydalanilmagan, ochilmagan va sizga yetkazib berilgan paytdagi aynan bir xil holatda bo‘lishi kerak. Asl xavfsizlik muhri butunlay buzilmagan bo‘lishi shart.",
+        "Asl qadoq: Mahsulot o‘zining asl qadoqlarida qaytarilishi kerak.",
+        "Xaridni tasdiqlovchi hujjat: Mahsulotni qaytarish uchun chek yoki xaridni tasdiqlovchi hujjat (buyurtma raqami yoki buyurtma tasdiqlangan elektron xat) talab qilinadi."
+      ]
+    },
+    {
+      "id": "non-returnable",
+      "eyebrow": "Sog‘liq va xavfsizlik sababli",
+      "title": "Qaytarilmaydigan mahsulotlar",
+      "content": [
+        "Sog‘liq va xavfsizlik sabablariga ko‘ra quyidagi mahsulotlarni qaytarish yoki almashtirish mumkin emas:",
+        "Ochilgan, xavfsizlik muhri buzilgan yoki foydalanilgan mahsulotlar.",
+        "\"Yakuniy sotuv\" yoki \"Chegirmali sotuv\" deb belgilangan mahsulotlar.",
+        "Sovg‘a kartalari."
+      ]
+    },
+    {
+      "id": "defective",
+      "eyebrow": "Xato biz tomondan bo‘lsa, uni tuzatamiz",
+      "title": "Nuqsonli, shikastlangan yoki noto‘g‘ri mahsulotlar",
+      "content": [
+        "Agar sizga nuqsonli, shikastlangan yoki noto‘g‘ri mahsulot (masalan, boshqa brend yoki ta’m) yetkazib berilsa, iltimos, yetkazib berilgan kundan boshlab 3 kun ichida biz bilan bog‘laning.",
+        "Biz mahsulotni mamnuniyat bilan almashtiramiz yoki sizga hech qanday qo‘shimcha xarajatsiz to‘liq pulni qaytaramiz.",
+        "Muammoni imkon qadar tez hal qilishimiz uchun buyurtma raqamingiz va shikastlangan yoki noto‘g‘ri mahsulot fotosuratlarini info@promolecules.com manziliga yuboring."
+      ]
+    },
+    {
+      "id": "exchanges",
+      "eyebrow": "Almashtirish tartibi",
+      "title": "Mahsulotlarni almashtirish",
+      "content": [
+        "Biz mahsulotlarni faqat ular nuqsonli, shikastlangan yoki sizga noto‘g‘ri mahsulot yuborilgan hollardagina almashtiramiz.",
+        "Agar tasodifan noto‘g‘ri mahsulotga buyurtma bergan bo‘lsangiz va uni boshqa mahsulotga almashtirmoqchi bo‘lsangiz, asl ochilmagan mahsulotni (quyida keltirilgan qaytarish tartibiga muvofiq) qaytarishingiz va kerakli mahsulot uchun yangi buyurtma berishingiz kerak."
+      ]
+    },
+    {
+      "id": "how-to",
+      "eyebrow": "Bosqichma-bosqich",
+      "title": "Mahsulotni qanday qaytarish mumkin?",
+      "content": [
+        "Qaytarish jarayonini boshlash uchun quyidagi bosqichlarni bajaring:",
+        "Biz bilan bog‘laning: Qo‘llab-quvvatlash guruhimizga info@promolecules.com manziliga elektron xat yuboring. Xatda buyurtma raqamingiz va qaytarish sababini ko‘rsating.",
+        "Tasdiqlash: Agar qaytarish so‘rovingiz ma’qullansa, biz sizga RMA (Mahsulotni qaytarishga ruxsat) raqami va jo‘natmani qayerga yuborish bo‘yicha ko‘rsatmalarni jo‘natamiz.",
+        "Qadoqlash va jo‘natish: Ochilmagan mahsulotlarni ehtiyotkorlik bilan va xavfsiz tarzda qadoqlang. Iltimos, RMA raqamini qadoqning tashqi tomoniga aniq yozing."
+      ],
+      "importantNote": "Muhim eslatma: Qaytarib jo‘natish xarajatlarini siz to‘lashingiz kerak (qaytarish bizning xatomiz sababli bo‘lgan holatlar bundan mustasno). Yetkazib berish xarajatlari qaytarilmaydi. Jo‘natmangizni kuzatish imkonini beruvchi xizmatdan foydalanishni yoki uni sug‘urtalashni qat’iy tavsiya qilamiz, chunki qaytarilgan mahsulotingiz bizga yetib kelishini kafolatlay olmaymiz."
+    },
+    {
+      "id": "refunds",
+      "eyebrow": "Pulingizni qaytarib olish",
+      "title": "Pulni qaytarish",
+      "content": [
+        "Qaytarilgan mahsulotingizni olganimizdan so‘ng, jamoamiz uning qaytarish talablariga (ochilmagan va muhrlangan bo‘lishi) javob berishini tekshiradi.",
+        "Mahsulot tekshirilgandan so‘ng darhol pulni qaytarish holati haqida sizga xabar beramiz.",
+        "Agar qaytarish so‘rovingiz ma’qullansa, pulni kredit kartangizga (yoki dastlabki to‘lov usulingizga) qaytarish jarayonini boshlaymiz.",
+        "Karta emitentining qoidalariga qarab, mablag‘ hisobingizga 5–10 ish kuni ichida tushadi."
+      ],
+      "note": "Eslatma: Dastlabki yetkazib berish xarajatlari qaytarilmaydi va pulni qaytarishning umumiy summasidan chegirib tashlanadi."
+    },
+    {
+      "id": "contact",
+      "eyebrow": "Biz yordam berishga tayyormiz",
+      "title": "Yordam kerakmi?",
+      "content": [
+        "Mahsulotingizni qaytarish bo‘yicha savollaringiz bo‘lsa, mijozlarni qo‘llab-quvvatlash guruhimiz bilan bog‘laning."
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

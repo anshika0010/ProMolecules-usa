@@ -1,10 +1,12 @@
 "use client";
 
 import { useState } from "react";
+import { useT } from "@/lib/i18n/client";
 
 export default function ReviewModal({ open, closeModal }) {
 
   const [rating, setRating] = useState(0);
+  const t = useT("product").reviewModal || {};
 
   if (!open) return null;
 
@@ -16,24 +18,25 @@ export default function ReviewModal({ open, closeModal }) {
         {/* Close Button */}
         <button
           onClick={closeModal}
-          className="absolute right-4 top-2 text-xl"
+          className="absolute end-4 top-2 text-xl"
+          aria-label={t.close}
         >
           ✕
         </button>
 
-        <h2 className="text-xl font-bold mb-4">Write a Review</h2>
+        <h2 className="text-xl font-bold mb-4">{t.heading}</h2>
 
         <form className="space-y-4">
 
           <input
             type="text"
-            placeholder="Your Name"
+            placeholder={t.name}
             className="w-full border p-2 rounded"
           />
 
           <input
             type="email"
-            placeholder="Your Email"
+            placeholder={t.email}
             className="w-full border p-2 rounded"
           />
 
@@ -51,7 +54,7 @@ export default function ReviewModal({ open, closeModal }) {
           </div>
 
           <textarea
-            placeholder="Write your review..."
+            placeholder={t.review}
             rows="4"
             className="w-full border p-2 rounded"
           ></textarea>
@@ -60,7 +63,7 @@ export default function ReviewModal({ open, closeModal }) {
             type="submit"
             className="w-full bg-yellow-500 text-white py-2 rounded"
           >
-            Submit Review
+            {t.submit}
           </button>
 
         </form>

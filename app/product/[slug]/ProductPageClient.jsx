@@ -6,12 +6,12 @@ import CustomerReviews from "./CustomerReviews";
 import ProductDetail from "./ProductDetail";
 import FAQSection from "./FAQSection"; // 👈 Import FAQ component
 
-export default function ProductPageClient({ product }) {
+export default function ProductPageClient({ product, moreProducts }) {
   const [openReview, setOpenReview] = useState(false);
 
   return (
     <div>
-      <ProductDetail product={product} />
+      <ProductDetail product={product} moreProducts={moreProducts} />
 
       {/* FAQ Section */}
       {product?.faqs?.length > 0 && (

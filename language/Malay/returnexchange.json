@@ -1,0 +1,124 @@
+{
+  "page": {
+    "title": "Dasar Pemulangan dan Pertukaran",
+    "intro": "Di Promolecules, kami komited untuk menyediakan suplemen berkualiti tinggi yang berpangkalan di UAE. Jika anda tidak berpuas hati sepenuhnya dengan pembelian anda, kami sedia membantu. Sila baca dasar kami dengan teliti untuk memahami pilihan yang tersedia bagi pemulangan, pertukaran dan bayaran balik."
+  },
+  "navigation": [
+    {
+      "id": "window",
+      "label": "Tempoh Pemulangan"
+    },
+    {
+      "id": "eligibility",
+      "label": "Kelayakan Pemulangan"
+    },
+    {
+      "id": "non-returnable",
+      "label": "Barangan yang Tidak Boleh Dipulangkan"
+    },
+    {
+      "id": "defective",
+      "label": "Barangan Cacat / Rosak / Tidak Tepat"
+    },
+    {
+      "id": "exchanges",
+      "label": "Pertukaran"
+    },
+    {
+      "id": "how-to",
+      "label": "Cara Memohon Pemulangan"
+    },
+    {
+      "id": "refunds",
+      "label": "Bayaran Balik"
+    },
+    {
+      "id": "contact",
+      "label": "Perlukan Bantuan?"
+    }
+  ],
+  "sections": [
+    {
+      "id": "window",
+      "eyebrow": "Bertindak Segera",
+      "title": "Tempoh Pemulangan",
+      "content": [
+        "Anda mempunyai tempoh 7 hari dari tarikh penghantaran untuk memulangkan sesuatu barangan. Malangnya, jika 7 hari telah berlalu sejak pesanan anda dihantar, kami tidak dapat menawarkan bayaran balik atau pertukaran."
+      ]
+    },
+    {
+      "id": "eligibility",
+      "eyebrow": "Syarat yang Ketat Dikenakan",
+      "title": "Kelayakan Pemulangan",
+      "content": [
+        "Disebabkan sifat suplemen pemakanan serta peraturan kesihatan dan keselamatan, kami mempunyai garis panduan yang ketat untuk produk yang dipulangkan:",
+        "Belum Dibuka dan Masih Berseal: Barangan anda mestilah belum digunakan, belum dibuka dan berada dalam keadaan yang sama seperti ketika anda menerimanya. Meterai keselamatan asal mestilah kekal utuh sepenuhnya.",
+        "Pembungkusan Asal: Barangan mestilah dipulangkan dalam pembungkusan asalnya.",
+        "Bukti Pembelian: Resit atau bukti pembelian (nombor pesanan atau e-mel pengesahan pesanan) diperlukan untuk memulangkan sesuatu barangan."
+      ]
+    },
+    {
+      "id": "non-returnable",
+      "eyebrow": "Atas Sebab Kesihatan dan Keselamatan",
+      "title": "Barangan yang Tidak Boleh Dipulangkan",
+      "content": [
+        "Atas sebab kesihatan dan keselamatan, barangan berikut tidak boleh dipulangkan atau ditukar:",
+        "Produk yang telah dibuka, mempunyai meterai keselamatan yang telah rosak atau telah digunakan.",
+        "Barangan yang ditandakan sebagai \"Jualan Muktamad\" atau \"Jualan Penghabisan Stok\".",
+        "Kad hadiah."
+      ]
+    },
+    {
+      "id": "defective",
+      "eyebrow": "Jika Kami Melakukan Kesilapan, Kami Akan Membetulkannya",
+      "title": "Barangan Cacat, Rosak atau Tidak Tepat",
+      "content": [
+        "Jika anda menerima barangan yang cacat, rosak atau tidak tepat (contohnya, jenama atau perisa yang salah), sila hubungi kami dalam tempoh 3 hari selepas penghantaran.",
+        "Kami dengan senang hati akan menggantikan barangan tersebut atau memberikan bayaran balik penuh tanpa sebarang kos tambahan kepada anda.",
+        "Sila e-mel kepada info@promolecules.com dengan menyertakan nombor pesanan dan gambar produk yang rosak atau tidak tepat supaya kami dapat menyelesaikan masalah tersebut secepat mungkin."
+      ]
+    },
+    {
+      "id": "exchanges",
+      "eyebrow": "Cara Pertukaran Berfungsi",
+      "title": "Pertukaran",
+      "content": [
+        "Kami hanya membenarkan pertukaran barangan jika barangan tersebut cacat, rosak atau jika produk yang salah telah dihantar kepada anda.",
+        "Jika anda tersalah memesan barangan dan ingin menukarnya dengan produk lain, anda perlu memulangkan barangan asal yang belum dibuka (mengikut proses pemulangan di bawah) dan membuat pesanan baharu untuk produk yang anda inginkan."
+      ]
+    },
+    {
+      "id": "how-to",
+      "eyebrow": "Langkah demi Langkah",
+      "title": "Cara Memohon Pemulangan",
+      "content": [
+        "Untuk memulakan proses pemulangan, sila ikuti langkah-langkah berikut:",
+        "Hubungi Kami: Hantarkan e-mel kepada pasukan sokongan kami di info@promolecules.com dan sertakan nombor pesanan serta sebab pemulangan.",
+        "Kelulusan: Jika permohonan pemulangan anda diluluskan, kami akan menghantar nombor Kebenaran Pemulangan Barangan (RMA) berserta arahan tentang alamat penghantaran bungkusan anda.",
+        "Bungkus dan Hantar: Bungkus barangan yang belum dibuka dengan cermat dan selamat. Sila tulis nombor RMA dengan jelas pada bahagian luar bungkusan."
+      ],
+      "importantNote": "Nota Penting: Anda bertanggungjawab membayar kos penghantaran pemulangan (melainkan pemulangan tersebut disebabkan oleh kesilapan kami). Kos penghantaran tidak akan dikembalikan. Kami amat mengesyorkan penggunaan perkhidmatan penghantaran yang boleh dijejaki atau menginsuranskan bungkusan anda kerana kami tidak dapat menjamin bahawa barangan yang dipulangkan akan sampai kepada kami."
+    },
+    {
+      "id": "refunds",
+      "eyebrow": "Mendapatkan Wang Anda Kembali",
+      "title": "Bayaran Balik",
+      "content": [
+        "Selepas kami menerima barangan yang dipulangkan, pasukan kami akan memeriksanya untuk memastikan barangan tersebut memenuhi kriteria pemulangan kami (belum dibuka dan masih berseal).",
+        "Kami akan memaklumkan status bayaran balik kepada anda sebaik sahaja pemeriksaan barangan selesai.",
+        "Jika pemulangan anda diluluskan, kami akan memulakan proses bayaran balik ke kad kredit anda (atau kaedah pembayaran asal).",
+        "Bergantung pada dasar pengeluar kad anda, jumlah tersebut akan dikreditkan ke akaun anda dalam tempoh 5 hingga 10 hari bekerja."
+      ],
+      "note": "Sila Ambil Perhatian: Kos penghantaran asal tidak akan dikembalikan dan akan ditolak daripada jumlah keseluruhan bayaran balik anda."
+    },
+    {
+      "id": "contact",
+      "eyebrow": "Kami Sedia Membantu",
+      "title": "Perlukan Bantuan?",
+      "content": [
+        "Jika anda mempunyai sebarang pertanyaan tentang pemulangan barangan, sila hubungi pasukan khidmat pelanggan kami."
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

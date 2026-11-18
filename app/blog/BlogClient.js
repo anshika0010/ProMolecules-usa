@@ -4,10 +4,11 @@ import { useState, useEffect, useRef, useCallback } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import Navbar from "@/components/Navbar";
+import { useT, useLocale } from "@/lib/i18n/client";
 
-function formatDate(dateStr) {
+function formatDate(dateStr, locale) {
   if (!dateStr) return "";
-  return new Date(dateStr).toLocaleDateString("en-GB", {
+  return new Date(dateStr).toLocaleDateString(locale === "en" ? "en-GB" : locale, {
     year: "numeric",
     month: "long",
     day: "numeric",
@@ -16,14 +17,17 @@ function formatDate(dateStr) {
 }
 
 const BLOGS_PER_PAGE = 9;
+const ALL = "__all__";
 
 export default function BlogClient({ blogs = [] }) {
-  const [activeCategory, setActiveCategory] = useState("View All");
+  const t = useT("blog").page?.blog_listing || {};
+  const { locale } = useLocale();
+  const [activeCategory, setActiveCategory] = useState(ALL);
   const [visibleCount, setVisibleCount] = useState(BLOGS_PER_PAGE);
   const loaderRef = useRef(null);
 
   const categories = [
-    "View All",
+    ALL,
     ...new Set(blogs.map((b) => b.category.name)),
   ];
 
@@ -34,7 +38,7 @@ export default function BlogClient({ blogs = [] }) {
   };
 
   const filtered =
-    activeCategory === "View All"
+    activeCategory === ALL
       ? blogs
       : blogs.filter((b) => b.category.name === activeCategory);
 
@@ -75,7 +79,7 @@ export default function BlogClient({ blogs = [] }) {
       <section className="relative w-full min-h-[50vh] lg:min-h-screen overflow-hidden text-white">
         <Image
           src="/promolecules-bloghero-benner-image.webp"
-          alt="promolecules-bloghero-benner-image"
+          alt=""
           fill
           priority
           sizes="100vw"
@@ -85,13 +89,13 @@ export default function BlogClient({ blogs = [] }) {
           <div className="grid lg:grid-cols-2 gap-10 w-full items-center">
             <div className="max-w-md">
               <p className="text-xs sm:text-sm uppercase font-bold tracking-wider leading-relaxed text-white/90">
-                The Promolecules blog is where performance meets mindset.
+                {t.hero_tagline}
               </p>
             </div>
-            <div className="text-left lg:text-right space-y-6">
+            <div className="text-start lg:text-end space-y-6">
               <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl creepster-regular uppercase font-bold">
-                <span className="block text-white tracking-widest">All Fitness</span>
-                <span className="block text-red-600 tracking-widest">Blogs</span>
+                <span className="block text-white tracking-widest">{t.hero_title?.[0]}</span>
+                <span className="block text-red-600 tracking-widest">{t.hero_title?.[1]}</span>
               </h1>
             </div>
           </div>
@@ -111,7 +115,7 @@ export default function BlogClient({ blogs = [] }) {
                   : "border border-white/20 text-white/70 hover:border-red-600 hover:text-white"
               }`}
             >
-              {cat}
+              {cat === ALL ? t.categories?.view_all : cat}
             </button>
           ))}
         </div>
@@ -120,7 +124,7 @@ export default function BlogClient({ blogs = [] }) {
       {/* BLOG GRID */}
       <section className="px-6 lg:px-20 py-8">
         {visibleBlogs.length === 0 ? (
-          <p className="text-center text-gray-500">No blogs found.</p>
+          <p className="text-center text-gray-500">{t.empty_state}</p>
         ) : (
           <div className="grid lg:grid-cols-3 gap-8">
             {visibleBlogs.map((blog) => (
@@ -144,7 +148,7 @@ export default function BlogClient({ blogs = [] }) {
                   <div className="flex items-center gap-3 text-xs uppercase tracking-widest">
                     <span className="text-red-600">{blog.category.name}</span>
                     <span className="w-[3px] h-[3px] bg-gray-600 rounded-full"></span>
-                    <span className="text-gray-500">{formatDate(blog.publish_date)}</span>
+                    <span className="text-gray-500">{formatDate(blog.publish_date, locale)}</span>
                   </div>
 
                   <h2 className="text-md font-bold group-hover:text-red-600 transition line-clamp-1">
@@ -153,7 +157,7 @@ export default function BlogClient({ blogs = [] }) {
 
                   <div className="flex items-center justify-between">
                     <p className="text-sm text-gray-400 leading-relaxed">
-                      By {blog.author?.name}
+                      {t.by} {blog.author?.name}
                     </p>
                     <div className="w-8 h-8 rounded-full bg-neutral-800 flex items-center justify-center text-gray-400 group-hover:bg-red-600 group-hover:text-black transition">
                       ↗
@@ -188,12 +192,12 @@ export default function BlogClient({ blogs = [] }) {
           {hasMore ? (
             <div className="flex items-center gap-2 text-gray-500 text-xs uppercase tracking-widest">
               <div className="w-4 h-4 border-2 border-red-600 border-t-transparent rounded-full animate-spin" />
-              Loading more...
+              {t.loading}
             </div>
           ) : (
             visibleBlogs.length > 0 && (
               <p className="text-gray-600 text-xs uppercase tracking-widest">
-                All blogs loaded ✓
+                {t.loaded}
               </p>
             )
           )}

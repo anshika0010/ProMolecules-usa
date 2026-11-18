@@ -1,0 +1,85 @@
+{
+  "merchPage": {
+    "hero": {
+      "titleLine1": "قوة يمكنك",
+      "titleLine2": "ارتداؤها",
+      "description": "ملابس رياضية فاخرة مصنوعة للقوة والمتانة. صُمّمت لمن يتجاوزون الحدود ويطلبون الأداء."
+    },
+    "products": [
+      {
+        "id": 1, "name": "Father Of Insane Skell", "price": "$ 49.00", "oldPrice": "$50.00",
+        "image": "/tshirt1.webp", "link": "/merch/detailpage", "outOfStock": true,
+        "stockText": "نفدت الكمية", "buttonText": "نفدت الكمية", "availableButtonText": "اعرض الآن"
+      },
+      {
+        "id": 2, "name": "Father Of Insane Fusion", "price": "$ 49.00", "oldPrice": "$50.00",
+        "image": "/tshirt2.webp", "link": "/merch/detailpage", "outOfStock": true,
+        "stockText": "نفدت الكمية", "buttonText": "نفدت الكمية", "availableButtonText": "اعرض الآن"
+      },
+      {
+        "id": 3, "name": "Father Of Insane Nitro", "price": "$ 49.00", "oldPrice": "$50.00",
+        "image": "/tshirt3.webp", "link": "/merch/detailpage", "outOfStock": true,
+        "stockText": "نفدت الكمية", "buttonText": "نفدت الكمية", "availableButtonText": "اعرض الآن"
+      }
+    ],
+    "collection": {
+      "subtitle": "قوطية داكنة",
+      "heading": "مجموعة",
+      "description": "المجموعة القوطية الداكنة ليست موضة — إنها تمرّد منسوج في القماش. وُلدت من الظلال، واستُلهمت من الفوضى، وصُمّمت لمن يحكمون ظلامهم بأنفسهم.",
+      "buttonText": "استكشف الآن"
+    }
+  },
+  "productDetail": {
+    "productTitle": "RETURN OF INSANE SKULL",
+    "ratingAlt": "التقييم",
+    "descriptionHeading": "الوصف",
+    "description": "صُنع لمن يقودون ولا يتبعون. يمنحك هذا القميص القطني الفاخر راحة لا مثيل لها بتصميم جريء وواثق.",
+    "colorLabel": "اللون - أسود",
+    "colorName": "أسود",
+    "quantityLabel": "الكمية",
+    "price": "$49.00",
+    "oldPrice": "$50.00",
+    "prevImage": "الصورة السابقة",
+    "nextImage": "الصورة التالية"
+  },
+  "products": [
+    { "id": 1, "name": "Father Of Insane Skell", "price": "$ 49.00", "oldPrice": "$50.00", "image": "/tshirt1.webp", "link": "/merch/detailpage" },
+    { "id": 2, "name": "Father Of Insane Fusion", "price": "$ 49.00", "oldPrice": "$50.00", "image": "/tshirt2.webp", "link": "/merch/detailpage" },
+    { "id": 3, "name": "Father Of Insane Nitro", "price": "$ 49.00", "oldPrice": "$50.00", "image": "/tshirt3.webp", "link": "/merch/detailpage" }
+  ],
+  "trendingCollection": {
+    "introText": "كن سبّاقًا إلى الصيحات مع تصاميم جريئة وراحة فاخرة وإطلالات لافتة. صُنعت لمن لا يتبعون الموضة — بل يصنعونها.",
+    "heading": "قمصان رائجة",
+    "subheading": "مجموعة",
+    "description": "كن سبّاقًا إلى الصيحات مع تصاميم جريئة وراحة فاخرة وإطلالات لافتة. صُنعت لمن لا يتبعون الموضة — بل يصنعونها.",
+    "viewNow": "اعرض الآن"
+  },
+  "productInformation": {
+    "heading": "معلومات المنتج",
+    "headingFirst": "معلومات",
+    "headingSecond": "المنتج",
+    "items": [
+      { "title": "التصميم", "content": "قصّة واسعة بأسلوب الشارع مع طبعة جمجمة جريئة. صُمّم لإطلالة قوية وواثقة." },
+      { "title": "الخامة والعناية", "content": "قطن فاخر 100%. يُغسل في الغسالة بماء بارد. لا تستخدم المبيّض. يُكوى من الداخل." },
+      { "title": "المقاسات", "content": "متوفر بمقاسات S وM وL وXL. قصّة مريحة. يُرجى الرجوع إلى جدول المقاسات للحصول على القياسات الدقيقة." },
+      { "title": "المميزات والمواصفات", "content": "طباعة شاشة عالية الجودة، وقماش يسمح بمرور الهواء، وخياطة متينة، وتصميم مقاوم للبهتان." }
+    ]
+  },
+  "customerReviews": {
+    "heading": "آراء العملاء",
+    "rating": "4.7",
+    "ratingAlt": "تقييم بالنجوم",
+    "basedOn": "بناءً على 98 تقييمًا",
+    "ratingSince": "التقييمات منذ 7 ديسمبر 2025",
+    "topOtherBrand": "أعلى علامة تجارية أخرى: تقييم 4.2",
+    "starsLabel": "نجوم",
+    "ratings": [
+      { "stars": 5, "count": 42 },
+      { "stars": 4, "count": 32 },
+      { "stars": 3, "count": 17 },
+      { "stars": 2, "count": 4 },
+      { "stars": 1, "count": 2 }
+    ],
+    "totalRatings": 98
+  }
+}

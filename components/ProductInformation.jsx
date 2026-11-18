@@ -4,6 +4,7 @@ import { useState } from "react";
 import { FiPlus, FiMinus } from "react-icons/fi";
 import { FaStar } from "react-icons/fa";
 import Image from "next/image";
+import { useT } from "@/lib/i18n/client";
 export default function ProductInformation() {
   const [openIndex, setOpenIndex] = useState(null);
 
@@ -11,45 +12,20 @@ export default function ProductInformation() {
     setOpenIndex(openIndex === index ? null : index);
   };
 
-  const items = [
-    {
-      title: "STYLE",
-      content:
-        "Oversized streetwear fit with bold skull graphic print. Designed for a strong and confident look.",
-    },
-    {
-      title: "MATERIAL & CARE",
-      content:
-        "100% Premium Cotton. Machine wash cold. Do not bleach. Iron inside out.",
-    },
-    {
-      title: "MEASUREMENTS",
-      content:
-        "Available in S, M, L, XL. Relaxed fit. Please refer to size chart for exact measurements.",
-    },
-    {
-      title: "FEATURES & SPECS",
-      content:
-        "High-quality screen print, breathable fabric, durable stitching, and fade-resistant design.",
-    },
-  ];
-
-    const ratings = [
-    { stars: 5, count: 42 },
-    { stars: 4, count: 32 },
-    { stars: 3, count: 17 },
-    { stars: 2, count: 4 },
-    { stars: 1, count: 2 },
-  ]
-  const totalRatings = 98;
+  const m = useT("merch");
+  const info = m.productInformation || {};
+  const cr = m.customerReviews || {};
+  const items = info.items || [];
+  const ratings = cr.ratings || [];
+  const totalRatings = cr.totalRatings || 1;
   return (
     <>
     <div className="w-full bg-black text-white py-16 px-6 md:px-20">
       
       {/* Heading */}
       <h2 className="text-3xl md:text-4xl font-extrabold tracking-widest creepster-regular mb-10">
-        <span className="text-white">PRODUCT </span>
-        <span className="text-red-600">INFORMATION</span>
+        <span className="text-white">{info.headingFirst} </span>
+        <span className="text-red-600">{info.headingSecond}</span>
       </h2>
 
       {/* Accordion */}
@@ -60,7 +36,7 @@ export default function ProductInformation() {
             {/* Title Row */}
             <button
               onClick={() => toggleItem(index)}
-              className="w-full flex justify-between items-center text-left"
+              className="w-full flex justify-between items-center text-start"
             >
               <span className="text-lg md:text-xl font-semibold tracking-wide">
                 {item.title}
@@ -108,23 +84,23 @@ export default function ProductInformation() {
           {/* LEFT SIDE */}
           <div>
             <h3 className="text-2xl font-bold uppercase mb-8">
-              CUSTOMER REVIEWS
+              {cr.heading}
             </h3>
 
             <div className="flex items-center gap-4 mb-3">
-              <span className="text-4xl font-bold">4.7</span>
+              <span className="text-4xl font-bold">{cr.rating}</span>
               <FaStar className="text-yellow-400 text-xl" />
               <span className="text-gray-400 text-sm uppercase">
-                Based on 98 ratings
+                {cr.basedOn}
               </span>
             </div>
 
             <p className="text-gray-500 text-sm mb-6">
-              Rating since Dec 7, 2025
+              {cr.ratingSince}
             </p>
 
             <p className="text-gray-500 text-sm uppercase">
-              Top other Brand 4.2 Rating
+              {cr.topOtherBrand}
             </p>
           </div>
 
@@ -138,7 +114,7 @@ export default function ProductInformation() {
                   
                   {/* Star Label */}
                   <span className="w-20 text-sm uppercase text-gray-300">
-                    {item.stars} Stars
+                    {item.stars} {cr.starsLabel}
                   </span>
 
                   {/* Progress Bar */}
@@ -150,7 +126,7 @@ export default function ProductInformation() {
                   </div>
 
                   {/* Count */}
-                  <span className="w-8 text-sm text-gray-400 text-right">
+                  <span className="w-8 text-sm text-gray-400 text-end">
                     {item.count}
                   </span>
                 </div>

@@ -1,0 +1,91 @@
+{
+  "heading": "Mahsulotlar",
+  "categories": [
+    {
+      "value": "ALL",
+      "label": "Barchasi"
+    },
+    {
+      "value": "PRE-WORKOUT",
+      "label": "mashgʻulotdan oldingi"
+    },
+    {
+      "value": "FAT BURNER",
+      "label": "Yog‘ yoquvchi"
+    },
+    {
+      "value": "ATP BOOSTER",
+      "label": "ATP kuchaytiruvchi"
+    },
+    {
+      "value": "MUSCLE HYDRATION",
+      "label": "Mushaklar gidratatsiyasi"
+    }
+  ],
+  "search": "Qidirish...",
+  "sort": "Saralash",
+  "sortOptions": {
+    "default": "Saralash",
+    "priceLow": "Narx: Arzondan qimmatga",
+    "priceHigh": "Narx: Qimmatdan arzonga"
+  },
+  "view": "Ko‘rinish",
+  "noResults": "Hech qanday natija topilmadi",
+  "tryDifferentSearch": "Boshqa qidiruv so‘zini kiriting",
+  "detail": {
+    "flavours": "TA’MLAR",
+    "servings": "PORSIYALAR",
+    "buyNowOn": "HOZIROQ SOTIB OLING:",
+    "buyOn": "Sotib olish:",
+    "launchingSoon": "Tez orada...",
+    "launchingSoonText": "Ushbu mahsulot tez orada onlayn sotuvga chiqadi.",
+    "whatsappEarlyAccess": "Erta kirish uchun bizga WhatsApp orqali yozing",
+    "supplementFacts": "Ozuqaviy qiymati",
+    "productAlt": "mahsulot",
+    "thumbnailAlt": "kichik rasm",
+    "sections": {
+      "description": "TAVSIF",
+      "keyBenefits": "ASOSIY AFZALLIKLAR",
+      "whyChooseUs": "NEGA BIZNI TANLASH KERAK?",
+      "howToUse": "QO‘LLASH USULI",
+      "safetyInformation": "XAVFSIZLIK MA’LUMOTLARI",
+      "whoShouldUse": "KIMLAR UCHUN"
+    },
+    "moreProductsHeading": "Imkoniyatni qo‘ldan boy bermang – xarid qiling va tejang",
+    "notFound": "Mahsulot topilmadi"
+  },
+  "faq": {
+    "badge": "Ko‘p beriladigan savollar",
+    "heading": "Bilishingiz kerak bo‘lgan hamma narsa:",
+    "description": "Tarkib, qo‘llash, foydalari, xavfsizlik va samaradorlik haqidagi eng ko‘p beriladigan savollarga javoblar."
+  },
+  "reviews": {
+    "heading": "MIJOZLAR SHARHLARI",
+    "basedOn": "Asosida:",
+    "review": "sharh",
+    "reviews": "sharh",
+    "averageRating": "Mijozlarning o‘rtacha bahosi",
+    "star": "YULDUZ",
+    "stars": "YULDUZ",
+    "viewMore": "YANA KO‘RISH...",
+    "noReviews": "Bu mahsulot uchun sharhlar topilmadi."
+  },
+  "reviewModal": {
+    "heading": "Sharh yozish",
+    "name": "Ismingiz",
+    "email": "E-pochtangiz",
+    "review": "Sharhingizni yozing...",
+    "submit": "Sharhni yuborish",
+    "close": "Yopish"
+  },
+  "searchModal": {
+    "placeholder": "Mahsulotlarni qidirish...",
+    "typeToSearch": "Mahsulotlarni qidirish uchun yozing",
+    "noResults": "Quyidagi so‘rov bo‘yicha mahsulot topilmadi:",
+    "result": "natija",
+    "results": "natija",
+    "escToClose": "Yopish uchun ESC",
+    "clear": "Qidiruvni tozalash",
+    "close": "Qidiruvni yopish"
+  }
+}

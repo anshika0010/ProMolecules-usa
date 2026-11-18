@@ -1,0 +1,90 @@
+{
+  "contactHero": {
+    "heading": {
+      "first": "Hubungi Kami",
+      "second": "Kontak"
+    },
+    "email": "contact@promolecules.com",
+    "tagline": "Mari Cipta Sesuatu yang Hebat Bersama-sama",
+    "features": [
+      {
+        "title": "Kuasa",
+        "description": "Direka untuk meningkatkan rangsangan neural dan prestasi otot."
+      },
+      {
+        "title": "Reka Bentuk",
+        "description": "Komposisi ramuan yang tersusun dengan rangsangan yang seimbang."
+      },
+      {
+        "title": "Pembangunan",
+        "description": "Dibangunkan berasaskan penyelidikan dan ujian, dengan prestasi sebagai keutamaan."
+      }
+    ]
+  },
+  "contactForm": {
+    "component": "ContactForm",
+    "leftSection": {
+      "heading": [
+        "HANTAR",
+        "SAHAJA."
+      ],
+      "descriptions": [
+        "Hubungi Promolecules™ untuk mendapatkan panduan produk dan peluang kerjasama.",
+        "Hubungi kami melalui e-mel atau platform media sosial rasmi kami."
+      ],
+      "phone": "+1 (786) 789-2121",
+      "email": "info@promolecules.com"
+    },
+    "form": {
+      "heading": "Hubungi Kami",
+      "fields": {
+        "name": {
+          "label": "NAMA PENUH",
+          "placeholder": "Masukkan nama anda",
+          "validation": {
+            "required": "Nama diperlukan",
+            "letters_only": "Huruf sahaja dibenarkan"
+          }
+        },
+        "phone": {
+          "label": "NOMBOR TELEFON",
+          "placeholder": "Masukkan nombor telefon anda",
+          "validation": {
+            "required": "Nombor telefon diperlukan",
+            "invalid": "Masukkan nombor telefon yang sah"
+          }
+        },
+        "email": {
+          "label": "E-MEL",
+          "placeholder": "Masukkan alamat e-mel",
+          "validation": {
+            "required": "Alamat e-mel diperlukan",
+            "invalid": "Alamat e-mel tidak sah"
+          }
+        },
+        "subject": {
+          "label": "SUBJEK",
+          "placeholder": "Masukkan mesej",
+          "validation": {
+            "required": "Mesej diperlukan",
+            "min_length": "Mesej mestilah sekurang-kurangnya 10 aksara"
+          }
+        }
+      },
+      "submit_button": "Hantar Mesej"
+    },
+    "successPopup": {
+      "heading": "Mesej Berjaya Dihantar",
+      "description": "Terima kasih! Kami akan menghubungi anda tidak lama lagi."
+    },
+    "errorPopup": {
+      "description": "Sesuatu telah berlaku. Sila cuba lagi."
+    }
+  },
+  "ctaSection": {
+    "heading": {
+      "first": "Mari Mulakan",
+      "second": "Kerjasama"
+    }
+  }
+}

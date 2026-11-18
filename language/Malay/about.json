@@ -1,0 +1,299 @@
+{
+  "title": "Mengenai Promolecules™",
+  "backgroundImage": "/promolecules-about-banner.webp",
+  "backgroundAlt": "Latar Belakang",
+  "headings": [
+    {
+      "title": "SIAPA KAMI",
+      "url": "/about/who-we-are"
+    },
+    {
+      "title": "APA YANG KAMI TAWARKAN",
+      "url": "/about/what-we-deliver"
+    },
+    {
+      "title": "SEJARAH",
+      "url": "/about/history"
+    },
+    {
+      "title": "SOALAN LAZIM",
+      "url": "/about/faq"
+    }
+  ],
+  "socials": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/promolecules/"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/promolecules.official"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://x.com/promolecules"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@Promolecules"
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://www.pinterest.com/promolecules/"
+    }
+  ],
+  "who-we-are": {
+    "hero": {
+      "title": "KAMI IALAH PROMOLECULES",
+      "description": "Jenama pemakanan berteraskan prestasi yang dibangunkan untuk individu yang tidak pernah berpuas hati dengan pencapaian biasa. Kami wujud untuk menyokong cita-cita, membuka potensi fizikal dan membantu mereka yang berlatih dengan tujuan, disiplin dan intensiti. Identiti kami berteraskan formulasi yang disokong sains, ramuan berkualiti premium dan komitmen tanpa henti terhadap hasil.",
+      "backButton": "Kembali ke halaman tentang kami"
+    },
+    "performanceShowcase": [
+      {
+        "image": "/promolecules-about.webp",
+        "alt": "Prestasi Kiri",
+        "text": "Berhenti mengejar kesan tenaga sementara daripada produk yang sarat dengan kafein dan gimik. Promolecules menawarkan pengaktifan sistem saraf pusat (CNS) yang direka untuk prestasi, bukan sekadar lonjakan rangsangan yang tidak terkawal.",
+        "tag": "— Kami Mengutamakan Pemakanan Berasaskan Prestasi"
+      },
+      {
+        "image": "/promolecules-about-background-image.webp",
+        "alt": "Atlet di Tengah",
+        "text": "Direka untuk mereka yang berdisiplin. Inilah asas seni bina prestasi Father of Insane, dibangunkan untuk mereka yang mahukan lebih daripada setiap sesi latihan.",
+        "tag": "— Komited terhadap Prestasi, Kualiti dan Hasil Sebenar"
+      },
+      {
+        "image": "/promolecules-aboutimage.webp",
+        "alt": "Imej Mengenai Promolecules",
+        "text": "Lebih daripada sekadar produk — sebuah budaya kekuatan. Sertai komuniti yang dibina atas disiplin, ketabahan dan usaha berterusan untuk mencapai prestasi tahap tertinggi.",
+        "tag": "— Kami Ialah Komuniti yang Berteraskan Kekuatan"
+      }
+    ],
+    "moreInformation": {
+      "heading": "MAKLUMAT LANJUT",
+      "items": [
+        {
+          "title": "IDENTITI KAMI",
+          "content": "Promolecules™ ialah jenama suplemen berteraskan prestasi yang direka untuk atlet serius yang menuntut rangsangan tersusun, kekuatan yang boleh diukur dan formulasi berdisiplin. Kami mengkhusus dalam sistem rangsangan tinggi yang direka bentuk secara bio-kejuruteraan untuk pengaktifan neurologi terkawal, prestasi berterusan dan intensiti tanpa kompromi dalam persekitaran latihan lanjutan."
+        },
+        {
+          "title": "MISI KAMI",
+          "content": "Misi kami adalah untuk menghapuskan formulasi dengan dos bahan aktif yang tidak mencukupi serta penggunaan perangsang secara berlebihan tanpa kawalan melalui penyediaan sistem prestasi yang dibangunkan dengan ketepatan. Promolecules™ menghasilkan suplemen berimpak tinggi dengan keseimbangan yang bijak untuk meningkatkan tenaga, fokus, kekuatan dan daya tahan, sambil mengambil kira kestabilan neurologi jangka panjang serta perkembangan atlet."
+        },
+        {
+          "title": "VISI KAMI",
+          "content": "Visi kami adalah untuk mentakrifkan semula pemakanan prestasi global dengan menetapkan standard baharu dalam seni bina perangsang, ketelusan ramuan dan formulasi berfungsi. Promolecules™ berhasrat menjadi penanda aras bagi atlet berprestasi tinggi yang serius dan mahukan kemajuan tanpa kompromi atau ilusi pemasaran."
+        },
+        {
+          "title": "MENGAPA PROMOLECULES",
+          "content": "Kerana intensiti tanpa struktur boleh membawa kepada keletihan melampau. Promolecules™ mereka bentuk formulasi berlapis yang ditentukur mengikut keperluan prestasi untuk mengaktifkan, mengekalkan dan menstabilkan tahap prestasi. Daripada produk pra-senaman dengan rangsangan sangat tinggi hinggalah sistem daya tahan, setiap produk direka untuk atlet yang mengutamakan hasil dan mahukan keunggulan yang boleh diukur, bukannya keterujaan sementara."
+        }
+      ]
+    }
+  },
+  "what-we-deliver": {
+    "hero": {
+      "heading": "APA YANG KAMI TAWARKAN",
+      "backgroundImage": "/whatwedeliver.webp",
+      "backgroundAlt": "Latar Belakang Utama"
+    },
+    "middleStatement": "Promolecules dibangunkan untuk individu yang mengambil serius tentang kecergasan mereka. Kami memenuhi keperluan pelbagai golongan yang disatukan oleh satu matlamat — Prestasi Lebih Baik dan Hasil Sebenar.",
+    "servicesHeading": {
+      "first": "PERKHIDMATAN",
+      "second": "KAMI"
+    },
+    "servicesDescription": "Di Promolecules, perkhidmatan kami melangkaui penjualan suplemen. Kami menyediakan penyelesaian pemakanan berteraskan prestasi yang direka untuk menyokong setiap peringkat perjalanan kecergasan anda.",
+    "services": [
+      {
+        "number": "1",
+        "title": "Penyelesaian Pemakanan Prestasi",
+        "desc": "Kami membangunkan dan menyediakan suplemen berasaskan sains yang memberi tumpuan kepada pertumbuhan otot dan kekuatan, tenaga, fokus dan daya tahan serta pemulihan. Setiap produk dirumus untuk memenuhi keperluan latihan sebenar dengan ramuan premium.",
+        "image": "/promolecules-whatwedeliverim.webp"
+      },
+      {
+        "number": "2",
+        "title": "Penyelidikan dan Inovasi",
+        "desc": "Pasukan kami sentiasa mengkaji perkembangan terkini dalam sains pemakanan sukan untuk menambah baik formulasi. Kami mengutamakan ramuan termaju, penyerapan yang dipertingkatkan dan inovasi sebagai teras kepada setiap produk yang kami hasilkan.",
+        "image": "/promolecules-whatwedeliverimg.webp"
+      },
+      {
+        "number": "3",
+        "title": "Sokongan untuk Atlet dan Jurulatih",
+        "desc": "Kami menyokong atlet, jurulatih dan profesional kecergasan dengan menyediakan pemakanan prestasi yang boleh dipercayai, panduan suplemen berdasarkan matlamat khusus serta kemas kini produk secara berterusan.",
+        "image": "/promolecules-what-we-deliverim.webp"
+      }
+    ],
+    "middleStatementHighlights": [
+      "mengambil serius tentang kecergasan mereka",
+      "Prestasi Lebih Baik",
+      "Hasil Sebenar"
+    ]
+  },
+  "history": {
+    "historyHero": {
+      "heading": "BAGAIMANA SEGALANYA BERMULA",
+      "highlight": "BERMULA",
+      "description": "Semuanya bermula di sebalik suasana gim yang sebenar, tempat para pengangkat berat terus mencari sesuatu yang tidak pernah benar-benar mereka rasai. Formulasi yang lemah. Tiada pengaktifan. Tiada kelebihan. Kemudian muncul pula pilihan yang bertentangan — perangsang berlebihan yang memberikan kesan kuat, tetapi diikuti kejatuhan tenaga yang lebih teruk. Di sinilah Promolecules memilih jalan yang berbeza. Bukan lemah. Bukan melulu.",
+      "subtitle": "Promolecules™ – Sejarah dan Sebab di Sebalik Formulasi",
+      "backgroundImage": "/promolecules-footer-background-historyimages.webp",
+      "backgroundAlt": "Latar Belakang Sejarah Promolecules",
+      "backButton": "Kembali ke halaman tentang kami",
+      "backButtonUrl": "/about"
+    },
+    "journeySection": {
+      "heading": "PERJALANAN DI SEBALIK PROMOLECULES",
+      "tagline": "LAHIR DARIPADA SAINS, DIBANGUNKAN UNTUK PRESTASI",
+      "description": "Promolecules™ tidak dicipta untuk mengikuti kitaran trend suplemen. Ia lahir daripada kekecewaan dalam persekitaran gim sebenar, apabila mereka yang serius menjalani latihan terpaksa memilih antara dua pilihan yang melampau.",
+      "growthHeading": "PERTUMBUHAN DAN EVOLUSI",
+      "intro": "Fokus awal jenama ini adalah pada pengaktifan neurologi — memahami bagaimana sistem saraf pusat bertindak balas terhadap pemberian perangsang secara berlapis berbanding penggunaan kafein daripada satu sumber secara berlebihan.",
+      "image": "/history2.webp",
+      "imageAlt": "Pertumbuhan"
+    },
+    "growthEvolutionFaq": [
+      {
+        "question": "BILAKAH PROMOLECULES DITUBUHKAN?",
+        "answer": "Promolecules™ ditubuhkan pada awal tahun 2020-an, ketika suplemen dengan kandungan perangsang tinggi semakin popular dengan pantas tetapi masih kekurangan formulasi yang tersusun. Jenama ini muncul sebagai tindak balas terhadap permintaan yang semakin meningkat untuk sistem prestasi yang lebih kuat tetapi direka dengan lebih bijak."
+      },
+      {
+        "question": "MENGAPAKAH PROMOLECULES DICIPTA?",
+        "answer": "Promolecules™ dicipta untuk mencabar amalan industri yang menggunakan dos bahan utama terlalu rendah atau dos kafein berlebihan demi kesan pemasaran. Matlamatnya adalah untuk membangunkan suplemen prestasi yang memberikan intensiti sebenar melalui formulasi tersusun, bukannya rangsangan yang hanya bergantung pada gimik pemasaran."
+      },
+      {
+        "question": "APAKAH MASALAH YANG INGIN DIATASI OLEH PROMOLECULES?",
+        "answer": "Jenama ini berhasrat menangani tiga isu utama: campuran proprietari yang tidak didedahkan, penurunan tenaga secara mendadak akibat perangsang yang tidak terkawal dan kualiti kelompok produk yang tidak konsisten. Promolecules™ memberi tumpuan kepada penghasilan formulasi bio-kejuruteraan yang berdisiplin untuk memberikan pengaktifan terkawal, prestasi berterusan dan maklumat yang telus bagi atlet serius."
+      },
+      {
+        "question": "BAGAIMANAKAH PROMOLECULES BERKEMBANG DARI SEMASA KE SEMASA?",
+        "answer": "Promolecules™ bermula dengan sistem prestasi rangsangan sangat tinggi dan berkembang kepada produk pra-senaman hibrid, termogenik, penggalak ATP tanpa perangsang, sistem pump berasaskan hidrasi serta sokongan protein. Perkembangan ini mencerminkan ekosistem prestasi yang lebih luas dan bukannya hanya satu kategori produk."
+      },
+      {
+        "question": "APAKAH YANG KEKAL SAMA SEJAK AWAL PENUBUHANNYA?",
+        "answer": "Prinsip yang kekal sama ialah intensiti yang tersusun. Promolecules™ terus mengutamakan rangsangan terkawal, pendekatan yang berfokus kepada atlet, komunikasi yang telus tentang kekuatan produk serta sistem prestasi yang dibangunkan untuk kemajuan — bukan penggunaan secara santai."
+      }
+    ],
+    "blogsSection": {
+      "heading": "BLOG",
+      "readMore": "BACA SELANJUTNYA",
+      "noBlogsFound": "TIADA BLOG DITEMUI",
+      "viewAll": "LIHAT SEMUA",
+      "by": "OLEH",
+      "authorSeparator": "•"
+    }
+  },
+  "faqSection": {
+    "faqHero": {
+      "heading": "MENGAPA PROMOLECULES LEBIH UNGGUL DARIPADA JENAMA SUPLEMEN MURAH",
+      "description": "Pasaran suplemen global menghadapi masalah yang kami gelar sebagai sindrom kemerosotan formulasi, iaitu keadaan apabila produk kehilangan keberkesanannya dalam tempoh 3–14 hari.",
+      "faqTitle": "SOALAN LAZIM",
+      "faqSubtitle": "Soalan yang Sering Ditanya",
+      "faqDescription": "Dapatkan jawapan kepada semua soalan lazim. Masih keliru?",
+      "backgroundImage": "/promolecules-faq-banner.webp",
+      "backgroundAlt": "Latar Belakang",
+      "headingHighlight": "PROMOLECULES"
+    },
+    "comparisonSection": {
+      "heading": {
+        "first": "PASARAN KELABU BERBANDING",
+        "second": "PROMOLECULES"
+      },
+      "columns": {
+        "factor": "Faktor Utama",
+        "gray": "Jenama Pasaran Kelabu",
+        "promolecules": "Promolecules"
+      },
+      "rows": [
+        {
+          "factor": "PROTOKOL KITARAN DOS PERANGSANG",
+          "gray": "FASA X YANG DIRAWAKKAN",
+          "pro": "INTEGRITI FORMULA TERLARUT"
+        },
+        {
+          "factor": "KEMUNDURAN ADAPTASI NEURAL",
+          "gray": "PENINGKATAN TOLERANSI DALAM 7–14 HARI",
+          "pro": "PENGAWALAN RESEPTOR NEURAL BERTERUSAN"
+        },
+        {
+          "factor": "HAD KESELAMATAN KARDIOVASKULAR",
+          "gray": "DOS PERANGSANG TIDAK DILABELKAN",
+          "pro": "KESEIMBANGAN VASKULAR YANG MEMATUHI ISO"
+        },
+        {
+          "factor": "KEPELBAGAIAN LALUAN TERMOGENIK",
+          "gray": "METABOLISME SATU LALUAN / LALUAN BETA",
+          "pro": "PENGEMBANGAN METABOLIK BERBILANG LAPISAN"
+        },
+        {
+          "factor": "TEKNOLOGI PENGEKALAN ATP",
+          "gray": "KEMEROSOTAN KETEPATAN YANG TIDAK STABIL",
+          "pro": "Sistem Tenaga Peptida Rusia"
+        },
+        {
+          "factor": "PENGURUSAN TEKANAN HEPATIK",
+          "gray": "BEBAN SEBATIAN TOKSIK BERLEBIHAN",
+          "pro": "TEKNOLOGI PERLINDUNGAN HATI"
+        },
+        {
+          "factor": "KEJURUTERAAN NOOTROPIK HIBRID",
+          "gray": "PROTOKOL KEMBUNG AKIBAT PENINGKATAN NATRIUM",
+          "pro": "KESEIMBANGAN SINAPS BERTARAF FARMACEUTIKAL"
+        },
+        {
+          "factor": "KESAN NEUROLOGI DOS PERTAMA",
+          "gray": "PENGAKTIFAN PADA TAHAP PLASEBO",
+          "pro": "MANIFESTASI PRESTASI SERTA-MERTA"
+        },
+        {
+          "factor": "PROTOKOL PENYINGKIRAN LOGAM BERAT",
+          "gray": "RISIKO PENCEMARAN PLUMBUM/MERKURI",
+          "pro": "PENSIJILAN PIHAK KETIGA USA WAJIB"
+        },
+        {
+          "factor": "PERLINDUNGAN ATP SEMASA FASA PEMBAKARAN LEMAK",
+          "gray": "KESAN PEMBAKARAN YANG MENYEBABKAN OTOT KEHILANGAN KEPENUHAN",
+          "pro": "PENGEKALAN SEL ANTI-KATABOLIK"
+        }
+      ]
+    },
+    "faqSection": [
+      {
+        "question": "MENGAPAKAH KEBANYAKAN PRODUK PRA-SENAMAN DI PASARAN INDIA BERHENTI MEMBERIKAN KESAN SELEPAS 1–2 MINGGU?",
+        "answer": "Fenomena ini dipanggil Kejuruteraan Toleransi Dipercepat, iaitu strategi formulasi yang disengajakan apabila jenama menggunakan dos sebatian penting yang terlalu rendah seperti beta-alanine (biasanya 800mg berbanding dos terapeutik 3200mg) serta derivatif kafein yang telah merosot kualitinya sehingga mencetuskan adaptasi neural dengan cepat. Reseptor adenosina dalam badan menjadi kurang sensitif dalam tempoh 7–14 hari akibat kualiti perangsang yang tidak konsisten dan ketiadaan teknologi pengawalan reseptor. Kebanyakan produk pra-senaman India menunjukkan keadaan yang kami istilahkan sebagai Manipulasi Had Perangsang, iaitu mencampurkan kafein gred farmaseutikal (30–40%) dengan kafein buangan industri (60–70%) untuk mengurangkan kos. Ini menghasilkan kesan awal yang semakin berkurangan apabila sistem saraf mengenal pasti profil sebatian yang lebih rendah mutunya. Pendekatan Promolecules: Father of Insane™ dan WARFLEX™ menggunakan Seni Bina Kafein Pelbagai Sumber — menggabungkan Caffeine Anhydrous, Dicaffeine Malate (2XCAFF™), Caffeine Citrate (Citra Caff™) dan Caffeine HCL dalam nisbah yang dikira dengan tepat. Ini menghasilkan Pengaktifan Neural Berterusan dan bukannya corak lonjakan tenaga diikuti kejatuhan tenaga. Dos terapeutik kami yang disahkan di USA (jumlah 450mg kafein dalam Father of Insane dan 395mg dalam WARFLEX) ditentukur untuk Kelajuan Adaptasi Neural Sifar, yang bermaksud kesannya kekal konsisten sepanjang kitaran 60–90 hari tanpa memerlukan rehat toleransi."
+      },
+      {
+        "question": "MENGAPAKAH SESETENGAH PRODUK PRA-SENAMAN MENYEBABKAN KEJATUHAN TENAGA DAN KEBIMBANGAN YANG MELAMPAU?",
+        "answer": "Kejatuhan tenaga yang dialami dipanggil Rangkaian Keletihan Adrenal, yang disebabkan oleh pelepasan yohimbine tanpa kawalan (selalunya 5–10mg berbanding 2.5mg yang dianggap selamat) serta pencemaran perangsang sintetik. Jenama pasaran kelabu sering menggunakan sebatian terlarang seperti analog DMAA atau perangsang sintetik yang tidak dilabelkan, yang menyebabkan pengaktifan sistem saraf simpatetik secara mendadak diikuti kehabisan tenaga yang teruk. Lebih membimbangkan ialah Penyembunyian Sumber Kafein, apabila jenama menyenaraikan kafein tetapi mendapatkannya daripada sintesis industri toksik dan bukannya proses pengekstrakan farmaseutikal. Ini boleh mengakibatkan peningkatan kortisol, kitaran kebimbangan, jantung berdebar-debar dan kejatuhan tenaga yang ditakuti selepas 2 jam bersenam, sehingga anda berasa lebih letih berbanding sebelum latihan. Penyelesaian Promolecules: Kami mengikuti Protokol Had Keselamatan Kardiovaskular USA GMP. Campuran perangsang kami menjalani Penentukuran Sistem Saraf Simpatetik, dengan setiap sebatian diseimbangkan menggunakan L-Theanine (100mg dalam WARFLEX) untuk membantu mencegah peningkatan kebimbangan sambil mengekalkan tenaga yang kuat. Alpha Yohimbine ditetapkan pada dos tepat 2.5mg, mencukupi untuk membantu mobilisasi lemak tanpa mencetuskan tindak balas panik. Hasilnya ialah Peningkatan Tenaga Bersih yang memberikan kesan selama 8–10 jam tanpa kejatuhan tenaga teruk yang boleh merosakkan keseluruhan hari anda."
+      },
+      {
+        "question": "ADAKAH PRODUK PRA-SENAMAN DENGAN KANDUNGAN PERANGSANG TINGGI BERBAHAYA KEPADA JANTUNG?",
+        "answer": "Perangsang berkandungan tinggi boleh menjadi berbahaya apabila terdedah kepada Penyusupan Sebatian Tidak Berlabel, iaitu masalah yang berleluasa dalam pasaran suplemen kelabu di India. Insiden berkaitan jantung boleh berlaku apabila jenama menggunakan dos perangsang berlebihan (bersamaan 600–800mg kafein), menggabungkan sebatian yang tidak serasi (yohimbine + synephrine pada tahap toksik) atau menggunakan bahan mentah tiruan yang tercemar dengan logam berat sehingga memberi tekanan kepada tisu kardiovaskular. Bahayanya bukan semata-mata kandungan kafein yang tinggi, tetapi ketiadaan Teknologi Pengimbangan Vasodilatasi. Produk pra-senaman murah boleh meningkatkan tekanan darah tanpa menyokong pengembangan salur darah, sekali gus menyebabkan tekanan kardiovaskular berbahaya semasa melakukan latihan angkat berat yang melibatkan beberapa kumpulan otot. Perlindungan Promolecules: Father of Insane™ dirumus mengikut Piawaian Pendedahan Perangsang yang Mematuhi US FDA. Setiap miligram dilabelkan, diuji dan diseimbangkan dengan 1000mg L-Citrulline + 1600mg BetaAlanine dalam WARFLEX untuk menyokong vasodilatasi melalui Nitric Oxide. Ujian pihak ketiga bertujuan menghapuskan risiko pencemaran bahan terlarang."
+      },
+      {
+        "question": "MENGAPAKAH KEBANYAKAN PRODUK PEMBAKAR LEMAK TIDAK BERKESAN MEMBAKAR LEMAK DEGIL DI PERUT DAN PAHA?",
+        "answer": "Produk termogenik bajet menghadapi batasan Termogenesis Satu Laluan. Produk ini bergantung sepenuhnya pada kafein sederhana (200–250mg) dan ekstrak teh hijau, yang mungkin menyebabkan badan menyesuaikan diri dalam tempoh 2–3 minggu melalui mekanisme Pertahanan Penurunan Metabolik. Lemak degil (perut, bahagian sisi pinggang dan paha) memerlukan Antagonisme Reseptor Alpha dan Pengaktifan Adrenergik Beta-3 — mekanisme yang mungkin diabaikan oleh formulasi murah. Selain itu, kebanyakan produk pembakar lemak gagal kerana tidak menangani Rintangan Insulin pada Tisu Lemak Degil. Tanpa sebatian seperti Yohimbine HCL dan GBBxt, hasil penurunan lemak mungkin terhad. Kelebihan Promolecules: Thermo Nuke XT™ menggunakan Peningkatan Metabolik Berbilang Lapisan — menggabungkan CitraSyn 50™ (synephrine untuk meningkatkan kadar metabolisme), GBBxt (sintesis karnitina untuk pengangkutan asid lemak), Yohimbine (sekatan reseptor alpha untuk lemak degil), Green Tea Extract (EGCG untuk termogenesis) dan Theobromine (aliran darah ke tisu adipos). Campuran Thermo Nuke sebanyak 650mg direka untuk menyokong pelbagai laluan pengoksidaan lemak."
+      },
+      {
+        "question": "BOLEHKAH PRODUK PEMBAKAR LEMAK MEROSAKKAN HATI DALAM JENAMA BERKUALITI RENDAH?",
+        "answer": "Sesetengah produk termogenik yang dirumus dengan kurang baik mungkin mengandungi gabungan perangsang yang tidak dilabelkan, bahan mentah yang tercemar dengan logam berat (plumbum, merkuri, arsenik) atau dos berlebihan bagi sebatian tertentu. Keadaan ini mungkin memberikan tekanan tambahan kepada hati. Hati memproses setiap sebatian yang anda ambil. Perlindungan Promolecules: Menurut jenama ini, Thermo Nuke XT™ menjalani Pensijilan Penyingkiran Logam Berat wajib di kemudahan USA GMP. Vitamin B6 dan B12 turut disertakan untuk menyokong proses metabolik normal. Pemeriksaan toksin oleh pihak ketiga bertujuan mengenal pasti kemungkinan pencemaran. Ikuti arahan pada label produk dan dapatkan nasihat profesional kesihatan sebelum menggunakannya."
+      },
+      {
+        "question": "MENGAPAKAH PENGEKALAN AIR BERLAKU DENGAN BANYAK PRODUK PUMP DI INDIA?",
+        "answer": "Perut kembung mungkin berkaitan dengan ketidakseimbangan natrium dan elektrolit, khususnya apabila produk mengandungi natrium berlebihan serta kalium atau magnesium yang tidak mencukupi. Produk pump yang tidak diseimbangkan dengan baik juga boleh mempengaruhi pengagihan cecair dalam badan. Formulasi Tepat Promolecules: HydraPump+™ menggunakan Liquid Glycerol Gred Farmaseutikal (10ml setiap hidangan) bersama elektrolit: 300mg Sodium + 200mg Potassium + 200mg Magnesium daripada Pink Himalayan Salt dan Magnesium Glycinate. Formulasi ini turut menggabungkan 3000mg Citrulline Malate 2:1."
+      },
+      {
+        "question": "MENGAPAKAH KEBANYAKAN PRODUK HIDRASI TIDAK BERKESAN SEMASA LATIHAN INTENSIF?",
+        "answer": "Produk hidrasi mungkin kurang berkesan semasa latihan intensif apabila formulasi sokongan elektrolit dan cecairnya tidak diseimbangkan dengan sewajarnya. Formulasi Tepat Promolecules: HydraPump+™ menggunakan Liquid Glycerol Gred Farmaseutikal (10ml setiap hidangan) bersama Sodium, Potassium dan Magnesium yang seimbang. Digabungkan dengan 3000mg Citrulline Malate 2:1, formulasi ini direka untuk menyokong hidrasi dan prestasi senaman."
+      },
+      {
+        "question": "MENGAPAKAH PENGGALAK ATP TIDAK MENINGKATKAN DAYA TAHAN SEPERTI YANG DIHARAPKAN OLEH RAMAI PENGGUNA?",
+        "answer": "Sesetengah suplemen ATP mungkin memberikan manfaat yang terhad disebabkan kestabilan prekursor, kualiti ramuan atau perbezaan formulasi dan dos. Peningkatan ATP sebenar melibatkan laluan tenaga sel, bukannya sekadar menambah sebatian adenosina. Inovasi Promolecules: INOPOWER-R™ menggunakan campuran ATP yang menggabungkan Adenosine 5-Triphosphate, Hypoxanthine Riboside (Inosine) dan Taurine dalam campuran sebanyak 600mg. B6 (50mg) dan B12 (500mcg) turut disertakan untuk menyokong metabolisme tenaga normal."
+      },
+      {
+        "question": "BENARKAH BANYAK SUPLEMEN INDIA TERCEMAR DENGAN LOGAM BERAT?",
+        "answer": "Sesetengah suplemen mungkin tercemar dengan logam berat seperti plumbum, merkuri dan arsenik apabila bahan mentah atau proses pembuatannya tidak dikawal dengan sewajarnya. Pengguna disarankan memilih produk yang mempunyai ujian kualiti yang boleh dipercayai serta maklumat pembuatan yang telus. Jaminan Promolecules: Jenama ini menyatakan bahawa produknya dihasilkan di kemudahan yang diperakui USA GMP serta menjalani ujian penyingkiran logam berat dan pengesahan toksin oleh pihak ketiga."
+      },
+      {
+        "question": "MENGAPAKAH SESETENGAH PRODUK PRA-SENAMAN YANG MENINGKATKAN TESTOSTERON GAGAL MENINGKATKAN PRESTASI?",
+        "answer": "Sesetengah produk menggunakan ramuan seperti Tribulus, Fenugreek dan Ashwagandha pada dos yang mungkin tidak memberikan kesan yang diharapkan. Prestasi bergantung pada pelbagai faktor, termasuk latihan, pemakanan, pemulihan dan formulasi itu sendiri. Pendekatan Promolecules: WARFLEX™ diterangkan oleh jenama ini sebagai Sistem Sokongan Hormon Berteraskan Prestasi, bukannya pengganti testosteron. Formulasinya merangkumi 3mg Boron Citrate, Alpha GPC (500mg), Eria Jarensis (450mg) dan XBTR3 Pump Blend."
+      }
+    ]
+  }
+}

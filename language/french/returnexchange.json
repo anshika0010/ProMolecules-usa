@@ -1,0 +1,124 @@
+{
+  "page": {
+    "title": "Politique de retour et d’échange",
+    "intro": "Chez Promolecules, nous nous engageons à vous proposer des compléments alimentaires de haute qualité basés aux Émirats arabes unis. Si vous n’êtes pas entièrement satisfait de votre achat, nous sommes là pour vous aider. Veuillez lire attentivement notre politique afin de comprendre les possibilités qui s’offrent à vous en matière de retours, d’échanges et de remboursements."
+  },
+  "navigation": [
+    {
+      "id": "window",
+      "label": "Délai de retour"
+    },
+    {
+      "id": "eligibility",
+      "label": "Conditions de retour"
+    },
+    {
+      "id": "non-returnable",
+      "label": "Articles non retournables"
+    },
+    {
+      "id": "defective",
+      "label": "Articles défectueux, endommagés ou incorrects"
+    },
+    {
+      "id": "exchanges",
+      "label": "Échanges"
+    },
+    {
+      "id": "how-to",
+      "label": "Comment demander un retour"
+    },
+    {
+      "id": "refunds",
+      "label": "Remboursements"
+    },
+    {
+      "id": "contact",
+      "label": "Besoin d’aide ?"
+    }
+  ],
+  "sections": [
+    {
+      "id": "window",
+      "eyebrow": "Agissez rapidement",
+      "title": "Délai de retour",
+      "content": [
+        "Vous disposez de 7 jours à compter de la date de livraison pour retourner un article. Malheureusement, si plus de 7 jours se sont écoulés depuis la livraison de votre commande, nous ne pourrons pas vous proposer de remboursement ni d’échange."
+      ]
+    },
+    {
+      "id": "eligibility",
+      "eyebrow": "Des règles strictes s’appliquent",
+      "title": "Conditions de retour",
+      "content": [
+        "En raison de la nature des compléments alimentaires et des réglementations en matière de santé et de sécurité, nous appliquons des conditions strictes concernant les produits retournés :",
+        "Non ouvert et scellé : Votre article doit être inutilisé, non ouvert et dans exactement le même état que celui dans lequel vous l’avez reçu. Le sceau de sécurité d’origine doit être entièrement intact.",
+        "Emballage d’origine : L’article doit être retourné dans son emballage d’origine.",
+        "Preuve d’achat : Un reçu ou une preuve d’achat (numéro de commande ou e-mail de confirmation de commande) est obligatoire pour retourner un article."
+      ]
+    },
+    {
+      "id": "non-returnable",
+      "eyebrow": "Pour des raisons de santé et de sécurité",
+      "title": "Articles non retournables",
+      "content": [
+        "Pour des raisons de santé et de sécurité, les articles suivants ne peuvent être ni retournés ni échangés :",
+        "Les produits qui ont été ouverts, dont le sceau de sécurité a été brisé ou qui ont été utilisés.",
+        "Les articles portant la mention « Vente finale » ou « Déstockage ».",
+        "Les cartes-cadeaux."
+      ]
+    },
+    {
+      "id": "defective",
+      "eyebrow": "En cas d’erreur de notre part, nous trouverons une solution",
+      "title": "Articles défectueux, endommagés ou incorrects",
+      "content": [
+        "Si vous recevez un article défectueux, endommagé ou incorrect (par exemple, une mauvaise marque ou une mauvaise saveur), veuillez nous contacter dans les 3 jours suivant la livraison.",
+        "Nous nous ferons un plaisir de remplacer l’article ou de procéder à un remboursement intégral sans frais supplémentaires pour vous.",
+        "Veuillez envoyer un e-mail à info@promolecules.com en indiquant votre numéro de commande et en joignant des photos du produit endommagé ou incorrect afin que nous puissions résoudre le problème le plus rapidement possible."
+      ]
+    },
+    {
+      "id": "exchanges",
+      "eyebrow": "Comment fonctionnent les échanges",
+      "title": "Échanges",
+      "content": [
+        "Nous acceptons les échanges uniquement si les articles sont défectueux, endommagés ou si le mauvais produit vous a été envoyé.",
+        "Si vous avez commandé le mauvais article par erreur et souhaitez l’échanger contre un autre produit, vous devez retourner l’article d’origine non ouvert (en suivant la procédure de retour ci-dessous), puis passer une nouvelle commande pour le produit souhaité."
+      ]
+    },
+    {
+      "id": "how-to",
+      "eyebrow": "Étape par étape",
+      "title": "Comment demander un retour",
+      "content": [
+        "Pour commencer la procédure de retour, veuillez suivre les étapes suivantes :",
+        "Contactez-nous : Envoyez un e-mail à notre équipe d’assistance à info@promolecules.com en indiquant votre numéro de commande et le motif du retour.",
+        "Approbation : Si votre demande de retour est approuvée, nous vous communiquerons un numéro d’autorisation de retour de marchandise (RMA), ainsi que les instructions concernant l’adresse à laquelle envoyer votre colis.",
+        "Emballez et expédiez : Emballez soigneusement et de manière sécurisée les articles non ouverts. Veuillez inscrire clairement le numéro RMA à l’extérieur du colis."
+      ],
+      "importantNote": "Remarque importante : Les frais de retour sont à votre charge, sauf si le retour résulte d’une erreur de notre part. Les frais d’expédition ne sont pas remboursables. Nous vous recommandons vivement d’utiliser un service d’expédition avec suivi ou d’assurer votre colis, car nous ne pouvons pas garantir la réception de votre article retourné."
+    },
+    {
+      "id": "refunds",
+      "eyebrow": "Récupérez votre argent",
+      "title": "Remboursements",
+      "content": [
+        "Dès réception de votre article retourné, notre équipe l’inspectera afin de vérifier qu’il respecte nos conditions de retour (non ouvert et scellé).",
+        "Nous vous informerons de l’état de votre remboursement immédiatement après l’inspection de l’article.",
+        "Si votre retour est approuvé, nous procéderons au remboursement sur votre carte de crédit ou via votre moyen de paiement initial.",
+        "Selon les politiques de l’émetteur de votre carte, le montant sera crédité sur votre compte dans un délai de 5 à 10 jours ouvrables."
+      ],
+      "note": "Veuillez noter : Les frais d’expédition initiaux ne sont pas remboursables et seront déduits du montant total de votre remboursement."
+    },
+    {
+      "id": "contact",
+      "eyebrow": "Nous sommes là pour vous aider",
+      "title": "Besoin d’aide ?",
+      "content": [
+        "Si vous avez des questions concernant le retour de votre article, veuillez contacter notre équipe du service client."
+      ],
+      "email": "info@promolecules.com"
+    }
+  ]
+}

@@ -8,13 +8,13 @@ import VideoHeroSection from "@/components/VideoHeroSection";
 import WarningTape from "@/components/WarningTape";
 import WhoWeAreSection from "@/components/WhoWeAreSection";
 import { getSEOMetadata, getJSONLD } from "@/lib/seo";
+import Messages from "@/lib/i18n/Messages";
 
 // ✅ Yeh Next.js automatically <head> mein inject kar deta hai
 export const metadata = getSEOMetadata("home");
 
 export default function Home() {
   const jsonld = getJSONLD("home");
-  console.log(getJSONLD("home"));
 
   return (
     <>
@@ -30,15 +30,20 @@ export default function Home() {
     )}
 
 
+      <Messages ns={["home"]}>
       <HeroSlider />
       <WhoWeAreSection />
       <VideoHeroSection/>
       <UltraHighPerformanceSection />
       <WarningTape />
       <TrendingCategory />
-      <Blogs/>
+      {/* Blogs are English-only on every country site */}
+      <Messages ns={["home"]} locale="en">
+        <Blogs />
+      </Messages>
       <Testimonials />
       <PromoleculesSection/>
+      </Messages>
     </>
   );
 }

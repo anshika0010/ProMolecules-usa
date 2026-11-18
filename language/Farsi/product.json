@@ -1,0 +1,91 @@
+{
+  "heading": "محصولات",
+  "categories": [
+    {
+      "value": "ALL",
+      "label": "همه"
+    },
+    {
+      "value": "PRE-WORKOUT",
+      "label": "پری‌ورک‌اوت"
+    },
+    {
+      "value": "FAT BURNER",
+      "label": "چربی‌سوز"
+    },
+    {
+      "value": "ATP BOOSTER",
+      "label": "تقویت‌کننده ATP"
+    },
+    {
+      "value": "MUSCLE HYDRATION",
+      "label": "آبرسانی عضلات"
+    }
+  ],
+  "search": "جستجو...",
+  "sort": "مرتب‌سازی",
+  "sortOptions": {
+    "default": "مرتب‌سازی",
+    "priceLow": "از کم به زیاد",
+    "priceHigh": "از زیاد به کم"
+  },
+  "view": "نمایش",
+  "noResults": "نتیجه‌ای یافت نشد",
+  "tryDifferentSearch": "عبارت جستجوی دیگری را امتحان کنید",
+  "detail": {
+    "flavours": "طعم‌ها",
+    "servings": "تعداد وعده",
+    "buyNowOn": "اکنون بخرید از",
+    "buyOn": "خرید از",
+    "launchingSoon": "به‌زودی...",
+    "launchingSoonText": "این محصول به‌زودی به‌صورت آنلاین در دسترس خواهد بود.",
+    "whatsappEarlyAccess": "برای دسترسی زودهنگام در واتس‌اپ به ما پیام دهید",
+    "supplementFacts": "ارزش غذایی",
+    "productAlt": "محصول",
+    "thumbnailAlt": "تصویر کوچک",
+    "sections": {
+      "description": "توضیحات",
+      "keyBenefits": "مزایای کلیدی",
+      "whyChooseUs": "چرا ما را انتخاب کنید؟",
+      "howToUse": "روش مصرف",
+      "safetyInformation": "اطلاعات ایمنی",
+      "whoShouldUse": "چه کسانی باید مصرف کنند"
+    },
+    "moreProductsHeading": "از دست ندهید – خرید کنید و صرفه‌جویی کنید",
+    "notFound": "محصول یافت نشد"
+  },
+  "faq": {
+    "badge": "سؤالات متداول",
+    "heading": "هر آنچه باید بدانید درباره",
+    "description": "پاسخ رایج‌ترین سؤالات درباره ترکیبات، روش مصرف، مزایا، ایمنی و عملکرد را بیابید."
+  },
+  "reviews": {
+    "heading": "نظرات مشتریان",
+    "basedOn": "بر اساس",
+    "review": "نظر",
+    "reviews": "نظر",
+    "averageRating": "میانگین امتیاز مشتریان",
+    "star": "ستاره",
+    "stars": "ستاره",
+    "viewMore": "مشاهده بیشتر...",
+    "noReviews": "هیچ نظری برای این محصول یافت نشد."
+  },
+  "reviewModal": {
+    "heading": "نوشتن نظر",
+    "name": "نام شما",
+    "email": "ایمیل شما",
+    "review": "نظر خود را بنویسید...",
+    "submit": "ارسال نظر",
+    "close": "بستن"
+  },
+  "searchModal": {
+    "placeholder": "جستجوی محصولات...",
+    "typeToSearch": "برای جستجوی محصولات تایپ کنید",
+    "noResults": "محصولی یافت نشد برای",
+    "result": "نتیجه",
+    "results": "نتیجه",
+    "escToClose": "برای بستن ESC را بزنید",
+    "clear": "پاک کردن جستجو",
+    "close": "بستن جستجو"
+  }
+}

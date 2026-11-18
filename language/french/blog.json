@@ -1,0 +1,100 @@
+{
+  "blogsSection": {
+    "heading": "Blogs",
+    "description": "Bienvenue chez Promolecules™, la nouvelle génération de la science du fitness, où chaque formule est conçue dans un seul but : libérer tout le potentiel de votre corps.",
+    "blogs": [
+      {
+        "id": 1,
+        "title": "Le pouvoir de la régularité : comment rester engagé peut transformer votre vie",
+        "description": "Découvrez le pouvoir transformateur de la régularité pour atteindre vos objectifs de santé et de forme physique. Apprenez à développer des habitudes durables qui mènent à la réussite à long terme.",
+        "image": "/blog1.png"
+      },
+      {
+        "id": 2,
+        "title": "Nourrissez votre corps : les secrets d'une bonne nutrition",
+        "description": "La nutrition est une source de puissance. Apprenez à nourrir votre corps avec les bons nutriments, à optimiser vos performances et à libérer tout votre potentiel grâce à des stratégies nutritionnelles fondées sur la science.",
+        "image": "/blog2.png"
+      },
+      {
+        "id": 3,
+        "title": "Dormez suffisamment : une étape essentielle de votre parcours",
+        "description": "Le secret méconnu des performances sportives optimales réside dans un sommeil de qualité. Découvrez comment un repos adapté influence la récupération, la croissance musculaire et vos performances globales.",
+        "image": "/blog3.png"
+      }
+    ],
+    "buttons": {
+      "readMore": "Lire la suite",
+      "viewAll": "Tout voir"
+    }
+  },
+  "page": {
+    "blog_listing": {
+      "hero_tagline": "Le blog Promolecules est l'endroit où la performance rencontre l'état d'esprit.",
+      "hero_title": [
+        "Tous les blogs",
+        "Fitness"
+      ],
+      "categories": {
+        "view_all": "Tout voir"
+      },
+      "empty_state": "Aucun article trouvé.",
+      "loading": "Chargement d'autres articles...",
+      "loaded": "Tous les articles ont été chargés ✓",
+      "by": "Par"
+    },
+    "blog_detail": {
+      "not_found_title": "Blog introuvable",
+      "not_found_description": "Cet article n'existe pas ou a été supprimé.",
+      "category_fallback": "Blog",
+      "author_label": "Auteur",
+      "published_prefix": "Publié le",
+      "back_to_all_blogs": "Tous les blogs",
+      "brand": "Promolecules"
+    },
+    "seo_fallbacks": {
+      "not_found_title": "Blog introuvable",
+      "not_found_description": "Cet article de blog est introuvable.",
+      "default_title": "Blog",
+      "default_brand_author": "Earthmaa Foods"
+    },
+    "preserved": {
+      "format_date_locale": "en-GB",
+      "date_format_options": [
+        "year",
+        "month",
+        "day"
+      ],
+      "blog_detail_route": "/blog/[slug]",
+      "canonical_domain": "https://www.earthmaafoods.com",
+      "fallback_og_image": "https://www.earthmaafoods.com/images/earthmaalogo-blue.webp",
+      "listing_hero_image": "/promolecules-bloghero-benner-image.webp",
+      "detail_fallback_image": "/blogdummy.webp",
+      "dummy_image": "/dummyimage.webp",
+      "blogs_per_page": 9,
+      "category_filter_logic": "unchanged",
+      "infinite_scroll": "IntersectionObserver; rootMargin 100px; threshold 0.1",
+      "metadata_fields": [
+        "title",
+        "description",
+        "keywords",
+        "authors",
+        "robots",
+        "alternates.canonical",
+        "openGraph",
+        "twitter"
+      ],
+      "json_ld_schema": "blog.seo.schema",
+      "dynamic_blog_fields": [
+        "blog.name",
+        "blog.slug",
+        "blog.category.name",
+        "blog.publish_date",
+        "blog.author.name",
+        "blog.featured_image",
+        "blog.description",
+        "blog.tags"
+      ],
+      "technical_code": "Conserver le code React/Next.js d'origine, les imports, les hooks, les composants, les routes, les appels API, la logique SEO et les classes CSS. Traduire uniquement les textes statiques de l'interface destinés aux utilisateurs en français."
+    }
+  }
+}

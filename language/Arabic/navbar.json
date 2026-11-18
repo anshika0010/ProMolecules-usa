@@ -1,0 +1,36 @@
+{
+  "navbar": {
+    "navigation_links": [
+      { "label": "الرئيسية", "href": "/" },
+      { "label": "المتجر", "href": "/shop" },
+      { "label": "من نحن", "href": "/about" },
+      { "label": "المدونة", "href": "/blog" },
+      { "label": "تواصل معنا", "href": "/contact-us" }
+    ],
+    "logo_alt": "شعار Promolecules",
+    "accessibility_labels": {
+      "search_products": "البحث عن المنتجات",
+      "view_shopping_cart": "عرض سلة التسوق",
+      "close_menu": "إغلاق القائمة",
+      "open_menu": "فتح القائمة",
+      "close_cart": "إغلاق السلة"
+    },
+    "mobile_drawer": {
+      "search": "بحث",
+      "cart": "السلة"
+    },
+    "cart_drawer": {
+      "title": "سلتك",
+      "working_heading": "نعمل على ذلك",
+      "description": "تجربة سلة التسوق قيد الإنشاء حاليًا. عُد قريبًا — شيء قوي في الطريق.",
+      "coming_soon": "قريبًا",
+      "browse_shop": "تصفّح المتجر"
+    },
+    "country_selector": {
+      "button": "الدولة",
+      "aria_label": "اختر دولتك",
+      "search_placeholder": "ابحث عن دولة...",
+      "no_results": "لم يتم العثور على دولة"
+    }
+  }
+}

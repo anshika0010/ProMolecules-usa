@@ -1,0 +1,90 @@
+{
+  "contactHero": {
+    "heading": {
+      "first": "Entre em Contato",
+      "second": "Contato"
+    },
+    "email": "contact@promolecules.com",
+    "tagline": "Vamos Criar Algo Incrível Juntos",
+    "features": [
+      {
+        "title": "Potência",
+        "description": "Desenvolvido para aprimorar o estímulo neural e aumentar o desempenho muscular."
+      },
+      {
+        "title": "Design",
+        "description": "Uma composição estruturada de ingredientes com estimulação equilibrada."
+      },
+      {
+        "title": "Desenvolvimento",
+        "description": "Desenvolvido com base em pesquisas e testes, tendo o desempenho como prioridade."
+      }
+    ]
+  },
+  "contactForm": {
+    "component": "ContactForm",
+    "leftSection": {
+      "heading": [
+        "É SÓ",
+        "ENVIAR."
+      ],
+      "descriptions": [
+        "Entre em contato com a Promolecules™ para obter orientações sobre produtos e oportunidades de colaboração.",
+        "Fale conosco por e-mail ou por meio de nossas plataformas oficiais de redes sociais."
+      ],
+      "phone": "+1 (786) 789-2121",
+      "email": "info@promolecules.com"
+    },
+    "form": {
+      "heading": "Fale Conosco",
+      "fields": {
+        "name": {
+          "label": "NOME COMPLETO",
+          "placeholder": "Digite seu nome",
+          "validation": {
+            "required": "O nome é obrigatório",
+            "letters_only": "Apenas letras são permitidas"
+          }
+        },
+        "phone": {
+          "label": "NÚMERO DE TELEFONE",
+          "placeholder": "Digite seu número de telefone",
+          "validation": {
+            "required": "O número de telefone é obrigatório",
+            "invalid": "Digite um número de telefone válido"
+          }
+        },
+        "email": {
+          "label": "E-MAIL",
+          "placeholder": "Digite seu e-mail",
+          "validation": {
+            "required": "O e-mail é obrigatório",
+            "invalid": "Endereço de e-mail inválido"
+          }
+        },
+        "subject": {
+          "label": "ASSUNTO",
+          "placeholder": "Digite sua mensagem",
+          "validation": {
+            "required": "A mensagem é obrigatória",
+            "min_length": "A mensagem deve ter pelo menos 10 caracteres"
+          }
+        }
+      },
+      "submit_button": "Enviar Mensagem"
+    },
+    "successPopup": {
+      "heading": "Mensagem Enviada",
+      "description": "Obrigado! Entraremos em contato em breve."
+    },
+    "errorPopup": {
+      "description": "Algo deu errado. Tente novamente."
+    }
+  },
+  "ctaSection": {
+    "heading": {
+      "first": "Vamos Começar",
+      "second": "Colaborar"
+    }
+  }
+}

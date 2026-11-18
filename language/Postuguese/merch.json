@@ -1,0 +1,154 @@
+{
+  "merchPage": {
+    "hero": {
+      "titleLine1": "O Poder que Você Pode",
+      "titleLine2": "Vestir",
+      "description": "Roupas fitness premium, confeccionadas para oferecer força e durabilidade. Desenvolvidas para quem supera limites e exige alto desempenho."
+    },
+    "products": [
+      {
+        "id": 1,
+        "name": "Father Of Insane Skell",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt1.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Esgotado",
+        "buttonText": "ESGOTADO",
+        "availableButtonText": "VER AGORA"
+      },
+      {
+        "id": 2,
+        "name": "Father Of Insane Fusion",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt2.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Esgotado",
+        "buttonText": "ESGOTADO",
+        "availableButtonText": "VER AGORA"
+      },
+      {
+        "id": 3,
+        "name": "Father Of Insane Nitro",
+        "price": "$ 49.00",
+        "oldPrice": "$50.00",
+        "image": "/tshirt3.webp",
+        "link": "/merch/detailpage",
+        "outOfStock": true,
+        "stockText": "Esgotado",
+        "buttonText": "ESGOTADO",
+        "availableButtonText": "VER AGORA"
+      }
+    ],
+    "collection": {
+      "subtitle": "Gótico Sombrio",
+      "heading": "Coleção",
+      "description": "A coleção gótica sombria não é apenas moda — é rebeldia em forma de tecido. Nascida das sombras, inspirada no caos e criada para aqueles que dominam sua própria escuridão.",
+      "buttonText": "Explore Agora"
+    }
+  },
+  "productDetail": {
+    "productTitle": "O RETORNO DO CRÂNIO INSANO",
+    "ratingAlt": "Avaliação",
+    "descriptionHeading": "DESCRIÇÃO",
+    "description": "Criada para aqueles que lideram, não seguem. Esta camiseta premium de algodão oferece conforto incomparável com um design marcante e cheio de personalidade.",
+    "colorLabel": "COR - PRETO",
+    "colorName": "Preto",
+    "quantityLabel": "QUANTIDADE",
+    "price": "$49.00",
+    "oldPrice": "$50.00",
+    "nextImage": "Próxima imagem",
+    "prevImage": "Imagem anterior"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Father Of Insane Skell",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt1.webp",
+      "link": "/merch/detailpage"
+    },
+    {
+      "id": 2,
+      "name": "Father Of Insane Fusion",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt2.webp",
+      "link": "/merch/detailpage"
+    },
+    {
+      "id": 3,
+      "name": "Father Of Insane Nitro",
+      "price": "$ 49.00",
+      "oldPrice": "$50.00",
+      "image": "/tshirt3.webp",
+      "link": "/merch/detailpage"
+    }
+  ],
+  "trendingCollection": {
+    "introText": "Fique à frente das tendências com designs marcantes, conforto premium e estilos que chamam a atenção. Feito para quem não segue a moda — cria seu próprio estilo.",
+    "heading": "Camisetas em Alta",
+    "subheading": "Coleção",
+    "description": "Fique à frente das tendências com designs marcantes, conforto premium e estilos que chamam a atenção. Feito para quem não segue a moda — cria seu próprio estilo.",
+    "viewNow": "VER AGORA"
+  },
+  "productInformation": {
+    "heading": "INFORMAÇÕES DO PRODUTO",
+    "items": [
+      {
+        "title": "ESTILO",
+        "content": "Modelagem oversized de streetwear com estampa marcante de caveira. Desenvolvida para um visual forte e cheio de confiança."
+      },
+      {
+        "title": "MATERIAL E CUIDADOS",
+        "content": "100% algodão premium. Lavar à máquina com água fria. Não utilizar alvejante. Passar do lado avesso."
+      },
+      {
+        "title": "MEDIDAS",
+        "content": "Disponível nos tamanhos S, M, L e XL. Modelagem confortável. Consulte a tabela de medidas para conferir as dimensões exatas."
+      },
+      {
+        "title": "CARACTERÍSTICAS E ESPECIFICAÇÕES",
+        "content": "Estampa serigráfica de alta qualidade, tecido respirável, costuras resistentes e design que não desbota facilmente."
+      }
+    ],
+    "headingFirst": "INFORMAÇÕES",
+    "headingSecond": "DO PRODUTO"
+  },
+  "customerReviews": {
+    "heading": "AVALIAÇÕES DOS CLIENTES",
+    "rating": "4.7",
+    "ratingAlt": "Classificação por estrelas",
+    "basedOn": "Com base em 98 avaliações",
+    "ratingSince": "Avaliações desde 7 de dezembro de 2025",
+    "topOtherBrand": "Outra marca líder: avaliação 4.2",
+    "starsLabel": "Estrelas",
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 42
+      },
+      {
+        "stars": 4,
+        "count": 32
+      },
+      {
+        "stars": 3,
+        "count": 17
+      },
+      {
+        "stars": 2,
+        "count": 4
+      },
+      {
+        "stars": 1,
+        "count": 2
+      }
+    ],
+    "totalRatings": 98
+  }
+}

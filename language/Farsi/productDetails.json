@@ -1,0 +1,2003 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "slug": "father-of-insane",
+      "name": "FATHER OF INSANE",
+      "flipkartLink": "https://www.flipkart.com/promolecules-father-insane-ultra-high-stim-5200mg-power-blend-70-serv-half-scoop-35-full-pre-workout/p/itmb96e27fc7e10d",
+      "amazonLink": "https://www.amazon.in/Promolecules-Father-Performance-Supplement-Enthusiasts/dp/B0GM15FD9N?ref_=ast_sto_dp",
+      "cost2cost": "https://www.cost2costsupplement.com/products/father-of-insane-high-stim-pre-workout",
+      "category": "PRE-WORKOUT",
+      "title": "مکمل قبل از تمرین با محرک بسیار بالا، ساخته‌شده برای ورزشکاران حرفه‌ای. فعال‌سازی سریع، تمرکز عمیق و انرژی پایدار بدون افت انرژی ارائه می‌دهد. کلید را بزنید. آن‌گونه که باید تمرین کنید.",
+      "description": "انرژی ممتاز، تمرکز لیزری و پشتیبانی از عملکرد ورزشی را آزاد کنید. اگر یک ورزشکار باتجربه هستید که به دنبال یک مکمل قبل از تمرین با محرک بسیار بالا می‌گردید، Father of Insane™ از Promolecules™ برای پشتیبانی از جلسات تمرینی شدید فرموله شده است. این مکمل قبل از تمرین برای کاربران پیشرفته با ترکیبات متمرکز بر عملکرد مانند بتا-آلانین، کراتین مونوهیدرات، کراتین HCl، ال-سیترولین، بتائین آنهیدروس و چندین منبع کافئین در یک ترکیب انحصاری غلیظ طراحی شده است. چه بدنسازی، قدرتی، پاورلیفتینگ، تمرینات باشگاهی به سبک کراس‌فیت یا تمرینات با شدت بالا باشد، Father of Insane برای آماده‌سازی ذهنی و جسمی شما پیش از تمرین طراحی شده است.",
+      "seo": {
+        "title": "مکمل قبل از تمرین با محرک بسیار بالای Father of Insane | Promolecules",
+        "description": "مکمل قبل از تمرین با محرک بسیار بالای Father of Insane™ را آنلاین بخرید. مکمل قبل از تمرین انفجاری برای انرژی، مکمل قبل از تمرین برای تمرکز، پمپ عضلانی فوق‌العاده، استقامت و مکمل عملکرد ورزشی را تجربه کنید.",
+        "keywords": "مکمل قبل از تمرین با محرک بسیار بالا, Father of Insane, مکمل قبل از تمرین Father of Insane, خرید مکمل قبل از تمرین با محرک بسیار بالا, بهترین مکمل قبل از تمرین با محرک بسیار بالا هند, مکمل قبل از تمرین با محرک بالا, مکمل قبل از تمرین, پودر قبل از تمرین, مکمل باشگاهی, تغذیه ورزشی هند, مکمل انرژی تمرین, مکمل قبل از تمرین با کافئین بالا, مکمل پمپ عضلانی, مکمل استقامت, مکمل تمرکز, بهترین مکمل قبل از تمرین هند",
+        "canonical": "https://www.promolecules.com/product/father-of-insane/",
+        "author": "Promolecules™",
+        "publisher": "Promolecules™",
+        "language": "انگلیسی",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "googlebot": "index, follow",
+        "bingbot": "index, follow",
+        "revisit_after": "7 days",
+        "distribution": "global",
+        "rating": "general",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "دبی"
+        },
+        "og": {
+          "title": "مکمل قبل از تمرین Father of Insane | فرمول با محرک بالا",
+          "type": "website",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "مکمل قبل از تمرین با محرک بسیار بالای Father of Insane",
+          "locale": "AE-DU",
+          "site_name": "Promolecules™",
+          "description": "انرژی انفجاری، تمرکز شدید، پمپ عضلانی و استقامت را با مکمل قبل از تمرین با محرک بالای Father of Insane تجربه کنید. ساخته‌شده برای ورزشکاران حرفه‌ای و عملکرد باشگاهی.",
+          "url": "https://www.promolecules.com/product/father-of-insane/"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "Promolecules™",
+          "title": "مکمل قبل از تمرین با محرک بسیار بالای Father of Insane™",
+          "description": "انرژی فوق‌العاده، تمرکز لیزری، پمپ عضلانی قوی و استقامت. مکمل قبل از تمرین با محرک بسیار بالای Father of Insane™ را آنلاین در هند بخرید.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "مکمل قبل از تمرین با محرک بسیار بالای Father of Insane"
+        },
+        "ldjson": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Promolecules",
+            "alternateName": "Promolecules",
+            "url": "https://www.promolecules.com/",
+            "logo": "https://www.promolecules.com/promolecules-logo.webp",
+            "sameAs": [
+              "https://www.facebook.com/promolecules.official",
+              "https://x.com/promolecules",
+              "https://www.instagram.com/promolecules/",
+              "https://www.youtube.com/@Promolecules",
+              "https://www.pinterest.com/promolecules/"
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "مکمل قبل از تمرین با محرک بسیار بالای Father of Insane™",
+            "image": "https://promolecules.com/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-35-Servings.webp",
+            "description": "مکمل قبل از تمرین با محرک بسیار بالای Father of Insane™ را آنلاین بخرید. مکمل قبل از تمرین انفجاری برای انرژی، مکمل قبل از تمرین برای تمرکز، پمپ عضلانی فوق‌العاده، استقامت و مکمل عملکرد ورزشی را تجربه کنید.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Promolecules™"
+            },
+            "sku": "father-of-insane-35",
+            "offers": {
+              "@type": "Offer",
+              "url": "https://www.promolecules.com/product/father-of-insane/",
+              "priceCurrency": "USD",
+              "price": "41.99",
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "247"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": []
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "promolecules",
+                "item": "https://www.promolecules.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "محصول",
+                "item": "https://www.promolecules.com/product/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "مکمل قبل از تمرین",
+                "item": "https://www.promolecules.com/product-category/pre-workout/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "name": "Father of Insane",
+                "item": "https://www.promolecules.com/product/father-of-insane/"
+              }
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Review",
+            "@id": "https://www.promolecules.com/product/father-of-insane/#review",
+            "itemReviewed": {
+              "@type": "Product",
+              "name": "مکمل قبل از تمرین با محرک بسیار بالای Father of Insane™",
+              "url": "https://www.promolecules.com/product/father-of-insane/"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "مشتری تاییدشده"
+            },
+            "datePublished": "2026-07-03",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "name": "مکمل قبل از تمرین عالی با محرک بالا",
+            "reviewBody": "Father of Insane™ به خوبی حل می‌شود و انرژی تمرینی، تمرکز و شدت تمرین عالی را فراهم می‌کند. از دستورالعمل‌های واضح مصرف و فرمول با محرک بالا قدردانی کردم."
+          }
+        ]
+      },
+      "images": [
+        "/Promolecules/fatherofinsane/frontside.webp",
+        "/Promolecules/fatherofinsane/backside.webp",
+        "/Promolecules/fatherofinsane/father-of-insane.webp",
+        "/Promolecules/fatherofinsane/father-of-insane-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/fatherofinsane/father-of-insane-pre-workout.webp",
+      "variants": [
+        {
+          "flavour": "Fruit-Punch",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Fruit-Punch",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Gummies-Bliss",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/gummies-bliss-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Gummies-Bliss",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/gummies-bliss-father-of-insane-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Blue-Rasberry",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/blue-rasberry-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Blue-Rasberry",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/blue-rasberry-father-of-insane-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Purple-Pulse",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/fatherofinsane/purple-pulse-gummies-father-of-insane-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Purple-Pulse",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/fatherofinsane/purple-pulse-gummies-father-of-insane-pre-workout-65-Servings.webp"
+        }
+      ],
+      "price": "43",
+      "discounted": "41.2",
+      "servings": [
+        {
+          "size": "35",
+          "price": 41.99
+        },
+        {
+          "size": "65",
+          "price": 59.99
+        }
+      ],
+      "flavours": [
+        {
+          "name": "پانچ میوه‌ای",
+          "images": [
+            "/Promolecules/fatherofinsane/fruit-punch-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        },
+        {
+          "name": "گامی بلیس",
+          "images": [
+            "/Promolecules/fatherofinsane/gummies-bliss-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        },
+        {
+          "name": "پاستیل پرپل پالس",
+          "images": [
+            "/Promolecules/fatherofinsane/purple-pulse-gummies-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        },
+        {
+          "name": "تمشک آبی",
+          "images": [
+            "/Promolecules/fatherofinsane/blue-rasberry-father-of-insane-pre-workout-35-Servings.webp"
+          ]
+        }
+      ],
+      "keyBenefits": [
+        "به پشتیبانی از انرژی تمرین کمک می‌کند - این فرمول شامل تعداد قابل توجهی از منابع کافئین از جمله کافئین آنهیدروس، دی‌کافئین مالات (2XCAFF®) و کافئین سیترات (Citra Caff®) است. این ترکیبات در تغذیه ورزشی رایج هستند تا به شما کمک کنند هوشیار و آماده ورزش بمانید.",
+        "از تمرکز ذهنی در حین ورزش پشتیبانی می‌کند - کیفیت تمرین شما به حفظ تمرکز در طول تمرینات سخت بستگی دارد. کافئین و سایر ترکیبات عملکردی برای کمک به پشتیبانی از تمرکز و هوشیاری ذهنی گنجانده شده‌اند.",
+        "تقویت‌کننده پمپ عضلانی - ال-سیترولین یکی از محبوب‌ترین ترکیبات در مکمل‌های قبل از تمرین به دلیل نقش آن در تولید نیتریک اکسید و بهبود جریان خون است که به ایجاد یک پمپ عضلانی عالی کمک می‌کند.",
+        "تقویت‌کننده قدرت و توان - این فرمول حاوی کراتین مونوهیدرات و کراتین HCl است؛ ترکیباتی که دارای تحقیقات گسترده برای پشتیبانی از بهبود عملکرد در طول ورزش‌های مکرر با شدت بالا هستند.",
+        "استقامت عضلانی - بتا-آلانین به افزایش سطح کارنوزین عضلات کمک می‌کند، ظرفیت بافری اسید را فراهم می‌آورد و به پشتیبانی از عملکرد در طول ورزش شدید کمک می‌کند.",
+        "فرمول متمرکز بر عملکرد - Father of Insane آمینواسیدها، چندین منبع کراتین، تقویت‌کننده‌های نیتریک اکسید، محرک‌ها و نوتروپیک‌ها را برای پشتیبانی از برنامه‌های تمرینی جدی ترکیب می‌کند.",
+        "آمینواسیدهای عملکردی - به آماده‌سازی بدن شما برای فعالیت بدنی کمک می‌کند و از عملکرد عضلات پشتیبانی می‌نماید.",
+        "ماتریس کراتین - از عملکرد ورزشی با شدت بالا پشتیبانی می‌کند.",
+        "نیتریک اکسید - ال-سیترولین به تولید نیتریک اکسید کمک می‌کند و از گردش خون سالم در حین ورزش پشتیبانی می‌نماید.",
+        "کمپلکس محرک - چندین ترکیب حاوی کافئین گنجانده شده‌اند تا به شما کمک کنند پیش از تمرین هوشیار بمانید.",
+        "بتا-آلانین - ورزشکاران از بتا-آلانین استفاده می‌کنند زیرا به افزایش سطح کارنوزین عضلات کمک می‌کند. سطوح بالاتر کارنوزین به بافر کردن تجمع اسید در طول تمرین شدید کمک می‌کند و به شما اجازه می‌دهد مدت طولانی‌تری عملکرد داشته باشید.",
+        "کراتین مونوهیدرات - یکی از پُرتحقیق‌ترین ترکیبات در تغذیه ورزشی. هنگامی که با تمرین مقاومتی ترکیب شود، مصرف منظم مکمل از قدرت، توان خروجی و عملکرد مکرر با شدت بالا پشتیبانی می‌کند.",
+        "کراتین HCl (CreaCCL®) - کراتین هیدروکلراید یک فرم بسیار محلول از کراتین است که ماتریس کراتین را در این فرمول تکمیل می‌کند.",
+        "ال-سیترولین - ال-سیترولین در بدن به آرژنین تبدیل می‌شود که از تولید نیتریک اکسید پشتیبانی می‌کند. این فرآیند ممکن است به بهبود جریان خون در حین ورزش و افزایش پمپ عضلانی کمک کند.",
+        "بتائین آنهیدروس - بتائین معمولاً در فرمول‌های عملکردی برای پشتیبانی از قدرت، توان و عملکرد کلی ورزشی گنجانده می‌شود.",
+        "کافئین آنهیدروس - یک منبع کافئین با جذب سریع که از هوشیاری، زمان واکنش و آمادگی تمرین پشتیبانی می‌کند.",
+        "دی‌کافئین مالات (2XCAFF®) - ترکیبی از کافئین و اسید مالیک که آزادسازی آهسته‌تر و پایدارتر انرژی را فراهم می‌کند.",
+        "کافئین سیترات (Citra Caff®) - یک منبع کافئین اضافی که برای ایجاد یک ترکیب انرژی متعادل گنجانده شده است.",
+        "عصاره سیتروس اورانتیوم (Citrusyn® 30) - یک عصاره گیاهی که معمولاً در محصولات تغذیه ورزشی ترموژنیک و مبتنی بر محرک گنجانده می‌شود."
+      ],
+      "whychooseus": [
+        "بدون فرمول‌های با دوز پایین. بدون ترکیبات پنهان.",
+        "معماری محرک چندلایه—نه فقط بارگذاری بیش از حد کافئین",
+        "ساخته‌شده برای ورزشکاران پیشرفته، نه کاربران معمولی",
+        "مهندسی‌شده برای عملکرد، نه تبلیغات اغراق‌آمیز",
+        "طراحی‌شده برای فعال‌سازی هم‌زمان سیستم عصبی مرکزی (CNS) + خروجی عضلانی"
+      ],
+      "whoShouldUse": [
+        "ورزشکاران پیشرفته باشگاه",
+        "بدنسازان",
+        "ورزشکاران قدرتی",
+        "پاورلیفترها",
+        "علاقه‌مندان به تمرینات کراس‌فیت",
+        "مصرف‌کنندگان باتجربه مکمل‌های قبل از تمرین حاوی محرک",
+        "برای مبتدیان یا افرادی که به محرک‌ها حساس هستند توصیه نمی‌شود."
+      ],
+      "howToUse": [
+        "برای ارزیابی تحمل، ½ پیمانه را با ۴ تا ۶ اونس (۱۲۰ تا ۱۸۰ میلی‌لیتر) آب تقریباً ۳۰ دقیقه قبل از تمرین مخلوط کنید.",
+        "در صورت تحمل خوب، ۱ پیمانه کامل را با ۸ تا ۱۰ اونس (۲۴۰ تا ۳۰۰ میلی‌لیتر) آب تقریباً ۳۰ دقیقه قبل از تمرین مخلوط کنید.",
+        "بیش از یک پیمانه در روز مصرف نکنید."
+      ],
+      "whatToAvoid": [
+        "اگر مبتدی هستید مصرف نکنید",
+        "از ترکیب با سایر محصولات دارای محرک بالا خودداری کنید",
+        "نزدیک زمان خواب مصرف نکنید",
+        "از دوز توصیه‌شده فراتر نروید",
+        "برای افراد حساس به محرک‌ها مناسب نیست"
+      ],
+      "safetyInformation": [
+        "فقط برای بزرگسالان سالم در نظر گرفته شده است.",
+        "برای مبتدیان نیست.",
+        "از مقدار مصرف توصیه‌شده فراتر نروید.",
+        "از ترکیب با سایر محصولات حاوی کافئین خودداری کنید.",
+        "در صورت داشتن بیماری زمینه‌ای یا مصرف دارو، پیش از استفاده با یک متخصص مراقبت‌های بهداشتی مشورت کنید.",
+        "برای مصرف در دوران بارداری یا شیردهی در نظر گرفته نشده است.",
+        "دور از دسترس کودکان نگهداری شود.",
+        "در جای خشک و خنک نگهداری شود."
+      ],
+      "faqs": [
+        {
+          "question": "Father of Insane™ چیست؟",
+          "answer": "Father of Insane™ یک مکمل قبل از تمرین با محرک بسیار بالا است که برای بزرگسالان سالمی توسعه یافته که از قبل تجربه استفاده از محصولات تغذیه ورزشی حاوی محرک را دارند. ترکیب انحصاری ۵۲۰۰ میلی‌گرمی Father of Insane ترکیباتی را که معمولاً در فرمول‌های قبل از تمرین به کار می‌روند گرد هم می‌آورد تا از انرژی تمرین، تمرکز، پشتیبانی نیتریک اکسید، قدرت، استقامت عضلانی و عملکرد در طول تمرینات سخت پشتیبانی کند. از آنجا که حاوی چندین ترکیب محرک است، برچسب محصول به کاربران توصیه می‌کند برای ارزیابی تحمل با ½ پیمانه شروع کنند."
+        },
+        {
+          "question": "چه کسانی باید از Father of Insane™ استفاده کنند؟",
+          "answer": "Father of Insane™ برای بزرگسالان سالمی در نظر گرفته شده است که تجربه قبلی در استفاده از مکمل‌های قبل از تمرین حاوی محرک دارند. برای مبتدیان یا افرادی که به کافئین یا سایر محرک‌ها حساس هستند توصیه نمی‌شود."
+        },
+        {
+          "question": "چگونه Father of Insane™ را مصرف کنم؟",
+          "answer": "برای ارزیابی تحمل، با ½ پیمانه مخلوط‌شده با ۴ تا ۶ اونس (۱۲۰ تا ۱۸۰ میلی‌لیتر) آب تقریباً ۳۰ دقیقه قبل از تمرین شروع کنید. در صورت تحمل خوب، از ۱ پیمانه کامل با ۸ تا ۱۰ اونس (۲۴۰ تا ۳۰۰ میلی‌لیتر) آب تقریباً ۳۰ دقیقه قبل از تمرین استفاده کنید. بیش از یک پیمانه در روز مصرف نکنید."
+        },
+        {
+          "question": "چه ترکیباتی در Father of Insane™ وجود دارد؟",
+          "answer": "ترکیب انحصاری ۵۲۰۰ میلی‌گرمی حاوی بتا-آلانین، کراتین مونوهیدرات، کراتین HCl (CreaCCL®)، ال-سیترولین، بتائین آنهیدروس، کافئین آنهیدروس، عصاره سیتروس اورانتیوم (Citrusyn® 30)، دی‌کافئین مالات (2XCAFF®) و کافئین سیترات (Citra Caff®) است."
+        },
+        {
+          "question": "آیا Father of Insane™ برای مبتدیان مناسب است؟",
+          "answer": "خیر. برچسب به وضوح بیان می‌کند که Father of Insane™ برای مبتدیان نیست. از آنجا که حاوی چندین ترکیب محرک است، کاربران جدید باید از این محصول اجتناب کنند و در صورت مناسب بودن، یک جایگزین با محرک کمتر انتخاب نمایند."
+        },
+        {
+          "question": "مزایای اصلی Father of Insane™ چیست؟",
+          "answer": "این فرمول برای پشتیبانی از انرژی تمرین، تمرکز ذهنی، پمپ عضلانی، استقامت ورزشی، تمرینات قدرتی و تمرینات با شدت بالا طراحی شده است. نتایج بسته به فرد، برنامه تمرینی، تغذیه و تداوم متفاوت است."
+        },
+        {
+          "question": "آیا Father of Insane™ حاوی کراتین است؟",
+          "answer": "بله. این محصول شامل کراتین مونوهیدرات و کراتین HCl (CreaCCL®) است؛ دو فرم از کراتین که معمولاً در تغذیه ورزشی برای پشتیبانی از عملکرد ورزشی با شدت بالا استفاده می‌شوند."
+        },
+        {
+          "question": "آیا Father of Insane™ حاوی کافئین است؟",
+          "answer": "بله. این محصول شامل چندین منبع کافئین از جمله کافئین آنهیدروس، دی‌کافئین مالات (2XCAFF®) و کافئین سیترات (Citra Caff®) است. برچسب همچنین میزان کل کافئین را ۴۵۰ میلی‌گرم در هر وعده ذکر کرده است."
+        },
+        {
+          "question": "آیا می‌توانم Father of Insane™ را هر روز مصرف کنم؟",
+          "answer": "دستورالعمل‌های روی برچسب را دنبال کنید و بیش از یک وعده در روز مصرف نکنید. بسیاری از ورزشکاران نیز برنامه مکمل خود را بر اساس شدت تمرین و تحمل فردی تنظیم می‌کنند. اگر درباره مصرف منظم سؤالی دارید با یک متخصص مراقبت‌های بهداشتی مشورت کنید."
+        },
+        {
+          "question": "آیا می‌توانم Father of Insane™ را همراه با سایر مکمل‌ها مصرف کنم؟",
+          "answer": "Father of Insane™ ممکن است در کنار محصولات تغذیه ورزشی سازگار استفاده شود، اما از آنجا که حاوی سطح بالایی از محرک‌ها است، از ترکیب آن با مکمل‌های اضافی حاوی کافئین خودداری کنید مگر اینکه توسط یک متخصص مراقبت‌های بهداشتی توصیه شده باشد."
+        },
+        {
+          "question": "آیا Father of Insane™ از نظر کیفیت آزمایش شده است؟",
+          "answer": "برچسب بیان می‌کند که این محصول به طور انحصاری برای Promolecules در یک مرکز cGMP تولید شده است که نشان‌دهنده پایبندی به شیوه‌های تولید خوب فعلی (cGMP) است."
+        },
+        {
+          "question": "از کجا می‌توانم Father of Insane™ را بخرم؟",
+          "answer": "Father of Insane™ از طریق وب‌سایت رسمی Promolecules، Cost2Cost Supplement، Amazon، Flipkart و شرکای خرده‌فروشی مجاز منتخب در دسترس است. خرید از فروشندگان مجاز به اطمینان از اصالت محصول کمک می‌کند."
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Ethan Parker",
+          "country": "آمریکا",
+          "des": "سال‌هاست از مکمل‌های قبل از تمرین با محرک بالا استفاده می‌کنم. این یکی من را شگفت‌زده کرد. نصف پیمانه قبل از پرس سینه سنگین و تحریک عصبی عالی عمل کرد."
+        },
+        {
+          "id": 2,
+          "name": "Vikas Chauhan",
+          "country": "هند",
+          "des": "افزایش انرژی کنترل‌شده احساس می‌شود. بدون لرزش دست، فقط تمرکز محکم در تمام ست‌ها."
+        },
+        {
+          "id": 3,
+          "name": "Marco Bellini",
+          "country": "ایتالیا",
+          "des": "من اواخر عصر تمرین می‌کنم و معمولاً احساس خستگی دارم. با این مکمل قبل از تمرین، انگیزه و شدت حتی در روز تمرین پا بالا می‌ماند."
+        },
+        {
+          "id": 4,
+          "name": "Deepak Rana",
+          "country": "هند",
+          "des": "اولین بار بود که واقعاً فهمیدم منظور مردم از فعال‌سازی CNS چیست. جلسه ددلیفت من انفجاری احساس شد."
+        },
+        {
+          "id": 5,
+          "name": "Oliver Scott",
+          "country": "بریتانیا",
+          "des": "دستورالعمل نصف پیمانه منطقی است. این فرمول قوی‌تر از بیشتر مکمل‌های قبل از تمرین دو پیمانه‌ای عمل می‌کند."
+        },
+        {
+          "id": 6,
+          "name": "Ravi Mehta",
+          "country": "هند",
+          "des": "تمرکز در طول حرکات ترکیبی بلافاصله بهبود یافت. احساس می‌شود مهندسی شده است نه اینکه بیش از حد بارگذاری شده باشد."
+        },
+        {
+          "id": 7,
+          "name": "Jason Ward",
+          "country": "آمریکا",
+          "des": "چیزی که من را تحت تأثیر قرار داد تحریک تمیز آن است. بدون افت انرژی حتی بعد از یک جلسه ۹۰ دقیقه‌ای."
+        },
+        {
+          "id": 8,
+          "name": "Abhishek Tripathi",
+          "country": "هند",
+          "des": "قبل از روز اسکات استفاده کردم. خروجی قدرت تا آخرین ست ثابت ماند."
+        },
+        {
+          "id": 9,
+          "name": "Nicolas Romero",
+          "country": "آرژانتین",
+          "des": "این اولین مکمل قبل از تمرینی است که تهاجمی‌بودن آن واقعاً کنترل‌شده احساس می‌شود."
+        },
+        {
+          "id": 10,
+          "name": "Faizan Khan",
+          "country": "امارات متحده عربی",
+          "des": "نصف پیمانه قبل از تمرین پوش (فشاری) خوردم. جهش انرژی نرم و پایدار احساس شد."
+        },
+        {
+          "id": 11,
+          "name": "Andrew Foster",
+          "country": "استرالیا",
+          "des": "برای مبتدیان مناسب نیست اما برای وزنه‌برداران باتجربه عالی است."
+        },
+        {
+          "id": 12,
+          "name": "Aman Verma",
+          "country": "هند",
+          "des": "ظرف ۲۰ دقیقه ذهنم کاملاً روی تمرین قفل شد."
+        },
+        {
+          "id": 13,
+          "name": "Carlos Rivera",
+          "country": "مکزیک",
+          "des": "افزایش تمرکز عالی در طول حرکات ترکیبی سنگین."
+        },
+        {
+          "id": 14,
+          "name": "Rahul Thakur",
+          "country": "هند",
+          "des": "قوی‌تر از بیشتر مکمل‌های قبل از تمرین وارداتی که استفاده کرده‌ام احساس می‌شود."
+        },
+        {
+          "id": 15,
+          "name": "Daniel Moore",
+          "country": "آمریکا",
+          "des": "انرژی بدون آن افت ناگهانی کافئین ثابت می‌ماند."
+        },
+        {
+          "id": 16,
+          "name": "Sanjay Deshmukh",
+          "country": "هند",
+          "des": "به شکستن استپ‌های قدرتی کمک می‌کند."
+        },
+        {
+          "id": 17,
+          "name": "Mateo Gonzalez",
+          "country": "اسپانیا",
+          "des": "عالی برای روزهای تمرین با شدت بالا."
+        },
+        {
+          "id": 18,
+          "name": "Imran Malik",
+          "country": "پاکستان",
+          "des": "تحریک تمیز و کنترل‌شده احساس می‌شود."
+        },
+        {
+          "id": 19,
+          "name": "Nathan Hughes",
+          "country": "بریتانیا",
+          "des": "فرمول قوی اما نه آشفته."
+        },
+        {
+          "id": 20,
+          "name": "Kunal Aggarwal",
+          "country": "هند",
+          "des": "کمک می‌کند چند ست آخر را با قدرت پشت سر بگذارید."
+        },
+        {
+          "id": 21,
+          "name": "Victor Almeida",
+          "country": "برزیل",
+          "des": "تأثیر تمرکز قابل توجه است."
+        },
+        {
+          "id": 22,
+          "name": "Aditya Saxena",
+          "country": "هند",
+          "des": "تمرینات را پرانرژی‌تر و تهاجمی‌تر می‌کند."
+        },
+        {
+          "id": 23,
+          "name": "Eric Larson",
+          "country": "آمریکا",
+          "des": "یکی از قوی‌ترین مکمل‌های قبل از تمرینی که استفاده کرده‌ام."
+        },
+        {
+          "id": 24,
+          "name": "Rahul Khanna",
+          "country": "هند",
+          "des": "انرژی برای تمرینات طولانی پایدار می‌ماند."
+        },
+        {
+          "id": 25,
+          "name": "Dmitry Ivanov",
+          "country": "روسیه",
+          "des": "نصف پیمانه هم از همین الان قدرتمند احساس می‌شود."
+        },
+        {
+          "id": 26,
+          "name": "Armaan Sheikh",
+          "country": "هند",
+          "des": "تحریک خوب بدون اضطراب و لرزش."
+        },
+        {
+          "id": 27,
+          "name": "Peter Wallace",
+          "country": "کانادا",
+          "des": "به حفظ شدت تمرین کمک می‌کند."
+        },
+        {
+          "id": 28,
+          "name": "Harshit Arora",
+          "country": "هند",
+          "des": "عالی برای روزهای تمرین سنگین."
+        },
+        {
+          "id": 29,
+          "name": "Antonio Ruiz",
+          "country": "اسپانیا",
+          "des": "تمرکز در طول تمرینات قفل باقی می‌ماند."
+        },
+        {
+          "id": 30,
+          "name": "Suresh Kumar",
+          "country": "هند",
+          "des": "فرمول قوی اما متعادل."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "warflex",
+      "flipkartLink": "https://www.flipkart.com/promolecules-warflex-high-stim-pre-workout-caffeine-strength-pump-focus-formula-35-servings/p/itm855c7c69787ee?pid=PSLHKNVKCWGH6HRK&lid=LSTPSLHKNVKCWGH6HRKJSOMI5&marketplace=FLIPKART&q=preworkout&store=hlc%2Fetg%2F1rx&srno=s_1_4&otracker=AS_QueryStore_OrganicAutoSuggest_1_8_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_8_na_na_na&fm=search-autosuggest&iid=a7b10f9a-b5f9-4612-bb69-bd7eb8b52db5.PSLHKNVKCWGH6HRK.SEARCH&ppt=sp&ppn=sp&ssid=5rrj430ryo0000001779782323988&qH=c27d997028a56b71&ov_redirect=true&ov_redirect=true",
+      "cost2cost": "https://www.cost2costsupplement.com/products/warflex-high-stim-test-booster-preworkout",
+      "category": "PRE-WORKOUT",
+      "name": "WARFLEX",
+      "title": "Warflex™ یک مکمل قبل از تمرین و تقویت‌کننده تستوسترون با محرک بالا همراه با بورون سیترات است. Warflex™ برای بزرگسالان سالمی فرموله شده است که به محصولات تغذیه ورزشی مبتنی بر محرک عادت دارند. هر وعده دارای نسبت دقیق آمینواسید، منابع کراتین، ترکیبات پشتیبان نیتریک اکسید، عصاره‌های گیاهی، نوتروپیک‌ها و چندین منبع کافئین است. این محصول برای کمک به کاربران باتجربه جهت آماده شدن برای تمرینات شدید با تمرکز و آمادگی بیشتر طراحی شده است. از آنجا که این فرمول حاوی محرک‌های قوی است، کاربران باید برای ارزیابی تحمل فردی خود پیش از مصرف یک وعده کامل، با نصف پیمانه شروع کنند.",
+      "description": "حداکثر انرژی. تمرکز برتر. عملکرد قدرتی پیشرفته. اگر به چیزی فراتر از یک مکمل قبل از تمرین معمولی نیاز دارید، Warflex™ را امتحان کنید – یک ترکیب پیشرفته و فرموله‌شده به صورت علمی از ترکیبات عملکردی مختلف مناسب برای ورزشکاران پیشرفته. کراتین مونوهیدرات، کراتین HCl (CreaCCL®)، بتا-آلانین، ال-سیترولین، تائورین، آلفا جی‌پی‌سی، بورون سیترات، آگماتین سولفات، ترکیبات مختلف کافئین، آلفا یوهمبین، ال-تیانین و هوپرزین-آ به شما کمک می‌کنند تا هم از نظر ذهنی و هم از نظر جسمی پیش از تمرینات آماده شوید. فرمول Warflex برای ورزشکاران پیشرفته‌ای طراحی شده است که مایل به بهره‌گیری از یک مکمل قبل از تمرین با محرک بالا برای تکمیل تمرینات مقاومتی، بدنسازی، پاورلیفتینگ، تناسب اندام عملکردی و جلسات سخت باشگاهی هستند. این محصول در یک مرکز دارای گواهی cGMP تولید شده است.",
+      "canonical": "https://www.promolecules.com/product/warflex/",
+      "seo": {
+        "title": "مکمل قبل از تمرین با محرک بالای Warflex | خرید آنلاین بهترین مکمل قبل از تمرین در Promolecules",
+        "description": "مکمل قبل از تمرین با محرک بالای Warflex را آنلاین در Promolecules بخرید. مکمل تقویت‌کننده انرژی انفجاری، پمپ عضلانی فوق‌العاده، تمرکز لیزری، قدرت و مکمل استقامت را برای تمرینات جدی دریافت کنید.",
+        "keywords": "مکمل قبل از تمرین WARFLEX, مکمل قبل از تمرین با محرک بالای Warflex, بهترین مکمل قبل از تمرین هند, خرید آنلاین مکمل قبل از تمرین, مکمل قبل از تمرین با محرک بالا هند, مکمل قبل از تمرین, مکمل قبل از تمرین باشگاهی, تقویت‌کننده انرژی تمرین, مکمل پمپ عضلانی, مکمل قدرت, مکمل تمرکز, مکمل استقامت, مکمل قبل از تمرین با کافئین بالا, مکمل قبل از تمرین پیشرفته, مکمل عملکرد, تقویت‌کننده نیتریک اکسید",
+        "canonical": "https://www.promolecules.com/product/warflex/",
+        "author": "Promolecules™",
+        "publisher": "Promolecules™",
+        "language": "انگلیسی",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "googlebot": "index, follow",
+        "bingbot": "index, follow",
+        "revisit_after": "7 days",
+        "distribution": "global",
+        "rating": "general",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "دبی"
+        },
+        "og": {
+          "title": "مکمل قبل از تمرین با محرک بالای Warflex | انرژی و عملکرد",
+          "type": "product",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "مکمل قبل از تمرین با محرک بالای Warflex",
+          "locale": "AE-DU",
+          "site_name": "Promolecules™",
+          "description": "عملکرد باشگاهی در سطح بعدی را با مکمل قبل از تمرین با محرک بالای Warflex™ تجربه کنید. ساخته‌شده برای انرژی انفجاری، تمرکز، پمپ، قدرت و استقامت. همین امروز آنلاین سفارش دهید.",
+          "url": "https://www.promolecules.com/product/warflex/"
+        },
+        "twitter": {
+          "card": "summary_large_image",
+          "title": "مکمل قبل از تمرین با محرک بالای Warflex | انرژی و عملکرد",
+          "description": "عملکرد باشگاهی در سطح بعدی را با مکمل قبل از تمرین با محرک بالای Warflex™ تجربه کنید. ساخته‌شده برای انرژی انفجاری، تمرکز، پمپ، قدرت و استقامت. همین امروز آنلاین سفارش دهید.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "image_alt": "مکمل قبل از تمرین با محرک بالای Warflex | انرژی و عملکرد"
+        },
+        "ldjson": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Promolecules",
+            "alternateName": "Promolecules",
+            "url": "https://www.promolecules.com/",
+            "logo": "https://www.promolecules.com/promolecules-logo.webp",
+            "sameAs": [
+              "https://www.facebook.com/promolecules.official",
+              "https://x.com/promolecules",
+              "https://www.instagram.com/promolecules/",
+              "https://www.youtube.com/@Promolecules",
+              "https://www.pinterest.com/promolecules/"
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "مکمل قبل از تمرین با محرک بالای Warflex",
+            "image": "https://www.promolecules.com/Promolecules/warflexnew/fruit-punch-warflex-pre-workout-35-Servings.webp",
+            "description": "مکمل قبل از تمرین با محرک بالای Warflex را آنلاین در Promolecules بخرید. مکمل تقویت‌کننده انرژی انفجاری، پمپ عضلانی فوق‌العاده، تمرکز لیزری، قدرت و مکمل استقامت را برای تمرینات جدی دریافت کنید.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Promolecules™"
+            },
+            "sku": "father-of-insane-35",
+            "offers": {
+              "@type": "Offer",
+              "url": "https://www.promolecules.com/product/warflex/",
+              "priceCurrency": "USD",
+              "price": "41.99",
+              "availability": "https://schema.org/InStock",
+              "itemCondition": "https://schema.org/NewCondition"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "247"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "promolecules",
+                "item": "https://www.promolecules.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "محصول",
+                "item": "https://www.promolecules.com/product/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "مکمل قبل از تمرین",
+                "item": "https://www.promolecules.com/product-category/pre-workout/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "name": "warflex",
+                "item": "https://www.promolecules.com/product/warflex/"
+              }
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Review",
+            "@id": "https://www.promolecules.com/product/warflex/#review",
+            "itemReviewed": {
+              "@type": "Product",
+              "name": "مکمل قبل از تمرین با محرک بالای Warflex",
+              "url": "https://www.promolecules.com/product/warflex/"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "مشتری تاییدشده"
+            },
+            "datePublished": "2026-07-03",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "name": "مکمل قبل از تمرین با محرک بالای Warflex™",
+            "reviewBody": "مکمل قبل از تمرین با محرک بالای Warflex™ را آنلاین در Promolecules بخرید. مکمل تقویت‌کننده انرژی انفجاری، پمپ عضلانی فوق‌العاده، تمرکز لیزری، قدرت و مکمل استقامت را برای تمرینات جدی دریافت کنید."
+          }
+        ]
+      },
+      "price": "43",
+      "servings": [
+        {
+          "size": "35",
+          "price": 41.99
+        },
+        {
+          "size": "65",
+          "price": 59.99
+        }
+      ],
+      "discounted": "41.2",
+      "images": [
+        "/Promolecules/warflexnew/promolecules-warflex-pre-workout_11zon.webp",
+        "/Promolecules/warflexnew/promolecules-warflex-supplements_11zon.webp",
+        "/Promolecules/warflex3.webp",
+        "/Promolecules/warflexnew/Warflex-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/warflexnew/warfle-pre-workout.webp",
+      "variants": [
+        {
+          "flavour": "Fruit-Punch",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/fruit-punch-warflex-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Fruit-Punch",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/fruit-punch-warflex-pre-workout-65-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Gummies-Bliss",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/gummies-candy-warflex-pre-workout-35-Servings.webp"
+        },
+        {
+          "flavour": "Gummies-Bliss",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/gummies-candy-warflex-pre-workout-65-Servings.webp"
+        },
+        {
+          "flavour": "Blue-Rasberry",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/blue-rasberry-warflex-pre-workout-35-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Blue-Rasberry",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/blue-rasberry-warflex-pre-workout-65-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Purple-Pulse",
+          "size": "35",
+          "price": 41.99,
+          "image": "/Promolecules/warflexnew/purple-pulse-gummies-warflex-pre-workout-35-Servings_11zon.webp"
+        },
+        {
+          "flavour": "Purple-Pulse",
+          "size": "65",
+          "price": 59.99,
+          "image": "/Promolecules/warflexnew/purple-pulse-gummies-warflex-pre-workout-65-Servings_11zon.webp"
+        }
+      ],
+      "keyBenefits": [
+        "پشتیبانی از انرژی بالای تمرین - Warflex حاوی کافئین بی‌آب، دی‌کافئین مالات، کافئین سیترات و کافئین HCl است؛ ترکیباتی رایج در تغذیه ورزشی برای افزایش هوشیاری و آمادگی برای تمرین.",
+        "پشتیبانی از تمرکز ذهنی - ترکیباتی مانند آلفا GPC، ال-تیانین و هوپرزین-A معمولاً در فرمول‌های عملکردی برای حمایت از تمرکز و عملکرد شناختی در تمرینات سخت استفاده می‌شوند.",
+        "پشتیبانی از عملکرد قدرتی - کراتین مونوهیدرات و کراتین HCl ترکیباتی هستند که در کنار تمرینات قدرتی، عملکرد در تمرینات پرشدت را بهبود می‌دهند.",
+        "کمک به پمپ عضلانی - ال-سیترولین و آگماتین سولفات از ترکیبات محبوب مکمل‌های قبل از تمرین هستند، زیرا تولید نیتریک اکسید و جریان خون سالم را در حین تمرین افزایش می‌دهند و پمپ عضلانی بیشتری ایجاد می‌کنند.",
+        "افزایش استقامت عضلانی - بتا-آلانین به مرور سطح کارنوزین را در عضلات افزایش می‌دهد تا به کاهش اسیدیته در تمرینات پرشدت مکرر کمک کند.",
+        "وجود بورون سیترات - Warflex حاوی بورون سیترات است؛ یک ماده معدنی کمیاب که در تغذیه ورزشی رایج است. بورون در متابولیسم طبیعی مواد معدنی نقش دارد و اغلب در فرمول‌های پیشرفته عملکردی استفاده می‌شود.",
+        "نیاسین (۳۵ میلی‌گرم) - نیاسین (ویتامین B3) از متابولیسم انرژی پشتیبانی می‌کند و به بدن کمک می‌کند غذا را به انرژی تبدیل کند.",
+        "سدیم (۱۵۰ میلی‌گرم) - سدیم نقش مهمی در حفظ مایعات بدن و تعادل الکترولیت‌ها در طول فعالیت بدنی دارد.",
+        "بتا-آلانین (۲۰۰۰ میلی‌گرم) - بتا-آلانین می‌تواند با افزایش کارنوزین در بافت عضلانی، استقامت عضلانی را بهبود دهد. کارنوزین به کاهش اثرات تجمع اسید در تمرینات شدید کمک می‌کند.",
+        "کراتین مونوهیدرات (۱۰۰۰ میلی‌گرم) - کراتین مونوهیدرات یکی از پرمطالعه‌ترین ترکیبات تغذیه ورزشی است و مصرف منظم آن از قدرت، توان و عملکرد در تمرینات پرشدت مکرر پشتیبانی می‌کند.",
+        "ال-سیترولین (۱۰۰۰ میلی‌گرم) - ال-سیترولین در بدن به آرژنین تبدیل می‌شود که به تولید نیتریک اکسید کمک می‌کند. این امر می‌تواند جریان خون و پمپ عضلانی هنگام تمرین را بهبود دهد.",
+        "کراتین HCl (۵۰۰ میلی‌گرم) - کراتین هیدروکلراید شکلی بسیار محلول از کراتین است که ماتریکس کراتین محصول را تکمیل می‌کند.",
+        "تورین (۵۰۰ میلی‌گرم) - تورین معمولاً برای پشتیبانی از عملکرد عضلات، آب‌رسانی و عملکرد ورزشی به محصولات تغذیه ورزشی افزوده می‌شود.",
+        "آلفا GPC (۵۰٪) - آلفا GPC شکلی از کولین است که اغلب در مکمل‌های نوتروپیک و ورزشی برای پشتیبانی از تمرکز و عملکرد ذهنی استفاده می‌شود.",
+        "عصاره اریا جارنسیس - عصاره اریا جارنسیس اغلب در مکمل‌های قبل از تمرین ممتاز به عنوان بخشی از ترکیب محرک و تمرکز استفاده می‌شود.",
+        "ترکیب XBTRA Pump® - این ترکیب شامل آگماتین سولفات و عصاره چغندر برای پشتیبانی از نیتریک اکسید و عملکرد ورزشی است.",
+        "عصاره توت عرعر - بخشی از ترکیب اختصاصی عملکردی است و در فرمولاسیون کلی محصول گنجانده شده است.",
+        "ترکیب Xan Caf™ - شامل کافئین بی‌آب، دی‌کافئین مالات، کافئین سیترات و کافئین HCl است. این ترکیبات در کنار هم به Warflex نمایه محرک بالا می‌دهند و به افزایش هوشیاری و آمادگی تمرین کمک می‌کنند.",
+        "سیتروس اورانتیوم (Citrus Syn 50®) - عصاره سیتروس اورانتیوم از ترکیبات محبوب در محصولات ترموژنیک و محرک تغذیه ورزشی است.",
+        "ال-تیانین (۱۰۰ میلی‌گرم) - ال-تیانین اغلب همراه با کافئین استفاده می‌شود تا تمرکزی متعادل ایجاد کند.",
+        "آلفا یوهیمبین (۲.۵ میلی‌گرم) - آلفا یوهیمبین یک محرک قوی برای ورزشکاران پیشرفته است؛ تحمل افراد بسیار متفاوت است و باید طبق دستور برچسب با نصف پیمانه شروع کرد.",
+        "بورون سیترات (۳ میلی‌گرم) - بورون سیترات یک ماده معدنی کمیاب است که در فرمول‌های پیشرفته تغذیه ورزشی استفاده می‌شود و با متابولیسم طبیعی مواد معدنی مرتبط است.",
+        "هوپرزین-A (۲۰۰ میکروگرم) - هوپرزین-A یک ترکیب نوتروپیک است که معمولاً برای پشتیبانی از تمرکز و عملکرد ذهنی استفاده می‌شود."
+      ],
+      "whoShouldUse": [
+        "بدنسازان باتجربه",
+        "ورزشکاران قدرتی",
+        "پاورلیفترها",
+        "ورزشکاران کراس‌ترینینگ",
+        "ورزشکاران پیشرفته باشگاه",
+        "مصرف‌کنندگان باتجربه مکمل‌های قبل از تمرین",
+        "برای مبتدیان یا افراد حساس به محرک‌ها توصیه نمی‌شود."
+      ],
+      "whychooseus": [
+        "فرمول پیشرفته با محرک‌ها، ترکیبات پشتیبان قدرت، تقویت‌کننده‌های نیتریک اکسید و تقویت‌کننده‌های شناختی",
+        "کمک به آمادگی برای تمرینات سخت",
+        "افزایش تمرکز در حین تمرین",
+        "پشتیبانی از تمرینات قدرتی",
+        "کمک به بهبود استقامت عضلانی",
+        "پمپ عضلانی بهتر",
+        "افزایش انگیزه تمرین",
+        "طراحی‌شده برای ورزشکاران پیشرفته و مصرف‌کنندگان باتجربه",
+        "ایده‌آل برای تمرینات عملکردمحور"
+      ],
+      "howToUse": [
+        "برای ارزیابی تحمل، ½ پیمانه را با ۴ تا ۶ اونس (۱۲۰ تا ۱۸۰ میلی‌لیتر) آب تقریباً ۳۰ دقیقه قبل از تمرین مخلوط کنید.",
+        "در صورت تحمل خوب، ۱ پیمانه کامل را با ۸ تا ۱۰ اونس (۲۴۰ تا ۳۰۰ میلی‌لیتر) آب تقریباً ۳۰ دقیقه قبل از تمرین مخلوط کنید.",
+        "بیش از یک پیمانه در روز مصرف نکنید."
+      ],
+      "safetyInformation": [
+        "برای مصرف بزرگسالان سالم ۱۸ سال به بالا.",
+        "حاوی تقریباً ۳۹۵ میلی‌گرم کافئین در هر وعده.",
+        "اگر به کافئین یا سایر محرک‌ها حساس هستید، با احتیاط مصرف کنید.",
+        "با سایر محصولات حاوی محرک ترکیب نکنید.",
+        "اگر داروی تجویزی مصرف می‌کنید یا بیماری خاصی دارید، قبل از مصرف با پزشک مشورت کنید.",
+        "در دوران بارداری یا شیردهی مصرف نشود.",
+        "دور از دسترس کودکان نگهداری شود.",
+        "در جای خشک و خنک نگهداری شود."
+      ],
+      "faqs": [
+        {
+          "question": "Warflex™ چیست؟",
+          "answer": "Warflex™ یک مکمل قبل از تمرین پیشرفته با بورون سیترات از Promolecules برای ورزشکاران پیشرفته است. این محصول حاوی بتا-آلانین، کراتین مونوهیدرات، کراتین HCl، ال-سیترولین، تورین، آلفا GPC، آگماتین سولفات، چند منبع کافئین، آلفا یوهیمبین و هوپرزین-A است تا از انرژی، تمرکز، قدرت، استقامت و عملکرد تمرین پشتیبانی کند."
+        },
+        {
+          "question": "چه کسانی باید از Warflex™ استفاده کنند؟",
+          "answer": "Warflex™ برای بزرگسالان سالم بالای ۱۸ سال است که قبلاً مکمل‌های قبل از تمرین محرک مصرف کرده‌اند و به دلیل محتوای محرک بالا برای مبتدیان یا افراد حساس به کافئین توصیه نمی‌شود."
+        },
+        {
+          "question": "Warflex™ را چگونه مصرف کنم؟",
+          "answer": "برای ارزیابی تحمل، با ½ پیمانه در ۱۲۰ تا ۱۸۰ میلی‌لیتر آب، ۳۰ دقیقه قبل از تمرین شروع کنید. در صورت تحمل خوب، ۱ پیمانه کامل را در ۲۴۰ تا ۳۰۰ میلی‌لیتر آب، ۳۰ دقیقه قبل از تمرین مصرف کنید. بیش از ۱ وعده در روز مصرف نکنید."
+        },
+        {
+          "question": "Warflex™ شامل چه ترکیباتی است؟",
+          "answer": "هر وعده شامل بتا-آلانین (۲۰۰۰ میلی‌گرم)، کراتین مونوهیدرات (۱۰۰۰ میلی‌گرم)، ال-سیترولین (۱۰۰۰ میلی‌گرم)، کراتین HCl (۵۰۰ میلی‌گرم)، تورین (۵۰۰ میلی‌گرم)، آلفا GPC (۵۰٪)، عصاره اریا جارنسیس، آگماتین سولفات، عصاره چغندر، عصاره توت عرعر، کافئین بی‌آب، دی‌کافئین مالات، کافئین سیترات، کافئین HCl، عصاره سیتروس اورانتیوم، ال-تیانین، آلفا یوهیمبین، بورون سیترات و هوپرزین-A است."
+        },
+        {
+          "question": "آیا Warflex™ حاوی کافئین است؟",
+          "answer": "بله. Warflex™ حاوی چند منبع کافئین از جمله کافئین بی‌آب، دی‌کافئین مالات، کافئین سیترات و کافئین HCl است تا از هوشیاری، آمادگی تمرین و انرژی پشتیبانی کند."
+        },
+        {
+          "question": "آیا Warflex™ حاوی کراتین است؟",
+          "answer": "بله. Warflex™ حاوی کراتین مونوهیدرات و کراتین HCl (CreaCCL®) است تا در کنار تمرینات مقاومتی منظم از عملکرد در تمرینات پرشدت پشتیبانی کند."
+        },
+        {
+          "question": "بورون سیترات در Warflex™ چه فوایدی دارد؟",
+          "answer": "بورون سیترات یک ماده معدنی کمیاب است که معمولاً در فرمول‌های تغذیه ورزشی استفاده می‌شود. این ماده در متابولیسم طبیعی مواد معدنی نقش دارد و اغلب در مکمل‌های پیشرفته عملکردی به کار می‌رود."
+        },
+        {
+          "question": "آیا Warflex™ برای مبتدیان مناسب است؟",
+          "answer": "خیر. Warflex™ برای کاربران پیشرفته طراحی شده و روی برچسب به‌وضوح «مناسب مبتدیان نیست» ذکر شده است. کاربران تازه‌کار بهتر است یک مکمل قبل از تمرین با محرک کمتر را در نظر بگیرند و همیشه تحمل خود را ارزیابی کنند."
+        },
+        {
+          "question": "آیا می‌توانم Warflex™ را هر روز مصرف کنم؟",
+          "answer": "Warflex™ را فقط طبق دستور روی برچسب مصرف کنید و بیش از ۱ وعده در روز مصرف نکنید. اگر درباره مصرف منظم سؤالی دارید، با یک متخصص سلامت مشورت کنید."
+        },
+        {
+          "question": "آیا می‌توانم Warflex™ را با مکمل‌های دیگر ترکیب کنم؟",
+          "answer": "Warflex™ را می‌توان با سایر محصولات سازگار تغذیه ورزشی مصرف کرد. اما به دلیل کافئین و محرک بالا، آن را با سایر مکمل‌های محرک یا نوشیدنی‌های انرژی‌زا ترکیب نکنید."
+        },
+        {
+          "question": "آیا Warflex™ در کارخانه دارای گواهی کیفیت تولید می‌شود؟",
+          "answer": "بله. طبق برچسب محصول، Warflex™ منحصراً برای Promolecules در یک کارخانه دارای گواهی cGMP تولید و توسعه داده می‌شود که استانداردهای تولید یکنواخت را تضمین می‌کند."
+        },
+        {
+          "question": "Warflex™ را از کجا بخرم؟",
+          "answer": "می‌توانید Warflex™ را مستقیماً از وب‌سایت رسمی Promolecules یا از طریق فروشندگان مجاز خریداری کنید تا از اصالت محصول اطمینان داشته باشید."
+        }
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Ryan Carter",
+          "country": "آمریکا",
+          "des": "۱۲ سال است وزنه می‌زنم. نصف پیمانه قبل از ددلیفت و سیستم عصبی‌ام فوراً فعال شد. منحنی انرژی نرم است و تهاجم در هر ست کنترل‌شده باقی می‌ماند."
+        },
+        {
+          "id": 2,
+          "name": "Arjun Mehta",
+          "country": "هند",
+          "des": "بیشتر مکمل‌های قبل از تمرین در هند رقیق به نظر می‌رسند. این یکی متفاوت است. نصف پیمانه قبل از روز اسکوات خوردم و تمرکز فوق‌العاده بود."
+        },
+        {
+          "id": 3,
+          "name": "Daniel Kovacs",
+          "country": "مجارستان",
+          "des": "به عنوان مربی پاورلیفتینگ با محرک‌ها محتاطم. در کمال تعجب این فرمول فعال‌سازی تمیزی بدون لرزش بیش از حد اغلب محصولات پرمحرک دارد."
+        },
+        {
+          "id": 4,
+          "name": "Jake Robinson",
+          "country": "بریتانیا",
+          "des": "بالاخره یک مکمل قبل از تمرین که به مصرف‌کنندگان پرمحرک احترام می‌گذارد. انرژی حتی در جلسات سنگین حرکات چندمفصلی ثابت می‌ماند."
+        },
+        {
+          "id": 5,
+          "name": "Sandeep Rawat",
+          "country": "هند",
+          "des": "در عرض ۲۰ دقیقه کلید زده شد. جلسه پرس سینه پرانرژی و متمرکز بود. بعدش افت شدید کافئین را حس نکردم."
+        },
+        {
+          "id": 6,
+          "name": "Miguel Santos",
+          "country": "اسپانیا",
+          "des": "فرمول‌های پرمحرک زیادی امتحان کرده‌ام اما این یکی مهندسی‌شده به نظر می‌رسد. شدت تمرینم در روز پا به‌طور محسوسی بالا رفت."
+        },
+        {
+          "id": 7,
+          "name": "Karan Singh",
+          "country": "هند",
+          "des": "معمولاً به ادعاهای محرک فوق‌العاده بالا شک دارم. اما نصف پیمانه قبل از روز کشش و انگیزه عصبی کاملاً مشهود بود."
+        },
+        {
+          "id": 8,
+          "name": "Lucas Andrade",
+          "country": "برزیل",
+          "des": "این مکمل واقعاً بعد از یک روز کاری طولانی کمک می‌کند. تمرکز حتی در آخرین ست حرکات چندمفصلی تیز می‌ماند."
+        },
+        {
+          "id": 9,
+          "name": "Ahmed Rashid",
+          "country": "امارات",
+          "des": "منحنی تحریک به طرز شگفت‌انگیزی متعادل است. هنگام وزنه زدن پرانرژی، اما از نظر ذهنی همچنان کنترل‌شده."
+        },
+        {
+          "id": 10,
+          "name": "Tom Gallagher",
+          "country": "ایرلند",
+          "des": "قبل از یک جلسه سنگین اسکوات مصرف کردم. فعال‌سازی عضلات واقعی بود، نه فقط هیجان کافئین."
+        },
+        {
+          "id": 11,
+          "name": "Rahul Verma",
+          "country": "هند",
+          "des": "صادقانه انتظار زیادی نداشتم. اما بعد از ۱۵ دقیقه شدت تمرینم خودبه‌خود بالا رفت."
+        },
+        {
+          "id": 12,
+          "name": "Mark Jensen",
+          "country": "دانمارک",
+          "des": "این محصول برای ورزشکاران جدی ساخته شده است. انرژی در جلسات طولانی ثابت می‌ماند."
+        },
+        {
+          "id": 13,
+          "name": "Omar Hassan",
+          "country": "مصر",
+          "des": "فرمول قوی اما بی‌نظم نیست. تمرکز در حرکات چندمفصلی ثابت می‌ماند."
+        },
+        {
+          "id": 14,
+          "name": "Jason Miller",
+          "country": "آمریکا",
+          "des": "پروتکل نصف پیمانه منطقی است. قوی اما کنترل‌شده است."
+        },
+        {
+          "id": 15,
+          "name": "Nikhil Sharma",
+          "country": "هند",
+          "des": "روز ددلیفت کاملاً متفاوت بود. بین ست‌ها هیچ خستگی ذهنی نداشتم."
+        },
+        {
+          "id": 16,
+          "name": "Ben Clarke",
+          "country": "استرالیا",
+          "des": "تحریک تمیز. بدون لرزش دست یا اضطراب."
+        },
+        {
+          "id": 17,
+          "name": "Aditya Kapoor",
+          "country": "هند",
+          "des": "افزایش انرژی نرم است. این شدت به تمام کردن ست‌های آخر کمک می‌کند."
+        },
+        {
+          "id": 18,
+          "name": "Carlos Fernandez",
+          "country": "مکزیک",
+          "des": "واقعاً بهبود استقامت را در تمرینات حجم بالا متوجه شدم."
+        },
+        {
+          "id": 19,
+          "name": "Rohit Chauhan",
+          "country": "هند",
+          "des": "جلسات تمرین طولانی‌تر و متمرکزتر به نظر می‌رسند."
+        },
+        {
+          "id": 20,
+          "name": "Nathan Brooks",
+          "country": "کانادا",
+          "des": "انگار این فرمول را کسی طراحی کرده که واقعاً وزنه می‌زند."
+        },
+        {
+          "id": 21,
+          "name": "Imran Khan",
+          "country": "پاکستان",
+          "des": "بهبود تمرکز بزرگ‌ترین تفاوت برای من بود."
+        },
+        {
+          "id": 22,
+          "name": "George Martin",
+          "country": "بریتانیا",
+          "des": "پرمحرک اما به طرز شگفت‌انگیزی متعادل."
+        },
+        {
+          "id": 23,
+          "name": "Harsh Vardhan",
+          "country": "هند",
+          "des": "حرکات چندمفصلی انفجاری‌تر به نظر می‌رسند."
+        },
+        {
+          "id": 24,
+          "name": "Peter Novak",
+          "country": "اسلواکی",
+          "des": "فعال‌سازی عصبی خوب قبل از وزنه‌های سنگین."
+        },
+        {
+          "id": 25,
+          "name": "Arman Qureshi",
+          "country": "هند",
+          "des": "انرژی در طول تمرین ثابت می‌ماند."
+        },
+        {
+          "id": 26,
+          "name": "Sebastian Cruz",
+          "country": "شیلی",
+          "des": "تحریک بسیار قوی اما قابل کنترل."
+        },
+        {
+          "id": 27,
+          "name": "Jay Patel",
+          "country": "هند",
+          "des": "به عبور از توقف پیشرفت در تمرین کمک می‌کند."
+        },
+        {
+          "id": 28,
+          "name": "Victor Petrov",
+          "country": "بلغارستان",
+          "des": "محصولی برای مبتدیان نیست، اما برای ورزشکاران باتجربه عالی عمل می‌کند."
+        },
+        {
+          "id": 29,
+          "name": "Daniel Park",
+          "country": "کره جنوبی",
+          "des": "ترکیب تمرکز و شدت عالی است."
+        },
+        {
+          "id": 30,
+          "name": "Rakesh Kumar",
+          "country": "هند",
+          "des": "نصف پیمانه از بیشتر مکمل‌های قبل از تمرین قوی‌تر است."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "inopower-r",
+      "name": "INOPOWER-R",
+      "cost2cost": "https://www.cost2costsupplement.com/products/inopower-r",
+      "category": "ATP BOOSTER",
+      "title": "فرمول استقامتی بدون محرک که از انرژی ATP پشتیبانی می‌کند، خستگی را کاهش می‌دهد و عملکرد را بدون کافئین ثابت نگه می‌دارد. وقتی دیگران متوقف می‌شوند، ادامه دهید.",
+      "description": "INOPOWER-R™ یک فرمول عملکردی ATP بدون محرک است که برای افزایش استقامت، کاهش خستگی و پشتیبانی از جلسات تمرینی طولانی بدون تأثیر بر سیستم عصبی طراحی شده است. ایده‌آل برای تمرینات آخر شب، دوره‌های بدون محرک یا ورزشکارانی که به انرژی تمیز و پایدار بدون کافئین نیاز دارند.",
+      "seo": {
+        "title": "Promolecules Inopower-R | مکمل انرژی ATP و استقامت",
+        "description": "Inopower-R از Promolecules™ را بخرید. فرمول پیشرفته ATP برای انرژی انفجاری، استقامت و ریکاوری سریع‌تر. مکمل با عملکرد بالا برای ورزشکاران جدی. همین حالا سفارش دهید.",
+        "canonical": "https://www.promolecules.com/product/inopower-r/",
+        "og": {
+          "title": "Inopower-R | انرژی ATP و استقامت | Promolecules",
+          "type": "website",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "locale": "AE-DU",
+          "site_name": "Promolecules",
+          "description": "انرژی انفجاری. حداکثر استقامت. ریکاوری سریع‌تر. Inopower-R از Promolecules™ را کشف کنید – ساخته‌شده برای عملکرد جدی.",
+          "url": "https://www.promolecules.com/product/inopower-r/"
+        },
+        "author": "Promolecules",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "Dubai"
+        },
+        "language": "fa",
+        "robots": "index,follow",
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "Promolecules",
+          "title": "Inopower-R | افزایش انرژی ATP",
+          "description": "تمرینات خود را با Inopower-R تقویت کنید. فرمول پیشرفته ATP برای انرژی، استقامت و ریکاوری.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp"
+        },
+        "ldjson": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Promolecules",
+          "url": "https://www.promolecules.com/product/inopower-r/",
+          "logo": "https://www.promolecules.com/promolecules-logo.webp",
+          "sameAs": [
+            "https://www.instagram.com/promolecules/",
+            "https://www.threads.com/@promolecules",
+            "https://x.com/promolecules",
+            "https://in.pinterest.com/promolecules/",
+            "https://www.youtube.com/@Promolecules",
+            "https://www.facebook.com/promolecules.official"
+          ],
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "contactType": "customer service",
+              "email": "contact@promolecules.com"
+            }
+          ]
+        }
+      },
+      "servings": [
+        {
+          "size": "35",
+          "price": 45.99
+        }
+      ],
+      "variants": [
+        {
+          "flavour": "بدون طعم",
+          "size": "۱۲۰ کپسول",
+          "price": 45.99,
+          "image": "/Promolecules/inopower1.webp"
+        }
+      ],
+      "price": "43",
+      "discounted": "41.2",
+      "images": [
+        "/Promolecules/inopower1.webp",
+        "/Promolecules/inpower3/inpower-r-supplements.webp",
+        "/Promolecules/inpower3/promolecules-inpower-r-supplements.webp",
+        "/Promolecules/inpower3/inpower-r-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/inpower3/inopower-r-ultra-high-stimulant-pre-workout.webp",
+      "keyBenefits": [
+        "تولید انرژی ATP",
+        "استقامت پایدار",
+        "بدون فشار بر سیستم عصبی مرکزی",
+        "بدون اختلال در خواب",
+        "کاهش خستگی و ریکاوری بهتر"
+      ],
+      "whychooseus": [
+        "انرژی بدون محرک",
+        "پشتیبانی از عملکرد سلولی، نه فقط هوشیاری",
+        "ایده‌آل برای ترکیب با محصولات پرمحرک"
+      ],
+      "howToUse": "آن را قبل از جلسه تمرین برای پشتیبانی از عملکرد و آمادگی مصرف کنید. بسته به اهداف تناسب‌اندام، می‌توان آن را روزانه به‌عنوان بخشی از برنامه مصرف کرد. می‌توانید برای نتایج بهتر آن را با سایر مکمل‌های قبل از تمرین ترکیب کنید یا به‌تنهایی استفاده کنید.",
+      "whatToAvoid": [
+        "انتظار «هیجان» شبیه محرک‌ها را نداشته باشید",
+        "از مصرف بیش از حد خودداری کنید"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Jason Miller",
+          "country": "آمریکا",
+          "des": "چیزی که در INOPOWER-R دوست دارم انرژی تمیز آن است. بدون جهش کافئین، فقط استقامت ثابت در جلسات طولانی هایپرتروفی."
+        },
+        {
+          "id": 2,
+          "name": "Rahul Verma",
+          "country": "هند",
+          "des": "قبل از تمرین پشت مصرف کردم و متوجه شدم بین ست‌ها خسته نمی‌شوم. انرژی طبیعی بود، نه تحریک بیش از حد."
+        },
+        {
+          "id": 3,
+          "name": "Daniel Kovacs",
+          "country": "مجارستان",
+          "des": "به عنوان کسی که به محرک‌ها حساس است، دقیقاً همین را نیاز داشتم. پشتیبانی ATP بدون بار اضافی کافئین."
+        },
+        {
+          "id": 4,
+          "name": "Arjun Mehta",
+          "country": "هند",
+          "des": "با فرمول پمپ خودم ترکیب کردم و افزایش استقامت کاملاً مشخص بود. تمرین را بدون احساس تخلیه تمام کردم."
+        },
+        {
+          "id": 5,
+          "name": "Carlos Rivera",
+          "country": "مکزیک",
+          "des": "پشتیبانی انرژی خوب در حین تمرین. عضلات در تمرینات حجم بالا دیرتر خسته می‌شوند."
+        },
+        {
+          "id": 6,
+          "name": "Sandeep Rawat",
+          "country": "هند",
+          "des": "تمرین در اواخر شب به خاطر کافئین سخت بود. این محصول بدون تأثیر بر خواب انرژی می‌دهد."
+        },
+        {
+          "id": 7,
+          "name": "Oliver Grant",
+          "country": "بریتانیا",
+          "des": "عالی برای ورزشکارانی که پشتیبانی عملکرد می‌خواهند اما از محصولات پرمحرک دوری می‌کنند."
+        },
+        {
+          "id": 8,
+          "name": "Imran Khan",
+          "country": "پاکستان",
+          "des": "استقامتم در روز پا بهتر شد. ریکاوری بین ست‌ها سریع‌تر به نظر می‌رسد."
+        },
+        {
+          "id": 9,
+          "name": "Ryan Brooks",
+          "country": "آمریکا",
+          "des": "مثل یک تقویت‌کننده تمیز ATP است. انرژی در کل جلسه ثابت می‌ماند."
+        },
+        {
+          "id": 10,
+          "name": "Vikas Chauhan",
+          "country": "هند",
+          "des": "عالی برای کسانی که روزی دو بار تمرین می‌کنند. بدون تحریک بیش از حد، فقط انرژی ثابت."
+        },
+        {
+          "id": 11,
+          "name": "Mateo Gonzalez",
+          "country": "اسپانیا",
+          "des": "جلسات کاردیوی من با این محصول طولانی‌تر و روان‌تر شده است."
+        },
+        {
+          "id": 12,
+          "name": "Aman Singh",
+          "country": "هند",
+          "des": "مکمل عالی برای تمرینات استقامتی."
+        },
+        {
+          "id": 13,
+          "name": "Daniel Park",
+          "country": "کره جنوبی",
+          "des": "تمرکز بدون لرزش‌های کافئین ثابت می‌ماند."
+        },
+        {
+          "id": 14,
+          "name": "Victor Petrov",
+          "country": "بلغارستان",
+          "des": "با مکمل قبل از تمرین ترکیب کردم و استقامتم بهتر شد."
+        },
+        {
+          "id": 15,
+          "name": "Aditya Sharma",
+          "country": "هند",
+          "des": "خستگی عضلانی در تکرارهای بالا کمتر به نظر می‌رسد."
+        },
+        {
+          "id": 16,
+          "name": "Nathan Hughes",
+          "country": "بریتانیا",
+          "des": "پشتیبانی خوب از سیستم انرژی بدون محرک."
+        },
+        {
+          "id": 17,
+          "name": "Miguel Santos",
+          "country": "پرتغال",
+          "des": "بیشتر شبیه انرژی متابولیک است تا تحریک."
+        },
+        {
+          "id": 18,
+          "name": "Rohit Chatterjee",
+          "country": "هند",
+          "des": "عالی قبل از تمرینات طولانی هایپرتروفی."
+        },
+        {
+          "id": 19,
+          "name": "Ethan Carter",
+          "country": "آمریکا",
+          "des": "استقامتم در حرکات چندمفصلی به‌طور محسوسی بهتر شد."
+        },
+        {
+          "id": 20,
+          "name": "Harsh Gupta",
+          "country": "هند",
+          "des": "به ادامه دادن جلسات طولانی باشگاه کمک می‌کند."
+        },
+        {
+          "id": 21,
+          "name": "Lucas Andrade",
+          "country": "برزیل",
+          "des": "پشتیبانی انرژی نرم و طبیعی است."
+        },
+        {
+          "id": 22,
+          "name": "Rajeev Menon",
+          "country": "هند",
+          "des": "عالی برای کسانی که از کافئین دوری می‌کنند."
+        },
+        {
+          "id": 23,
+          "name": "Kevin Larson",
+          "country": "کانادا",
+          "des": "شدت تمرین در کل جلسه ثابت می‌ماند."
+        },
+        {
+          "id": 24,
+          "name": "Karan Malhotra",
+          "country": "هند",
+          "des": "به کاهش خستگی در جلسات حجم بالا کمک می‌کند."
+        },
+        {
+          "id": 25,
+          "name": "Omar Hassan",
+          "country": "امارات",
+          "des": "فرمول انرژی خوب و قابل ترکیب."
+        },
+        {
+          "id": 26,
+          "name": "George Adams",
+          "country": "بریتانیا",
+          "des": "برای ورزشکاران استقامتی خوب عمل می‌کند."
+        },
+        {
+          "id": 27,
+          "name": "Akash Sharma",
+          "country": "هند",
+          "des": "عالی برای جلسات تمرین آخر شب."
+        },
+        {
+          "id": 28,
+          "name": "Victor Cruz",
+          "country": "شیلی",
+          "des": "توان بدنی را در طول تمرین بهبود می‌دهد."
+        },
+        {
+          "id": 29,
+          "name": "Daniel Novak",
+          "country": "اسلواکی",
+          "des": "پشتیبانی تمیز از انرژی ATP."
+        },
+        {
+          "id": 30,
+          "name": "Rakesh Kumar",
+          "country": "هند",
+          "des": "مکمل انرژی بدون محرک عالی."
+        }
+      ],
+      "supplementFacts": {
+        "servingSize": "۱ پیمانه (۳۰ گرم)",
+        "servingsPerContainer": "30",
+        "nutrients": [
+          {
+            "name": "کالری",
+            "amount": "120"
+          },
+          {
+            "name": "پروتئین",
+            "amount": "24 گرم"
+          },
+          {
+            "name": "کربوهیدرات",
+            "amount": "3 گرم"
+          },
+          {
+            "name": "چربی",
+            "amount": "1.5 گرم"
+          },
+          {
+            "name": "BCAA",
+            "amount": "5.5 گرم"
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "slug": "hydrapump",
+      "amazonLink": "https://www.amazon.in/Promolecules-Hydrapump-Hydration-Liquid-Supplement/dp/B0GTZNK5S2?ref_=ast_sto_dp&th=1",
+      "flipkartLink": "https://www.flipkart.com/promolecules-hydrapump-glycerol-liquid-pump-formula-muscle-hydration-x8tra-pump-blue-razz/p/itmd011fb75cb0b6?pid=VSLHHTAFXEEUHHUR&lid=LSTVSLHHTAFXEEUHHURKWWDS7&marketplace=FLIPKART&q=hydrapump+&store=search.flipkart.com&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_PY9yFY_mB0KHONWq8Wi1BwXjKQ7VYSMxYuKEM-VXvuhNy2Iz-vX5smQcoVfLgZm-vO8dbutioUNXCOlK0Rb8vw%3D%3D&ppt=sp&ppn=sp&ssid=6236rbg3xc0000001779782357625&qH=0496b440042c8a8a&ov_redirect=true&ov_redirect=true",
+      "cost2cost": "https://www.cost2costsupplement.com/products/hydrapump-muscle-fullness-vascularity-hydration-endurance-strength-performance",
+      "name": "HYDRAPUMP+",
+      "category": "MUSCLE HYDRATION",
+      "title": "فرمول پیشرفته آب‌رسانی و پمپ که حجم عضلانی، استقامت و عملکرد را در هر جلسه افزایش می‌دهد. آب‌رسانی عمیق‌تر. پمپ بزرگ‌تر.",
+      "description": "HYDRAPUMP+™ یک ماتریکس آب‌رسانی و پمپ با عملکرد بالا است که برای به حداکثر رساندن حجم عضلانی، رگ‌زدگی و استقامت طراحی شده است. با گلیسرول مایع و الکترولیت‌ها، آب‌رسانی عمیق سلولی و پمپ فوق‌العاده‌ای ایجاد می‌کند — به‌ویژه در تمرینات حجم بالا یا در هوای گرم.",
+      "seo": {
+        "title": "HydraPump+ – حداکثر پمپ، آب‌رسانی و عملکرد تمرین | Promolecules™",
+        "description": "پمپ عضلانی و آب‌رسانی را با HydraPump+ از Promolecules™ به حداکثر برسانید. فرمول پیشرفته گلیسرول، سیترولین و الکترولیت برای استقامت، ریکاوری و عملکرد فوق‌العاده. همین حالا خرید کنید.",
+        "canonical": "https://www.promolecules.com/product/hydrapump/",
+        "og": {
+          "title": "HydraPump+ | پمپ فوق‌العاده، آب‌رسانی و عملکرد",
+          "type": "website",
+          "image": "https://www.promolecules.com/promolecules-logo.webp",
+          "locale": "AE-DU",
+          "site_name": "Promolecules",
+          "description": "با HydraPump+ به پمپ فوق‌العاده، آب‌رسانی و استقامت برسید. با گلیسرول، سیترولین و الکترولیت‌ها برای ورزشکاران جدی.",
+          "url": "https://www.promolecules.com/product/hydrapump/"
+        },
+        "author": "Promolecules",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "Dubai"
+        },
+        "language": "fa",
+        "robots": "index,follow",
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "Promolecules",
+          "title": "HydraPump+ | فرمول حداکثر پمپ و آب‌رسانی",
+          "description": "با پمپ، آب‌رسانی و استقامت بهتر سخت‌تر تمرین کنید. HydraPump+ برای عملکرد جدی ساخته شده است.",
+          "image": "https://www.promolecules.com/promolecules-logo.webp"
+        },
+        "ldjson": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Promolecules",
+          "url": "https://www.promolecules.com/product/hydrapump/",
+          "logo": "https://www.promolecules.com/promolecules-logo.webp",
+          "sameAs": [
+            "https://www.instagram.com/promolecules/",
+            "https://www.threads.com/@promolecules",
+            "https://x.com/promolecules",
+            "https://in.pinterest.com/promolecules/",
+            "https://www.youtube.com/@Promolecules",
+            "https://www.facebook.com/promolecules.official"
+          ],
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "contactType": "customer service",
+              "email": "contact@promolecules.com"
+            }
+          ]
+        }
+      },
+      "servings": [
+        {
+          "size": "35",
+          "price": 48.99
+        },
+        {
+          "size": "65",
+          "price": 59.99
+        }
+      ],
+      "variants": [
+        {
+          "flavour": "Mint-Mojito",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/mintmojito.jpeg"
+        },
+        {
+          "flavour": "Blue-Razz",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/bluerazz.webp"
+        },
+        {
+          "flavour": "BubbleGum",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/bubblegumhydra.webp"
+        },
+        {
+          "flavour": "Cherry-Lemonade",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/cherrylemon.webp"
+        },
+        {
+          "flavour": "Cola",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/cola.webp"
+        },
+        {
+          "flavour": "Juicy-Grapes",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/juicygrapes.webp"
+        },
+        {
+          "flavour": "Mango-Pineapple",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/mangopineapple.webp"
+        },
+        {
+          "flavour": "Orange",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/oranges.webp"
+        },
+        {
+          "flavour": "Fruit-Punch",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/fruitpunch.webp"
+        },
+        {
+          "flavour": "Sour-Apple",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/SOURAPPLE.webp"
+        },
+        {
+          "flavour": "Strawberry",
+          "size": "31",
+          "price": 48.99,
+          "image": "/Promolecules/hydrapump2/strawberry.webp"
+        }
+      ],
+      "price": "43",
+      "discounted": "41.2",
+      "images": [
+        "/Promolecules/hydrapump2/promolecules-hydrapump+.webp",
+        "/Promolecules/hydrapump2/promolecules-hydrapump+-pre-workout.webp",
+        "/Promolecules/hydrapump2/hydrapump1.webp",
+        "/Promolecules/hydrapump2/hydrapump-supplements-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/hydrapump2/hydrapump-liquid-glycerol.webp",
+      "keyBenefits": [
+        "افزایش شدید انرژی",
+        "تمرکز دقیق",
+        "افزایش قدرت",
+        "توان بدنی بیشتر",
+        "پشتیبانی از استقامت",
+        "کمک به بهبود عملکرد تمرین"
+      ],
+      "whychooseus": [
+        "سیستم گلیسرول مایع (جذب بهتر)",
+        "نه فقط پمپ — سیستم آب‌رسانی و عملکرد"
+      ],
+      "howToUse": "قبل از تمرین مصرف کنید؛ می‌توان آن را با هر مکمل قبل از تمرینی ترکیب کرد و برای جلسات طولانی یا حجم بالا ایده‌آل است.",
+      "whatToAvoid": [
+        "از دوز توصیه‌شده بیشتر مصرف نکنید",
+        "از کم‌آبی خودداری کنید (به اندازه کافی آب بنوشید)"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Jake Reynolds",
+          "country": "آمریکا",
+          "des": "Hydra Pump را با مکمل قبل از تمرینم ترکیب کردم و رگ‌زدگی در روز بازو فوق‌العاده بود."
+        },
+        {
+          "id": 2,
+          "name": "Rohit Sharma",
+          "country": "هند",
+          "des": "حجم عضلانی در تمرین سینه حتی بعد از پایان جلسه باقی ماند."
+        },
+        {
+          "id": 3,
+          "name": "Luis Garcia",
+          "country": "اسپانیا",
+          "des": "اثر آب‌رسانی محسوس است. پمپ بدون نفخ مدت بیشتری باقی می‌ماند."
+        },
+        {
+          "id": 4,
+          "name": "Arjun Bhatia",
+          "country": "هند",
+          "des": "پمپ متراکم است، نه آبکی."
+        },
+        {
+          "id": 5,
+          "name": "Daniel White",
+          "country": "بریتانیا",
+          "des": "فرمول پمپ بدون محرک عالی برای تمرینات عصر."
+        },
+        {
+          "id": 6,
+          "name": "Rahul Nair",
+          "country": "هند",
+          "des": "عضلات در کل تمرین پرتر می‌مانند."
+        },
+        {
+          "id": 7,
+          "name": "Victor Costa",
+          "country": "برزیل",
+          "des": "پمپ روز بازو تقریباً یک ساعت بعد از تمرین باقی ماند."
+        },
+        {
+          "id": 8,
+          "name": "Karan Malhotra",
+          "country": "هند",
+          "des": "با مکمل‌های قبل از تمرین پرمحرک کاملاً هماهنگ است."
+        },
+        {
+          "id": 9,
+          "name": "Ahmed Karim",
+          "country": "امارات",
+          "des": "آب‌رسانی در جلسات سنگین بهتر شده است."
+        },
+        {
+          "id": 10,
+          "name": "Chris Dawson",
+          "country": "آمریکا",
+          "des": "افزایش رگ‌زدگی محسوس بود."
+        },
+        {
+          "id": 11,
+          "name": "Sahil Arora",
+          "country": "هند",
+          "des": "پمپ سفت و کنترل‌شده است."
+        },
+        {
+          "id": 12,
+          "name": "Mark Davies",
+          "country": "بریتانیا",
+          "des": "فرمول قابل ترکیب که خوب عمل می‌کند."
+        },
+        {
+          "id": 13,
+          "name": "Rajeev Singh",
+          "country": "هند",
+          "des": "استقامت عضلانی در ست‌های حجم بالا بهتر شد."
+        },
+        {
+          "id": 14,
+          "name": "Pedro Lopez",
+          "country": "مکزیک",
+          "des": "محصول پمپ عالی بدون محرک."
+        },
+        {
+          "id": 15,
+          "name": "Ankit Jain",
+          "country": "هند",
+          "des": "به حجم عضلانی در تمرینات هایپرتروفی کمک می‌کند."
+        },
+        {
+          "id": 16,
+          "name": "Tom Harris",
+          "country": "استرالیا",
+          "des": "یکی از بهترین فرمول‌های آب‌رسانی و پمپ."
+        },
+        {
+          "id": 17,
+          "name": "Imran Siddiqui",
+          "country": "پاکستان",
+          "des": "بدون نفخ اما با پمپ عروقی قوی."
+        },
+        {
+          "id": 18,
+          "name": "Aditya Raj",
+          "country": "هند",
+          "des": "عالی برای تمرینات متمرکز بر پمپ."
+        },
+        {
+          "id": 19,
+          "name": "Carlos Silva",
+          "country": "پرتغال",
+          "des": "اثر پرشدن عضلات محسوس است."
+        },
+        {
+          "id": 20,
+          "name": "Rahul Verghese",
+          "country": "هند",
+          "des": "در جلسات طولانی کمک می‌کند."
+        },
+        {
+          "id": 21,
+          "name": "Victor Sanchez",
+          "country": "شیلی",
+          "des": "ترکیب عالی با مکمل قبل از تمرین."
+        },
+        {
+          "id": 22,
+          "name": "Arvind Kumar",
+          "country": "هند",
+          "des": "پمپ در طول ست‌ها ثابت می‌ماند."
+        },
+        {
+          "id": 23,
+          "name": "Ben Foster",
+          "country": "بریتانیا",
+          "des": "فرمول حجم‌دهنده خوب."
+        },
+        {
+          "id": 24,
+          "name": "Arjun Gupta",
+          "country": "هند",
+          "des": "در روز بازو بهترین عملکرد را دارد."
+        },
+        {
+          "id": 25,
+          "name": "Luis Andrade",
+          "country": "برزیل",
+          "des": "هم‌افزایی آب‌رسانی و پمپ خوب عمل می‌کند."
+        },
+        {
+          "id": 26,
+          "name": "Rahul Yadav",
+          "country": "هند",
+          "des": "افزایش خوب رگ‌زدگی."
+        },
+        {
+          "id": 27,
+          "name": "George Adams",
+          "country": "آمریکا",
+          "des": "فرمول پمپ تمیز."
+        },
+        {
+          "id": 28,
+          "name": "Rohit Chatterjee",
+          "country": "هند",
+          "des": "عضلات در حین تمرین پرتر به نظر می‌رسند."
+        },
+        {
+          "id": 29,
+          "name": "Daniel Novak",
+          "country": "اسلواکی",
+          "des": "پمپ عالی بدون محرک."
+        },
+        {
+          "id": 30,
+          "name": "Akshay Mehta",
+          "country": "هند",
+          "des": "ترکیب عالی با مکمل‌های قبل از تمرین پرمحرک."
+        }
+      ],
+      "supplementFacts": {
+        "servingSize": "۱ پیمانه (۳۰ گرم)",
+        "servingsPerContainer": "30",
+        "nutrients": [
+          {
+            "name": "کالری",
+            "amount": "120"
+          },
+          {
+            "name": "پروتئین",
+            "amount": "24 گرم"
+          },
+          {
+            "name": "کربوهیدرات",
+            "amount": "3 گرم"
+          },
+          {
+            "name": "چربی",
+            "amount": "1.5 گرم"
+          },
+          {
+            "name": "BCAA",
+            "amount": "5.5 گرم"
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "slug": "thermo-nuke-xt",
+      "name": "THERMO NUKE XT ",
+      "cost2cost": "https://www.cost2costsupplement.com/products/thermo-nuke-xt-advanced-thermogenic-formula-for-fast-fat-loss",
+      "category": "FAT BURNER",
+      "title": "فرمول قدرتمند چربی‌سوز که متابولیسم را تقویت می‌کند، دمای بدن را بالا می‌برد و انرژی را در دوره‌های کات بالا نگه می‌دارد. بیشتر بسوزانید. خشک‌تر شوید.",
+      "description": "THERMO NUKE XT™ برای افزایش خروجی متابولیک، بالا بردن دمای بدن و تسریع اکسیداسیون چربی همراه با حفظ انرژی و تمرکز طراحی شده است. این یک چربی‌سوز ملایم نیست — برای دوره‌های کات، چرخه‌های خشک‌کردن و اهداف جدی تغییر اندام ساخته شده است.",
+      "seo": {
+        "title": "Thermo Nuke XT از Promolecules™ | چربی‌سوز پرمحرک برای کاهش چربی شدید",
+        "description": "Thermo Nuke XT از Promolecules™ را بخرید – یک چربی‌سوز پرمحرک برای تقویت متابولیسم، افزایش انرژی و پشتیبانی از کاهش چربی شدید. برای نتایج سریع‌تر همین حالا خرید کنید.",
+        "canonical": "https://www.promolecules.com/product/thermo-nuke-xt/",
+        "og": {
+          "title": "Thermo Nuke XT از Promolecules™ | چربی‌سوز پرمحرک",
+          "type": "website",
+          "image": "https://www.promolecules.com/product-image.webp",
+          "locale": "AE-DU",
+          "site_name": "Promolecules",
+          "description": "چربی‌سوز پرمحرک برای تقویت متابولیسم، انرژی و کاهش چربی. طراحی‌شده برای نتایج جدی. همین حالا Thermo Nuke XT را بخرید.",
+          "url": "https://www.promolecules.com/product/thermo-nuke-xt/"
+        },
+        "author": "Promolecules",
+        "geo": {
+          "region": "AE-DU",
+          "placename": "Dubai"
+        },
+        "language": "fa",
+        "robots": "index,follow",
+        "twitter": {
+          "card": "summary_large_image",
+          "site": "Promolecules",
+          "title": "Thermo Nuke XT | چربی‌سوز پرمحرک از Promolecules™",
+          "description": "با Thermo Nuke XT متابولیسم را تقویت کنید، سریع‌تر چربی بسوزانید و انرژی بیشتری داشته باشید. طراحی‌شده برای کاهش چربی شدید.",
+          "image": "https://www.promolecules.com/product-image.webp"
+        },
+        "ldjson": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Promolecules",
+          "url": "https://www.promolecules.com/product/thermo-nuke-xt/",
+          "logo": "https://www.promolecules.com/logo.webp",
+          "sameAs": [
+            "https://www.instagram.com/promolecules/",
+            "https://www.threads.com/@promolecules",
+            "https://x.com/promolecules",
+            "https://in.pinterest.com/promolecules/",
+            "https://www.youtube.com/@Promolecules",
+            "https://www.facebook.com/promolecules.official"
+          ],
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "contactType": "customer service",
+              "email": "contact@promolecules.com"
+            }
+          ]
+        }
+      },
+      "servings": [
+        {
+          "size": "60 capsules",
+          "price": 35.99
+        }
+      ],
+      "variants": [
+        {
+          "flavour": "بدون طعم",
+          "size": "۶۰ کپسول",
+          "price": 35.99,
+          "image": "/Promolecules/thermo/promolecules-thermo-nuke-xt.webp"
+        }
+      ],
+      "discounted": 41.2,
+      "images": [
+        "/Promolecules/thermo/promolecules-thermo-nuke-xt.webp",
+        "/Promolecules/thermo/thermo-nuke-xt-fat-burner.webp",
+        "/Promolecules/thermo/thermo-nuke-xt-fat-burning-capsules.webp",
+        "/Promolecules/thermo/thermo-nuke-xt-supplement-facts.webp"
+      ],
+      "featuredimg": "/Promolecules/thermo/promolecules-thermo-nuke-xt-img.webp",
+      "keyBenefits": [
+        "چربی‌سوزی سریع‌تر",
+        "فعال‌سازی حرارت ترموژنیک",
+        "تولید انرژی بالا",
+        "کمک به کنترل اشتها",
+        "تمرکز بیشتر در دوره کات",
+        "کاهش ظاهر احتباس آب"
+      ],
+      "whychooseus": [
+        "سیستم ترموژنیک چندمحرکی",
+        "طراحی‌شده برای نتایج قابل مشاهده در کاهش چربی",
+        "نه فقط گیاهی — یک فرمول عملکردی واقعی"
+      ],
+      "howToUse": "یک وعده صبح مصرف کنید و در صورت تمایل وعده دوم را قبل از تمرین؛ بهترین زمان استفاده در دوره‌های کسری کالری است.",
+      "whatToAvoid": [
+        "از مصرف همراه با سایر محصولات پرمحرک خودداری کنید",
+        "نزدیک به زمان خواب مصرف نکنید",
+        "مناسب افراد حساس به محرک نیست"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "David Coleman",
+          "country": "آمریکا",
+          "des": "در دوره کات از آن استفاده می‌کنم و پاسخ ترموژنیک محسوس است. جلسات کاردیو مفیدتر به نظر می‌رسند."
+        },
+        {
+          "id": 2,
+          "name": "Rajat Malhotra",
+          "country": "هند",
+          "des": "کاردیوی ناشتای صبح آسان‌تر شده است. متابولیسم در طول روز فعال به نظر می‌رسد."
+        },
+        {
+          "id": 3,
+          "name": "Luis Martinez",
+          "country": "اسپانیا",
+          "des": "چربی‌سوزها معمولاً روی من اثری ندارند اما این یکی واقعاً دمای بدن را در تمرین بالا می‌برد."
+        },
+        {
+          "id": 4,
+          "name": "Mohit Yadav",
+          "country": "هند",
+          "des": "انرژی در دوران کسری کالری بزرگ‌ترین مزیت آن است."
+        },
+        {
+          "id": 5,
+          "name": "Alex Grant",
+          "country": "بریتانیا",
+          "des": "اثر ترموژنیک تمیز بدون ایجاد اضطراب."
+        },
+        {
+          "id": 6,
+          "name": "Rahul Patil",
+          "country": "هند",
+          "des": "به حفظ شدت تمرین حتی در زمان رژیم کمک می‌کند."
+        },
+        {
+          "id": 7,
+          "name": "Daniel Perez",
+          "country": "مکزیک",
+          "des": "میزان تعریق در جلسات کاردیو افزایش می‌یابد."
+        },
+        {
+          "id": 8,
+          "name": "Siddharth Jain",
+          "country": "هند",
+          "des": "افزایش متابولیسم در HIIT محسوس است."
+        },
+        {
+          "id": 9,
+          "name": "Omar Ali",
+          "country": "امارات",
+          "des": "به عبور از روزهای کم‌انرژی در دوره کات کمک می‌کند."
+        },
+        {
+          "id": 10,
+          "name": "Chris Walker",
+          "country": "آمریکا",
+          "des": "بیشتر شبیه یک شتاب‌دهنده متابولیک است تا فقط کافئین."
+        },
+        {
+          "id": 11,
+          "name": "Kunal Thakur",
+          "country": "هند",
+          "des": "کنترل اشتها و انرژی تمیز در دوران آمادگی."
+        },
+        {
+          "id": 12,
+          "name": "Victor Santos",
+          "country": "برزیل",
+          "des": "قبل از جلسات کاردیو خوب عمل می‌کند."
+        },
+        {
+          "id": 13,
+          "name": "James Porter",
+          "country": "بریتانیا",
+          "des": "چربی‌سوز تمیز بدون لرزش زیاد."
+        },
+        {
+          "id": 14,
+          "name": "Rohit Das",
+          "country": "هند",
+          "des": "به حفظ تمرکز هنگام کاهش کالری کمک می‌کند."
+        },
+        {
+          "id": 15,
+          "name": "Carlos Rivera",
+          "country": "مکزیک",
+          "des": "حرارت ترموژنیک محسوس در حین تمرین."
+        },
+        {
+          "id": 16,
+          "name": "Ahmed Farooq",
+          "country": "امارات",
+          "des": "افزودنی عالی برای تمرین صبحگاهی."
+        },
+        {
+          "id": 17,
+          "name": "Aditya Menon",
+          "country": "هند",
+          "des": "انرژی در دوره رژیم ثابت می‌ماند."
+        },
+        {
+          "id": 18,
+          "name": "Mark Lewis",
+          "country": "کانادا",
+          "des": "اثر ترموژنیک یکنواخت است."
+        },
+        {
+          "id": 19,
+          "name": "Rahul Sinha",
+          "country": "هند",
+          "des": "به طولانی‌تر کردن جلسات کاردیو کمک می‌کند."
+        },
+        {
+          "id": 20,
+          "name": "Jake Turner",
+          "country": "استرالیا",
+          "des": "انرژی متابولیک تمیز."
+        },
+        {
+          "id": 21,
+          "name": "Arjun Patel",
+          "country": "هند",
+          "des": "پشتیبانی خوب برای تمرینات کاهش چربی."
+        },
+        {
+          "id": 22,
+          "name": "Daniel Costa",
+          "country": "پرتغال",
+          "des": "اثر چربی‌سوزی در کاردیو محسوس است."
+        },
+        {
+          "id": 23,
+          "name": "Sahil Gupta",
+          "country": "هند",
+          "des": "در کسری کالری خوب عمل می‌کند."
+        },
+        {
+          "id": 24,
+          "name": "George Ivanov",
+          "country": "بلغارستان",
+          "des": "خروجی تمرین را در دوره کات بهبود می‌دهد."
+        },
+        {
+          "id": 25,
+          "name": "Naveen Kumar",
+          "country": "هند",
+          "des": "افزایش انرژی بدون افت."
+        },
+        {
+          "id": 26,
+          "name": "Tom Hughes",
+          "country": "بریتانیا",
+          "des": "فرمول ترموژنیک متعادل."
+        },
+        {
+          "id": 27,
+          "name": "Imran Sheikh",
+          "country": "پاکستان",
+          "des": "جلسات کاردیو مفیدتر به نظر می‌رسند."
+        },
+        {
+          "id": 28,
+          "name": "Miguel Lopez",
+          "country": "اسپانیا",
+          "des": "انرژی تمیز و تعریق بیشتر."
+        },
+        {
+          "id": 29,
+          "name": "Akash Sharma",
+          "country": "هند",
+          "des": "برای مرحله چربی‌های سرسخت مفید است."
+        },
+        {
+          "id": 30,
+          "name": "Kevin Hall",
+          "country": "آمریکا",
+          "des": "یکی از بهترین مکمل‌های ترموژنیک که استفاده کرده‌ام."
+        }
+      ]
+    }
+  ]
+}

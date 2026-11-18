@@ -1,45 +1,15 @@
+"use client";
 import Image from "next/image";
 import { ArrowRight } from "lucide-react";
 import Link from "next/link";
+import { useT } from "@/lib/i18n/client";
 
-export default function TrendingCategory() {
-  const categories = [
-    {
-      title: "PRE-WORKOUT",
-      desc: "Multi-source caffeine + nootropics for CNS activation, sharp focus, and sustained strength.",
-      image: "/father-of-insane-warflex-products.webp",
-      hoverImage: "/promolecules0father-of-insane-warflex-combo-offers.webp",
-      link: "/product?category=PRE-WORKOUT",
-    },
-    {
-      title: "FAT BURNER",
-      desc: "Caffeine stack + yohimbine + thermogenics to drive metabolism, fat burn, and energy output.",
-      image: "/product2.webp",
-      hoverImage: "/hoverproduct.webp",
-      link: "/product?category=FAT%20BURNER",
-    },
-    {
-      title: "ATP BOOSTER",
-      desc: "Caffeine stack + yohimbine + thermogenics to drive metabolism, and energy output.",
-      image: "/product2.webp",
-      hoverImage: "/hoverproduct.webp",
-      link: "/product?category=ATP%20BOOSTER",
-    },
-    {
-      title: "MUSCLE HYDRATION",
-      desc: "Liquid glycerol + citrulline + pink salt for deep hydration, fuller pumps, and endurance",
-      image: "/promolecules-hydrapump-new.webp",
-      hoverImage: "/promolecules-hydrapump.webp",
-      link: "/product?category=MUSCLE%20HYDRATION",
-    },
-    {
-      title: "MERCHANDISE",
-      desc: "Performance-driven apparel and training essentials designed for serious gym culture and representing discipline.",
-      image: "/father-of-insane-fusion-merch-product.webp",
-      hoverImage: "/father-of-insane-fusion.webp",
-      link: "/merch",
-    },
-  ];
+/** `data` overrides the home-page text (the shop page passes its own). */
+export default function TrendingCategory({ data }) {
+  const home = useT("home", { optional: true }).trending_category_section;
+  const t = data || home || {};
+  const categories = t.categories || [];
+  const [headFirst, ...headRest] = (t.heading || "").split(" ");
 
   return (
     <section className="relative max-w-[1600px] mx-auto bg-black py-10 sm:py-14 md:py-20 px-6 sm:px-9 overflow-hidden">
@@ -52,10 +22,10 @@ export default function TrendingCategory() {
   {/* Left — Heading */}
 <div className="flex-shrink-0">
   <h2 className="creepster-regular heading leading-none text-start">
-    TRENDING 
+    {headFirst}{" "}
     <br className="hidden sm:block" />
-    <span className="creepster-regular heading leading-none ml-4 sm:ml-4 md:ml-[100px]  p-2">
-      CATEGORY
+    <span className="creepster-regular heading leading-none ms-4 sm:ms-4 md:ms-[100px]  p-2">
+      {headRest.join(" ")}
     </span>
   </h2>
 </div>
@@ -63,10 +33,7 @@ export default function TrendingCategory() {
   {/* Right — Para */}
   <div className="hidden md:flex justify-end max-w-[40%]">
     <p className="global-text-style uppercase text-justify">
-      In today's fitness market, supplements are everywhere but not all
-      supplements are created equal. Many low-cost brands compromise on
-      ingredient purity, use under-dosed blends, or source unverified raw
-      materials that deliver no real results.
+      {t.description}
     </p>
   </div> 
 
@@ -144,14 +111,14 @@ export default function TrendingCategory() {
               </div>
 
               {/* Right: Arrow */}
-              <div className="flex-shrink-0 pr-1 sm:pr-2">
+              <div className="flex-shrink-0 pe-1 sm:pe-2">
                 <ArrowRight
                   className="text-white 
                     w-5 h-5 
                     sm:w-7 sm:h-7 
                     md:w-10 md:h-10 
                     lg:w-14 lg:h-14
-                    transition-transform duration-300 group-hover:translate-x-1"
+                    transition-transform duration-300 group-hover:translate-x-1 rtl:rotate-180 rtl:group-hover:-translate-x-1"
                 />
               </div>
             </div>
